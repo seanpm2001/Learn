@@ -79,7 +79,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter G !-->
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Go2003/"><img src="/Programming/Logos/G/Go!/2100176.png" width="100px;" alt=""/><br /><sub><b>Learn Go!</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GoogleGo/"><img src="/Programming/Logos/G/GoogleGo/GOpher.png" width="100px;" alt=""/><br /><sub><b>Learn Go (Google)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GDScript/"><img src="/Programming/Logos/G/GDScript/GDScript_256px.png" width="100px;" alt=""/><br /><sub><b>Learn GDScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -88,7 +88,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 8A !-->
   <!-- Letter H !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Haskell/"><img src="/Programming/Logos/H/Haskell/HaskellLogoStyPreview-1.png" width="100px;" alt=""/><br /><sub><b>Learn Haskell</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -110,7 +110,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 10A !-->
   <!-- Letter J !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Julia/"><img src="/Programming/Logos/J/Julia/Julia_Programming_Language_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Julia</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -154,7 +154,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 14A !-->
   <!-- Letter N !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Nim/"><img src="/Programming/Logos/N/Nim/Nim_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Nim</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -308,6 +308,24 @@ This repository is a reference to my learning experience on programming. Other s
 
 </details>
 
+## Methods
+
+[IGNORE.md file](https://github.com/IGNORE-file) - Used to create folders in Git, since no other way to do this is obvious/existant to me
+
+[Snapshot Version Control System](https://github.com/Snapshot-Version-Control-System/) - Old method that is still in use, used prior to Git, still used out of habit
+
+[Project language files](https://github.com/seanpm2001/Project-language-file/) - An extra feature used to define the top language used in the project, and its purpose, or to list every language in use.
+
+Other methods not yet listed
+
+## Goals
+
+In regards to programming languages, my goal is to learn the basics of EVERY programming and markup language, or at the minimum, know its name. This is a lifelong goal.
+
+## See also
+
+[Lists](/List/)
+
 ***
 
 ## File info
@@ -316,9 +334,9 @@ This repository is a reference to my learning experience on programming. Other s
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Tuesday, April 12th art 4:55 pm PST)`
+**File version:** `3 (2022, Wednesday, April 13th at 4:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,412`
+**Line count (including blank lines and compiler line):** `0,468`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -339,6 +357,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><b>Version 1 (2022, Monday, April 11th at 4:11 pm PST)</b></summary>
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V1.md)
 
 **Changes:**
 
@@ -364,6 +384,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
+[View this version](/OldVersions/README/English/1/README_V2.md)
+
 **Changes:**
 
 - [x] Added 5 new entries (Elm, FORTRAN, Lua, Raku, and SciLab)
@@ -378,11 +400,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 3 (Coming soon)</b></summary>
+<details><summary><b>Version 3 (2022, Wednesday, April 13th at 4:32 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/1/README_V3.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 4 new entries (GDScript, Haskell, Julia, and Nim)
+
+- [x] Added links to the first 3 versions of this project
+
+- [x] Added the methods section
+
+- [x] Added the goal section
+
+- [x] Added the see also section
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 3
 
@@ -395,6 +431,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><b>Version 5 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 5
+
+</details>
+
+<details><summary><b>Version 6 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 6
 
 </details>
 
