@@ -24,6 +24,16 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 ***
 
-**File version:**  `1 (2022, Tuesday, April 12th at 8:26 pm PST)`
+## Lists
+
+* [`A-Z`](/Lists/A-Z/) - A list of all the learning repositories in A-Z order
+* [`History`](/Lists/History/) - A history of the list of learning repositories by the day of new entries being added.
+* [`Repositories`](/Lists/Repositories/) - A list of the repositories created and to be created.
+
+**No other list files at the moment**
+
+***
+
+**File version:**  `2 (2022, Wednesday, April 13th at 5:35 pm PST)`
 
 ***
