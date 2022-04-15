@@ -3,12 +3,16 @@
 -- An alphabet list of the repository links for the seanpm2001 learn project
 
 -- Programming
+-- 1
+https://github.com/seanpm2001/Learn-1C-Enterprise
 -- A
 https://github.com/seanpm2001/Learn-ActionScript-3
 https://github.com/seanpm2001/Learn-AppleScript
 https://github.com/seanpm2001/Learn-Assembly
 -- B
+https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-Boo
+https://github.com/seanpm2001/Learn-BrightScript
 -- C
 https://github.com/seanpm2001/Learn-C
 https://github.com/seanpm2001/Learn-C-Plus-Plus
@@ -51,6 +55,7 @@ https://github.com/seanpm2001/Learn-Prolog
 https://github.com/seanpm2001/Learn-Python
 -- Q
 https://github.com/seanpm2001/Learn-QML
+https://github.com/seanpm2001/Learn-QSharp
 -- R
 https://github.com/seanpm2001/Learn-Raku
 https://github.com/seanpm2001/Learn-Rust
@@ -73,9 +78,12 @@ https://github.com/seanpm2001/Learn-XML
 -- Y
 https://github.com/seanpm2001/Learn-Yacc
 -- Z
+https://github.com/seanpm2001/Learn-Zig
+
+-- 45 languages listed (as of 2022, Thursday, April 14th)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 2 (2022, Wednesday, April 13th at 5:30 pm PST)
--- Line count (including blank lines and compiler line): 82
+-- File version: 3 (2022, Thursday, April 14th at 5:12 pm PST)
+-- Line count (including blank lines and compiler line): 90
 -- End of file
