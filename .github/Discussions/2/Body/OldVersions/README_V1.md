@@ -1,0 +1,7 @@
+***
+
+### [Poll] [Enhancement Proposal] Table separation
+
+Should the language table in this project be separated by letter and number (EG: All entries starting with the letter A will have their own table, all entries starting with the number 1 will have their own table, etc.)
+
+***
