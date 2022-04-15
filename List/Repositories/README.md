@@ -3,7 +3,7 @@
 
 # Learn programming
 
-Current progress `40`/`323` (as of 2022, Wednesday, April 13th at 5:24 pm PST)
+Current progress `45`/`323` (as of 2022, Thursday, April 14th at 5:21 pm PST)
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -49,7 +49,7 @@ This list covers the creation of the language repositories.
 - [x] VHDL
 - [x] XML
 - [x] Yacc
-- [ ] 1C Enterprise
+- [x] 1C Enterprise
 - [ ] ALGOL
 - [ ] Ada
 - [ ] AssemblyScript
@@ -73,13 +73,13 @@ This list covers the creation of the language repositories.
 - [ ] Augeas
 - [ ] API Blueprint
 - [ ] BASIC
-- [ ] Ballerina
+- [x] Ballerina
 - [ ] Batchfile
 - [ ] BibTeX
 - [ ] Bicep
 - [ ] BitBake
 - [ ] Brainfuck
-- [ ] BrightScript
+- [x] BrightScript
 - [ ] BSDL
 - [ ] Boogie
 - [ ] Befunge
@@ -257,7 +257,7 @@ This list covers the creation of the language repositories.
 - [ ] PowerFX
 - [ ] PlSQL
 - [ ] QMake
-- [ ] QSharp
+- [x] QSharp
 - [ ] QueryByExample
 - [ ] R
 - [ ] Racket
@@ -331,10 +331,10 @@ This list covers the creation of the language repositories.
 - [ ] XBase
 - [ ] YAML
 - [ ] ZenScript
-- [ ] Zig
+- [x] Zig
 
 ***
 
-**File version:** `1 (2022, Wednesday, April 13th at 5:24 pm PST)`
+**File version:** `2 (2022, Thursday, April 14th at 5:21 pm PST)`
 
 ***
