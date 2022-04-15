@@ -10,6 +10,17 @@ This repository is a reference to my learning experience on programming. Other s
 <details open><summary><b>Click/tap here to expand/collapse the by language section table</b></summary>
 
 <table>
+  <!-- Row A1 !-->
+  <!-- Number 1 !-->
+  <tr>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-1C-Enterprise/"><img src="/Programming/Logos/1/1C-Enterprise/1C_Developer_Network.png" width="100px;" alt=""/><br /><sub><b>Learn 1C:Enterprise</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 1A !-->
   <!-- Letter A !-->
   <tr>
@@ -25,8 +36,8 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter B !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Boo/"><img src="/Programming/Logos/B/Boo/BooLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Boo</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ballerina/"><img src="/Programming/Logos/B/Ballerina/Ballerina-Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Ballerina</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BrightScript/"><img src="/Programming/Logos/B/BrightScript/BrightScript_1.png" width="100px;" alt=""/><br /><sub><b>Learn BrightScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -188,7 +199,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter Q !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QML/"><img src="/Programming/Logos/Q/ML/QML_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn QML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-QSharp/"><img src="/Programming/Logos/Q/QSharp/QSharp_1.png" width="100px;" alt=""/><br /><sub><b>Learn Q#</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -286,7 +297,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 26A !-->
   <!-- Letter Z !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Zig/"><img src="/Programming/Logos/Z/Zig/Zig_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Zig</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -334,9 +345,9 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, April 13th at 4:32 pm PST)`
+**File version:** `4 (2022, Thursday, April 14th at 5:08 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,468`
+**Line count (including blank lines and compiler line):** `0,503`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -424,11 +435,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 4 (Coming soon)</b></summary>
+<details><summary><b>Version 4 (2022, Thursday, April 14th at 5:08 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 5 new entries (1C:Enterprise, Ballerina, BrightScript, Q#, and Zig)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 4
 
@@ -451,6 +466,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><b>Version 7 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 7
+
+</details>
+
+<details><summary><b>Version 8 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 8
 
 </details>
 
