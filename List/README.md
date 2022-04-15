@@ -34,6 +34,7 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 * [`A-Z`](/List/A-Z/) - A list of all the learning repositories in A-Z order
 * [`History`](/List/History/) - A history of the list of learning repositories by the day of new entries being added.
+* [`Incomplete`](/List/Incomplete/) - A list of projects that are incomplete (and or projects that I am behind on) in the category of this project.
 * [`Repositories`](/List/Repositories/) - A list of the repositories created and to be created.
 
 **No other list files at the moment**
@@ -46,11 +47,11 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the file info section</b></summary>
 
-**File version:**  `3 (2022, Wednesday, April 13th at 5:49 pm PST)`
+**File version:**  `4 (2022, Thursday, April 14th at 10:18 pm PST)`
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `0,132`
+**Line count (including blank lines and compiler line):** `0,144`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -100,7 +101,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > Changes
 
-- [x] Updated the lists section (all links were broken, I fixed hem)
+- [x] Updated the lists section (all links were broken, I fixed them)
 - [x] Updated the timestamp into the file info section
 - [x] Added dropdowns to all sections, including the lead section
 - [x] Added the file history section
@@ -109,12 +110,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 4 (Coming soon)</b></summary>
+<details><summary><b>Version 4 (2022, Thursday, April 18th at 10:18 pm PST)</b></summary>
+
+> Changes
+
+- [x] Updated the lists section (linked to the new `incomplete` section)
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 4
+
+</details>
+
+<details><summary><b>Version 5 (Coming soon)</b></summary>
 
 > Changes
 
 - [ ] Coming soon
-- [ ] No other changes in version 4
+- [ ] No other changes in version 5
 
 </details>
 
