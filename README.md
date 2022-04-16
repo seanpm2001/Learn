@@ -27,7 +27,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ActionScript-3/"><img src="/Programming/Logos/A/ActionScript/3/ActionScriptFileIcon.png" width="100px;" alt=""/><br /><sub><b>Learn ActionScript 3.0</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AppleScript/"><img src="/Programming/Logos/A/AppleScript/AppleScript_Editor_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn AppleScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Assembly/"><img src="/Programming/Logos/A/Assembly/AssemblyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Assembly</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Agda/"><img src="/Programming/Logos/A/Agda/AgdaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Agda</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -132,7 +132,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 11A !-->
   <!-- Letter K !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Kotlin/"><img src="/Programming/Logos/K/Kotlin/KotlinLogo_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn Kotlin</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -155,8 +155,8 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter M !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MoonScript/"><img src="/Programming/Logos/M/MoonScript/MoonScript_PlaceHolderLogo_577px_WHITEBACKGROUND.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MoonScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Markdown/"><img src="/Programming/Logos/M/Markdown/MD.png" width="100px;" alt=""/><br /><sub><b>Learn Markdown</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mercury/"><img src="/Programming/Logos/M/Mercury/MercuryLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Mercury</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -166,7 +166,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter N !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Nim/"><img src="/Programming/Logos/N/Nim/Nim_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Nim</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-nesC/"><img src="/Programming/Logos/N/nesC/TinyOS_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn nesC</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -345,9 +345,9 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Thursday, April 14th at 5:08 pm PST)`
+**File version:** `5 (2022, Friday, April 15th at 8:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,503`
+**Line count (including blank lines and compiler line):** `0,527`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -449,11 +449,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 5 (Coming soon)</b></summary>
+<details><summary><b>Version 5 (2022, Friday, April 15th at 8:00 pm pST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 5 new entries (Agda, Kotlin, Markdown, Mercury, and nesC)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 5
 
@@ -486,6 +490,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><b>Version 9 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 9
+
+</details>
+
+<details><summary><b>Version 10 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 10
 
 </details>
 
