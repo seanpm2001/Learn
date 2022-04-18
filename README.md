@@ -157,11 +157,23 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MoonScript/"><img src="/Programming/Logos/M/MoonScript/MoonScript_PlaceHolderLogo_577px_WHITEBACKGROUND.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MoonScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Markdown/"><img src="/Programming/Logos/M/Markdown/MD.png" width="100px;" alt=""/><br /><sub><b>Learn Markdown</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mercury/"><img src="/Programming/Logos/M/Mercury/MercuryLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Mercury</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mathematica/"><img src="/Programming/Logos/M/Mathematica/Mathematica_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mathematica</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Modelica/"><img src="/Programming/Logos/M/Modelica/Modelica1.png" width="100px;" alt=""/><br /><sub><b>Learn Modelica</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Makefile/"><img src="/Programming/Logos/M/Makefile/Makefile.png" width="100px;" alt=""/><br /><sub><b>Learn Makefile (GNU Make)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MediaWiki/"><img src="/Programming/Logos/M/MediaWiki/MediaWiki_Sunflower.png" width="100px;" alt=""/><br /><sub><b>Learn WikiText (MediaWiki/WikiMedia)</b></sub></a></td>
+  </tr>
+  <!-- Rpw 13B !-->
+  <!-- Letter M
+  <tr>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
+  !-->
   <!-- Row 14A !-->
   <!-- Letter N !-->
   <tr>
@@ -211,7 +223,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Rust/"><img src="/Programming/Logos/R/Rust/Rust_programming_language_black_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Rust</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Raku/"><img src="/Programming/Logos/R/Raku/Camelia.svg" width="100px;" alt=""/><br /><sub><b>Learn Raku</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ReStructuredText/"><img src="/Programming/Logos/R/ReStructuredText/RST.png" width="100px;" alt=""/><br /><sub><b>Learn ReStructuredText (RST/ReST)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -345,9 +357,9 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Friday, April 15th at 8:00 pm PST)`
+**File version:** `6 (2022, Sunday, April 17th at 5:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,527`
+**Line count (including blank lines and compiler line):** `0,593`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -413,6 +425,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><b>Version 3 (2022, Wednesday, April 13th at 4:32 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
 [View this version](/OldVersions/README/English/1/README_V3.md)
 
 **Changes:**
@@ -437,6 +451,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><b>Version 4 (2022, Thursday, April 14th at 5:08 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V4.md)
+
 **Changes:**
 
 - [x] Added 5 new entries (1C:Enterprise, Ballerina, BrightScript, Q#, and Zig)
@@ -451,6 +469,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><b>Version 5 (2022, Friday, April 15th at 8:00 pm pST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V5.md)
+
 **Changes:**
 
 - [x] Added 5 new entries (Agda, Kotlin, Markdown, Mercury, and nesC)
@@ -463,11 +485,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 6 (Coming soon)</b></summary>
+<details><summary><b>Version 6 (2022, Sunday, April 17th at 5:58 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V6.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 5 new entries (Mathematica, Modelica, Makefile, WikiText, ReStructuredText)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 6
 
@@ -513,6 +543,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
+<details><summary><b>Version 11 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 11
+
+</details>
+
+<details><summary><b>Version 12 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 12
+
+</details>
+
 </details>
 
 ***
@@ -524,3 +574,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 ### EOF
 
 ***
+
+<!-- Templates
+
+Blank entry (1 week)
+
+  <tr>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+
+!-->
