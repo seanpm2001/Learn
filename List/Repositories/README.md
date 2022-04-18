@@ -3,7 +3,7 @@
 
 # Learn programming
 
-Current progress `45`/`323` (as of 2022, Thursday, April 14th at 5:21 pm PST)
+Current progress `55`/`324` (as of 2022, Sunday, April 17th at 6:28 pm PST)
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -50,6 +50,7 @@ This list covers the creation of the language repositories.
 - [x] XML
 - [x] Yacc
 - [x] 1C Enterprise
+- [x] Agda
 - [ ] ALGOL
 - [ ] Ada
 - [ ] AssemblyScript
@@ -183,7 +184,7 @@ This list covers the creation of the language repositories.
 - [ ] JSON5
 - [ ] KiCad Layout
 - [ ] KiXTart
-- [ ] Kotlin
+- [x] Kotlin
 - [ ] KRC
 - [ ] KiCad Schematic
 - [ ] Lean
@@ -201,18 +202,18 @@ This list covers the creation of the language repositories.
 - [ ] Lucid
 - [ ] M
 - [ ] M4
-- [ ] Makefile
+- [x] Makefile
 - [ ] Mako
 - [ ] Mallard
-- [ ] Markdown
-- [ ] Mathematica
+- [x] Markdown
+- [x] Mathematica
 - [ ] MATLAB
-- [ ] MediaWiki
-- [ ] Mercury
+- [x] MediaWiki
+- [x] Mercury
 - [ ] Meson
 - [ ] Metal
 - [ ] ML
-- [ ] Modelica
+- [x] Modelica
 - [ ] Modula-2
 - [ ] Modula-3
 - [ ] Motorola S-RECORD
@@ -220,7 +221,7 @@ This list covers the creation of the language repositories.
 - [ ] Max
 - [ ] MLIR
 - [ ] NASL
-- [ ] nesC
+- [x] nesC
 - [ ] NetRexx
 - [ ] Nextflow
 - [ ] NGINX
@@ -265,7 +266,7 @@ This list covers the creation of the language repositories.
 - [ ] ReasonML
 - [ ] REBOL
 - [ ] ReScript
-- [ ] ReStructuredText
+- [x] ReStructuredText
 - [ ] Rexx
 - [ ] Rich Text Format
 - [ ] Roff
@@ -335,6 +336,6 @@ This list covers the creation of the language repositories.
 
 ***
 
-**File version:** `2 (2022, Thursday, April 14th at 5:21 pm PST)`
+**File version:** `3 (2022, Sunday, April 17th at 6:28 pm PST)`
 
 ***
