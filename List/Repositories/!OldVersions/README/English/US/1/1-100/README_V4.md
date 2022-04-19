@@ -1,0 +1,342 @@
+
+***
+
+# Learn programming
+
+Current progress `55`/`325` (as of 2022, Monday, April 19th at 8:10 pm PST)
+
+_I occassionally learn of new languages, so this number will keep going up._
+
+This list covers the creation of the language repositories.
+
+- [x] ActionScript-3
+- [x] AppleScript
+- [x] Assembly
+- [x] Boo
+- [x] C
+- [x] C-Plus-Plus
+- [x] COBOL
+- [x] CSharp
+- [x] CSS
+- [x] D
+- [x] Eiffel
+- [x] Elm
+- [x] FORTRAN
+- [x] Go2003
+- [x] GoogleGo
+- [x] GDScript
+- [x] Haskell
+- [x] Julia
+- [x] Lua
+- [x] Nim
+- [x] MoonScript
+- [x] Objective-C
+- [x] Objective-CPP
+- [x] Pascal
+- [x] Perl
+- [x] PHP
+- [x] Prolog
+- [x] Python
+- [x] QML
+- [x] Raku
+- [x] Rust
+- [x] SciLab
+- [x] Shell
+- [x] Swift
+- [x] TypeScript
+- [x] Vala
+- [x] VBScript
+- [x] VHDL
+- [x] XML
+- [x] Yacc
+- [x] 1C Enterprise
+- [x] Agda
+- [ ] ALGOL
+- [ ] Ada
+- [ ] AssemblyScript
+- [ ] AngelScript
+- [ ] ANTLR
+- [ ] ASP
+- [ ] ASP.NET
+- [ ] ASL
+- [ ] AMPL
+- [ ] Astro
+- [ ] Apex
+- [ ] Arduino
+- [ ] ApacheConf
+- [ ] AutoIt
+- [ ] AWK
+- [ ] ASCIIDoc
+- [ ] ABNF
+- [ ] ABAP-CDS
+- [ ] Amulet
+- [ ] AspectJ
+- [ ] Augeas
+- [ ] API Blueprint
+- [ ] BASIC
+- [x] Ballerina
+- [ ] Batchfile
+- [ ] BibTeX
+- [ ] Bicep
+- [ ] BitBake
+- [ ] Brainfuck
+- [x] BrightScript
+- [ ] BSDL
+- [ ] Boogie
+- [ ] Befunge
+- [ ] Blade
+- [ ] CAML
+- [ ] Cap'n Proto
+- [ ] CartoCSS
+- [ ] Ceylon
+- [ ] Clean
+- [ ] Clojure
+- [ ] CMAKE
+- [ ] CodeQL
+- [ ] CoffeeScript
+- [ ] CommonLisp
+- [ ] CommonWorkflowLanguage
+- [ ] Cool
+- [ ] Coq
+- [ ] Crystal
+- [ ] CSound
+- [ ] CSV
+- [ ] Cyclone
+- [ ] Creole
+- [ ] CSON
+- [ ] CSound document
+- [ ] CSound score
+- [ ] Dafny
+- [ ] Dart
+- [ ] Desktop
+- [ ] Dhall
+- [ ] Diff
+- [ ] DIGITAL Command Language
+- [ ] DM
+- [ ] Dockerfile
+- [ ] DTrace
+- [ ] E
+- [ ] EAGLE
+- [ ] Earthly
+- [ ] EJS
+- [ ] Elixir
+- [ ] Emacs Lisp
+- [ ] Epigram
+- [ ] Erlang
+- [ ] Euphoria
+- [ ] Factor
+- [ ] Fancy
+- [ ] Fish
+- [ ] Fluent
+- [ ] Forth
+- [ ] FreeMarker
+- [ ] Fantom
+- [ ] FP
+- [ ] G-CODE
+- [ ] GAP
+- [ ] GCC Machine Description
+- [ ] Genie
+- [ ] Gerber Image
+- [ ] GetText
+- [ ] Gherkin
+- [ ] GLSL
+- [ ] GN
+- [ ] Gosu
+- [ ] Graphviz DOT
+- [ ] Groovy
+- [ ] GraphQL
+- [ ] Hack
+- [ ] HAML
+- [ ] HandleBars
+- [ ] HAPROXY
+- [ ] Haxe
+- [ ] HCL
+- [ ] HiveQL
+- [ ] HLSL
+- [ ] HolyC
+- [ ] Hope
+- [ ] HyPhy
+- [ ] IDL
+- [ ] Idris
+- [ ] ImageJ
+- [ ] Inform
+- [ ] Inno Setup
+- [ ] Intel Hex Binary
+- [ ] Io
+- [ ] IronPython
+- [ ] Isabelle
+- [ ] HyPhy
+- [ ] INI
+- [ ] INTERCAL
+- [ ] ISWIM
+- [ ] J
+- [ ] Jade
+- [ ] Java
+- [ ] JavaScript
+- [ ] JavaScriptPlusPlus
+- [ ] Jinja
+- [ ] Joy
+- [ ] JScript
+- [ ] JScript DOT NET
+- [ ] JSON
+- [ ] JSSS
+- [ ] JupyterNotebook
+- [ ] Jython
+- [ ] JSON5
+- [ ] KiCad Layout
+- [ ] KiXTart
+- [x] Kotlin
+- [ ] KRC
+- [ ] KiCad Schematic
+- [ ] Lean
+- [ ] Less
+- [ ] Lex
+- [ ] Limbo
+- [ ] Liquid
+- [ ] Lisp
+- [ ] LispFlavoredErlang
+- [ ] LLVM
+- [ ] Logos
+- [ ] Logtalk
+- [ ] LOLCODE
+- [ ] LookML
+- [ ] Lucid
+- [ ] M
+- [ ] M4
+- [x] Makefile
+- [ ] Mako
+- [ ] Mallard
+- [x] Markdown
+- [x] Mathematica
+- [ ] MATLAB
+- [x] MediaWiki
+- [x] Mercury
+- [ ] Meson
+- [ ] Metal
+- [ ] ML
+- [x] Modelica
+- [ ] Modula-2
+- [ ] Modula-3
+- [ ] Motorola S-RECORD
+- [ ] MS-DOS Style
+- [ ] Max
+- [ ] MLIR
+- [ ] NASL
+- [x] nesC
+- [ ] NetRexx
+- [ ] Nextflow
+- [ ] NGINX
+- [ ] Nix
+- [ ] NSIS
+- [ ] Nunjucks
+- [ ] NVIDIA Cuda
+- [ ] Nu
+- [ ] Oberon
+- [ ] Objective-J
+- [ ] OCaml
+- [ ] Octave
+- [ ] OpenEdge ABL
+- [ ] OpenPolicyAgent
+- [ ] OpenQASM
+- [ ] OpenSCAD
+- [ ] Orwell
+- [ ] Org-mode
+- [ ] OpenCL
+- [ ] Pawn
+- [ ] Piglatin
+- [ ] PlPGSQL
+- [ ] PostGreSQL
+- [ ] PostScript
+- [ ] POV Ray SDL
+- [ ] PowerShell
+- [ ] Pug
+- [ ] Puppet
+- [ ] PureBasic
+- [ ] PureData
+- [ ] PureScript
+- [ ] PostCSS
+- [ ] Pod
+- [ ] PowerFX
+- [ ] PlSQL
+- [ ] QMake
+- [x] QSharp
+- [ ] QueryByExample
+- [ ] R
+- [ ] Racket
+- [ ] Ragel
+- [ ] ReasonML
+- [ ] REBOL
+- [ ] ReScript
+- [x] ReStructuredText
+- [ ] Rexx
+- [ ] Rich Text Format
+- [ ] Roff
+- [ ] RDoc
+- [ ] RPC
+- [ ] Refal
+- [ ] Sage
+- [ ] SaltStack
+- [ ] SASS
+- [ ] Scala
+- [ ] SCSS
+- [ ] Sed
+- [ ] Seed7
+- [ ] Self
+- [ ] SGML
+- [ ] ShaderLab
+- [ ] Singularity
+- [ ] Slim
+- [ ] SmallTalk
+- [ ] Smarty
+- [ ] Solidity
+- [ ] SourcePawn
+- [ ] SQL
+- [ ] StandardML
+- [ ] Starlark
+- [ ] StringTemplate
+- [ ] Stylus
+- [ ] SuperCollider
+- [ ] Svelte
+- [ ] SWIG
+- [ ] SXML
+- [ ] SystemVerilog
+- [ ] SASL
+- [ ] SQLPL
+- [ ] Sublime Text
+- [ ] SVG
+- [ ] TCL
+- [ ] TeX
+- [ ] Thrift
+- [ ] TLA
+- [ ] TOML
+- [ ] TSQL
+- [ ] Twig
+- [ ] Textile
+- [ ] TXL
+- [ ] UnrealScript
+- [ ] Uno
+- [ ] V
+- [ ] Verilog AMS
+- [ ] Verilog
+- [ ] Verona
+- [ ] VimScript
+- [ ] Visual Basic Dot Net
+- [ ] VueJS
+- [ ] VBA
+- [ ] VCL
+- [ ] WDL
+- [ ] WebVTT
+- [ ] XProc
+- [ ] XQuery
+- [ ] XS
+- [ ] XSLT
+- [ ] XBase
+- [ ] YAML
+- [ ] ZenScript
+- [x] Zig
+
+***
+
+**File version:** `4 (2022, Monday, April 18th at 8:10 pm PST)`
+
+***
