@@ -3,7 +3,7 @@
 
 # Learn programming
 
-Current progress `55`/`324` (as of 2022, Sunday, April 17th at 6:28 pm PST)
+Current progress `55`/`325` (as of 2022, Monday, April 19th at 8:10 pm PST)
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -126,6 +126,7 @@ This list covers the creation of the language repositories.
 - [ ] Euphoria
 - [ ] Factor
 - [ ] Fancy
+- [ ] Fish
 - [ ] Fluent
 - [ ] Forth
 - [ ] FreeMarker
@@ -336,6 +337,6 @@ This list covers the creation of the language repositories.
 
 ***
 
-**File version:** `3 (2022, Sunday, April 17th at 6:28 pm PST)`
+**File version:** `4 (2022, Monday, April 18th at 8:10 pm PST)`
 
 ***
