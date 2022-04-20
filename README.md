@@ -351,15 +351,390 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 ***
 
+## Programming language similarities
+
+### Comments
+
+`--`
+
+* Elm
+* VHDL
+* Lua
+* MoonScript
+* Ada
+* AppleScript
+* Haskell
+* SQL
+* Eiffel
+* Forth
+* NetRexx
+* Apache Piglatin
+* PlPGSQL
+* TSQL
+
+`--` & `{- -}`
+
+* Elm
+
+`#`
+
+* Python 3
+* Perl
+* Raku
+* GDScript
+* Shell
+* Boo
+* Fish
+
+`#` & `"""`
+
+* Python 3
+
+`#` & `"""` & `'''`
+
+* Python 3
+
+`//`
+
+* C
+* C++
+* C#
+* Java
+* CSS
+* JavaScript
+* TypeScript
+* QML
+* JavaScript++
+* Google Go
+
+`//` & `/* */`
+
+* C
+* C++
+* C#
+* Java
+* CSS
+* JavaScript
+* TypeScript
+* QML
+* JavaScript++
+* Google Go
+
+`<!-- !-->`
+
+* HTML5
+* Markdown
+* XML
+
+`(* *)`
+
+* Mathematica
+* OCaml
+
+`;`
+
+* Assembly
+* INI
+* TOML
+
+`C`
+
+* Fortran
+
+`rem` / `REM`
+
+* Batchfile
+
+### Break keyword
+
+| Language | Supports `break` keyword |
+|---|---|
+| Python | :heavy_check_mark: |
+| Java | :heavy_check_mark: |
+| Raku | :heavy_check_mark: |
+| C | :heavy_check_mark: |
+| C++ | :heavy_check_mark: |
+| C# | :heavy_check_mark: |
+| Q# | :x: |
+| Elm | :heavy_check_mark: |
+| Haskell | :x: |
+| nesC | :heavy_check_mark: |
+| Perl | :heavy_check_mark: |
+| JavaScript | :heavy_check_mark: |
+| TypeScript | :heavy_check_mark: |
+| HTML5 |  :x: |
+| XML | :x: |
+| Markdown | :x:|
+| Shell | :heavy_check_mark: |
+
+
+### Print statement
+
+```python
+print("String")
+```
+
+* Python
+
+```perl
+print("String");
+```
+
+* Perl
+
+```java
+System.out.println("String");
+```
+
+* Java
+
+```javascript
+console.log("String")
+```
+
+* JavaScript
+* JavaScript++
+
+
+```javascript
+alert("String")
+```
+
+* JavaScript
+* JavaScript++
+
+```openedge-abl
+disp("String");
+```
+
+* OpenEdge ABL
+* SciLab
+
+```raku
+say "String"
+```
+
+* AppleScript
+* Raku
+
+```c
+printf("String\n");
+```
+
+* C
+* nesC
+* Google Go
+
+```cpp
+std::cout >> "String\n";
+```
+
+* C++
+* Makefile
+
+```shell
+echo("String");
+```
+
+* Shell
+* Fish
+* Batchfile
+
+```groovy
+println "String"
+```
+
+* Groovy
+
+```kotlin
+println("String")
+```
+
+* Kotlin
+
+```rust
+println!("String");
+```
+
+* Rust
+
+```applescript
+display dialog "String"
+```
+
+* AppleScript
+
+```applescript
+display alert "String"
+```
+
+* AppleScript
+
+```brainfuck
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+```
+
+* Brainfuck
+
+### Int
+
+Coming soon
+
+### Integer
+
+Coming soon
+
+### Double
+
+Coming soon
+
+### Goto
+
+Coming soon
+
+### Return
+
+Coming soon
+
+### Str
+
+Coming soon
+
+### String
+
+Coming soon
+
+### Char
+
+Coming soon
+
+### Bool
+
+Coming soon
+
+### Boolean
+
+Coming soon
+
+### Fact
+
+Coming soon
+
+### Factorial
+
+Coming soon
+
+### Mov
+
+Coming soon
+
+### If
+
+Coming soon
+
+### Else
+
+Coming soon
+
+### Fi
+
+Coming soon
+
+### Esle
+
+Coming soon
+
+### Tuple
+
+Coming soon
+
+### Elif
+
+Coming soon
+
+### Interface
+
+Coming soon
+
+### Class
+
+Coming soon
+
+### Public
+
+Coming soon
+
+### Repeat
+
+Coming soon
+
+### Include
+
+Coming soon
+
+### Switch
+
+Coming soon
+
+### Do
+
+Coming soon
+
+### Or
+
+Coming soon
+
+### And
+
+Coming soon
+
+### Foreach
+
+Coming soon
+
+### In
+
+Coming soon
+
+### Range
+
+Coming soon
+
+### Random
+
+Coming soon
+
+### Randint
+
+Coming soon
+
+### Contract
+
+Coming soon
+
+### Scanf
+
+Coming soon
+
+### Scan
+
+Coming soon
+
+### Input
+
+Coming soon
+
+***
+
 ## File info
 
 <details open><summary><b>Click/tap here to expand/collapse the file info section</b></summary>
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Sunday, April 17th at 5:58 pm PST)`
+**File version:** `7 (2022, Tuesday, April 19th at 5:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,593`
+**Line count (including blank lines and compiler line):** `0,996`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -503,11 +878,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 7 (Coming soon)</b></summary>
+<details><summary><b>Version 7 (2022, Tuesday, April 19th at 5:40 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V7.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the file info section
+
+- [x] Updated the file history section
+
+- [x] Added the programming language similarities section
 
 - [ ] No other changes in version 7
 
@@ -560,6 +943,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><b>Version 13 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 13
+
+</details>
+
+<details><summary><b>Version 14 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 14
 
 </details>
 
