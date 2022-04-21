@@ -3,11 +3,21 @@
 
 # Learn programming
 
-Current progress `55`/`325` (as of 2022, Monday, April 19th at 8:10 pm PST)
+<details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
+
+Current progress `60`/`329` (as of 2022, Wednesday, April 20th at 5:53 pm PST)
+
+Ratio: 18.24% complete, 81.76% incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
 This list covers the creation of the language repositories.
+
+</details>
+
+***
+
+<details open><summary><b lang="en">Click/tap here to expand/collapse the repository list</b></summary>
 
 - [x] ActionScript-3
 - [x] AppleScript
@@ -52,7 +62,7 @@ This list covers the creation of the language repositories.
 - [x] 1C Enterprise
 - [x] Agda
 - [ ] ALGOL
-- [ ] Ada
+- [x] Ada
 - [ ] AssemblyScript
 - [ ] AngelScript
 - [ ] ANTLR
@@ -171,8 +181,8 @@ This list covers the creation of the language repositories.
 - [ ] ISWIM
 - [ ] J
 - [ ] Jade
-- [ ] Java
-- [ ] JavaScript
+- [x] Java
+- [x] JavaScript
 - [ ] JavaScriptPlusPlus
 - [ ] Jinja
 - [ ] Joy
@@ -183,6 +193,7 @@ This list covers the creation of the language repositories.
 - [ ] JupyterNotebook
 - [ ] Jython
 - [ ] JSON5
+- [ ] Jsonette
 - [ ] KiCad Layout
 - [ ] KiXTart
 - [x] Kotlin
@@ -200,7 +211,9 @@ This list covers the creation of the language repositories.
 - [ ] Logtalk
 - [ ] LOLCODE
 - [ ] LookML
+- [ ] Latte
 - [ ] Lucid
+- [ ] LiveScript
 - [ ] M
 - [ ] M4
 - [x] Makefile
@@ -261,7 +274,7 @@ This list covers the creation of the language repositories.
 - [ ] QMake
 - [x] QSharp
 - [ ] QueryByExample
-- [ ] R
+- [x] R
 - [ ] Racket
 - [ ] Ragel
 - [ ] ReasonML
@@ -288,7 +301,7 @@ This list covers the creation of the language repositories.
 - [ ] Slim
 - [ ] SmallTalk
 - [ ] Smarty
-- [ ] Solidity
+- [x] Solidity
 - [ ] SourcePawn
 - [ ] SQL
 - [ ] StandardML
@@ -326,6 +339,7 @@ This list covers the creation of the language repositories.
 - [ ] VCL
 - [ ] WDL
 - [ ] WebVTT
+- [ ] Wierd
 - [ ] XProc
 - [ ] XQuery
 - [ ] XS
@@ -335,8 +349,238 @@ This list covers the creation of the language repositories.
 - [ ] ZenScript
 - [x] Zig
 
+</details>
+
 ***
 
-**File version:** `4 (2022, Monday, April 18th at 8:10 pm PST)`
+## File info
+
+<details open><summary><b>Click/tap here to expand/collapse the file info section</b></summary>
+
+**File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `5 (2022, Wednesday, April 20th at 5:53 pm PST)`
+
+**Line count (including blank lines and compiler line):** `587`
+
+**File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+## File history
+
+<details open><summary><b>Click/tap here to expand/collapse the file history section</b></summary>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 1</b></summary>
+
+**Version 1 (2022, Wednesday, April 13th at 5:24 pm PST)**
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V1.md)
+
+> Changes:
+
+- [x] Started the file
+
+- [x] Added the title section
+
+- [x] Added the list section
+
+- - [x] Added 323 entries
+
+- - [x] Checked 40 entries
+
+- [x] Added a file timestamp
+
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 2</b></summary>
+
+**Version 2 (2022, Thursday, April 14th at 5:21 pm PST)**
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V2.md)
+
+> Changes:
+
+- [x] Updated the title section
+
+- [x] Updated the list section
+
+- - [x] Checked 5 entries (old total: 40 | new total: 45)
+
+- [x] Updated the file timestamp
+
+- [ ] No other changes in version 2
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 3</b></summary>
+
+**Version 3 (2022, Sunday, April 17th at 6:28 pm PST)**
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V3.md)
+
+> Changes:
+
+- [x] Updated the title section
+
+- [x] Updated the list section
+
+- - [x] Added 1 new entry (old total: 323 | new total: 324)
+
+- - [x] Checked 10 entries (old total: 45 | new total: 55)
+
+- [x] Updated the file timestamp
+
+- [ ] No other changes in version 3
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 4</b></summary>
+
+**Version 4 (2022, Monday, April 19th at 8:10 pm PST)**
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V4.md)
+
+> Changes:
+
+- [x] Updated the title section
+
+- [x] Updated the list section
+
+- - [x] Added 1 new entry (old total: 324 | new total: 325)
+
+- [x] Updated the file timestamp
+
+- [ ] No other changes in version 4
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 5</b></summary>
+
+Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V5.md)
+
+> Changes:
+
+- [x] Updated the list section
+
+- - [x] Added 4 new entries (old total: 325 | new total: 329)
+
+- - [x] Checked 5 new entries (old total: 55 | new total: 60)
+
+- [x] Updated the ratio in the title section
+
+- [x] Converted the file version timestamp to the file info section
+
+- [x] Added the file history section
+
+- [x] Made all entries in this file collapsible/expandable through the use of the `<details>` tag
+
+- [ ] No other changes in version 5
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 6</b></summary>
+
+**Version 6 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V6.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 6
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 7</b></summary>
+
+**Version 7 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V7.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 7
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 8</b></summary>
+
+**Version 8 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V8.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 8
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 9</b></summary>
+
+**Version 9 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V9.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 9
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 10</b></summary>
+
+**Version 10 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V10.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 10
+
+</details>
+
+</details>
 
 ***
