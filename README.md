@@ -28,7 +28,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AppleScript/"><img src="/Programming/Logos/A/AppleScript/AppleScript_Editor_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn AppleScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Assembly/"><img src="/Programming/Logos/A/Assembly/AssemblyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Assembly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Agda/"><img src="/Programming/Logos/A/Agda/AgdaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Agda</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ada/"><img src="/Programming/Logos/A/Ada/AdaLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Ada</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -122,8 +122,8 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter J !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Julia/"><img src="/Programming/Logos/J/Julia/Julia_Programming_Language_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Julia</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Java/"><img src="/Programming/Logos/J/Java/Java_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Java</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScript/"><img src="/Programming/Logos/J/JavaScript/JavaScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JavaScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -224,7 +224,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Rust/"><img src="/Programming/Logos/R/Rust/Rust_programming_language_black_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Rust</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Raku/"><img src="/Programming/Logos/R/Raku/Camelia.svg" width="100px;" alt=""/><br /><sub><b>Learn Raku</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReStructuredText/"><img src="/Programming/Logos/R/ReStructuredText/RST.png" width="100px;" alt=""/><br /><sub><b>Learn ReStructuredText (RST/ReST)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-R/"><img src="/Programming/Logos/R/R/Rlogo.png" width="100px;" alt=""/><br /><sub><b>Learn R</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -235,7 +235,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Shell/"><img src="/Programming/Logos/S/Shell/Gnu-bash-logo.svg_Cropped.png" width="100px;" alt=""/><br /><sub><b>Learn Shell</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Swift/"><img src="/Programming/Logos/S/Swift/SwiftLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Swift</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SciLab/"><img src="/Programming/Logos/S/SciLab/Scilab_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SciLab</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Solidity/"><img src="/Programming/Logos/S/Solidity/Solidity_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Solidity</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -371,6 +371,7 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 * Apache Piglatin
 * PlPGSQL
 * TSQL
+* URLL
 
 `--` & `{- -}`
 
@@ -445,28 +446,114 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 * Batchfile
 
+`%`
+
+* Prolog
+* PostScript
+* Erlang
+* BibTeX
+* TeX
+* LaTeX
+* MATLAB
+* Octave
+
+`'`
+
+* VB.net
+* BrightScript
+
+`;;`
+
+* Scheme
+
 ### Break keyword
 
-| Language | Supports `break` keyword |
-|---|---|
-| Python | :heavy_check_mark: |
-| Java | :heavy_check_mark: |
-| Raku | :heavy_check_mark: |
-| C | :heavy_check_mark: |
-| C++ | :heavy_check_mark: |
-| C# | :heavy_check_mark: |
-| Q# | :x: |
-| Elm | :heavy_check_mark: |
-| Haskell | :x: |
-| nesC | :heavy_check_mark: |
-| Perl | :heavy_check_mark: |
-| JavaScript | :heavy_check_mark: |
-| TypeScript | :heavy_check_mark: |
-| HTML5 |  :x: |
-| XML | :x: |
-| Markdown | :x:|
-| Shell | :heavy_check_mark: |
+| Language | Supports `break` keyword | End of line |
+|---|---|---|
+| Python | :heavy_check_mark: | :x: |
+| Java | :heavy_check_mark: | `;` |
+| Raku | :heavy_check_mark: | `;` |
+| C | :heavy_check_mark: | `;` |
+| C++ | :heavy_check_mark: | `;` |
+| C# | :heavy_check_mark: | `;` |
+| Q# | :x: | :x: |
+| Elm | :heavy_check_mark: | :x: |
+| Haskell | :x: | :x: |
+| nesC | :heavy_check_mark: | `;` |
+| Perl | :heavy_check_mark: | `;` |
+| JavaScript | :heavy_check_mark: | `;` |
+| TypeScript | :heavy_check_mark: | `;` |
+| HTML5 |  :x: | :x: |
+| XML | :x: | :x: |
+| Markdown | :x:| :x: |
+| Shell | :heavy_check_mark: | :x: |
+| Solidity | :heavy_check_mark: | `;` |
+| Prolog | :x: | :x: |
+| Logtalk | :x: | :x: |
+| XSLT | :x: | :x: |
+| SVG | :x: | :x: |
+| INI | :x: | :x: |
+| TOML | :x: | :x: |
+| SGML | :x: | :x: |
+| CSV | :x: | :x: |
+| Lua | :heavy_check_mark: | `;` |
+| MoonScript | :heavy_check_mark: | `;` |
+| URLL | :x: | :x: |
+| Zig | :heavy_check_mark: | `;` |
+| ZenScript | :heavy_check_mark: | :question: |
+| Yacc |:heavy_check_mark: | :question: |
+| YAML | :x: | :x: |
+| XBase | :heavy_check_mark: | :question: |
+| XQuery | :heavy_check_mark: | :question: |
+| XProc | :x: | :x: |
+| WDL | :x: | :x: |
+| Ballerina | :heavy_check_mark: | :question: |
+| GDScript | :heavy_check_mark: | :x: | 
+| Pascal | :x: | :x: |
+| R | :heavy_check_mark: | :question: |
+| D | :heavy_check_mark: | :question: |
+| F# | :x: | :x: |
+| Kotlin | :heavy_check_mark: | :question: |
+| QML | :heavy_check_mark: | :question: |
+| QMake | :x: | :x: |
+| JSON | :x: | :x: |
+| CSON | :heavy_check_mark: | :question: |
+| Julia | :heavy_check_mark: | :question: |
+| AppleScript | :x: | :x: |
+| Rust | :heavy_check_mark: | `;` |
+| 1C:Enterprise | :heavy_check_mark: | `;` |
+| Assembly | :question: | :x: |
+| ActionScript | :heavy_check_mark: | `;` |
+| Boo | :heavy_check_mark: | :x: |
+| BrightScript | :x: | :x: |
+| COBOL | :x: | :x: |
+| CSS | :x: | :x: |
+| Eiffel | :x: | :x: |
+| Fortran | :x: | :x: |
+| Go! | :question: | :question: |
+| Google Go | :heavy_check_mark: | `;` |
+| Mercury | :x: | :x: |
+| Mathematica | :heavy_check_mark: | `;` |
+| Modelica | :heavy_check_mark: | `;` |
+| Makefile | :x: | :x: |
+| WikiText | :x: | :x: |
+| Objective-C | :heavy_check_mark: | `;` |
+| Objective-C++ | :heavy_check_mark: | `;` |
+| PHP | :heavy_check_mark: | `;` |
+| Swift | :heavy_check_mark: | `;` |
+| Vala | :heavy_check_mark: | `;` |
+| VBScript | :x: | :x: |
+| VHDL | :x: | :x: |
 
+Notes:
+
+End of line:
+
+:x: = Nothing at the end of the line required (such as `;`)
+
+; = Semicolon required at the end of the line
+
+:question: = Unknown/not tested
 
 ### Print statement
 
@@ -569,6 +656,12 @@ display alert "String"
 ```
 
 * AppleScript
+
+```solidity
+Put_Line ("String");
+```
+
+* Solidity
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -732,9 +825,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Tuesday, April 19th at 5:40 pm PST)`
+**File version:** `8 (2022, Wednesday, April 20th at 5:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,996`
+**Line count (including blank lines and compiler line):** `1,125`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -896,11 +989,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 8 (Coming soon)</b></summary>
+<details><summary><b>Version 8 (2022, Wednesday, April 20th at 5:09 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V8.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [ ] Added 5 new entries (Ada, Java, JavaScript, R, and Solidity)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
+
+- [x] Updated the programming language similarities section
+
+- - [x] Added more examples for comments
+
+- - [x] Added more examples for `print` and similar statements
+
+- - [x] Added more examples for languages supporting the `break` keyword
 
 - [ ] No other changes in version 8
 
@@ -963,6 +1072,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><b>Version 15 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 15
+
+</details>
+
+<details><summary><b>Version 16 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 16
 
 </details>
 
