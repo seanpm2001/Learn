@@ -1,5 +1,5 @@
 --URLL-version=2;
--- List of all Learn-* repositories as of 2022 April 20th, in Alphabetical order
+-- List of all Learn-* repositories as of 2022 April 21st, in Alphabetical order
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ActionScript-3
 https://github.com/seanpm2001/Learn-Ada
@@ -22,6 +22,14 @@ https://github.com/seanpm2001/Learn-Go2003
 https://github.com/seanpm2001/Learn-GoogleGo
 https://github.com/seanpm2001/Learn-GDScript
 https://github.com/seanpm2001/Learn-Haskell
+https://github.com/seanpm2001/Learn-IDL
+https://github.com/seanpm2001/Learn-Idris
+https://github.com/seanpm2001/Learn-Inform
+https://github.com/seanpm2001/Learn-INI
+https://github.com/seanpm2001/Learn-Inno-Setup
+https://github.com/seanpm2001/Learn-ImageJ
+https://github.com/seanpm2001/Learn-Io
+https://github.com/seanpm2001/Learn-Isabelle
 https://github.com/seanpm2001/Learn-Java
 https://github.com/seanpm2001/Learn-JavaScript
 https://github.com/seanpm2001/Learn-Julia
@@ -60,8 +68,8 @@ https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-XML
 https://github.com/seanpm2001/Learn-Yacc
 https://github.com/seanpm2001/Learn-Zig
--- Total: 60
+-- Total: 68
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 1 (2022, Wednesday, Apri 20th at 5:19 pm PST)
--- Line count (including blank lines and compiler line): 68
+-- File version: 1 (2022, Thursday, Apri 21st at 8:41 pm PST)
+-- Line count (including blank lines and compiler line): 76
