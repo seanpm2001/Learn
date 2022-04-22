@@ -110,7 +110,29 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 9A !-->
   <!-- Letter I !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-IDL/"><img src="/Programming/Logos/I/IDL/IDL1CUBE.jpeg" width="100px;" alt=""/><br /><sub><b>Learn IDL</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Idris/"><img src="/Programming/Logos/I/Idris/IDRIS_ICON.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Idris</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ImageJ/"><img src="/Programming/Logos/I/ImageJ/ImageJLogo.png" width="100px;" alt=""/><br /><sub><b>Learn ImageJ</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Inform/"><img src="/Programming/Logos/I/Inform/7/Inform_7_IDE_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn Inform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-INI/"><img src="/Programming/Logos/I/INI/INI_Longhorn_PinStripe_128px.png" width="100px;" alt=""/><br /><sub><b>Learn INI</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Inno-Setup/"><img src="/Programming/Logos/I/Inno-Setup/Inno_Setup_icon.png" width="100px;" alt=""/><br /><sub><b>Learn Inno Setup</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Io/"><img src="/Programming/Logos/I/Io/IO_1240px.png" width="100px;" alt=""/><br /><sub><b>Learn Io</b></sub></a></td>
+  </tr>
+  <!-- Row 9B !-->
+  <!-- 2022 April 21st
+  I decided to start the repositories for all 8 computing languages I know so far that start with the letter I. They include: 
+  IDL
+  Idris
+  Inform
+  INI
+  Inno Setup
+  ImageJ
+  Io
+  Isabelle
+  !-->
+  <!-- Letter I !-->
+  <tr>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Isabelle/"><img src="/Programming/Logos/I/Isabelle/PYTHAGOREAN_THEOREM_5000x5000.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Isabelle</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -355,6 +377,23 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 ### Comments
 
+<!-- 2022 April 21st notes
+/** **/
+IDL
+
+--
+Idris
+
+;
+Inno Setup
+
+//
+ImageJ
+
+(* *)
+Isabelle
+!-->
+
 `--`
 
 * Elm
@@ -372,6 +411,7 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 * PlPGSQL
 * TSQL
 * URLL
+* Idris
 
 `--` & `{- -}`
 
@@ -407,6 +447,7 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 * QML
 * JavaScript++
 * Google Go
+* ImageJ
 
 `//` & `/* */`
 
@@ -431,12 +472,14 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 
 * Mathematica
 * OCaml
+* Isabelle
 
 `;`
 
 * Assembly
 * INI
 * TOML
+* Inno Setup
 
 `C`
 
@@ -465,6 +508,10 @@ In regards to programming languages, my goal is to learn the basics of EVERY pro
 `;;`
 
 * Scheme
+
+`/** **/`
+
+* IDL
 
 ### Break keyword
 
@@ -825,9 +872,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Wednesday, April 20th at 5:09 pm PST)`
+**File version:** `9 (2022, Thursday, April 21st at 8:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,125`
+**Line count (including blank lines and compiler line):** `1,200`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -997,7 +1044,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Changes:**
 
-- [ ] Added 5 new entries (Ada, Java, JavaScript, R, and Solidity)
+- [x] Added 5 new entries (Ada, Java, JavaScript, R, and Solidity)
 
 - [x] Updated the file info section
 
@@ -1015,11 +1062,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 9 (Coming soon)</b></summary>
+<details><summary><b>Version 9 (2022, Thursday, April 21st at 8:28 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 8 new entries (IDL, Idris, INform, INI, Inno Setup, ImageJ, Io, and Isabelle)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
+
+- [x] Updated the programming language similarities section
+
+- - [x] Added more examples for comments
 
 - [ ] No other changes in version 9
 
@@ -1092,6 +1147,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><b>Version 17 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 17
+
+</details>
+
+<details><summary><b>Version 18 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 18
 
 </details>
 
