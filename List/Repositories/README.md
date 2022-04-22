@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `60`/`329` (as of 2022, Wednesday, April 20th at 5:53 pm PST)
+Current progress `68`/`329` (as of 2022, Thursday, April 21st at 8:53 pm PST)
 
-Ratio: 18.24% complete, 81.76% incomplete.
+Ratio: 20.67% complete, 79.33% incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -166,17 +166,17 @@ This list covers the creation of the language repositories.
 - [ ] HolyC
 - [ ] Hope
 - [ ] HyPhy
-- [ ] IDL
-- [ ] Idris
-- [ ] ImageJ
-- [ ] Inform
-- [ ] Inno Setup
+- [x] IDL
+- [x] Idris
+- [x] ImageJ
+- [x] Inform
+- [x] Inno Setup
 - [ ] Intel Hex Binary
-- [ ] Io
+- [x] Io
 - [ ] IronPython
-- [ ] Isabelle
+- [x] Isabelle
 - [ ] HyPhy
-- [ ] INI
+- [x] INI
 - [ ] INTERCAL
 - [ ] ISWIM
 - [ ] J
@@ -359,9 +359,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Wednesday, April 20th at 5:53 pm PST)`
+**File version:** `6 (2022, Thursday, April 21st at 8:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `587`
+**Line count (including blank lines and compiler line):** `627`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -503,15 +503,23 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 6</b></summary>
 
-**Version 6 (Coming soon)**
+**Version 6 (2022, Thursday, April 21st at 8:55 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V6.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V6.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+
+- - [x] Checked 8 new entries (old total: 60 | new total: 68)
+
+- [x] Updated the ratio in the title section
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 6
 
@@ -578,6 +586,38 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 11</b></summary>
+
+**Version 11 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V11.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 11
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 12</b></summary>
+
+**Version 12 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V12.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 12
 
 </details>
 
