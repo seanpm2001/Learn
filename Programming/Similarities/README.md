@@ -492,4 +492,133 @@ Coming soon
 
 Coming soon
 
+### Go
+
+```go
+go function1();
+```
+
+| Language | Supports the `go` keyword | As | End of line |
+|---|---|---|---|
+| Google Go | :heavy_check_mark: | Function | `;` |
+| Go! | :x: | Unrecognized | :x: |
+| Python | :x: | Unrecognized | :x: |
+| Java | :x: | Unrecognized | :x: |
+| JavaScript | :x: | Unrecognized | :x: |
+| JavaScript++ | :x: | Unrecognized | :x: |
+| TypeScript | :x: | Unrecognized | :x: |
+| AppleScript | :x: | Unrecognized | :x: |
+| AssemblyScript | :x: | Unrecognized | :x: |
+| ActionScript | :x: | Unrecognized | :x: |
+| LiveScript | :x: | Unrecognized | :x: |
+| AngelScript | :x: | Unrecognized | :x: |
+| NewtonScript | :x: | Unrecognized | :x: |
+| UnrealScript | :x: | Unrecognized | :x: |
+| MoonScript | :x: | Unrecognized | :x: |
+| VimScript | :x: | Unrecognized | :x: |
+| BrightScript | :x: | Unrecognized | :x: |
+| PureScript | :x: | Unrecognized | :x: |
+| PostScript | :x: | Unrecognized | :x: |
+| Ada | :x: | Unrecognized | :x: |
+| ALGOL | :x: | Unrecognized | :x: |
+| COBOL | :x: | Unrecognized | :x: |
+| Kotlin | :x: | Unrecognized | :x: |
+| Groovy | :x: | Unrecognized | :x: |
+| TCL | :x: | Unrecognized | :x: |
+| Swift | :x: | Unrecognized | :x: |
+| Objective-C | :x: | Unrecognized | :x: |
+| Objective-C++ | :x: | Unrecognized | :x: |
+| C | :x: | Unrecognized | :x: |
+| C++ | :x: | Unrecognized | :x: |
+| C# | :x: | Unrecognized | :x: |
+| D | :x: | Unrecognized | :x: |
+| Rust | :x: | Unrecognized | :x: |
+| Lua | :x: | Unrecognized | :x: |
+| Lisp | :x: | Unrecognized | :x: |
+| Mathematica | :x: | Unrecognized | :x: |
+| HTML5 | :x: | Unrecognized | :x: |
+| PHP | :x: | Unrecognized | :x: |
+| R | :x: | Unrecognized | :x: |
+| REBOL | :x: | Unrecognized | :x: |
+| OCaml | :x: | Unrecognized | :x: |
+| Coq | :x: | Unrecognized | :x: |
+| Pascal | :x: | Unrecognized | :x: |
+| Clean | :x: | Unrecognized | :x: |
+| SQL | :x: | Unrecognized | :x: |
+| F# | :x: | Unrecognized | :x: |
+| Q# | :x: | Unrecognized | :x: |
+| Zig | :x: | Unrecognized | :x: |
+| Elm | :x: | Unrecognized | :x: |
+| LogTalk | :x: | Unrecognized | :x: |
+| Isabelle | :x: | Unrecognized | :x: |
+| Inform 6 | :x: | Unrecognized | :x: |
+| Inform 7 | :x: | Unrecognized | :x: |
+| Idris | :x: | Unrecognized | :x: |
+| Inno Setup | :x: | Unrecognized | :x: |
+| E | :x: | Unrecognized | :x: |
+| Erlang | :x: | Unrecognized | :x: |
+| Eiffel | :x: | Unrecognized | :x: |
+| ANTLR | :x: | Unrecognized | :x: |
+| Fortran | :x: | Unrecognized | :x: |
+| Raku | :x: | Unrecognized | :x: |
+| Perl | :x: | Unrecognized | :x: |
+| TOML | :x: | Unrecognized | :x: |
+| YAML | :x: | Unrecognized | :x: |
+| INI | :x: | Unrecognized | :x: |
+| SGML | :x: | Unrecognized | :x: |
+| IDL | :x: | Unrecognized | :x: |
+| Shell | :x: | Unrecognized | :x: |
+| PowerShell | :x: | Unrecognized | :x: |
+| PureBasic | :x: | Unrecognized | :x: |
+| PureData | :x: | Unrecognized | :x: |
+| CSound | :x: | Unrecognized | :x: |
+| Liquid | :x: | Unrecognized | :x: |
+| Ruby | :x: | Unrecognized | :x: |
+| JSON | :x: | Unrecognized | :x: |
+| CSS | :x: | Unrecognized | :x: |
+| Lisp Flavored Erlang (LFE) | :x: | Unrecognized | :x: |
+| OpenEdge ABL | :x: | Unrecognized | :x: |
+| 1C Enterprise | :x: | Unrecognized | :x: |
+| Brainfuck | :x: | Unrecognized | :x: |
+| Visual Basic | :x: | Unrecognized | :x: |
+| Visual Basic Script | :x: | Unrecognized | :x: |
+| Visual Basic .NET | :x: | Unrecognized | :x: |
+| VHDL | :x: | Unrecognized | :x: |
+| Verilog | :x: | Unrecognized | :x: |
+| SystemVerilog | :x: | Unrecognized | :x: |
+| Verilog AMS | :x: | Unrecognized | :x: |
+| Cython | :x: | Unrecognized | :x: |
+| CMake | :x: | Unrecognized | :x: |
+| Roff | :x: | Unrecognized | :x: |
+| QML | :x: | Unrecognized | :x: |
+| QMake | :x: | Unrecognized | :x: |
+| XML | :x: | Unrecognized | :x: |
+| WDL | :x: | Unrecognized | :x: |
+| Julia | :x: | Unrecognized | :x: |
+| JScript | :x: | Unrecognized | :x: |
+| JScript .NET | :x: | Unrecognized | :x: |
+| JSSS | :x: | Unrecognized | :x: |
+| SXML | :x: | Unrecognized | :x: |
+| SCSS | :x: | Unrecognized | :x: |
+| Cap'n Proto | :x: | Unrecognized | :x: |
+| Earthly | :x: | Unrecognized | :x: |
+| XUL | :x: | Unrecognized | :x: |
+| Haskell | :x: | Unrecognized | :x: |
+| HyPhy | :x: | Unrecognized | :x: |
+| HAML | :x: | Unrecognized | :x: |
+| Literate Haskell | :x: | Unrecognized | :x: |
+| Markdown | :x: | Unrecognized | :x: |
+| ReStructured Text | :x: | Unrecognized | :x: |
+| WikiText | :x: | Unrecognized | :x: |
+| Racket | :x: | Unrecognized | :x: |
+| Scheme | :x: | Unrecognized | :x: |
+
+### Gem
+
+Coming soon
+
+***
+
+**File version:** `4 (2022, Saturday, April 23rd at 8:57 pm PST)`
+
 ***
