@@ -3,7 +3,9 @@
 
 ## Programming language similarities
 
+<!-- Non-functional
 <details open><summary><p lang="en">Click/tap here to expand/collapse this aticle</p></symmary>
+!-->
 
 ### Comments
 
@@ -134,7 +136,7 @@ Isabelle
 
 </details>
 
---=
+---
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the section on single/multi-line line <code>`<!-- !-->`</code> comments</b></summary>
 
@@ -236,6 +238,16 @@ Isabelle
 `/** **/`
 
 * IDL
+
+</details>
+
+---
+
+<details open><summary><b lang="en">Click/tap here to expand/collapse the section on single line/multi-line <code>%* *%</code> comments</b></summary>
+
+`%* *%`
+
+* Razor
 
 </details>
 
@@ -988,7 +1000,265 @@ go function1();
 
 ### Gem
 
-Coming soon
+<details open><summary><b lang="en">Click/tap here to expand/collapse the section on the `gem` keyword</b></summary>
+
+```ruby
+gem "MyGem"
+gem: "/Gemfile"
+gem::version
+```
+
+| Language | Supports the `gem` keyword | As | Requires capitalization | End of line |
+|---|---|---|---|---|
+| Ruby | :heavy_check_mark: | Statement | no | :x: |
+| 1C Enterprise | :x: | Unrecognized | No | :x: |
+| Assembly | :x: | Unrecognized | No | :x: |
+| Ada | :x: | Unrecognized | No | :x: |
+| ActionScript | :x: | Unrecognized | no | :x: |
+| ALGOL | :x: | :x: | :x: | :x: |
+| AppleScript | :x: | Unrecognized | no | :x: |
+| ANTLR | :x: | Unrecognized | no | :x: |
+| AngelScript | :x: | Unrecognized | no | :x: |
+| Agda | :x: | Unrecognized | no | :x: |
+| AMPL | :x: | Unrecognized | no | :x: |
+| ASP.NET | :x: | :x: | :x: | :x: |
+| AssemblyScript | :x: | Unrecognized | no | :x: |
+| Astro | :x: | :x: | :x: | :x: |
+| ASCIIDoc | :x: | :x: | :x: | :x: |
+| ASL | :x: | Unrecognized | no | :x: |
+| Arduino | :x: | :x: | :x: | :x: |
+| API Blueprint | :x: | Unrecognized | no | :x: |
+| Apex | :x: | Unrecognized | no | :x: |
+| AWK | :x: | Unrecognized | no | :x: |
+| AL | :x: | Unrecognized | no | :x: |
+| B | :x: | :x: | :x: | :x: |
+| Boo | :x: | Unrecognized | no | :x: |
+| BASIC | :x: | Unrecognized | no | :x: |
+| Ballerina | :x: | Unrecognized | no | :x: |
+| Brainfuck | :x: | Unrecognized | no | :x: |
+| BrightScript | :x: | Unrecognized | no | :x: |
+| Batchfile | :x: | Unrecognized | no | :x: |
+| BibTeX | :x: | Unrecognized | no | :x: |
+| Befunge | :x: | :x: | :x: | :x: |
+| Blade | :x: | Unrecognized | no | :x: |
+| Bicep | :x: | Unrecognized | no | :x: |
+| C | :x: | Unrecognized | no | :x: |
+| C++ | :x: | Unrecognized | no | :x: |
+| C# | :x: | Unrecognized | no | :x: |
+| CSON | :x: | Unrecognized | no | :x: |
+| CSound | :x: | Unrecognized | no | :x: |
+| CAML | :x: | :x: | :x: | :x: |
+| Clean | :x: | Unrecognized | no | :x: |
+| CLIPS | :x: | :x: | :x: | :x: |
+| Cool | :x: | Unrecognized | no | :x: |
+| Coq | :x: | Unrecognized | no | :x: |
+| Clojure | :x: | Unrecognized | no | :x: |
+| CodeQL | :x: | Unrecognized | no | :x: |
+| COBOL | :x: | Unrecognized | no | :x: |
+| CSS | :x: | Unrecognized | no | :x: |
+| CMake | :x: | Unrecognized | no | :x: |
+| CFF | :x: | Unrecognized | no | :x: |
+| C-- | :x: | :x: | :x: | :x: |
+| Cobra | :x: | :x: | :x: | :x: |
+| CartoCSS | :x: | Unrecognized | no | :x: |7
+| D | :x: | Unrecognized | no | :x: |
+| Dart | :x: | Unrecognized | no | :x: |
+| Dafny | :x: | :x: | :x: | :x: |
+| DM | :x: | :x: | :x: | :x: |
+| Dhall | :x: | Unrecognized | no | :x: |
+| DTrace | :x: | Unrecognized | no | :x: |
+| E | :x: | Unrecognized | no | :x: |
+| Eiffel | :x: | Unrecognized | no | :x: |
+| Elixir | :x: | Unrecognized | no | :x: |
+| Erlang | :x: | Unrecognized | no | :x: |
+| Elm | :x: | Unrecognized | no | :x: |
+| Epigram | :x: | :x: | :x: | :x: |
+| Emacs Lisp | :x: | Unrecognized | no | :x: |
+| Earthly | :x: | Unrecognized | no | :x: |
+| F# | :x: | Unrecognized | no | :x: |
+| Fluent | :x: | Unrecognized | no | :x: |
+| Factor | :x: | Unrecognized | no | :x: |
+| Fantom | :x: | Unrecognized | no | :x: |
+| Forth | :x: | Unrecognized | no | :x: |
+| Fish | :x: | Unrecognized | no | :x: |
+| FORTRAN | :x: | Unrecognized | no | :x: |
+| Fancy | :x: | Unrecognized | no | :x: |
+| FreeMarker | :x: | Unrecognized | no | :x: |
+| Google GO | :x: | Unrecognized | no | :x: |
+| Go! | :x: | :x: | :x: | :x: |
+| GDScript | :x: | Unrecognized | no | :x: |
+| Game Maker Language | :x: | :x: | :x: | :x: |
+| GLSL | :x: | Unrecognized | no | :x: |
+| Gherkin | :x: | Unrecognized | no | :x: |
+| GAP | :x: | Unrecognized | no | :x: |
+| Gerber Image | :x: | Unrecognized | no | :x: |
+| Groovy | :x: | Unrecognized | no | :x: |
+| Genie | :x: | Unrecognized | no | :x: |
+| Haskell | :x: | Unrecognized | no | :x: |
+| HCL | :x: | Unrecognized | no | :x: |
+| HAML | :x: | Unrecognized | no | :x: |
+| HTML | :x: | Unrecognized | no | :x: |
+| HTML2 | :x: | Unrecognized | no | :x: |
+| HTML3 | :x: | Unrecognized | no | :x: |
+| HTML4 | :x: | Unrecognized | no | :x: |
+| HTML5 | :x: | Unrecognized | no | :x: |
+| HLSL | :x: | Unrecognized | no | :x: |
+| HandleBars | :x: | Unrecognized | no | :x: |
+| Hope | :x: | :x: | :x: | :x: |
+| Hack | :x: | Unrecognized | no | :x: |
+| HolyC | :x: | Unrecognized | no | :x: |
+| HyPhy | :x: | Unrecognized | no | :x: |
+| Isabelle | :x: | Unrecognized | no | :x: |
+| INI | :x: | Unrecognized | no | :x: |
+| Inno Setup | :x: | Unrecognized | no | :x: |
+| Idris | :x: | Unrecognized | no | :x: |
+| IDL | :x: | Unrecognized | no | :x: |
+| Io | :x: | Unrecognized | no | :x: |
+| IronPython| :x: | :x: | :x: | :x: |
+| Intel Hex Binary | :x: | :x: | :x: | :x: |
+| ISWIM | :x: | :x: | :x: | :x: |
+| Inform 6 | :x: | Unrecognized | no | :x: |
+| Inform 7 | :x: | Unrecognized | no | :x: |
+| Java | :x: | Unrecognized | no | :x: |
+| JavaScript | :x: | Unrecognized | no | :x: |
+| JavaScript++ | :x: | :x: | :x: | :x: |
+| JSON | :x: | Unrecognized | no | :x: |
+| JSON5 | :x: | Unrecognized | no | :x: |
+| Julia | :x: | Unrecognized | no | :x: |
+| JScript | :x: | Unrecognized | no | :x: |
+| JScript.NET | :x: | :x: | :x: | :x: |
+| Jade | :x: | :x: | :x: | :x: |
+| Jsonette | :x: | Unrecognized | no | :x: |
+| Jinja | :x: | Unrecognized | no | :x: |
+| JSSS | :x: | :x: | :x: | :x: |
+| Kotlin | :x: | Unrecognized | no | :x: |
+| Lua | :x: | Unrecognized | no | :x: |
+| Lisp | :x: | :x: | :x: | :x: |
+| Lisp Flavored Erlang | :x: | Unrecognized | no | :x: |
+| LiveScript | :x: | Unrecognized | no | :x: |
+| Limbo | :x: | Unrecognized | no | :x: |
+| Liquid | :x: | Unrecognized | no | :x: |
+| Less | :x: | Unrecognized | no | :x: |
+| LLVM | :x: | Unrecognized | no | :x: |
+| LogTalk | :x: | Unrecognized | no | :x: |
+| LOLCODE | :x: | Unrecognized | no | :x: |
+| Lean | :x: | Unrecognized | no | :x: |
+| Literate Haskell | :x: | Unrecognized | no | :x: |
+| M | :x: | Unrecognized | no | :x: |
+| Modelica | :x: | Unrecognized | no | :x: |
+| Modula-2 | :x: | Unrecognized | no | :x: |
+| Modula-3 | :x: | Unrecognized | no | :x: |
+| Mathematica | :x: | Unrecognized | no | :x: |
+| Makefile | :x: | Unrecognized | no | :x: |
+| Max | :x: | Unrecognized | no | :x: |
+| Metal | :x: | Unrecognized | no | :x: |
+| MathML | :x: | :x: | :x: | :x: |
+| MS-DOS Style | :x: | :x: | :x: | :x: |
+| Mercury | :x: | Unrecognized | no | :x: |
+| Meson | :x: | Unrecognized | no | :x: |
+| MoonScript | :x: | Unrecognized | no | :x: |
+| Markdown | :x: | Unrecognized | no | :x: |
+| Motorola S-RECORD | :x: | :x: | :x: | :x: |
+| M4 | :x: | Unrecognized | no | :x: |
+| MATLAB | :x: | Unrecognized | no | :x: |
+| Nim | :x: | Unrecognized | no | :x: |
+| Nix | :x: | Unrecognized | no | :x: |
+| nesC | :x: | Unrecognized | no | :x: |
+| NASL | :x: | Unrecognized | no | :x: |
+| NSIS | :x: | Unrecognized | no | :x: |
+| Nu | :x: | Unrecognized | no | :x: |
+| NewtonScript | :x: | :x: | :x: | :x: |
+| Oberon | :x: | Unrecognized | no | :x: |
+| Objective-C | :x: | Unrecognized | no | :x: |
+| Objective-C++ | :x: | Unrecognized | no | :x: |
+| Objective-J | :x: | Unrecognized | no | :x: |
+| OpenCL | :x: | Unrecognized | no | :x: |
+| OCaml | :x: | Unrecognized | no | :x: |
+| Opal | :x: | :x: | :x: | :x: |
+| OpenEdge ABL | :x: | Unrecognized | no | :x: |
+| OpenQASM | :x: | Unrecognized | no | :x: |
+| Octave | :x: | Unrecognized | no | :x: |
+| Pascal | :x: | Unrecognized | no | :x: |
+| Perl | :x: | Unrecognized | no | :x: |
+| Python 2 | :x: | Unrecognized | no | :x: |
+| Python 3 | :x: | Unrecognized | no | :x: |
+| PureScript | :x: | Unrecognized | no | :x: |
+| PureData | :x: | Unrecognized | no | :x: |
+| PureBasic | :x: | Unrecognized | no | :x: |
+| Prolog | :x: | Unrecognized | no | :x: |
+| PowerShell | :x: | Unrecognized | no | :x: |
+| PLpgSQL | :x: | Unrecognized | no | :x: |
+| PostScript | :x: | Unrecognized | no | :x: |
+| PHP | :x: | Unrecognized | no | :x: |
+| PigLatin/Pig/Apache Pig | :x: | Unrecognized | no | :x: |
+| Puppet | :x: | Unrecognized | no | :x: |
+| Pug | :x: | Unrecognized | no | :x: |
+| Q# | :x: | Unrecognized | no | :x: |
+| QMake | :x: | Unrecognized | no | :x: |
+| QML | :x: | Unrecognized | no | :x: |
+| R | :x: | Unrecognized | no | :x: |
+| REBOL | :x: | Unrecognized | no | :x: |
+| Rust | :x: | Unrecognized | no | :x: |
+| Racket | :x: | Unrecognized | no | :x: |
+| Raku | :x: | Unrecognized | no | :x: |
+| Ragel | :x: | Unrecognized | no | :x: |
+| ReStructuredText | :x: | Unrecognized | no | :x: |
+| ReasonML | :x: | Unrecognized | no | :x: |
+| ReScript | :x: | Unrecognized | no | :x: |
+| Scheme | :x: | Unrecognized | no | :x: |
+| Shell | :x: | Unrecognized | no | :x: |
+| Smalltalk | :x: | Unrecognized | no | :x: |
+| SASS | :x: | Unrecognized | no | :x: |
+| SCSS | :x: | Unrecognized | no | :x: |
+| SASL | :x: | Unrecognized | no | :x: |
+| Swift | :x: | Unrecognized | no | :x: |
+| SystemVerilog | :x: | Unrecognized | no | :x: |
+| SQL | :x: | Unrecognized | no | :x: |
+| StandardML | :x: | Unrecognized | no | :x: |
+| Scala | :x: | Unrecognized | no | :x: |
+| StringTemplate | :x: | :x: | :x: | :x: |
+| Smarty | :x: | Unrecognized | no | :x: |
+| Solidity | :x: | Unrecognized | no | :x: |
+| Stylus | :x: | Unrecognized | no | :x: |
+| Svelte | :x: | Unrecognized | no | :x: |
+| Sage | :x: | Unrecognized | no | :x: |
+| sed | :x: | Unrecognized | no | :x: |
+| TypeScript | :x: | Unrecognized | no | :x: |
+| TalkScript | :x: | Unrecognized | no | :x: |
+| TCL | :x: | Unrecognized | no | :x: |
+| TSQL | :x: | Unrecognized | no | :x: |
+| Thrift | :x: | Unrecognized | no | :x: |
+| TOML | :x: | Unrecognized | no | :x: |
+| TeX | :x: | Unrecognized | no | :x: |
+| UnrealScript | :x: | Unrecognized | no | :x: |
+| URLL | :x: | Unrecognized | no | :x: |
+| V | :x: | Unrecognized | no | :x: |
+| Verilog | :x: | Unrecognized | no | :x: |
+| VHDL | :x: | Unrecognized | no | :x: |
+| Verilog AMS | :x: | Unrecognized | no | :x: |
+| Verona | :x: | :x: | :x: | :x: |
+| Vim Script | :x: | Unrecognized | no | :x: |
+| Virtual Reality Modeling Language | :x: | :x: | :x: | :x: |
+| Visual Basic Script | :x: | Unrecognized | no | :x: |
+| VB.NET | :x: | Unrecognized | no | :x: |
+| Visual Basic | :x: | Unrecognized | no | :x: |
+| VBA | :x: | Unrecognized | no | :x: |
+| Vala | :x: | Unrecognized | no | :x: |
+| WDL | :x: | Unrecognized | no | :x: |
+| WebAssembly | :x: | Unrecognized | no | :x: |
+| WikiText | :x: | Unrecognized | no | :x: |
+| XML | :x: | Unrecognized | no | :x: |
+| XSLT | :x: | Unrecognized | no | :x: |
+| XUL | :x: | :x: | :x: | :x: |
+| X3D | :x: | :x: | :x: | :x: |
+| XBase | :x: | Unrecognized | no | :x: |
+| XQuery | :x: | Unrecognized | no | :x: |
+| Yacc | :x: | Unrecognized | no | :x: |
+| YAML | :x: | Unrecognized | no | :x: |
+| ZenScript | :x: | Unrecognized | no | :x: |
+| Zig | :x: | Unrecognized | no | :x: |
+
+</details>
 
 </details>
 
@@ -1000,9 +1270,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Sunday, April 24th at 5:21 pm PST)`
+**File version:** `6 (2022, Monday, April 25th at 1:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,168`
+**Line count (including blank lines and compiler line):** `1,468`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -1100,13 +1370,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><p lang="en">Version 6 (Coming soon)</p></summary>
+<details><summary><p lang="en">Version 6 (2022, Monday, April 25th at 1:48 pm PST)</p></summary>
 
-<!-- **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)** !-->
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > Changes:
 
-- - [x] Coming soon!
+- - [x] Added dropdowns for all sections
+
+- - [x] Added data for the usage of the `gem` keyword across over 250 different programming languages, probably the easiest keyword to document
+
+- - [x] Updated the file info section
+
+- - [x] Updated the changelog
+
+- - [x] Added examples for `%* *%` comments
 
 - - [ ] No other changes in version 6
 
@@ -1157,6 +1435,30 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Coming soon!
 
 - - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p lang="en">Version 11 (Coming soon)</p></summary>
+
+<!-- **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)** !-->
+
+> Changes:
+
+- - [x] Coming soon!
+
+- - [ ] No other changes in version 11
+
+</details>
+
+<details><summary><p lang="en">Version 12 (Coming soon)</p></summary>
+
+<!-- **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)** !-->
+
+> Changes:
+
+- - [x] Coming soon!
+
+- - [ ] No other changes in version 12
 
 </details>
 
