@@ -17,7 +17,7 @@ Previously completed
 April
 
 - [x] goto (24)
-- [ ] gem (25)
+- [x] gem (25)
 - [ ] exit (26)
 - [ ] if (27)
 - [ ] fi (28)
@@ -58,6 +58,6 @@ More coming soon
 
 ***
 
-**File version:** `1 (2022, Sunday, April 24th at 5:36 pm PST)`
+**File version:** `2 (2022, Monday, April 25th at 1:52 pm PST)`
 
 ***
