@@ -7,28 +7,30 @@
 https://github.com/seanpm2001/Learn-Ada -- 01
 https://github.com/seanpm2001/Learn-Agda -- 02
 https://github.com/seanpm2001/Learn-Ballerina -- 03
-https://github.com/seanpm2001/Learn-GDScript -- 04
-https://github.com/seanpm2001/Learn-IDL --  05
-https://github.com/seanpm2001/Learn-Idris -- 06
-https://github.com/seanpm2001/Learn-Inform -- 07
-https://github.com/seanpm2001/Learn-INI -- 08
-https://github.com/seanpm2001/Learn-Inno-Setup -- 09
-https://github.com/seanpm2001/Learn-ImageJ -- 10
-https://github.com/seanpm2001/Learn-Io -- 11
-https://github.com/seanpm2001/Learn-Isabelle -- 12
-https://github.com/seanpm2001/Learn-Julia -- 13
-https://github.com/seanpm2001/Learn-Java -- 14
+https://github.com/seanpm2001/Learn-Cython -- 04
+https://github.com/seanpm2001/Learn-GDScript -- 05
+https://github.com/seanpm2001/Learn-Gherkin -- 06
+https://github.com/seanpm2001/Learn-IDL --  07
+https://github.com/seanpm2001/Learn-Idris -- 08
+https://github.com/seanpm2001/Learn-Inform -- 09
+https://github.com/seanpm2001/Learn-INI -- 10
+https://github.com/seanpm2001/Learn-Inno-Setup -- 11
+https://github.com/seanpm2001/Learn-ImageJ -- 12
+https://github.com/seanpm2001/Learn-Io -- 13
+https://github.com/seanpm2001/Learn-Isabelle -- 14
+https://github.com/seanpm2001/Learn-Julia -- 15
+https://github.com/seanpm2001/Learn-Java -- 16
 -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
-https://github.com/seanpm2001/Learn-JavaScript -- 15
+https://github.com/seanpm2001/Learn-JavaScript -- 17
 -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
-https://github.com/seanpm2001/Learn-Kotlin -- 16
-https://github.com/seanpm2001/Learn-Mercury -- 17
-https://github.com/seanpm2001/Learn-Nim -- 18
-https://github.com/seanpm2001/Learn-R -- 19
-https://github.com/seanpm2001/Learn-Solidity -- 20
-https://github.com/seanpm2001/Learn-Zig -- 21
+https://github.com/seanpm2001/Learn-Kotlin -- 18
+https://github.com/seanpm2001/Learn-Mercury -- 19
+https://github.com/seanpm2001/Learn-Nim -- 20
+https://github.com/seanpm2001/Learn-R -- 21
+https://github.com/seanpm2001/Learn-Solidity -- 22
+https://github.com/seanpm2001/Learn-Zig -- 23
 
--- Count: 21/68
+-- Count: 23/70
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -46,15 +48,17 @@ https://github.com/seanpm2001/Learn-Zig -- 21
 -- V6 date: 2022, Tuesday, April 19th at 4:51 pm PST
 -- V7: 5 entries added, 13 entries remain (ratio: 13/60 (21.67% incomplete, 78.33% complete))
 -- V7 date: 2022, Wednesday, April 20th at 5:25 pm PST
--- V8: 8 entries added, 21 entries remain (ratio: 21/68 (30.88% incomplete,  69.12% complete))
+-- V8: 8 entries added, 21 entries remain (ratio: 21/68 (30.88% incomplete, 69.12% complete))
 -- V8 date: 2022, Thursday, April 21st at 8:48 pm PST
+-- V9: 2 entries added, 23 entries remain (ratio: 23/70 (32.85% incomplete, 67.15% complete))
+-- V9 date: 2022, Monday, July 4th at 4:49 pm PST
 
--- Ratio (incomplete/complete): 21/68 (30.88% incomplete, 69.12% complete)
+-- Ratio (incomplete/complete): 23/70 (32.85% incomplete, 67.15% complete)
 -- Calculation source: GNOME calculator, mental math
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 8 (2022, Thursday, April 21st at 8:48 pm PST)
--- Line count (including blank lines and compiler line): 61
+-- File version: 9 (2022, Monday, July 4th at 4:49 pm PST)
+-- Line count (including blank lines and compiler line): 65
 
 -- End of script
