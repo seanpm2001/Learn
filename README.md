@@ -51,7 +51,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-COBOL/"><img src="/Programming/Logos/C/COBOL/COBOL_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn COBOL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSharp/"><img src="/Programming/Logos/C/Sharp/1024px-C_Sharp_wordmark.svg.png" width="100px;" alt=""/><br /><sub><b>Learn C#</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSS/"><img src="/Programming/Logos/C/SS/CSS3Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CSS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cython/"><img src="/Programming/Logos/C/Cython/Cython_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Cython</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 4A !-->
@@ -91,7 +91,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Go2003/"><img src="/Programming/Logos/G/Go!/2100176.png" width="100px;" alt=""/><br /><sub><b>Learn Go!</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GoogleGo/"><img src="/Programming/Logos/G/GoogleGo/GOpher.png" width="100px;" alt=""/><br /><sub><b>Learn Go (Google)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GDScript/"><img src="/Programming/Logos/G/GDScript/GDScript_256px.png" width="100px;" alt=""/><br /><sub><b>Learn GDScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Gherkin/"><img src="/Programming/Logos/G/Gherkin/Gherkin_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Gherkin</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -872,11 +872,11 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Thursday, April 21st at 8:28 pm PST)`
+**File version:** `10 (2022, Monday, July 4th at 4:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,200`
+**Line count (including blank lines and compiler line):** `1,232
 
-**File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
+**File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
 
@@ -1064,6 +1064,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><b>Version 9 (2022, Thursday, April 21st at 8:28 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V9.md)
+
 **Changes:**
 
 - [x] Added 8 new entries (IDL, Idris, INform, INI, Inno Setup, ImageJ, Io, and Isabelle)
@@ -1080,11 +1084,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 10 (Coming soon)</b></summary>
+<details><summary><b>Version 10 (2022 Monday, July 4th at 4:29 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V10.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 2 new entries (Cythona nd Gherkin)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 10
 
@@ -1167,6 +1179,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><b>Version 19 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 19
+
+</details>
+
+<details><summary><b>Version 20 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 20
 
 </details>
 
