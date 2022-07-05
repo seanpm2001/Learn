@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Thursday, 21st at 8:48 pm PST
+-- As of 2022, Monday, July 4th at 6:26 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada -- 01
@@ -20,17 +20,16 @@ https://github.com/seanpm2001/Learn-Io -- 13
 https://github.com/seanpm2001/Learn-Isabelle -- 14
 https://github.com/seanpm2001/Learn-Julia -- 15
 https://github.com/seanpm2001/Learn-Java -- 16
--- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
+-- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included 
 https://github.com/seanpm2001/Learn-JavaScript -- 17
 -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
 https://github.com/seanpm2001/Learn-Kotlin -- 18
 https://github.com/seanpm2001/Learn-Mercury -- 19
 https://github.com/seanpm2001/Learn-Nim -- 20
 https://github.com/seanpm2001/Learn-R -- 21
-https://github.com/seanpm2001/Learn-Solidity -- 22
-https://github.com/seanpm2001/Learn-Zig -- 23
+https://github.com/seanpm2001/Learn-Zig -- 22
 
--- Count: 23/70
+-- Count: 22/70
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -52,13 +51,16 @@ https://github.com/seanpm2001/Learn-Zig -- 23
 -- V8 date: 2022, Thursday, April 21st at 8:48 pm PST
 -- V9: 2 entries added, 23 entries remain (ratio: 23/70 (32.85% incomplete, 67.15% complete))
 -- V9 date: 2022, Monday, July 4th at 4:49 pm PST
+-- V10: 1 entry removed, as it was recently completed, 22 entries remain (ratio: 22/70 (31.42% incomplete, 68.58% complete))
+-- V10 date: 2022, Monday, July 4th at 6:26 pm PST
 
--- Ratio (incomplete/complete): 23/70 (32.85% incomplete, 67.15% complete)
+
+-- Ratio (incomplete/complete): 22/70 (31.42% incomplete, 68.58% complete)
 -- Calculation source: GNOME calculator, mental math
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 9 (2022, Monday, July 4th at 4:49 pm PST)
--- Line count (including blank lines and compiler line): 65
+-- File version: 10 (2022, Monday, July 4th at 6:26 pm PST)
+-- Line count (including blank lines and compiler line): 67
 
 -- End of script
