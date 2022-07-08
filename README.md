@@ -226,7 +226,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PHP/"><img src="/Programming/Logos/P/HP/ElePHPant.png" width="100px;" alt=""/><br /><sub><b>Learn PHP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Prolog/"><img src="/Programming/Logos/P/Prolog/ProLogIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Prolog</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Python/"><img src="/Programming/Logos/P/Python/PythonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Python</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Pony/"><img src="/Programming/Logos/P/Pony/Pony_ProgrammingLanguage_Logo_250px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pony</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 17A !-->
@@ -247,7 +247,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Raku/"><img src="/Programming/Logos/R/Raku/Camelia.svg" width="100px;" alt=""/><br /><sub><b>Learn Raku</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReStructuredText/"><img src="/Programming/Logos/R/ReStructuredText/RST.png" width="100px;" alt=""/><br /><sub><b>Learn ReStructuredText (RST/ReST)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-R/"><img src="/Programming/Logos/R/R/Rlogo.png" width="100px;" alt=""/><br /><sub><b>Learn R</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Red/"><img src="/Programming/Logos/R/Red/Red_GORG_200px.png" width="100px;" alt=""/><br /><sub><b>Learn Red</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -872,9 +872,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Monday, July 4th at 4:29 pm PST)`
+**File version:** `11 (2022, Thursday, July 7th at 7:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,232
+**Line count (including blank lines and compiler line):** `1,256`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1070,7 +1070,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Changes:**
 
-- [x] Added 8 new entries (IDL, Idris, INform, INI, Inno Setup, ImageJ, Io, and Isabelle)
+- [x] Added 8 new entries (IDL, Idris, Inform, INI, Inno Setup, ImageJ, Io, and Isabelle)
 
 - [x] Updated the file info section
 
@@ -1084,7 +1084,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 10 (2022 Monday, July 4th at 4:29 pm PST)</b></summary>
+<details><summary><b>Version 10 (2022, Monday, July 4th at 4:29 pm PST)</b></summary>
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
@@ -1092,7 +1092,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **Changes:**
 
-- [x] Added 2 new entries (Cythona nd Gherkin)
+- [x] Added 2 new entries (Cython and Gherkin)
 
 - [x] Updated the file info section
 
@@ -1102,11 +1102,15 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 11 (Coming soon)</b></summary>
+<details><summary><b>Version 11 (2022, Thursday, July 7th at 7:00 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 2 new entries (Pony and Red)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 11
 
@@ -1199,6 +1203,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><b>Version 21 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 21
+
+</details>
+
+<details><summary><b>Version 22 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 22
 
 </details>
 
