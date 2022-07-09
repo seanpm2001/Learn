@@ -29,7 +29,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Assembly/"><img src="/Programming/Logos/A/Assembly/AssemblyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Assembly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Agda/"><img src="/Programming/Logos/A/Agda/AgdaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Agda</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ada/"><img src="/Programming/Logos/A/Ada/AdaLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Ada</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-API-Blueprint/"><img src="/Programming/Logos/A/API-Blueprint/api_blueprint_logo.png" width="100px;" alt=""/><br /><sub><b>Learn API Blueprint</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
@@ -58,7 +58,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter D !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-D/"><img src="/Programming/Logos/D/D/DLang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn D</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Dylan/"><img src="/Programming/Logos/D/Dylan/DylanLogoSquare_145px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Dylan</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -247,8 +247,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Raku/"><img src="/Programming/Logos/R/Raku/Camelia.svg" width="100px;" alt=""/><br /><sub><b>Learn Raku</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReStructuredText/"><img src="/Programming/Logos/R/ReStructuredText/RST.png" width="100px;" alt=""/><br /><sub><b>Learn ReStructuredText (RST/ReST)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-R/"><img src="/Programming/Logos/R/R/Rlogo.png" width="100px;" alt=""/><br /><sub><b>Learn R</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Red/"><img src="/Programming/Logos/R/Red/Red_GORG_200px.png" width="100px;" alt=""/><br /><sub><b>Learn Red</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Red/"><img src="/Programming/Logos/R/Red/RedLang_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Red</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RMarkdown"><img src="/Programming/Logos/R/RMarkdown/rmarkdown_logo.png" width="100px;" alt=""/><br /><sub><b>Learn RMarkdown</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 19A !-->
@@ -872,9 +872,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2022, Thursday, July 7th at 7:00 pm PST)`
+**File version:** `12 (2022, Friday, July 8th at 7:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,256`
+**Line count (including blank lines and compiler line):** `1,282`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1116,11 +1116,17 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 12 (Coming soon)</b></summary>
+<details><summary><b>Version 12 (2022, Friday, July 8th at 7:43 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added 3 new entries (API Blueprint, Dylan, and RMarkdown)
+
+- [x] Switched to a higher quality version of the Red logo (`200x200` -> `900x900`, although it still has a white background)
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 12
 
@@ -1223,6 +1229,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 22
+
+</details>
+
+<details><summary><b>Version 23 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 23
+
+</details>
+
+<details><summary><b>Version 24 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 24
 
 </details>
 
