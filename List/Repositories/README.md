@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `68`/`329` (as of 2022, Thursday, April 21st at 8:53 pm PST)
+Current progress `79`/`353` (as of 2022, Tuesday, July 26th at 5:08 pm PST)
 
-Ratio: 20.67% complete, 79.33% incomplete.
+Ratio: `22.37%` complete, `77.63%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -75,14 +75,14 @@ This list covers the creation of the language repositories.
 - [ ] Arduino
 - [ ] ApacheConf
 - [ ] AutoIt
-- [ ] AWK
+- [x] AWK
 - [ ] ASCIIDoc
 - [ ] ABNF
 - [ ] ABAP-CDS
 - [ ] Amulet
 - [ ] AspectJ
 - [ ] Augeas
-- [ ] API Blueprint
+- [x] API Blueprint
 - [ ] BASIC
 - [x] Ballerina
 - [ ] Batchfile
@@ -99,7 +99,7 @@ This list covers the creation of the language repositories.
 - [ ] Cap'n Proto
 - [ ] CartoCSS
 - [ ] Ceylon
-- [ ] Clean
+- [x] Clean
 - [ ] Clojure
 - [ ] CMAKE
 - [ ] CodeQL
@@ -108,7 +108,7 @@ This list covers the creation of the language repositories.
 - [ ] CommonWorkflowLanguage
 - [ ] Cool
 - [ ] Coq
-- [ ] Crystal
+- [x] Crystal
 - [ ] CSound
 - [ ] CSV
 - [ ] Cyclone
@@ -116,8 +116,9 @@ This list covers the creation of the language repositories.
 - [ ] CSON
 - [ ] CSound document
 - [ ] CSound score
+- [ ] Ch
 - [ ] Dafny
-- [ ] Dart
+- [x] Dart
 - [ ] Desktop
 - [ ] Dhall
 - [ ] Diff
@@ -125,6 +126,8 @@ This list covers the creation of the language repositories.
 - [ ] DM
 - [ ] Dockerfile
 - [ ] DTrace
+- [ ] DCPU-16-ASM
+- [x] DogeScript
 - [ ] E
 - [ ] EAGLE
 - [ ] Earthly
@@ -155,7 +158,8 @@ This list covers the creation of the language repositories.
 - [ ] Graphviz DOT
 - [ ] Groovy
 - [ ] GraphQL
-- [ ] Hack
+- [ ] Grammatical Framework
+- [x] Hack
 - [ ] HAML
 - [ ] HandleBars
 - [ ] HAPROXY
@@ -209,11 +213,12 @@ This list covers the creation of the language repositories.
 - [ ] LLVM
 - [ ] Logos
 - [ ] Logtalk
-- [ ] LOLCODE
+- [x] LOLCODE
 - [ ] LookML
 - [ ] Latte
 - [ ] Lucid
 - [ ] LiveScript
+- [ ] LabVIEW
 - [ ] M
 - [ ] M4
 - [x] Makefile
@@ -234,6 +239,7 @@ This list covers the creation of the language repositories.
 - [ ] MS-DOS Style
 - [ ] Max
 - [ ] MLIR
+- [ ] mcFunction
 - [ ] NASL
 - [x] nesC
 - [ ] NetRexx
@@ -255,10 +261,11 @@ This list covers the creation of the language repositories.
 - [ ] Orwell
 - [ ] Org-mode
 - [ ] OpenCL
+- [ ] Ooc
 - [ ] Pawn
 - [ ] Piglatin
-- [ ] PlPGSQL
-- [ ] PostGreSQL
+- [ ] PlPGSQL (might be the same as PostGreSQL)
+- [x] PostGreSQL
 - [ ] PostScript
 - [ ] POV Ray SDL
 - [ ] PowerShell
@@ -271,10 +278,16 @@ This list covers the creation of the language repositories.
 - [ ] Pod
 - [ ] PowerFX
 - [ ] PlSQL
+- [ ] Python Traceback
+- [ ] PicoLisp
+- [x] Pony
 - [ ] QMake
 - [x] QSharp
 - [ ] QueryByExample
+- [ ] Q
 - [x] R
+- [x] Red
+- [x] Ruby
 - [ ] Racket
 - [ ] Ragel
 - [ ] ReasonML
@@ -287,6 +300,11 @@ This list covers the creation of the language repositories.
 - [ ] RDoc
 - [ ] RPC
 - [ ] Refal
+- [ ] Rascal
+- [ ] RouterOS Script
+- [ ] Ren'Py
+- [ ] RobotFramework
+- [ ] RUNOFF
 - [ ] Sage
 - [ ] SaltStack
 - [ ] SASS
@@ -309,7 +327,7 @@ This list covers the creation of the language repositories.
 - [ ] StringTemplate
 - [ ] Stylus
 - [ ] SuperCollider
-- [ ] Svelte
+- [x] Svelte
 - [ ] SWIG
 - [ ] SXML
 - [ ] SystemVerilog
@@ -317,6 +335,7 @@ This list covers the creation of the language repositories.
 - [ ] SQLPL
 - [ ] Sublime Text
 - [ ] SVG
+- [ ] SAS
 - [ ] TCL
 - [ ] TeX
 - [ ] Thrift
@@ -326,9 +345,10 @@ This list covers the creation of the language repositories.
 - [ ] Twig
 - [ ] Textile
 - [ ] TXL
+- [ ] TSX
 - [ ] UnrealScript
 - [ ] Uno
-- [ ] V
+- [x] V
 - [ ] Verilog AMS
 - [ ] Verilog
 - [ ] Verona
@@ -337,7 +357,8 @@ This list covers the creation of the language repositories.
 - [ ] VueJS
 - [ ] VBA
 - [ ] VCL
-- [ ] WDL
+- [ ] VisualLogic
+- [x] WDL
 - [ ] WebVTT
 - [ ] Wierd
 - [ ] XProc
@@ -346,8 +367,11 @@ This list covers the creation of the language repositories.
 - [ ] XSLT
 - [ ] XBase
 - [ ] YAML
+- [ ] YARA
 - [ ] ZenScript
 - [x] Zig
+- [ ] Zil
+- [ ] ZAP
 
 </details>
 
@@ -359,11 +383,11 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Thursday, April 21st at 8:55 pm PST)`
+**File version:** `7 (2022, Tuesday, July 26th at 5:08 PST)`
 
-**Line count (including blank lines and compiler line):** `627`
+**Line count (including blank lines and compiler line):** `693`
 
-**File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
+**File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
 
@@ -527,7 +551,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 7</b></summary>
 
-**Version 7 (Coming soon)**
+**Version 7 (2022, Tuesday, July 26th at 5:08 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
@@ -535,7 +559,17 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+
+- - [x] Checked 11 new entries (old total: 68 | new total: 79)
+
+- - [x] Added 24 entries to the list (old total: 329 | new total: 353)
+
+- [x] Updated the ratio in the title section
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 7
 
@@ -618,6 +652,38 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 13</b></summary>
+
+**Version 13 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V13.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 13
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 14</b></summary>
+
+**Version 14 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V14.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 14
 
 </details>
 
