@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `79`/`353` (as of 2022, Tuesday, July 26th at 5:08 pm PST)
+Current progress `80`/`356` (as of 2022, Wednesday, July 27th at 7:46 pm PST)
 
-Ratio: `22.37%` complete, `77.63%` incomplete.
+Ratio: `22.47%` complete, `77.53%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -19,52 +19,15 @@ This list covers the creation of the language repositories.
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the repository list</b></summary>
 
-- [x] ActionScript-3
-- [x] AppleScript
-- [x] Assembly
-- [x] Boo
-- [x] C
-- [x] C-Plus-Plus
-- [x] COBOL
-- [x] CSharp
-- [x] CSS
-- [x] D
-- [x] Eiffel
-- [x] Elm
-- [x] FORTRAN
-- [x] Go2003
-- [x] GoogleGo
-- [x] GDScript
-- [x] Haskell
-- [x] Julia
-- [x] Lua
-- [x] Nim
-- [x] MoonScript
-- [x] Objective-C
-- [x] Objective-CPP
-- [x] Pascal
-- [x] Perl
-- [x] PHP
-- [x] Prolog
-- [x] Python
-- [x] QML
-- [x] Raku
-- [x] Rust
-- [x] SciLab
-- [x] Shell
-- [x] Swift
-- [x] TypeScript
-- [x] Vala
-- [x] VBScript
-- [x] VHDL
-- [x] XML
-- [x] Yacc
 - [x] 1C Enterprise
 - [x] Agda
+- [x] ActionScript-3
+- [x] AppleScript
 - [ ] ALGOL
 - [x] Ada
 - [ ] AssemblyScript
 - [ ] AngelScript
+- [x] Assembly
 - [ ] ANTLR
 - [ ] ASP
 - [ ] ASP.NET
@@ -91,10 +54,16 @@ This list covers the creation of the language repositories.
 - [ ] BitBake
 - [ ] Brainfuck
 - [x] BrightScript
+- [x] Boo
 - [ ] BSDL
 - [ ] Boogie
 - [ ] Befunge
 - [ ] Blade
+- [x] C
+- [x] C-Plus-Plus
+- [x] COBOL
+- [x] CSharp
+- [x] CSS
 - [ ] CAML
 - [ ] Cap'n Proto
 - [ ] CartoCSS
@@ -117,6 +86,7 @@ This list covers the creation of the language repositories.
 - [ ] CSound document
 - [ ] CSound score
 - [ ] Ch
+- [x] D
 - [ ] Dafny
 - [x] Dart
 - [ ] Desktop
@@ -128,6 +98,7 @@ This list covers the creation of the language repositories.
 - [ ] DTrace
 - [ ] DCPU-16-ASM
 - [x] DogeScript
+- [x] Dylan
 - [ ] E
 - [ ] EAGLE
 - [ ] Earthly
@@ -137,6 +108,9 @@ This list covers the creation of the language repositories.
 - [ ] Epigram
 - [ ] Erlang
 - [ ] Euphoria
+- [x] Eiffel
+- [x] Elm
+- [x] FORTRAN
 - [ ] Factor
 - [ ] Fancy
 - [ ] Fish
@@ -159,6 +133,10 @@ This list covers the creation of the language repositories.
 - [ ] Groovy
 - [ ] GraphQL
 - [ ] Grammatical Framework
+- [x] Go2003
+- [x] GoogleGo
+- [x] GDScript
+- [ ] Gradle
 - [x] Hack
 - [ ] HAML
 - [ ] HandleBars
@@ -170,6 +148,7 @@ This list covers the creation of the language repositories.
 - [ ] HolyC
 - [ ] Hope
 - [ ] HyPhy
+- [x] Haskell
 - [x] IDL
 - [x] Idris
 - [x] ImageJ
@@ -198,6 +177,7 @@ This list covers the creation of the language repositories.
 - [ ] Jython
 - [ ] JSON5
 - [ ] Jsonette
+- [x] Julia
 - [ ] KiCad Layout
 - [ ] KiXTart
 - [x] Kotlin
@@ -219,6 +199,7 @@ This list covers the creation of the language repositories.
 - [ ] Lucid
 - [ ] LiveScript
 - [ ] LabVIEW
+- [x] Lua
 - [ ] M
 - [ ] M4
 - [x] Makefile
@@ -240,6 +221,8 @@ This list covers the creation of the language repositories.
 - [ ] Max
 - [ ] MLIR
 - [ ] mcFunction
+- [x] MoonScript
+- [ ] Maxima
 - [ ] NASL
 - [x] nesC
 - [ ] NetRexx
@@ -250,8 +233,11 @@ This list covers the creation of the language repositories.
 - [ ] Nunjucks
 - [ ] NVIDIA Cuda
 - [ ] Nu
+- [x] Nim
 - [ ] Oberon
 - [ ] Objective-J
+- [x] Objective-C
+- [x] Objective-CPP
 - [ ] OCaml
 - [ ] Octave
 - [ ] OpenEdge ABL
@@ -280,11 +266,19 @@ This list covers the creation of the language repositories.
 - [ ] PlSQL
 - [ ] Python Traceback
 - [ ] PicoLisp
+- [x] Pascal
+- [x] Perl
+- [x] PHP
+- [x] Prolog
+- [x] Python
 - [x] Pony
 - [ ] QMake
 - [x] QSharp
 - [ ] QueryByExample
 - [ ] Q
+- [x] QML
+- [x] Raku
+- [x] Rust
 - [x] R
 - [x] Red
 - [x] Ruby
@@ -305,6 +299,9 @@ This list covers the creation of the language repositories.
 - [ ] Ren'Py
 - [ ] RobotFramework
 - [ ] RUNOFF
+- [x] SciLab
+- [x] Shell
+- [x] Swift
 - [ ] Sage
 - [ ] SaltStack
 - [ ] SASS
@@ -336,6 +333,7 @@ This list covers the creation of the language repositories.
 - [ ] Sublime Text
 - [ ] SVG
 - [ ] SAS
+- [x] TypeScript
 - [ ] TCL
 - [ ] TeX
 - [ ] Thrift
@@ -358,6 +356,9 @@ This list covers the creation of the language repositories.
 - [ ] VBA
 - [ ] VCL
 - [ ] VisualLogic
+- [x] Vala
+- [x] VBScript
+- [x] VHDL
 - [x] WDL
 - [ ] WebVTT
 - [ ] Wierd
@@ -366,6 +367,8 @@ This list covers the creation of the language repositories.
 - [ ] XS
 - [ ] XSLT
 - [ ] XBase
+- [x] XML
+- [x] Yacc
 - [ ] YAML
 - [ ] YARA
 - [ ] ZenScript
@@ -383,9 +386,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Tuesday, July 26th at 5:08 PST)`
+**File version:** `8 (2022, Wednesday, July 27th at 7:46 PST)`
 
-**Line count (including blank lines and compiler line):** `693`
+**Line count (including blank lines and compiler line):** 738`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -553,9 +556,9 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 7 (2022, Tuesday, July 26th at 5:08 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V7.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V7.md)
 
 > Changes:
 
@@ -577,15 +580,25 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 8</b></summary>
 
-**Version 8 (Coming soon)**
+**Version 8 (2022, Wednesday, July 27th at 7:46 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V8.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V8.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+
+- - [x] Checked 1 new entries (old total: 79 | new total: 80)
+
+- - [x] Added 3 entries to the list (old total: 353 | new total: 356)
+
+- [x] Updated the ratio in the title section
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 8
 
@@ -684,6 +697,38 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 15</b></summary>
+
+**Version 15 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V15.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 15
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 16</b></summary>
+
+**Version 16 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V16.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 16
 
 </details>
 
