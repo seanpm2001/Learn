@@ -69,8 +69,8 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter C !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Crystal/"><img src="/Programming/Logos/C/Crystal/Crystal_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Crystal</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Clojure/"><img src="/Programming/Logos/C/Clojure/ClojureLogo_2K.png" width="100px;" alt=""/><br /><sub><b>Learn Clojure</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CMake/"><img src="/Programming/Logos/C/CMake/Cmake.svg" width="100px;" alt=""/><br /><sub><b>Learn CMake</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -83,7 +83,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dylan/"><img src="/Programming/Logos/D/Dylan/DylanLogoSquare_145px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Dylan</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dart/"><img src="/Programming/Logos/D/Dart/Dart_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Dart</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DogeScript/"><img src="/Programming/Logos/D/DogeScript/DogeScript_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn DogeScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Dockerfile/"><img src="/Programming/Logos/D/Dockerfile/Docker_(container_engine)_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Docker/Dockerfile</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -92,8 +92,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Eiffel/"><img src="/Programming/Logos/E/Eiffel/1280px-Eiffel_logo.svg_cropped.png" width="100px;" alt=""/><br /><sub><b>Learn Eiffel</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Elm/"><img src="/Programming/Logos/E/Elm/Elm_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Elm</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Elixir/"><img src="/Programming/Logos/E/Elixir/Elixir_programming_language_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Elixir</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Erlang/"><img src="/Programming/Logos/E/Erlang/Erlang_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Erlang</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -303,7 +303,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SciLab/"><img src="/Programming/Logos/S/SciLab/Scilab_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SciLab</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Solidity/"><img src="/Programming/Logos/S/Solidity/Solidity_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Solidity</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Svelte/"><img src="/Programming/Logos/S/Svelte/Svelte_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Svelte</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Scala/"><img src="/Programming/Logos/S/Scala/Scala-full-color.svg" width="100px;" alt=""/><br /><sub><b>Learn Scala</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
@@ -1076,9 +1076,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Wednesday, July 27th at 7:40 pm PST)`
+**File version:** `15 (2022, Saturday, July 30th at 9:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,560`
+**Line count (including blank lines and compiler line):** `1,590`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1390,11 +1390,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 15 (Coming soon)</b></summary>
+<details><summary><b>Version 15 (2022, Saturday, July 30th at 9:00 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V15.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+
+- - [x] Added support for CMake, Clojure, Docker/Dockerfile, Elixir, Erlang, and Scala
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 15
 
@@ -1527,6 +1537,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 28
+
+</details>
+
+<details><summary><b>Version 29 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 29
+
+</details>
+
+<details><summary><b>Version 30 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 30
 
 </details>
 
