@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V8: 2022, Tuesday, July 26th at 5:48 pm PST
+-- V9: 2022, Monday, August 1st at 6:34 pm PST
 
 -- Programming
 -- 1
@@ -20,8 +20,10 @@ https://github.com/seanpm2001/Learn-Boo
 https://github.com/seanpm2001/Learn-BrightScript
 -- C
 https://github.com/seanpm2001/Learn-C
-https://github.com/seanpm2001/Learn-Crystal
 https://github.com/seanpm2001/Learn-Clean
+https://github.com/seanpm2001/Learn-Crystal
+https://github.com/seanpm2001/Learn-Clojure
+https://github.com/seanpm2001/Learn-CMake
 https://github.com/seanpm2001/Learn-C-Plus-Plus
 https://github.com/seanpm2001/Learn-COBOL
 https://github.com/seanpm2001/Learn-CSharp
@@ -30,11 +32,14 @@ https://github.com/seanpm2001/Learn-Cython
 -- D
 https://github.com/seanpm2001/Learn-D
 https://github.com/seanpm2001/Learn-Dart
+https://github.com/seanpm2001/Learn-Dockerfile
 https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-Dylan
 -- E
 https://github.com/seanpm2001/Learn-Eiffel
+https://github.com/seanpm2001/Learn-Elixir
 https://github.com/seanpm2001/Learn-Elm
+https://github.com/seanpm2001/Learn-Erlang
 -- F
 https://github.com/seanpm2001/Learn-FORTRAN
 -- G
@@ -96,6 +101,7 @@ https://github.com/seanpm2001/Learn-ReStructuredText
 https://github.com/seanpm2001/Learn-Ruby
 https://github.com/seanpm2001/Learn-Rust
 -- S
+https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
 https://github.com/seanpm2001/Learn-Shell
 https://github.com/seanpm2001/Learn-Solidity
@@ -118,11 +124,10 @@ https://github.com/seanpm2001/Learn-XML
 https://github.com/seanpm2001/Learn-Yacc
 -- Z
 https://github.com/seanpm2001/Learn-Zig
-
--- 86 languages listed (as of 2022, Tuesday, July 26th at 5:48 pm PST)
+-- 92 languages listed (as of 2022, Monday, August 1st at 6:34 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 8 (2022, Tuesday, July 26th at 5:48 pm PST)
--- Line count (including blank lines and compiler line): 129
+-- File version: 9 (2022, Monday, August 1st at 6:34 pm PST)
+-- Line count (including blank lines and compiler line): 134
 -- End of file
