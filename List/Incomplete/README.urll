@@ -1,35 +1,49 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Monday, July 4th at 6:26 pm PST
+-- As of 2022, Monday, August 1st at 6:54 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada -- 01
 https://github.com/seanpm2001/Learn-Agda -- 02
 https://github.com/seanpm2001/Learn-Ballerina -- 03
-https://github.com/seanpm2001/Learn-Cython -- 04
-https://github.com/seanpm2001/Learn-GDScript -- 05
-https://github.com/seanpm2001/Learn-Gherkin -- 06
-https://github.com/seanpm2001/Learn-IDL --  07
-https://github.com/seanpm2001/Learn-Idris -- 08
-https://github.com/seanpm2001/Learn-Inform -- 09
-https://github.com/seanpm2001/Learn-INI -- 10
-https://github.com/seanpm2001/Learn-Inno-Setup -- 11
-https://github.com/seanpm2001/Learn-ImageJ -- 12
-https://github.com/seanpm2001/Learn-Io -- 13
-https://github.com/seanpm2001/Learn-Isabelle -- 14
-https://github.com/seanpm2001/Learn-Julia -- 15
-https://github.com/seanpm2001/Learn-Java -- 16
+https://github.com/seanpm2001/Learn-Clojure -- 04
+https://github.com/seanpm2001/Learn-CMake -- 05
+https://github.com/seanpm2001/Learn-Crystal -- 06
+https://github.com/seanpm2001/Learn-Cython -- 07
+https://github.com/seanpm2001/Learn-Dockerfile -- 08
+https://github.com/seanpm2001/Learn-DogeScript -- 09
+https://github.com/seanpm2001/Learn-Erlang -- 10
+https://github.com/seanpm2001/Learn-GDScript -- 11
+https://github.com/seanpm2001/Learn-Gherkin -- 12
+https://github.com/seanpm2001/Learn-IDL --  13
+https://github.com/seanpm2001/Learn-Idris -- 14
+https://github.com/seanpm2001/Learn-Inform -- 15
+https://github.com/seanpm2001/Learn-INI -- 16
+https://github.com/seanpm2001/Learn-Inno-Setup -- 17
+https://github.com/seanpm2001/Learn-ImageJ -- 18
+https://github.com/seanpm2001/Learn-Io -- 19
+https://github.com/seanpm2001/Learn-Isabelle -- 20
+https://github.com/seanpm2001/Learn-Julia -- 21
+https://github.com/seanpm2001/Learn-Java -- 22
 -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included 
-https://github.com/seanpm2001/Learn-JavaScript -- 17
+https://github.com/seanpm2001/Learn-JavaScript -- 23
 -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
-https://github.com/seanpm2001/Learn-Kotlin -- 18
-https://github.com/seanpm2001/Learn-Mercury -- 19
-https://github.com/seanpm2001/Learn-Nim -- 20
-https://github.com/seanpm2001/Learn-R -- 21
-https://github.com/seanpm2001/Learn-Zig -- 22
+https://github.com/seanpm2001/Learn-Kotlin -- 24
+https://github.com/seanpm2001/Learn-Mercury -- 25
+https://github.com/seanpm2001/Learn-Nim -- 26
+https://github.com/seanpm2001/Learn-Pony -- 27
+https://github.com/seanpm2001/Learn-PostGreSQL -- 28
+https://github.com/seanpm2001/Learn-R -- 29
+https://github.com/seanpm2001/Learn-Red -- 30
+https://github.com/seanpm2001/Learn_Ruby -- 31
+https://github.com/seanpm2001/Learn-Scala -- 32
+https://github.com/seanpm2001/Learn-Svelte -- 33
+https://github.com/seanpm2001/Learn_V -- 34
+https://github.com/seanpm2001/Learn-WDL -- 35
+https://github.com/seanpm2001/Learn-Zig -- 36
 
--- Count: 22/70
+-- Count: 36/90
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -53,14 +67,16 @@ https://github.com/seanpm2001/Learn-Zig -- 22
 -- V9 date: 2022, Monday, July 4th at 4:49 pm PST
 -- V10: 1 entry removed, as it was recently completed, 22 entries remain (ratio: 22/70 (31.42% incomplete, 68.58% complete))
 -- V10 date: 2022, Monday, July 4th at 6:26 pm PST
+-- V11: 14 entries added, 4 entries not added, as they were recently completed, 36 entries remain (ratio: 36/90 (40.00% incomplete, 60.00% complete))
+-- V11 date: 2022, Monday, August 1st at 6:54 pm PST
 
 
--- Ratio (incomplete/complete): 22/70 (31.42% incomplete, 68.58% complete)
+-- Ratio (incomplete/complete): 36/90 (40.00% incomplete, 60.00% complete)
 -- Calculation source: GNOME calculator, mental math
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 10 (2022, Monday, July 4th at 6:26 pm PST)
--- Line count (including blank lines and compiler line): 67
+-- File version: 11 (2022, Monday, August 1st at 6:54 pm PST)
+-- Line count (including blank lines and compiler line): 83
 
 -- End of script
