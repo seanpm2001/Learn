@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `80`/`356` (as of 2022, Wednesday, July 27th at 7:46 pm PST)
+Current progress `90`/`356` (as of 2022, Monday, August 1st at 6:45 pm PST)
 
-Ratio: `22.47%` complete, `77.53%` incomplete.
+Ratio: `25.28%` complete, `74.72%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -69,8 +69,8 @@ This list covers the creation of the language repositories.
 - [ ] CartoCSS
 - [ ] Ceylon
 - [x] Clean
-- [ ] Clojure
-- [ ] CMAKE
+- [x] Clojure
+- [x] CMAKE
 - [ ] CodeQL
 - [ ] CoffeeScript
 - [ ] CommonLisp
@@ -94,7 +94,7 @@ This list covers the creation of the language repositories.
 - [ ] Diff
 - [ ] DIGITAL Command Language
 - [ ] DM
-- [ ] Dockerfile
+- [x] Dockerfile
 - [ ] DTrace
 - [ ] DCPU-16-ASM
 - [x] DogeScript
@@ -103,10 +103,10 @@ This list covers the creation of the language repositories.
 - [ ] EAGLE
 - [ ] Earthly
 - [ ] EJS
-- [ ] Elixir
+- [x] Elixir
 - [ ] Emacs Lisp
 - [ ] Epigram
-- [ ] Erlang
+- [x] Erlang
 - [ ] Euphoria
 - [x] Eiffel
 - [x] Elm
@@ -305,7 +305,7 @@ This list covers the creation of the language repositories.
 - [ ] Sage
 - [ ] SaltStack
 - [ ] SASS
-- [ ] Scala
+- [x] Scala
 - [ ] SCSS
 - [ ] Sed
 - [ ] Seed7
@@ -386,9 +386,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Wednesday, July 27th at 7:46 PST)`
+**File version:** `9 (2022, Monday, August 1st at 6:45 PST)`
 
-**Line count (including blank lines and compiler line):** 738`
+**Line count (including blank lines and compiler line):** `782`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -404,7 +404,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 ## File history
 
-<details open><summary><b>Click/tap here to expand/collapse the file history section</b></summary>
+<details><summary><b>Click/tap here to expand/collapse the file history section</b></summary>
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 1</b></summary>
 
@@ -606,15 +606,27 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 9</b></summary>
 
-**Version 9 (Coming soon)**
+**Version 9 (2022, Monday, August 1st at 6:45 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V9.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V9.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+
+- - [x] Checked 5 new entries, and corrected the counting error (old total: 80 | new total: 90)
+
+<!--
+- - [x] Added 3 entries to the list (old total: 353 | new total: 356)
+!-->
+
+- [x] Updated the ratio in the title section
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 9
 
@@ -729,6 +741,38 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 17</b></summary>
+
+**Version 17 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V17.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 17
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 18</b></summary>
+
+**Version 18 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V18.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 18
 
 </details>
 
