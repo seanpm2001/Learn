@@ -35,7 +35,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 1B !-->
   <!-- Letter A !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Alloy/"><img src="/Programming/Logos/A/Alloy/Alloy_Logo_Circle.png" width="100px;" alt=""/><br /><sub><b>Learn Alloy</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -94,7 +94,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Elm/"><img src="/Programming/Logos/E/Elm/Elm_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Elm</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Elixir/"><img src="/Programming/Logos/E/Elixir/Elixir_programming_language_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Elixir</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Erlang/"><img src="/Programming/Logos/E/Erlang/Erlang_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Erlang</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Earthly"><img src="/Programming/Logos/E/Earthly/EarthlyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn-Earthly</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   <!-- Row 6A !-->
@@ -114,8 +114,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GoogleGo/"><img src="/Programming/Logos/G/GoogleGo/GOpher.png" width="100px;" alt=""/><br /><sub><b>Learn Go (Google)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GDScript/"><img src="/Programming/Logos/G/GDScript/GDScript_256px.png" width="100px;" alt=""/><br /><sub><b>Learn GDScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gherkin/"><img src="/Programming/Logos/G/Gherkin/Gherkin_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Gherkin</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GDB/"><img src="/Programming/Logos/G/GDB/GDBLanguageIconV1.svg" width="100px;" alt=""/><br /><sub><b>Learn GDB</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GSC/"><img src="/Programming/Logos/G/GSC/GSC_Language_SquareLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn GSC</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 8A !-->
@@ -177,7 +177,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter K !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Kotlin/"><img src="/Programming/Logos/K/Kotlin/KotlinLogo_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn Kotlin</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-kvlang/"><img src="/Programming/Logos/K/kvlang/KivyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn kvlang</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -251,9 +251,9 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PostGreSQL/"><img src="/Programming/Logos/P/PostGreSQL/Postgresql_elephant.svg" width="100px;" alt=""/><br /><sub><b>Learn PostGreSQL</b></sub></a></td>
   </tr>
   <!-- Row 16B !-->
-  <!-- Letter P
+  <!-- Letter P !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Procfile/"><img src="/Programming/Logos/P/Procfile/ProcfileIconV1.svg" width="100px;" alt=""/><br /><sub><b>Learn Procfile</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -261,13 +261,12 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
-  !-->
   <!-- Row 17A !-->
   <!-- Letter Q !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QML/"><img src="/Programming/Logos/Q/ML/QML_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn QML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QSharp/"><img src="/Programming/Logos/Q/QSharp/QSharp_1.png" width="100px;" alt=""/><br /><sub><b>Learn Q#</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-QT-Script/"><img src="/Programming/Logos/Q/QT-Script/QT_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn QT Script</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -304,6 +303,17 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Solidity/"><img src="/Programming/Logos/S/Solidity/Solidity_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Solidity</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Svelte/"><img src="/Programming/Logos/S/Svelte/Svelte_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Svelte</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Scala/"><img src="/Programming/Logos/S/Scala/Scala-full-color.svg" width="100px;" alt=""/><br /><sub><b>Learn Scala</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Squirrel/"><img src="/Programming/Logos/S/Squirrel/SquirrelProgrammingLanguage_Logo256px.png" width="100px;" alt=""/><br /><sub><b>Learn Squirrel</b></sub></a></td>
+  </tr>
+  <!-- Row 19B !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Singularity/"><img src="/Programming/Logos/S/Singularity/SIngularityLogoBetter300px.png" width="100px;" alt=""/><br /><sub><b>Learn Singularity</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
@@ -495,6 +505,8 @@ Isabelle
 * Thrift
 * wdl
 * YAML
+* Earthly
+* Singularity
 
 `#` & `"""`
 
@@ -1076,9 +1088,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Saturday, July 30th at 9:00 pm PST)`
+**File version:** `16 (2022, Monday, August 29th at 3:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,590`
+**Line count (including blank lines and compiler line):** `1,634`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1410,11 +1422,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 16 (Coming soon)</b></summary>
+<details><summary><b>Version 16 (2022, Monday, August 29th at 3:13 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V16.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+
+- - [x] Added support for Alloy, Earthly, GDB, GSC, kvlang, Procfile, QT-Script, Singularity, and Squirrel
+
+- [x] Updated the `#` comment section to include Earthly and Singularity
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 16
 
@@ -1557,6 +1581,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 30
+
+</details>
+
+<details><summary><b>Version 31 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 31
+
+</details>
+
+<details><summary><b>Version 32 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 32
 
 </details>
 
