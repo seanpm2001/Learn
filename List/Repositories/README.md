@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `90`/`356` (as of 2022, Monday, August 1st at 6:45 pm PST)
+Current progress `99`/`363` (as of 2022, Monday, August 29th at 8:35 pm PST)
 
-Ratio: `25.28%` complete, `74.72%` incomplete.
+Ratio: `27.27%` complete, `72.73%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -24,6 +24,7 @@ This list covers the creation of the language repositories.
 - [x] ActionScript-3
 - [x] AppleScript
 - [ ] ALGOL
+- [x] Alloy
 - [x] Ada
 - [ ] AssemblyScript
 - [ ] AngelScript
@@ -101,7 +102,7 @@ This list covers the creation of the language repositories.
 - [x] Dylan
 - [ ] E
 - [ ] EAGLE
-- [ ] Earthly
+- [x] Earthly
 - [ ] EJS
 - [x] Elixir
 - [ ] Emacs Lisp
@@ -128,6 +129,8 @@ This list covers the creation of the language repositories.
 - [ ] Gherkin
 - [ ] GLSL
 - [ ] GN
+- [x] GDB
+- [x] GSC
 - [ ] Gosu
 - [ ] Graphviz DOT
 - [ ] Groovy
@@ -183,6 +186,7 @@ This list covers the creation of the language repositories.
 - [x] Kotlin
 - [ ] KRC
 - [ ] KiCad Schematic
+- [x] kvlang
 - [ ] Lean
 - [ ] Less
 - [ ] Lex
@@ -252,6 +256,7 @@ This list covers the creation of the language repositories.
 - [ ] Piglatin
 - [ ] PlPGSQL (might be the same as PostGreSQL)
 - [x] PostGreSQL
+- [x] Procfile
 - [ ] PostScript
 - [ ] POV Ray SDL
 - [ ] PowerShell
@@ -274,6 +279,7 @@ This list covers the creation of the language repositories.
 - [x] Pony
 - [ ] QMake
 - [x] QSharp
+- [x] QTScript
 - [ ] QueryByExample
 - [ ] Q
 - [x] QML
@@ -312,7 +318,8 @@ This list covers the creation of the language repositories.
 - [ ] Self
 - [ ] SGML
 - [ ] ShaderLab
-- [ ] Singularity
+- [x] Singularity
+- [x] Squirrel
 - [ ] Slim
 - [ ] SmallTalk
 - [ ] Smarty
@@ -386,9 +393,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Monday, August 1st at 6:45 PST)`
+**File version:** `10 (2022, Monday, August 29th at 8:35 PST)`
 
-**Line count (including blank lines and compiler line):** `782`
+**Line count (including blank lines and compiler line):** `831`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -634,15 +641,25 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 10</b></summary>
 
-**Version 10 (Coming soon)**
+**Version 10 (2022, Monday, August 29th at 8:35 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V10.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V10.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+
+- - [x] Checked 9 new entries, (old total: 90 | new total: 99)
+
+- - [x] Added 7 entries to the list (old total: 356 | new total: 363)
+
+- [x] Updated the ratio in the title section
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 10
 
@@ -773,6 +790,38 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 19</b></summary>
+
+**Version 19 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V19.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 19
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 20</b></summary>
+
+**Version 20 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V20.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 20
 
 </details>
 
