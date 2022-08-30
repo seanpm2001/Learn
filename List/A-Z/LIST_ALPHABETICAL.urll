@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V9: 2022, Monday, August 1st at 6:34 pm PST
+-- V9: 2022, Monday, August 9th at 8:12 pm PST
 
 -- Programming
 -- 1
@@ -10,6 +10,7 @@ https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ActionScript-3
 https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-Alloy
 https://github.com/seanpm2001/Learn-API-Blueprint
 https://github.com/seanpm2001/Learn-AppleScript
 https://github.com/seanpm2001/Learn-Assembly
@@ -36,6 +37,7 @@ https://github.com/seanpm2001/Learn-Dockerfile
 https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-Dylan
 -- E
+https://github.com/seanpm2001/Learn-Earthly
 https://github.com/seanpm2001/Learn-Eiffel
 https://github.com/seanpm2001/Learn-Elixir
 https://github.com/seanpm2001/Learn-Elm
@@ -43,10 +45,12 @@ https://github.com/seanpm2001/Learn-Erlang
 -- F
 https://github.com/seanpm2001/Learn-FORTRAN
 -- G
+https://github.com/seanpm2001/Learn-GDB
 https://github.com/seanpm2001/Learn-Go2003
 https://github.com/seanpm2001/Learn-GoogleGo
 https://github.com/seanpm2001/Learn-GDScript
 https://github.com/seanpm2001/Learn-Gherkin
+https://github.com/seanpm2001/Learn-GSC
 -- H
 https://github.com/seanpm2001/Learn-Hack
 https://github.com/seanpm2001/Learn-Haskell
@@ -65,6 +69,7 @@ https://github.com/seanpm2001/Learn-JavaScript
 https://github.com/seanpm2001/Learn-Julia
 -- K
 https://github.com/seanpm2001/Learn-Kotlin
+https://github.com/seanpm2001/Learn-kvlang
 -- L
 https://github.com/seanpm2001/Learn-LOLCODE
 https://github.com/seanpm2001/Learn-Lua
@@ -88,11 +93,13 @@ https://github.com/seanpm2001/Learn-Perl
 https://github.com/seanpm2001/Learn-PHP
 https://github.com/seanpm2001/Learn-Pony
 https://github.com/seanpm2001/Learn-PostGreSQL
+https://github.com/seanpm2001/Learn-Procfile
 https://github.com/seanpm2001/Learn-Prolog
 https://github.com/seanpm2001/Learn-Python
 -- Q
 https://github.com/seanpm2001/Learn-QML
 https://github.com/seanpm2001/Learn-QSharp
+https://github.com/seanpm2001/Learn-QT-Script
 -- R
 https://github.com/seanpm2001/Learn-R
 https://github.com/seanpm2001/Learn-Raku
@@ -103,8 +110,10 @@ https://github.com/seanpm2001/Learn-Rust
 -- S
 https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
+https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-Shell
 https://github.com/seanpm2001/Learn-Solidity
+https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-Svelte
 https://github.com/seanpm2001/Learn-Swift
 -- T
@@ -124,10 +133,10 @@ https://github.com/seanpm2001/Learn-XML
 https://github.com/seanpm2001/Learn-Yacc
 -- Z
 https://github.com/seanpm2001/Learn-Zig
--- 92 languages listed (as of 2022, Monday, August 1st at 6:34 pm PST)
+-- 101 languages listed (as of 2022, Monday, August 29th at 8:12 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 9 (2022, Monday, August 1st at 6:34 pm PST)
--- Line count (including blank lines and compiler line): 134
+-- File version: 10 (2022, Monday, August 29TH at 8:12 pm PST)
+-- Line count (including blank lines and compiler line): 143
 -- End of file
