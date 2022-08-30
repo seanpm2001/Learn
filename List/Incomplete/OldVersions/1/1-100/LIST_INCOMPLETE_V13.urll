@@ -1,0 +1,88 @@
+--URLL-version=2;
+-- Start of script
+-- Incomplete projects list
+-- As of 2022, Monday, August 29th at 8:23 pm PST
+
+-- These projects need to be started
+https://github.com/seanpm2001/Learn-Ada -- 01
+https://github.com/seanpm2001/Learn-Agda -- 02
+https://github.com/seanpm2001/Learn-Alloy -- 03
+https://github.com/seanpm2001/Learn-Ballerina -- 04
+https://github.com/seanpm2001/Learn-Clojure -- 05
+https://github.com/seanpm2001/Learn-CMake -- 06
+https://github.com/seanpm2001/Learn-Cython -- 07
+https://github.com/seanpm2001/Learn-Dockerfile -- 08
+https://github.com/seanpm2001/Learn-DogeScript -- 09
+https://github.com/seanpm2001/Learn-Earthly -- 10
+https://github.com/seanpm2001/Learn-GDB -- 11
+https://github.com/seanpm2001/Learn-GDScript -- 12
+https://github.com/seanpm2001/Learn-Gherkin -- 13
+https://github.com/seanpm2001/Learn-IDL --  14
+https://github.com/seanpm2001/Learn-Idris -- 15
+https://github.com/seanpm2001/Learn-Inform -- 16
+https://github.com/seanpm2001/Learn-INI -- 17
+https://github.com/seanpm2001/Learn-Inno-Setup -- 18
+https://github.com/seanpm2001/Learn-ImageJ -- 19
+https://github.com/seanpm2001/Learn-Io -- 20
+https://github.com/seanpm2001/Learn-Isabelle -- 21
+https://github.com/seanpm2001/Learn-Julia -- 22
+https://github.com/seanpm2001/Learn-Java -- 23
+-- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included 
+https://github.com/seanpm2001/Learn-JavaScript -- 24
+-- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
+https://github.com/seanpm2001/Learn-Kotlin -- 25
+https://github.com/seanpm2001/Learn-kvlang -- 26
+https://github.com/seanpm2001/Learn-Mercury -- 27
+https://github.com/seanpm2001/Learn-Nim -- 28
+https://github.com/seanpm2001/Learn-Pony -- 29
+https://github.com/seanpm2001/Learn-PostGreSQL -- 30
+https://github.com/seanpm2001/Learn-Procfile -- 31
+https://github.com/seanpm2001/Learn-QT-Script -- 32
+https://github.com/seanpm2001/Learn-R -- 27 -- 33
+https://github.com/seanpm2001/Learn-Red -- 28 -- 34
+https://github.com/seanpm2001/Learn_Ruby -- 29 -- 35
+https://github.com/seanpm2001/Learn-Singularity -- 36
+https://github.com/seanpm2001/Learn-Squirrel -- 37
+https://github.com/seanpm2001/Learn_V -- 38
+https://github.com/seanpm2001/Learn-Zig -- 39
+
+-- Count: 39/99
+-- These repositories have already been created, but proper documentation and examples have yet to be provided
+
+-- File history
+-- V1: File started with 11 entries (11 entries remain (ratio: 11/45 (24.44% incomplete, 75.56% complete))
+-- V1 date: 2022, Thursday, April 14th at 10:12 pm PST
+-- V2: 1 entry removed, as it was recently completed, 19 entries remain, 10 entries added (ratio: 19/55 (34.55% incomplete, 65.45% complete))
+-- V2 date: 2022, Sunday, April 17th at 6:22 pm PST
+-- V3: 2 entries removed, as they were recently completed, 17 entries remain (ratio: 17/55 (30.91% incomplete, 69.09% complete))
+-- V3 date: 2022, Monday, April 18th at 1:25 pm PST
+-- V4: 4 entries removed, as they were recently completed, 13 entries remain (ratio: 13/55 (23.64% incomplete, 76.36% complete))
+-- V4 date: 2022, Monday, April 18th at 8:06 pm PST
+-- V5: 4 entries removed, as they were recently completed, 9 entries remain (ratio: 09/55 (16.36% incomplete, 83.64% complete)) also: list sorted in A-Z order
+-- V5 date: 2022, Tuesday, April 19th at 4:06 pm PST
+-- V6: 1 entry removed, as they were recently completed, 8 entries remain, not doing any more today (ratio: 08/55 (14.55% incomplete, 85.45% complete))
+-- V6 date: 2022, Tuesday, April 19th at 4:51 pm PST
+-- V7: 5 entries added, 13 entries remain (ratio: 13/60 (21.67% incomplete, 78.33% complete))
+-- V7 date: 2022, Wednesday, April 20th at 5:25 pm PST
+-- V8: 8 entries added, 21 entries remain (ratio: 21/68 (30.88% incomplete, 69.12% complete))
+-- V8 date: 2022, Thursday, April 21st at 8:48 pm PST
+-- V9: 2 entries added, 23 entries remain (ratio: 23/70 (32.85% incomplete, 67.15% complete))
+-- V9 date: 2022, Monday, July 4th at 4:49 pm PST
+-- V10: 1 entry removed, as it was recently completed, 22 entries remain (ratio: 22/70 (31.42% incomplete, 68.58% complete))
+-- V10 date: 2022, Monday, July 4th at 6:26 pm PST
+-- V11: 14 entries added, 4 entries not added, as they were recently completed, 36 entries remain (ratio: 36/90 (40.00% incomplete, 60.00% complete))
+-- V11 date: 2022, Monday, August 1st at 6:54 pm PST
+-- V12: 0 entries added, 5 entries removed, as they were recently completed, 31 entries remain (ratio: 31/90 (34.44% incomplete, 65.56% complete))
+-- V12 date: 2022, Wednesday, August 3rd at 2:05 pm PST
+-- V13: 8 entries added, 1 entry not added, as it was complete before it could be added, 39 entries remain (ratio: 39/99 (39.39% incomplete, 60.61% complete))
+-- V13 date: 2022, Monday, August 29th at 8:23 pm PST
+
+-- Ratio (incomplete/complete): 39/99 (39.39% incomplete, 60.61% complete)
+-- Calculation source: GNOME calculator, mental math
+
+-- File info
+-- File type: URLL shortcut file (*.urll)
+-- File version: 13 (2022, Monday, August 29th at 8:23 pm PST)
+-- Line count (including blank lines and compiler line): 89
+
+-- End of script
