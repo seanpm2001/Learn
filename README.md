@@ -49,7 +49,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Boo/"><img src="/Programming/Logos/B/Boo/BooLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Boo</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ballerina/"><img src="/Programming/Logos/B/Ballerina/Ballerina-Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Ballerina</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BrightScript/"><img src="/Programming/Logos/B/BrightScript/BrightScript_1.png" width="100px;" alt=""/><br /><sub><b>Learn BrightScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BitBake/"><img src="/Programming/Logos/B/BitBake/VSCode_BitBake.png" width="100px;" alt=""/><br /><sub><b>Learn BitBake</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -168,7 +168,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Julia/"><img src="/Programming/Logos/J/Julia/Julia_Programming_Language_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Julia</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Java/"><img src="/Programming/Logos/J/Java/Java_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Java</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScript/"><img src="/Programming/Logos/J/JavaScript/JavaScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JavaScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Jinja/"><img src="/Programming/Logos/J/Jinja/jinja_logo-Opaque_180x180.png" width="100px;" alt=""/><br /><sub><b>Learn Jinja</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -478,6 +478,7 @@ Isabelle
 
 * Automake
 * AWK
+* BitBake
 * Boo
 * CMake
 * Dockerfile
@@ -635,6 +636,10 @@ Isabelle
 * OCaml
 * Isabelle
 * Standard ML
+
+`{# #}`
+
+* Jinja
 
 `;`
 
@@ -1088,9 +1093,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Monday, August 29th at 3:13 pm PST)`
+**File version:** `17 (2022, Tuesday, August 30th at 10:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,634`
+**Line count (including blank lines and compiler line):** `1,673`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1444,11 +1449,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 17 (Coming soon)</b></summary>
+<details><summary><b>Version 17 (2022, Tuesday, August 30th at 10:24 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V17.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+
+- - [x] Added support for BitBake and Jinja
+
+- [x] Updated the `#` comment section to include BitBake
+
+- [x] Added the `{# #}` comment section to support Jinja
+
+- [x] Updated the file info section
+
+- [x] Updated the file history section
 
 - [ ] No other changes in version 17
 
@@ -1601,6 +1620,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] Coming soon
 
 - [ ] No other changes in version 32
+
+</details>
+
+<details><summary><b>Version 33 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 33
+
+</details>
+
+<details><summary><b>Version 34 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+
+- [ ] No other changes in version 34
 
 </details>
 
