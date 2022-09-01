@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `101`/`364` (as of 2022, Tuesday, August 30th at 10:39 pm PST)
+Current progress `105`/`365` (as of 2022, Wednesday, August 31st at 6:36 pm PST)
 
-Ratio: `27.74%` complete, `72.26%` incomplete.
+Ratio: `28.76%` complete, `71.24%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -69,7 +69,7 @@ This list covers the creation of the language repositories.
 - [ ] CAML
 - [ ] Cap'n Proto
 - [ ] CartoCSS
-- [ ] Ceylon
+- [x] Ceylon
 - [x] Clean
 - [x] Clojure
 - [x] CMAKE
@@ -197,7 +197,7 @@ This list covers the creation of the language repositories.
 - [ ] LispFlavoredErlang
 - [ ] LLVM
 - [ ] Logos
-- [ ] Logtalk
+- [x] Logtalk
 - [x] LOLCODE
 - [ ] LookML
 - [ ] Latte
@@ -247,7 +247,7 @@ This list covers the creation of the language repositories.
 - [ ] Octave
 - [ ] OpenEdge ABL
 - [ ] OpenPolicyAgent
-- [ ] OpenQASM
+- [x] OpenQASM
 - [ ] OpenSCAD
 - [ ] Orwell
 - [ ] Org-mode
@@ -289,7 +289,7 @@ This list covers the creation of the language repositories.
 - [x] R
 - [x] Red
 - [x] Ruby
-- [ ] Racket
+- [x] Racket
 - [ ] Ragel
 - [ ] ReasonML
 - [ ] REBOL
@@ -306,6 +306,7 @@ This list covers the creation of the language repositories.
 - [ ] Ren'Py
 - [ ] RobotFramework
 - [ ] RUNOFF
+- [ ] Smalli
 - [x] SciLab
 - [x] Shell
 - [x] Swift
@@ -394,9 +395,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2022, Tuesday, August 30th at 10:39 PST)`
+**File version:** `12 (2022, Wednesday, August 31st at 6:36 PST)`
 
-**Line count (including blank lines and compiler line):** `874`
+**Line count (including blank lines and compiler line):** `836`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -425,17 +426,11 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > Changes:
 
 - [x] Started the file
-
 - [x] Added the title section
-
 - [x] Added the list section
-
 - - [x] Added 323 entries
-
 - - [x] Checked 40 entries
-
 - [x] Added a file timestamp
-
 - [ ] No other changes in version 1
 
 </details>
@@ -451,13 +446,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > Changes:
 
 - [x] Updated the title section
-
 - [x] Updated the list section
-
 - - [x] Checked 5 entries (old total: 40 | new total: 45)
-
 - [x] Updated the file timestamp
-
 - [ ] No other changes in version 2
 
 </details>
@@ -473,15 +464,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > Changes:
 
 - [x] Updated the title section
-
 - [x] Updated the list section
-
 - - [x] Added 1 new entry (old total: 323 | new total: 324)
-
 - - [x] Checked 10 entries (old total: 45 | new total: 55)
-
 - [x] Updated the file timestamp
-
 - [ ] No other changes in version 3
 
 </details>
@@ -497,13 +483,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > Changes:
 
 - [x] Updated the title section
-
 - [x] Updated the list section
-
 - - [x] Added 1 new entry (old total: 324 | new total: 325)
-
 - [x] Updated the file timestamp
-
 - [ ] No other changes in version 4
 
 </details>
@@ -519,19 +501,12 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Added 4 new entries (old total: 325 | new total: 329)
-
 - - [x] Checked 5 new entries (old total: 55 | new total: 60)
-
 - [x] Updated the ratio in the title section
-
 - [x] Converted the file version timestamp to the file info section
-
 - [x] Added the file history section
-
 - [x] Made all entries in this file collapsible/expandable through the use of the `<details>` tag
-
 - [ ] No other changes in version 5
 
 </details>
@@ -547,15 +522,10 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Checked 8 new entries (old total: 60 | new total: 68)
-
 - [x] Updated the ratio in the title section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 6
 
 </details>
@@ -571,17 +541,11 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Checked 11 new entries (old total: 68 | new total: 79)
-
 - - [x] Added 24 entries to the list (old total: 329 | new total: 353)
-
 - [x] Updated the ratio in the title section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 7
 
 </details>
@@ -597,17 +561,11 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Checked 1 new entries (old total: 79 | new total: 80)
-
 - - [x] Added 3 entries to the list (old total: 353 | new total: 356)
-
 - [x] Updated the ratio in the title section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 8
 
 </details>
@@ -623,19 +581,10 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Checked 5 new entries, and corrected the counting error (old total: 80 | new total: 90)
-
-<!--
-- - [x] Added 3 entries to the list (old total: 353 | new total: 356)
-!-->
-
 - [x] Updated the ratio in the title section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 9
 
 </details>
@@ -651,17 +600,11 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Checked 9 new entries, (old total: 90 | new total: 99)
-
 - - [x] Added 7 entries to the list (old total: 356 | new total: 363)
-
 - [x] Updated the ratio in the title section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 10
 
 </details>
@@ -677,33 +620,32 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-
 - - [x] Checked 2 new entries, (old total: 99 | new total: 101)
-
 - - [x] Added 1 entry to the list (old total: 363 | new total: 364)
-
 - [x] Updated the ratio in the title section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 11
 
 </details>
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 12</b></summary>
 
-**Version 12 (Coming soon)**
+**Version 12 (2022, Wednesday, August 31st at 6:36 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V12.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V12.md)
 
 > Changes:
 
-- [ ] Coming soon
-
+- [x] Updated the list section
+- - [x] Checked 4 new entries, (old total: 101 | new total: 105)
+- - [x] Added 1 entry to the list (old total: 364 | new total: 365)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Compressed all checkbox entries within the file history section to reduce unnecessary whitespace
 - [ ] No other changes in version 12
 
 </details>
@@ -719,7 +661,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 13
 
 </details>
@@ -735,7 +676,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 14
 
 </details>
@@ -751,7 +691,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 15
 
 </details>
@@ -767,7 +706,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 16
 
 </details>
@@ -783,7 +721,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 17
 
 </details>
@@ -799,7 +736,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 18
 
 </details>
@@ -815,7 +751,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 19
 
 </details>
@@ -831,7 +766,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 20
 
 </details>
@@ -847,7 +781,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 21
 
 </details>
@@ -863,8 +796,37 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 22
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 23</b></summary>
+
+**Version 23 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V23.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 23
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 24</b></summary>
+
+**Version 24 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V24.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 24
 
 </details>
 
