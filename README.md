@@ -71,7 +71,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Crystal/"><img src="/Programming/Logos/C/Crystal/Crystal_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Crystal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Clojure/"><img src="/Programming/Logos/C/Clojure/ClojureLogo_2K.png" width="100px;" alt=""/><br /><sub><b>Learn Clojure</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CMake/"><img src="/Programming/Logos/C/CMake/Cmake.svg" width="100px;" alt=""/><br /><sub><b>Learn CMake</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ceylon/"><img src="/Programming/Logos/C/Ceylon/Ceylon_128px.png" width="100px;" alt=""/><br /><sub><b>Learn Ceylon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -189,7 +189,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lua/"><img src="/Programming/Logos/L/Lua/Lua-Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Lua</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LOLCODE/"><img src="/Programming/Logos/L/LOLCODE/LOLCode_logo.png" width="100px;" alt=""/><br /><sub><b>Learn LOLCODE</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LogTalk/"><img src="/Programming/Logos/L/LogTalk/Logtalk-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn LogTalk</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -233,7 +233,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-C/"><img src="/Programming/Logos/O/Objective-C/Objective-C-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-C</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-CPP/"><img src="/Programming/Logos/O/Objective-CPP/OBJECTIVE-C-PREPLUS.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-C++</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenQASM/"><img src="/Programming/Logos/O/OpenQASM/OpenQASM_QisKit.png" width="100px;" alt=""/><br /><sub><b>Learn OpenQASM</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -286,7 +286,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 18B !-->
   <!-- Letter R !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Racket/"><img src="/Programming/Logos/R/Racket/Racket-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Racket</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -546,6 +546,7 @@ Isabelle
 * Solidity
 * Thrift
 * TypeScript
+* OpenQASM
 
 `//` & `/* */`
 
@@ -583,6 +584,7 @@ Isabelle
 * Verilog
 * Yacc
 * YARA
+* Ceylon
 
 `/*` & `*/`
 
@@ -674,6 +676,7 @@ Isabelle
 * Prolog
 * PostScript
 * TeX
+* LogTalk
 
 `'`
 
@@ -683,6 +686,7 @@ Isabelle
 `;;`
 
 * Scheme
+* Racket
 
 `/** **/`
 
@@ -1093,9 +1097,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2022, Tuesday, August 30th at 10:24 pm PST)`
+**File version:** `18 (2022, Wednesday, August 31st at 6:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,673`
+**Line count (including blank lines and compiler line):** `1,613`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1122,19 +1126,12 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Started the file from scratch
-
 - [x] Added the title section
-
 - [x] Added the programming language table section, with 31 entries
-
 - [x] Added the extra entry section
-
 - [x] Added the file info section
-
 - [x] Added the file history section
-
 - [x] Added the footer section
-
 - [ ] No other changes in version 1
 
 </details>
@@ -1148,13 +1145,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 5 new entries (Elm, FORTRAN, Lua, Raku, and SciLab)
-
 - [x] Fixed a bug in the table on section E1
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 2
 
 </details>
@@ -1168,19 +1161,12 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 4 new entries (GDScript, Haskell, Julia, and Nim)
-
 - [x] Added links to the first 3 versions of this project
-
 - [x] Added the methods section
-
 - [x] Added the goal section
-
 - [x] Added the see also section
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 3
 
 </details>
@@ -1194,11 +1180,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 5 new entries (1C:Enterprise, Ballerina, BrightScript, Q#, and Zig)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 4
 
 </details>
@@ -1212,11 +1195,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 5 new entries (Agda, Kotlin, Markdown, Mercury, and nesC)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 5
 
 </details>
@@ -1230,11 +1210,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 5 new entries (Mathematica, Modelica, Makefile, WikiText, ReStructuredText)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 6
 
 </details>
@@ -1248,11 +1225,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [x] Added the programming language similarities section
-
 - [ ] No other changes in version 7
 
 </details>
@@ -1266,19 +1240,12 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 5 new entries (Ada, Java, JavaScript, R, and Solidity)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [x] Updated the programming language similarities section
-
 - - [x] Added more examples for comments
-
 - - [x] Added more examples for `print` and similar statements
-
 - - [x] Added more examples for languages supporting the `break` keyword
-
 - [ ] No other changes in version 8
 
 </details>
@@ -1292,15 +1259,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 8 new entries (IDL, Idris, Inform, INI, Inno Setup, ImageJ, Io, and Isabelle)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [x] Updated the programming language similarities section
-
 - - [x] Added more examples for comments
-
 - [ ] No other changes in version 9
 
 </details>
@@ -1314,11 +1276,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 2 new entries (Cython and Gherkin)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 10
 
 </details>
@@ -1332,11 +1291,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 2 new entries (Pony and Red)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 11
 
 </details>
@@ -1350,13 +1306,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 3 new entries (API Blueprint, Dylan, and RMarkdown)
-
 - [x] Switched to a higher quality version of the Red logo (`200x200` -> `900x900`, although it still has a white background)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 12
 
 </details>
@@ -1370,11 +1322,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Added 12 new entries (AWK, Clean, Crystal, Dart, DogeScript, Hack, LOLCODE, PostGreSQL, Ruby, Svelte, V, and wdl)
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 13
 
 </details>
@@ -1388,21 +1337,13 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Expanded and updated the `Learn` table
-
 - - [x] Added sections 1B (A part 2) 13B (M part 2) 16B (P part 2) 18B (R Part 2)
-
 - - [x] Fixed the LOLCODE logo (replaced with a square logo, rather than a rectangular one)
-
 - [x] Added reference to LOLCODE comments
-
 - [x] Did significant improvements to the source code comment list
-
 - - [x] Added an error log for todays entries
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 14
 
 </details>
@@ -1416,13 +1357,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Updated the `Learn` table
-
 - - [x] Added support for CMake, Clojure, Docker/Dockerfile, Elixir, Erlang, and Scala
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 15
 
 </details>
@@ -1436,15 +1373,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Updated the `Learn` table
-
 - - [x] Added support for Alloy, Earthly, GDB, GSC, kvlang, Procfile, QT-Script, Singularity, and Squirrel
-
 - [x] Updated the `#` comment section to include Earthly and Singularity
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 16
 
 </details>
@@ -1458,27 +1390,33 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [x] Updated the `Learn` table
-
 - - [x] Added support for BitBake and Jinja
-
 - [x] Updated the `#` comment section to include BitBake
-
 - [x] Added the `{# #}` comment section to support Jinja
-
 - [x] Updated the file info section
-
 - [x] Updated the file history section
-
 - [ ] No other changes in version 17
 
 </details>
 
-<details><summary><b>Version 18 (Coming soon)</b></summary>
+<details><summary><b>Version 18 (2022, Wednesday, August 31st at 6:17 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V18.md)
 
 **Changes:**
 
-- [ ] Coming soon
-
+- [x] Updated the `Learn` table
+- - [x] Added support for Ceylon, LogTalk, OpenQASM, and Racket
+- [x] Updated the `;;` comment section to include Racket
+- [x] Updated the `//` comment section to include OpenQASM
+- [x] Updated the `%` comment section to include LogTalk
+- [x] Updated the `//` & `/* */` comment section to include Ceylon
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Compressed all entries to remove blank lines between checkboxes
+- - [x] Added a log for version 18
 - [ ] No other changes in version 18
 
 </details>
@@ -1488,7 +1426,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 19
 
 </details>
@@ -1498,7 +1435,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 20
 
 </details>
@@ -1508,7 +1444,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 21
 
 </details>
@@ -1518,7 +1453,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 22
 
 </details>
@@ -1528,7 +1462,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 23
 
 </details>
@@ -1538,7 +1471,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 24
 
 </details>
@@ -1548,7 +1480,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 25
 
 </details>
@@ -1558,7 +1489,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 26
 
 </details>
@@ -1568,7 +1498,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 27
 
 </details>
@@ -1578,7 +1507,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 28
 
 </details>
@@ -1588,7 +1516,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 29
 
 </details>
@@ -1598,7 +1525,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 30
 
 </details>
@@ -1608,7 +1534,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 31
 
 </details>
@@ -1618,7 +1543,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 32
 
 </details>
@@ -1628,7 +1552,6 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 33
 
 </details>
@@ -1638,8 +1561,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 **Changes:**
 
 - [ ] Coming soon
-
 - [ ] No other changes in version 34
+
+</details>
+
+<details><summary><b>Version 35 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 35
+
+</details>
+
+<details><summary><b>Version 36 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 36
 
 </details>
 
