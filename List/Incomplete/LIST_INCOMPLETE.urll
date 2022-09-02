@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, August 31st at 6:27 pm PST
+-- As of 2022, Thursday, September 1st at 6:39 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada -- 01
@@ -42,17 +42,19 @@ https://github.com/seanpm2001/Learn-OpenQASM
 https://github.com/seanpm2001/Learn-Pony -- 29
 https://github.com/seanpm2001/Learn-PostGreSQL -- 30
 https://github.com/seanpm2001/Learn-Procfile -- 31
+https://github.com/seanpm2001/Learn-q
 https://github.com/seanpm2001/Learn-QT-Script -- 32
 https://github.com/seanpm2001/Learn-R -- 27 -- 33
 https://github.com/seanpm2001/Learn-Racket
 https://github.com/seanpm2001/Learn-Red -- 28 -- 34
+https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn_Ruby -- 29 -- 35
 https://github.com/seanpm2001/Learn-Singularity -- 36
 https://github.com/seanpm2001/Learn-Squirrel -- 37
 https://github.com/seanpm2001/Learn_V -- 38
 https://github.com/seanpm2001/Learn-Zig -- 39
 
--- Count: 45/105
+-- Count: 47/107
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -84,15 +86,18 @@ https://github.com/seanpm2001/Learn-Zig -- 39
 -- V13 date: 2022, Monday, August 29th at 8:23 pm PST
 -- V14: 2 entries added, 41 entries remain (ratio: 41/101 (40.59% incomplete, 59.41% complete))
 -- V14 date: 2022, Tuesday, August 30th at 10:33 pm PST
+-- Side note: I have stopped updating the numbers next to the repository, as it was not worth the effort to keep swapping almost every number around every day. I just haven't gotten to removing the numbers yet.
 -- V15: 4 entries added, 45 entries remain (ratio: 45/105 (42.85% incomplete, 57.15% complete))
 -- V15 date: 2022, Wednesday, August 31st at 6:27 pm PST
+-- V16: 2 entries added, 47 entries remain (ratio: 47/107 (43.92% incomplete, 56.08% complete))
+-- V16 date: 2022, Thursday, September 1st at 6:39 pm PST
 
--- Ratio (incomplete/complete): 45/105 (42.85% incomplete, 57.15% complete)
+-- Ratio (incomplete/complete): 47/107 (43.92% incomplete, 56.08% complete)
 -- Calculation source: GNOME calculator, mental math
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 15 (2022, Wednesday, August 31st at 6:27 pm PST)
--- Line count (including blank lines and compiler line): 99
+-- File version: 16 (2022, Thursday, September 1st at 6:39 pm PST)
+-- Line count (including blank lines and compiler line): 104
 
 -- End of script
