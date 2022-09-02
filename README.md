@@ -267,7 +267,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QML/"><img src="/Programming/Logos/Q/ML/QML_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn QML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QSharp/"><img src="/Programming/Logos/Q/QSharp/QSharp_1.png" width="100px;" alt=""/><br /><sub><b>Learn Q#</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QT-Script/"><img src="/Programming/Logos/Q/QT-Script/QT_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn QT Script</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-q/"><img src="/Programming/Logos/Q/q/Q_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn q</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -287,7 +287,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter R !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Racket/"><img src="/Programming/Logos/R/Racket/Racket-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Racket</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ren-Py/"><img src="/Programming/Logos/R/Ren'Py/Ren'Py_Logo_460x460_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Ren'Py</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -469,6 +469,7 @@ Isabelle
 * TSQL
 * URLL
 * VHDL
+* q
 
 `--` & `{- -}`
 
@@ -516,6 +517,7 @@ Isabelle
 `#` & `"""` & `'''`
 
 * Python 3
+* Ren'Py
 
 `//`
 
@@ -1097,9 +1099,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2022, Wednesday, August 31st at 6:17 pm PST)`
+**File version:** `19 (2022, Thursday, September 1st at 6:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,613`
+**Line count (including blank lines and compiler line):** `1,643`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1421,11 +1423,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 19 (Coming soon)</b></summary>
+<details><summary><b>Version 19 (2022, Thursday, September 1st at 6:28 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V19.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for q, and Ren'Py
+- [x] Updated the `--` comment section to include q
+- [x] Updated the `#` & `"""` & `'''` comment section to includ Ren'Py
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log for version 19
 - [ ] No other changes in version 19
 
 </details>
@@ -1580,6 +1592,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 36
+
+</details>
+
+<details><summary><b>Version 37 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 37
+
+</details>
+
+<details><summary><b>Version 38 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 38
 
 </details>
 
