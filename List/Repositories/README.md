@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `105`/`365` (as of 2022, Wednesday, August 31st at 6:36 pm PST)
+Current progress `107`/`365` (as of 2022, Thursday, September 1st at 6:45 pm PST)
 
-Ratio: `28.76%` complete, `71.24%` incomplete.
+Ratio: `29.31%` complete, `70.69%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -282,7 +282,7 @@ This list covers the creation of the language repositories.
 - [x] QSharp
 - [x] QTScript
 - [ ] QueryByExample
-- [ ] Q
+- [x] q
 - [x] QML
 - [x] Raku
 - [x] Rust
@@ -303,7 +303,7 @@ This list covers the creation of the language repositories.
 - [ ] Refal
 - [ ] Rascal
 - [ ] RouterOS Script
-- [ ] Ren'Py
+- [x] Ren'Py
 - [ ] RobotFramework
 - [ ] RUNOFF
 - [ ] Smalli
@@ -395,9 +395,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Wednesday, August 31st at 6:36 PST)`
+**File version:** `13 (2022, Thursday, September 1st at 6:45 PST)`
 
-**Line count (including blank lines and compiler line):** `836`
+**Line count (including blank lines and compiler line):** `872`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -652,15 +652,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 13</b></summary>
 
-**Version 13 (Coming soon)**
+**Version 13 (2022, Thursday, September 1st at 5:45 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V13.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V13.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries, (old total: 105 | new total: 107)
+- - [x] Added 0 entries to the list (old total: 365 | new total: 365)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 13
 - [ ] No other changes in version 13
 
 </details>
@@ -827,6 +833,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 25</b></summary>
+
+**Version 25 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V25.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 25
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 26</b></summary>
+
+**Version 26 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V26.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 26
 
 </details>
 
