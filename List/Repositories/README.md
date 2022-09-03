@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `112`/`366` (as of 2022, Friday, September 2nd at 7:30 pm PST)
+Current progress `114`/`366` (as of 2022, Saturday, September 3rd at 2:35 pm PST)
 
-Ratio: `30.60%` complete, `69.40%` incomplete.
+Ratio: `31.14%` complete, `68.86%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -383,8 +383,8 @@ This list covers the creation of the language repositories.
 - [ ] YARA
 - [ ] ZenScript
 - [x] Zig
-- [ ] Zil
-- [ ] ZAP
+- [x] ZIL
+- [x] ZAP
 
 </details>
 
@@ -396,9 +396,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Friday, September 2nd at 7:30 PST)`
+**File version:** `15 (2022, Saturday, September 3rd at 2:35 PST)`
 
-**Line count (including blank lines and compiler line):** `909`
+**Line count (including blank lines and compiler line):** `945`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -695,15 +695,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 15</b></summary>
 
-**Version 15 (Coming soon)**
+**Version 15 (2022, Saturday, September 3rd at 2:35 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V15.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V15.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries, (old total: 112 | new total: 114)
+- - [x] Added 0 entries to the list (old total: 366 | new total: 366)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 15
 - [ ] No other changes in version 15
 
 </details>
@@ -900,6 +906,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 28
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 29</b></summary>
+
+**Version 29 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V29.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 29
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 30</b></summary>
+
+**Version 30 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V30.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 30
 
 </details>
 
