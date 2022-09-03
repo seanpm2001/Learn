@@ -7,7 +7,9 @@
 
 This is a collection of list data for the Seanpm2001 learn project. List data is in the URLL file format. It is essentially a URL list file. It is a plain text format. You can learn more about it here:
 
-- [`URLL Specification on GitHub`](https://github.com/URLL-Specification/) [**Disclaimer:** This project is also run by [`@seanpm2001`](https://github.com/seanpm2001/)]
+<!-- [`URLL Specification on GitHub`](https://github.com/URLL-Specification/) [**Disclaimer:** This project is also run by [`@seanpm2001`](https://github.com/seanpm2001/)] !-->
+
+[`URLL Specification on GitHub`](https://github.com/seanpm2001/URLL-Specification/) [**Disclaimer:** This project is also run by [`@seanpm2001`](https://github.com/seanpm2001/)]
 
 On an unrelated note, if you can, please help me spread the adoption of the URLL list file by using it in your project. It is best used for storing 2 or more links in a list, although it can be used for storing single links. Its main benefit over the typical `.*url` or `*.lnk` files is that it is plain text, cross-platform, and can store multiple links, and doesn't require a strict syntax, so it is easy to learn. It is not officially recognized by GitHub yet, but I hope for it to be in the future. Visit the project for more info.
 
@@ -47,11 +49,11 @@ Elm syntax highlighting is being used in place of URLL syntax highlighting, as t
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the file info section</b></summary>
 
-**File version:**  `4 (2022, Thursday, April 14th at 10:18 pm PST)`
+**File version:**  `5 (2022, Friday, September 2nd at 7:35 pm PST)`
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `0,144`
+**Line count (including blank lines and compiler line):** `0,158`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (US)`
 
@@ -121,12 +123,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 5 (Coming soon)</b></summary>
+<details><summary><b>Version 5 (2022, Friday, September 2nd at 7:35 pm PST)</b></summary>
+
+> Changes
+
+- [x] Updated the lists section (fixed a permanent dead link, as GitHub forced me to delete the original URLL Specification organization)
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details>
+
+<details><summary><b>Version 6 (Coming soon)</b></summary>
 
 > Changes
 
 - [ ] Coming soon
-- [ ] No other changes in version 5
+- [ ] No other changes in version 6
 
 </details>
 
