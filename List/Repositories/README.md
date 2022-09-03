@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `107`/`365` (as of 2022, Thursday, September 1st at 6:45 pm PST)
+Current progress `112`/`366` (as of 2022, Friday, September 2nd at 7:30 pm PST)
 
-Ratio: `29.31%` complete, `70.69%` incomplete.
+Ratio: `30.60%` complete, `69.40%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -53,7 +53,7 @@ This list covers the creation of the language repositories.
 - [ ] BibTeX
 - [ ] Bicep
 - [x] BitBake
-- [ ] Brainfuck
+- [x] Brainfuck
 - [x] BrightScript
 - [x] Boo
 - [ ] BSDL
@@ -195,7 +195,7 @@ This list covers the creation of the language repositories.
 - [ ] Liquid
 - [ ] Lisp
 - [ ] LispFlavoredErlang
-- [ ] LLVM
+- [x] LLVM
 - [ ] Logos
 - [x] Logtalk
 - [x] LOLCODE
@@ -215,7 +215,7 @@ This list covers the creation of the language repositories.
 - [ ] MATLAB
 - [x] MediaWiki
 - [x] Mercury
-- [ ] Meson
+- [x] Meson
 - [ ] Metal
 - [ ] ML
 - [x] Modelica
@@ -300,6 +300,7 @@ This list covers the creation of the language repositories.
 - [ ] Roff
 - [ ] RDoc
 - [ ] RPC
+- [ ] RPGLE
 - [ ] Refal
 - [ ] Rascal
 - [ ] RouterOS Script
@@ -343,7 +344,7 @@ This list covers the creation of the language repositories.
 - [ ] SVG
 - [ ] SAS
 - [x] TypeScript
-- [ ] TCL
+- [x] TCL
 - [ ] TeX
 - [ ] Thrift
 - [ ] TLA
@@ -361,7 +362,7 @@ This list covers the creation of the language repositories.
 - [ ] Verona
 - [ ] VimScript
 - [ ] Visual Basic Dot Net
-- [ ] VueJS
+- [x] VueJS
 - [ ] VBA
 - [ ] VCL
 - [ ] VisualLogic
@@ -395,9 +396,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2022, Thursday, September 1st at 6:45 PST)`
+**File version:** `14 (2022, Friday, September 2nd at 7:30 PST)`
 
-**Line count (including blank lines and compiler line):** `872`
+**Line count (including blank lines and compiler line):** `909`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -673,15 +674,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 14</b></summary>
 
-**Version 14 (Coming soon)**
+**Version 14 (2022, Friday, September 2nd at 7:30 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V14.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V14.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries, (old total: 107 | new total: 112)
+- - [x] Added 1 entries to the list (old total: 365 | new total: 366)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 14
 - [ ] No other changes in version 14
 
 </details>
@@ -863,6 +870,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 26
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 27</b></summary>
+
+**Version 27 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V27.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 27
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 28</b></summary>
+
+**Version 28 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V28.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 28
 
 </details>
 
