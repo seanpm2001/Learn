@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Friday, September 2nd at 7:21 pm PST
+-- As of 2022, Saturday, September 3rd at 2:29 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
@@ -55,9 +55,11 @@ https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-VueJS
+https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-Zig
+https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 52/112
+-- Count: 54/114
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -97,13 +99,15 @@ https://github.com/seanpm2001/Learn-Zig
 -- V17: 5 entries added, 52 entries remain (ratio: 52/112 (46.42% incomplete, 53.58% complete))
 -- V17 date: 2022, Friday, September 2nd at 7:21 pm PST
 -- Side note: all numbers next to repositories have been removed, as they became obsolete and unmaintainable.
+-- V18: 2 entries added, 54 entries remain (ratio: 54/114 (47.36% incomplete, 52.64% complete))
+-- V18 date: 2022, Saturday, September 3rd at 2:29 pm PST
 
--- Ratio (incomplete/complete): 52/112 (46.42% incomplete, 53.58% complete)
+-- Ratio (incomplete/complete): 54/114 (47.36% incomplete, 52.64% complete)
 -- Calculation source: GNOME calculator, mental math
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 17 (2022, Friday, September 2nd at 7:21 pm PST)
--- Line count (including blank lines and compiler line): 110
+-- File version: 18 (2022, Saturday, September 3rd at 2:29 pm PST)
+-- Line count (including blank lines and compiler line): 114
 
 -- End of script
