@@ -1,60 +1,63 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Thursday, September 1st at 6:39 pm PST
+-- As of 2022, Friday, September 2nd at 7:21 pm PST
 
 -- These projects need to be started
-https://github.com/seanpm2001/Learn-Ada -- 01
-https://github.com/seanpm2001/Learn-Agda -- 02
-https://github.com/seanpm2001/Learn-Alloy -- 03
-https://github.com/seanpm2001/Learn-Ballerina -- 04
+https://github.com/seanpm2001/Learn-Ada
+https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-Alloy
+https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BitBake
+https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-Ceylon
-https://github.com/seanpm2001/Learn-Clojure -- 05
-https://github.com/seanpm2001/Learn-CMake -- 06
-https://github.com/seanpm2001/Learn-Cython -- 07
-https://github.com/seanpm2001/Learn-Dockerfile -- 08
-https://github.com/seanpm2001/Learn-DogeScript -- 09
-https://github.com/seanpm2001/Learn-Earthly -- 10
-https://github.com/seanpm2001/Learn-GDB -- 11
-https://github.com/seanpm2001/Learn-GDScript -- 12
-https://github.com/seanpm2001/Learn-Gherkin -- 13
-https://github.com/seanpm2001/Learn-IDL --  14
-https://github.com/seanpm2001/Learn-Idris -- 15
-https://github.com/seanpm2001/Learn-Inform -- 16
-https://github.com/seanpm2001/Learn-INI -- 17
-https://github.com/seanpm2001/Learn-Inno-Setup -- 18
-https://github.com/seanpm2001/Learn-ImageJ -- 19
-https://github.com/seanpm2001/Learn-Io -- 20
-https://github.com/seanpm2001/Learn-Isabelle -- 21
+https://github.com/seanpm2001/Learn-Clojure
+https://github.com/seanpm2001/Learn-CMake
+https://github.com/seanpm2001/Learn-Cython
+https://github.com/seanpm2001/Learn-Dockerfile
+https://github.com/seanpm2001/Learn-DogeScript
+https://github.com/seanpm2001/Learn-Earthly
+https://github.com/seanpm2001/Learn-GDB
+https://github.com/seanpm2001/Learn-GDScript
+https://github.com/seanpm2001/Learn-Gherkin
+https://github.com/seanpm2001/Learn-IDL
+https://github.com/seanpm2001/Learn-Idris
+https://github.com/seanpm2001/Learn-Inform
+https://github.com/seanpm2001/Learn-INI
+https://github.com/seanpm2001/Learn-Inno-Setup
+https://github.com/seanpm2001/Learn-ImageJ
+https://github.com/seanpm2001/Learn-Io
+https://github.com/seanpm2001/Learn-Isabelle
 https://github.com/seanpm2001/Learn-Jinja
-https://github.com/seanpm2001/Learn-Julia -- 22
-https://github.com/seanpm2001/Learn-Java -- 23
--- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included 
-https://github.com/seanpm2001/Learn-JavaScript -- 24
--- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned entries are included. 
-https://github.com/seanpm2001/Learn-Kotlin -- 25
-https://github.com/seanpm2001/Learn-kvlang -- 26
+https://github.com/seanpm2001/Learn-Julia
+https://github.com/seanpm2001/Learn-Java -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included 
+https://github.com/seanpm2001/Learn-JavaScript -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included. 
+https://github.com/seanpm2001/Learn-Kotlin
+https://github.com/seanpm2001/Learn-kvlang
+https://github.com/seanpm2001/Learn-LLVM
 https://github.com/seanpm2001/Learn-LogTalk
-https://github.com/seanpm2001/Learn-Mercury -- 27
-https://github.com/seanpm2001/Learn-Nim -- 28
+https://github.com/seanpm2001/Learn-Meson
+https://github.com/seanpm2001/Learn-Mercury
+https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-OpenQASM
-https://github.com/seanpm2001/Learn-Pony -- 29
-https://github.com/seanpm2001/Learn-PostGreSQL -- 30
-https://github.com/seanpm2001/Learn-Procfile -- 31
+https://github.com/seanpm2001/Learn-Pony
+https://github.com/seanpm2001/Learn-PostGreSQL
+https://github.com/seanpm2001/Learn-Procfile
 https://github.com/seanpm2001/Learn-q
-https://github.com/seanpm2001/Learn-QT-Script -- 32
-https://github.com/seanpm2001/Learn-R -- 27 -- 33
+https://github.com/seanpm2001/Learn-QT-Script
+https://github.com/seanpm2001/Learn-R
 https://github.com/seanpm2001/Learn-Racket
-https://github.com/seanpm2001/Learn-Red -- 28 -- 34
+https://github.com/seanpm2001/Learn-Red
 https://github.com/seanpm2001/Learn-Ren-Py
-https://github.com/seanpm2001/Learn_Ruby -- 29 -- 35
-https://github.com/seanpm2001/Learn-Singularity -- 36
-https://github.com/seanpm2001/Learn-Squirrel -- 37
-https://github.com/seanpm2001/Learn_V -- 38
-https://github.com/seanpm2001/Learn-Zig -- 39
+https://github.com/seanpm2001/Learn_Ruby
+https://github.com/seanpm2001/Learn-Singularity
+https://github.com/seanpm2001/Learn-Squirrel
+https://github.com/seanpm2001/Learn-Tcl
+https://github.com/seanpm2001/Learn_V
+https://github.com/seanpm2001/Learn-VueJS
+https://github.com/seanpm2001/Learn-Zig
 
--- Count: 47/107
+-- Count: 52/112
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -91,13 +94,16 @@ https://github.com/seanpm2001/Learn-Zig -- 39
 -- V15 date: 2022, Wednesday, August 31st at 6:27 pm PST
 -- V16: 2 entries added, 47 entries remain (ratio: 47/107 (43.92% incomplete, 56.08% complete))
 -- V16 date: 2022, Thursday, September 1st at 6:39 pm PST
+-- V17: 5 entries added, 52 entries remain (ratio: 52/112 (46.42% incomplete, 53.58% complete))
+-- V17 date: 2022, Friday, September 2nd at 7:21 pm PST
+-- Side note: all numbers next to repositories have been removed, as they became obsolete and unmaintainable.
 
--- Ratio (incomplete/complete): 47/107 (43.92% incomplete, 56.08% complete)
+-- Ratio (incomplete/complete): 52/112 (46.42% incomplete, 53.58% complete)
 -- Calculation source: GNOME calculator, mental math
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 16 (2022, Thursday, September 1st at 6:39 pm PST)
--- Line count (including blank lines and compiler line): 104
+-- File version: 17 (2022, Friday, September 2nd at 7:21 pm PST)
+-- Line count (including blank lines and compiler line): 110
 
 -- End of script
