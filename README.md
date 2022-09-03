@@ -50,7 +50,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ballerina/"><img src="/Programming/Logos/B/Ballerina/Ballerina-Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Ballerina</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BrightScript/"><img src="/Programming/Logos/B/BrightScript/BrightScript_1.png" width="100px;" alt=""/><br /><sub><b>Learn BrightScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BitBake/"><img src="/Programming/Logos/B/BitBake/VSCode_BitBake.png" width="100px;" alt=""/><br /><sub><b>Learn BitBake</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Brainfuck/"><img src="/Programming/Logos/B/Brainfuck/BrokenBrain.png" width="100px;" alt=""/><br /><sub><b>Learn Brainfuck</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -190,7 +190,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lua/"><img src="/Programming/Logos/L/Lua/Lua-Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Lua</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LOLCODE/"><img src="/Programming/Logos/L/LOLCODE/LOLCode_logo.png" width="100px;" alt=""/><br /><sub><b>Learn LOLCODE</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LogTalk/"><img src="/Programming/Logos/L/LogTalk/Logtalk-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn LogTalk</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LLVM/"><img src="/Programming/Logos/L/LLVM/LLVM_logo.png" width="100px;" alt=""/><br /><sub><b>Learn LLVM</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -209,7 +209,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Row 13B !-->
   <!-- Letter M !-->
   <tr>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Meson/"><img src="/Programming/Logos/M/Meson/MesonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Meson</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -320,7 +320,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter T !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TypeScript/"><img src="/Programming/Logos/T/TypeScript/TypeScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn TypeScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Tcl/"><img src="/Programming/Logos/T/Tcl/Tcl-powered.svg" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -345,7 +345,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VBScript/"><img src="/Programming/Logos/V/VBScript/VBSccript_file_format_icon.png" width="100px;" alt=""/><br /><sub><b>Learn VBScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VHDL/"><img src="/Programming/Logos/V/VHDL/VHD_VirtualBox.png" width="100px;" alt=""/><br /><sub><b>Learn VHDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-V/"><img src="/Programming/Logos/V/V/V_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn V</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VueJS/"><img src="/Programming/Logos/V/Vue.js/Vue.js_Logo_2.svg" width="100px;" alt=""/><br /><sub><b>Learn Vue.js</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -509,6 +509,9 @@ Isabelle
 * YAML
 * Earthly
 * Singularity
+* Meson
+* Brainfuck (unofficially)
+* Tcl
 
 `#` & `"""`
 
@@ -549,6 +552,7 @@ Isabelle
 * Thrift
 * TypeScript
 * OpenQASM
+* Vue.js
 
 `//` & `/* */`
 
@@ -587,6 +591,7 @@ Isabelle
 * Yacc
 * YARA
 * Ceylon
+* Vue.js
 
 `/*` & `*/`
 
@@ -654,6 +659,7 @@ Isabelle
 * LLVM IR
 * NSIS
 * TOML
+* LLVM
 
 `C`
 
@@ -1099,9 +1105,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2022, Thursday, September 1st at 6:28 pm PST)`
+**File version:** `20 (2022, Friday, September 2nd at 7:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,643`
+**Line count (including blank lines and compiler line):** `1,679`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1442,11 +1448,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 20 (Coming soon)</b></summary>
+<details><summary><b>Version 20 (2022, Friday, September 2nd at 7:05 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V20.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Brainfuck, LLVM, Meson, Tcl, and Vue.js
+- [x] Updated the `//` comment section to include Vue.js
+- [x] Updated the `//` & `/* */` comment section to include Vue.js
+- [x] Updated the `#` comment section to include Meson, Tcl, and Brainfuck
+- [x] Updated the `;` comment section to include LLVM
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 20
 - [ ] No other changes in version 20
 
 </details>
@@ -1610,6 +1628,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 38
+
+</details>
+
+<details><summary><b>Version 39 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 39
+
+</details>
+
+<details><summary><b>Version 40 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 40
 
 </details>
 
