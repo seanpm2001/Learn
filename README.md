@@ -386,8 +386,8 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter Z !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Zig/"><img src="/Programming/Logos/Z/Zig/Zig_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Zig</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ZIL/"><img src="/Programming/Logos/Z/ZIL/ZIL_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ZIL</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ZAP/"><img src="/Programming/Logos/Z/ZAP/Unofficial_ZAP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ZAP</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -660,6 +660,8 @@ Isabelle
 * NSIS
 * TOML
 * LLVM
+* ZIL
+* ZAP
 
 `C`
 
@@ -1105,9 +1107,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Friday, September 2nd at 7:05 pm PST)`
+**File version:** `21 (2022, Saturday, September 3rd at 2:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,679`
+**Line count (including blank lines and compiler line):** `1,708`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1469,11 +1471,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 21 (Coming soon)</b></summary>
+<details><summary><b>Version 21 (2022, Saturday, September 3rd at 2:20 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V21.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ZIL and ZAP
+- [x] Updated the `;` comment section to include ZIL and ZAP
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 21
 - [ ] No other changes in version 21
 
 </details>
@@ -1646,6 +1657,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 40
+
+</details>
+
+<details><summary><b>Version 41 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 41
+
+</details>
+
+<details><summary><b>Version 42 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 42
 
 </details>
 
