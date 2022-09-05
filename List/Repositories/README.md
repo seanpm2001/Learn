@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `114`/`366` (as of 2022, Saturday, September 3rd at 2:35 pm PST)
+Current progress `116`/`366` (as of 2022, Sunday, September 4th at 8:53 pm PST)
 
-Ratio: `31.14%` complete, `68.86%` incomplete.
+Ratio: `31.69%` complete, `68.31%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -253,7 +253,7 @@ This list covers the creation of the language repositories.
 - [ ] Org-mode
 - [ ] OpenCL
 - [ ] Ooc
-- [ ] Pawn
+- [x] Pawn
 - [ ] Piglatin
 - [ ] PlPGSQL (might be the same as PostGreSQL)
 - [x] PostGreSQL
@@ -327,7 +327,7 @@ This list covers the creation of the language repositories.
 - [ ] SmallTalk
 - [ ] Smarty
 - [x] Solidity
-- [ ] SourcePawn
+- [x] SourcePawn
 - [ ] SQL
 - [ ] StandardML
 - [ ] Starlark
@@ -396,9 +396,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Saturday, September 3rd at 2:35 PST)`
+**File version:** `16 (2022, Sunday, September 4th at 8:53 PST)`
 
-**Line count (including blank lines and compiler line):** `945`
+**Line count (including blank lines and compiler line):** `981`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -716,15 +716,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 16</b></summary>
 
-**Version 16 (Coming soon)**
+**Version 16 (2022, Sunday, September 4th at 8:53 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V16.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V16.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries, (old total: 114 | new total: 116)
+- - [x] Added 0 entries to the list (old total: 366 | new total: 366)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 16
 - [ ] No other changes in version 16
 
 </details>
@@ -936,6 +942,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 30
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 31</b></summary>
+
+**Version 31 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V31.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 31
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 32</b></summary>
+
+**Version 32 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V32.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 32
 
 </details>
 
