@@ -84,7 +84,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dart/"><img src="/Programming/Logos/D/Dart/Dart_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Dart</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DogeScript/"><img src="/Programming/Logos/D/DogeScript/DogeScript_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn DogeScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dockerfile/"><img src="/Programming/Logos/D/Dockerfile/Docker_(container_engine)_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Docker/Dockerfile</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Desktop/"><img src="/Programming/Logos/D/Desktop/DesktopIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Desktop (.desktop)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 5A !-->
@@ -210,7 +210,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter M !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Meson/"><img src="/Programming/Logos/M/Meson/MesonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Meson</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-M/"><img src="/Programming/Logos/M/M/M-400.png" width="100px;" alt=""/><br /><sub><b>Learn M</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -353,7 +353,7 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter W !-->
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WDL/"><img src="/Programming/Logos/W/WDL/OpenWDL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn wdl</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github/com/seanpm2001/Learn-WebVTT/"><img src="/Programming/Logos/W/WebVTT/CCWEBVTT.png" width="100px;" alt=""/><br /><sub><b>Learn WebVTT</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -388,7 +388,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Zig/"><img src="/Programming/Logos/Z/Zig/Zig_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Zig</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ZIL/"><img src="/Programming/Logos/Z/ZIL/ZIL_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ZIL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ZAP/"><img src="/Programming/Logos/Z/ZAP/Unofficial_ZAP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ZAP</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ZenScript/"><img src="/Programming/Logos/Z/ZenScript/ZenScript_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn ZenScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -512,6 +512,7 @@ Isabelle
 * Meson
 * Brainfuck (unofficially)
 * Tcl
+* Desktop
 
 `#` & `"""`
 
@@ -555,6 +556,7 @@ Isabelle
 * Vue.js
 * Pawn
 * SourcePawn
+* ZenScript
 
 `//` & `/* */`
 
@@ -596,6 +598,7 @@ Isabelle
 * Vue.js
 * Pawn
 * SourcePawn
+* ZenScript
 
 `/*` & `*/`
 
@@ -629,6 +632,7 @@ Isabelle
 * Hack
 * Pawn
 * SourcePawn
+* ZenScript
 
 `<!-- !-->`
 
@@ -668,6 +672,7 @@ Isabelle
 * LLVM
 * ZIL
 * ZAP
+* M (Mumps)
 
 `C`
 
@@ -711,6 +716,10 @@ Isabelle
 `BTW`, `OBTW` &> `TLDR`
 
 * LOLCODE
+
+`NOTE`
+
+* WebVTT
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -845,6 +854,7 @@ End of line:
 
 ### Print statement
 
+
 ```python
 print("String")
 ```
@@ -950,6 +960,12 @@ Put_Line ("String");
 ```
 
 * Solidity
+
+```M
+w "String",!
+```
+
+* M
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -1113,9 +1129,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2022, Sunday, September 4th at 8:38 pm PST)`
+**File version:** `23 (2022, Monday, September 5th at 8:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,743`
+**Line count (including blank lines and compiler line):** `1,792`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1515,11 +1531,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 23 (Coming soon)</b></summary>
+<details><summary><b>Version 23 (2022, Monday, September 5th at 8:52 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V23.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Desktop, M, WebVTT, and ZenScript
+- [x] Updated the `//` comment section to include ZenScript
+- [x] Updated the `//` & `/* */` comment section to include ZenScript
+- [x] Updated the `/*` comment section to include ZenScript
+- [x] Updated the `#` comment section to include Desktop
+- [x] Updated the `;` comment section to include M
+- [x] Added the `NOTE` comment section to include WebVTT
+- [x] Added the `w "String",!` string section to include M
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 23
 - [ ] No other changes in version 23
 
 </details>
@@ -1710,6 +1741,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 44
+
+</details>
+
+<details><summary><b>Version 45 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 45
+
+</details>
+
+<details><summary><b>Version 46 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 46
 
 </details>
 
