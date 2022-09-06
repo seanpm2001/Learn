@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V16: 2022, Sunday, September 4th at 8:41 pm PST
+-- V17: 2022, Monday, September 5th at 8:56 pm PST
 
 -- Programming
 -- 1
@@ -36,6 +36,7 @@ https://github.com/seanpm2001/Learn-Cython
 -- D
 https://github.com/seanpm2001/Learn-D
 https://github.com/seanpm2001/Learn-Dart
+https://github.com/seanpm2001/Learn-Desktop
 https://github.com/seanpm2001/Learn-Dockerfile
 https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-Dylan
@@ -80,6 +81,7 @@ https://github.com/seanpm2001/Learn-LogTalk
 https://github.com/seanpm2001/Learn-LOLCODE
 https://github.com/seanpm2001/Learn-Lua
 -- M
+https://github.com/seanpm2001/Learn-M
 https://github.com/seanpm2001/Learn-Makefile
 https://github.com/seanpm2001/Learn-Markdown
 https://github.com/seanpm2001/Learn-Mathematica
@@ -142,18 +144,20 @@ https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-VueJS
 -- W
 https://github.com/seanpm2001/Learn-WDL
+https://github.com/seanpm2001/Learn-WebVTT
 -- X
 https://github.com/seanpm2001/Learn-XML
 -- Y
 https://github.com/seanpm2001/Learn-Yacc
 -- Z
 https://github.com/seanpm2001/Learn-ZAP
+https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 118 languages listed (as of 2022, Sunday, September 4th at 8:41 pm PST)
+-- 122 languages listed (as of 2022, Monday, September 5th at 8:56 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 16 (2022, Sunday, September 4th at 8:41 pm PST)
--- Line count (including blank lines and compiler line): 160
+-- File version: 17 (2022, Monday, September 5th at 8:56 pm PST)
+-- Line count (including blank lines and compiler line): 164
 -- End of file
