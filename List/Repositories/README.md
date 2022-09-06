@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `116`/`366` (as of 2022, Sunday, September 4th at 8:53 pm PST)
+Current progress `120`/`366` (as of 2022, Monday, September 5th at 9:10 pm PST)
 
-Ratio: `31.69%` complete, `68.31%` incomplete.
+Ratio: `32.78%` complete, `67.22%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -91,7 +91,7 @@ This list covers the creation of the language repositories.
 - [x] D
 - [ ] Dafny
 - [x] Dart
-- [ ] Desktop
+- [x] Desktop
 - [ ] Dhall
 - [ ] Diff
 - [ ] DIGITAL Command Language
@@ -205,7 +205,7 @@ This list covers the creation of the language repositories.
 - [ ] LiveScript
 - [ ] LabVIEW
 - [x] Lua
-- [ ] M
+- [x] M
 - [ ] M4
 - [x] Makefile
 - [ ] Mako
@@ -370,7 +370,7 @@ This list covers the creation of the language repositories.
 - [x] VBScript
 - [x] VHDL
 - [x] WDL
-- [ ] WebVTT
+- [x] WebVTT
 - [ ] Wierd
 - [ ] XProc
 - [ ] XQuery
@@ -381,7 +381,7 @@ This list covers the creation of the language repositories.
 - [x] Yacc
 - [ ] YAML
 - [ ] YARA
-- [ ] ZenScript
+- [x] ZenScript
 - [x] Zig
 - [x] ZIL
 - [x] ZAP
@@ -396,9 +396,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Sunday, September 4th at 8:53 PST)`
+**File version:** `17 (2022, Monday, September 5th at 9:10 PST)`
 
-**Line count (including blank lines and compiler line):** `981`
+**Line count (including blank lines and compiler line):** `1,017`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -737,15 +737,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 17</b></summary>
 
-**Version 17 (Coming soon)**
+**Version 17 (2022, Monday, September 5th at 9:10 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V17.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V17.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 4 new entries, (old total: 116 | new total: 120)
+- - [x] Added 0 entries to the list (old total: 366 | new total: 366)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 17
 - [ ] No other changes in version 17
 
 </details>
@@ -972,6 +978,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 32
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 33</b></summary>
+
+**Version 33 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V33.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 33
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 34</b></summary>
+
+**Version 34 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V34.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 34
 
 </details>
 
