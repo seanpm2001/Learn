@@ -5,9 +5,9 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `120`/`366` (as of 2022, Monday, September 5th at 9:10 pm PST)
+Current progress `124`/`366` (as of 2022, Tuesday, September 6th at 10:42 pm PST)
 
-Ratio: `32.78%` complete, `67.22%` incomplete.
+Ratio: `33.87%` complete, `66.13%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -95,7 +95,7 @@ This list covers the creation of the language repositories.
 - [ ] Dhall
 - [ ] Diff
 - [ ] DIGITAL Command Language
-- [ ] DM
+- [x] DM
 - [x] Dockerfile
 - [ ] DTrace
 - [ ] DCPU-16-ASM
@@ -182,11 +182,11 @@ This list covers the creation of the language repositories.
 - [ ] JSON5
 - [ ] Jsonette
 - [x] Julia
-- [ ] KiCad Layout
+- [x] KiCad Layout
 - [ ] KiXTart
 - [x] Kotlin
 - [ ] KRC
-- [ ] KiCad Schematic
+- [x] KiCad Schematic
 - [x] kvlang
 - [ ] Lean
 - [ ] Less
@@ -216,7 +216,7 @@ This list covers the creation of the language repositories.
 - [x] MediaWiki
 - [x] Mercury
 - [x] Meson
-- [ ] Metal
+- [x] Metal
 - [ ] ML
 - [x] Modelica
 - [ ] Modula-2
@@ -396,9 +396,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2022, Monday, September 5th at 9:10 PST)`
+**File version:** `18 (2022, Tuesday, September 6th at 10:42 PST)`
 
-**Line count (including blank lines and compiler line):** `1,017`
+**Line count (including blank lines and compiler line):** `1,053`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -758,15 +758,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 18</b></summary>
 
-**Version 18 (Coming soon)**
+**Version 18 (2022, Tuesday, September 6th at 10:42 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V18.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V18.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 4 new entries, (old total: 120 | new total: 124)
+- - [x] Added 0 entries to the list (old total: 366 | new total: 366)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 18
 - [ ] No other changes in version 18
 
 </details>
@@ -1008,6 +1014,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 34
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 35</b></summary>
+
+**Version 35 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V35.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 35
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 36</b></summary>
+
+**Version 36 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V36.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 36
 
 </details>
 
