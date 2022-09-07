@@ -85,7 +85,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DogeScript/"><img src="/Programming/Logos/D/DogeScript/DogeScript_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn DogeScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dockerfile/"><img src="/Programming/Logos/D/Dockerfile/Docker_(container_engine)_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Docker/Dockerfile</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Desktop/"><img src="/Programming/Logos/D/Desktop/DesktopIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Desktop (.desktop)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DM/"><img src="/Programming/Logos/D/DM/DMLOGO.png" width="100px;" alt=""/><br /><sub><b>Learn DM</b></sub></a></td>
   </tr>
   <!-- Row 5A !-->
   <!-- Letter E !-->
@@ -178,7 +178,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Kotlin/"><img src="/Programming/Logos/K/Kotlin/KotlinLogo_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn Kotlin</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-kvlang/"><img src="/Programming/Logos/K/kvlang/KivyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn kvlang</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-KiCad/"><img src="/Programming/Logos/K/KiCad/KiCad_Logo_280x280.png" width="100px;" alt=""/><br /><sub><b>Learn KiCad (Layout and Schematic)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -211,7 +211,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Meson/"><img src="/Programming/Logos/M/Meson/MesonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Meson</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M/"><img src="/Programming/Logos/M/M/M-400.png" width="100px;" alt=""/><br /><sub><b>Learn M</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Metal/"><img src="/Programming/Logos/M/Metal/MetalLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Metal</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -557,6 +557,8 @@ Isabelle
 * Pawn
 * SourcePawn
 * ZenScript
+* DM
+* Metal
 
 `//` & `/* */`
 
@@ -599,6 +601,8 @@ Isabelle
 * Pawn
 * SourcePawn
 * ZenScript
+* DM
+* Metal
 
 `/*` & `*/`
 
@@ -633,6 +637,8 @@ Isabelle
 * Pawn
 * SourcePawn
 * ZenScript
+* DM
+* Metal
 
 `<!-- !-->`
 
@@ -720,6 +726,11 @@ Isabelle
 `NOTE`
 
 * WebVTT
+
+`Unknown`
+
+* KiCad Layout
+* KiCad Schematic
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1129,9 +1140,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2022, Monday, September 5th at 8:52 pm PST)`
+**File version:** `24 (2022, Tuesday, September 6th at 10:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,792`
+**Line count (including blank lines and compiler line):** `1,832`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1555,13 +1566,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 24 (Coming soon)</b></summary>
+<details><summary><b>Version 24 (2022, Tuesday, September 6th at 10:22 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V23.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for DM, KiCad (Layout and Schematic) and Metal
+- [x] Updated the `//` comment section to include DM & Metal
+- [x] Updated the `//` & `/* */` comment section to include DM & Metal
+- [x] Updated the `/*` comment section to include DM & Metal
+- [x] Added the `Unknown` comment section to include KiCad (Layout and Schematic)
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 24
 - [ ] No other changes in version 24
-
 </details>
 
 <details><summary><b>Version 25 (Coming soon)</b></summary>
@@ -1759,6 +1781,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 46
+
+</details>
+
+<details><summary><b>Version 47 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 47
+
+</details>
+
+<details><summary><b>Version 48 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 48
 
 </details>
 
