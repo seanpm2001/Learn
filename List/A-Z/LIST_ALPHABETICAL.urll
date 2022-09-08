@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V17: 2022, Monday, September 5th at 8:56 pm PST
+-- V19: 2022, Wednesday, September 7th at 10:10 pm PST
 
 -- Programming
 -- 1
@@ -46,6 +46,7 @@ https://github.com/seanpm2001/Learn-Earthly
 https://github.com/seanpm2001/Learn-Eiffel
 https://github.com/seanpm2001/Learn-Elixir
 https://github.com/seanpm2001/Learn-Elm
+https://github.com/seanpm2001/Learn-EmacsLisp
 https://github.com/seanpm2001/Learn-Erlang
 -- F
 https://github.com/seanpm2001/Learn-FORTRAN
@@ -71,6 +72,7 @@ https://github.com/seanpm2001/Learn-Isabelle
 -- J
 https://github.com/seanpm2001/Learn-Java
 https://github.com/seanpm2001/Learn-JavaScript
+https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
 https://github.com/seanpm2001/Learn-Jinja
 https://github.com/seanpm2001/Learn-Julia
 -- K
@@ -84,6 +86,7 @@ https://github.com/seanpm2001/Learn-LOLCODE
 https://github.com/seanpm2001/Learn-Lua
 -- M
 https://github.com/seanpm2001/Learn-M
+https://github.com/seanpm2001/Learn-M4
 https://github.com/seanpm2001/Learn-Makefile
 https://github.com/seanpm2001/Learn-Markdown
 https://github.com/seanpm2001/Learn-Mathematica
@@ -157,10 +160,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 125 languages listed (as of 2022, Tuesday, September 6th at 10:29 pm PST)
+-- 128 languages listed (as of 2022, Wednesday, September 7th at 10:10 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 18 (2022, Tuesday, September 6th at 10:29 pm PST)
--- Line count (including blank lines and compiler line): 167
+-- File version: 19 (2022, Wednesday, September 7th at 10:10 pm PST)
+-- Line count (including blank lines and compiler line): 170
 -- End of file
