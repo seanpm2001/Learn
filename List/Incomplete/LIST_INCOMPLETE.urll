@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Tuesday, September 6th at 10:36 pm PST
+-- As of 2022, Wednesday, September 7th at 10:18 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
@@ -19,6 +19,7 @@ https://github.com/seanpm2001/Learn-DM
 https://github.com/seanpm2001/Learn-Dockerfile
 https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-Earthly
+https://github.com/seanpm2001/Learn-EmacsLisp
 https://github.com/seanpm2001/Learn-GDB
 https://github.com/seanpm2001/Learn-GDScript
 https://github.com/seanpm2001/Learn-Gherkin
@@ -34,12 +35,14 @@ https://github.com/seanpm2001/Learn-Jinja
 https://github.com/seanpm2001/Learn-Julia
 https://github.com/seanpm2001/Learn-Java -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included 
 https://github.com/seanpm2001/Learn-JavaScript -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included. 
+https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
 https://github.com/seanpm2001/Learn-KiCad
 https://github.com/seanpm2001/Learn-Kotlin
 https://github.com/seanpm2001/Learn-kvlang
 https://github.com/seanpm2001/Learn-LLVM
 https://github.com/seanpm2001/Learn-LogTalk
 https://github.com/seanpm2001/Learn-M
+https://github.com/seanpm2001/Learn-M4
 https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Mercury
@@ -68,7 +71,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 56/116
+-- Count: 66/126
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -116,13 +119,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V20 date: 2022, Monday, September 5th at 9:04 pm PST
 -- V21: 3 entries added, 63 entries remain (ratio: 63/123 (51.21% incomplete, 48.79% complete))
 -- V21 date: 2022, Tuesday, September 6th at 10:36 pm PST
+-- V22: 3 entries added, 66 entries remain (ratio: 66/126 (52.38% incomplete, 47.62% complete))
+-- V22 date: 2022, Wednesday, September 7th at 10:18 pm PST
 
--- Ratio (incomplete/complete): 63/123 (51.21% incomplete, 48.79% complete)
+-- Ratio (incomplete/complete): 66/123 (52.38% incomplete, 47.62% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 21 (2022, Tuesday, September 6th at 10:36 pm PST)
--- Line count (including blank lines and compiler line): 129
+-- File version: 22 (2022, Wednesday, September 7th at 10:18 pm PST)
+-- Line count (including blank lines and compiler line): 134
 
 -- End of script
