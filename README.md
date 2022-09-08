@@ -94,8 +94,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Elm/"><img src="/Programming/Logos/E/Elm/Elm_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Elm</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Elixir/"><img src="/Programming/Logos/E/Elixir/Elixir_programming_language_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Elixir</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Erlang/"><img src="/Programming/Logos/E/Erlang/Erlang_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Erlang</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Earthly"><img src="/Programming/Logos/E/Earthly/EarthlyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn-Earthly</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Earthly/"><img src="/Programming/Logos/E/Earthly/EarthlyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn-Earthly</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-EmacsLisp/"><img src="/Programming/Logos/E/Emacs_Lisp/EmacsLispIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Emacs Lisp</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   <!-- Row 6A !-->
   <!-- Letter F !-->
@@ -169,7 +169,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Java/"><img src="/Programming/Logos/J/Java/Java_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Java</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScript/"><img src="/Programming/Logos/J/JavaScript/JavaScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JavaScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jinja/"><img src="/Programming/Logos/J/Jinja/jinja_logo-Opaque_180x180.png" width="100px;" alt=""/><br /><sub><b>Learn Jinja</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScriptPlusPlus/"><img src="/Programming/Logos/J/JavaScript%2B%2B/JSPP_512pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn JS++ (JavaScript++)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -212,7 +212,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Meson/"><img src="/Programming/Logos/M/Meson/MesonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Meson</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M/"><img src="/Programming/Logos/M/M/M-400.png" width="100px;" alt=""/><br /><sub><b>Learn M</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Metal/"><img src="/Programming/Logos/M/Metal/MetalLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Metal</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -513,6 +513,7 @@ Isabelle
 * Brainfuck (unofficially)
 * Tcl
 * Desktop
+* M4
 
 `#` & `"""`
 
@@ -559,6 +560,7 @@ Isabelle
 * ZenScript
 * DM
 * Metal
+* JavaScript++
 
 `//` & `/* */`
 
@@ -603,6 +605,7 @@ Isabelle
 * ZenScript
 * DM
 * Metal
+* JavaScript++
 
 `/*` & `*/`
 
@@ -639,6 +642,7 @@ Isabelle
 * ZenScript
 * DM
 * Metal
+* JavaScript++
 
 `<!-- !-->`
 
@@ -714,6 +718,7 @@ Isabelle
 
 * Scheme
 * Racket
+* Emacs Lisp
 
 `/** **/`
 
@@ -978,6 +983,12 @@ w "String",!
 
 * M
 
+```emacs-lisp
+(message "String")
+```
+
+* Emacs Lisp
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1140,9 +1151,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Tuesday, September 6th at 10:22 pm PST)`
+**File version:** `25 (2022, Wednesday, September 7th at 10:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,832`
+**Line count (including blank lines and compiler line):** `1,876`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1570,7 +1581,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/OldVersions/README/English/1/README_V23.md)
+[View this version](/OldVersions/README/English/1/README_V24.md)
 
 **Changes:**
 
@@ -1584,14 +1595,29 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - - [x] Added a log entry for version 24
 - [ ] No other changes in version 24
+
 </details>
 
-<details><summary><b>Version 25 (Coming soon)</b></summary>
+<details><summary><b>Version 25 (2022, Wednesday, September 7th at 10:06 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V25.md)
 
 **Changes:**
 
-- [ ] Coming soon
-- [ ] No other changes in version 25
+- [x] Updated the `Learn` table
+- - [x] Added support for Emacs Lisp, JavaScript++, and M4
+- [x] Updated the `//` comment section to include JavaScript++
+- [x] Updated the `//` & `/* */` comment section to include JavaScript++
+- [x] Updated the `/*` comment section to include JavaScript++
+- [x] Updated the `#` comment section to include M4
+- [x] Updated the `;;` comment section to include Emacs Lisp
+- [x] Added the `(message "String")` string section, which includes Emacs Lisp
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 24
+- [ ] No other changes in version 24
 
 </details>
 
@@ -1799,6 +1825,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 48
+
+</details>
+
+<details><summary><b>Version 49 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 49
+
+</details>
+
+<details><summary><b>Version 50 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 50
 
 </details>
 
