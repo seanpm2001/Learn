@@ -26,7 +26,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ActionScript-3/"><img src="/Programming/Logos/A/ActionScript/3/ActionScriptFileIcon.png" width="100px;" alt=""/><br /><sub><b>Learn ActionScript 3.0</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AppleScript/"><img src="/Programming/Logos/A/AppleScript/AppleScript_Editor_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn AppleScript</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Assembly/"><img src="/Programming/Logos/A/Assembly/AssemblyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Assembly</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Assembly/"><img src="/Programming/Logos/A/Assembly/ASM_Logo2_350px.png" width="100px;" alt=""/><br /><sub><b>Learn Assembly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Agda/"><img src="/Programming/Logos/A/Agda/AgdaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Agda</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ada/"><img src="/Programming/Logos/A/Ada/AdaLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Ada</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-API-Blueprint/"><img src="/Programming/Logos/A/API-Blueprint/api_blueprint_logo.png" width="100px;" alt=""/><br /><sub><b>Learn API Blueprint</b></sub></a></td>
@@ -191,7 +191,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LOLCODE/"><img src="/Programming/Logos/L/LOLCODE/LOLCode_logo.png" width="100px;" alt=""/><br /><sub><b>Learn LOLCODE</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LogTalk/"><img src="/Programming/Logos/L/LogTalk/Logtalk-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn LogTalk</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LLVM/"><img src="/Programming/Logos/L/LLVM/LLVM_logo.png" width="100px;" alt=""/><br /><sub><b>Learn LLVM</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Lingo/"><img src="/Programming/Logos/L/Lingo/LingoLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Lingo (Adobe)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -213,7 +213,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M/"><img src="/Programming/Logos/M/M/M-400.png" width="100px;" alt=""/><br /><sub><b>Learn M</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Metal/"><img src="/Programming/Logos/M/Metal/MetalLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Metal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Malbolge/"><img src="/Programming/Logos/M/Malbolge/Malbolge_Caution_512px.png" width="100px;" alt=""/><br /><sub><b>Learn Malbolge</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -234,7 +234,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-C/"><img src="/Programming/Logos/O/Objective-C/Objective-C-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-C</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-CPP/"><img src="/Programming/Logos/O/Objective-CPP/OBJECTIVE-C-PREPLUS.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-C++</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenQASM/"><img src="/Programming/Logos/O/OpenQASM/OpenQASM_QisKit.png" width="100px;" alt=""/><br /><sub><b>Learn OpenQASM</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-OCaml/"><img src="/Programming/Logos/O/OCaml/OCaml_LogoSquare525px.svg" width="100px;" alt=""/><br /><sub><b>Learn OCaml</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -561,6 +561,7 @@ Isabelle
 * DM
 * Metal
 * JavaScript++
+* Lingo
 
 `//` & `/* */`
 
@@ -607,6 +608,8 @@ Isabelle
 * Metal
 * JavaScript++
 
+<!-- * Lingo (unsure) !-->
+
 `/*` & `*/`
 
 * ActionScript
@@ -643,6 +646,8 @@ Isabelle
 * DM
 * Metal
 * JavaScript++
+
+<!-- * Lingo (unsure) !-->
 
 `<!-- !-->`
 
@@ -736,6 +741,7 @@ Isabelle
 
 * KiCad Layout
 * KiCad Schematic
+* Malbolge
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -959,6 +965,12 @@ println!("String");
 
 * Rust
 
+```ocaml
+print_endline "String"
+```
+
+* OCaml
+
 ```applescript
 display dialog "String"
 ```
@@ -1151,9 +1163,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Wednesday, September 7th at 10:06 pm PST)`
+**File version:** `26 (2022, Thursday, September 8th at 8:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,876`
+**Line count (including blank lines and compiler line):** `1,920`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1616,16 +1628,30 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `(message "String")` string section, which includes Emacs Lisp
 - [x] Updated the file info section
 - [x] Updated the file history section
-- - [x] Added a log entry for version 24
-- [ ] No other changes in version 24
+- - [x] Added a log entry for version 25
+- [ ] No other changes in version 25
 
 </details>
 
-<details><summary><b>Version 26 (Coming soon)</b></summary>
+<details><summary><b>Version 26 (2022, Thursday, September 8th at 8:12 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V26.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Lingo, Malbolge, and OCaml
+- [x] Updated the `//` comment section to include Lingo
+- [x] Updated the `(* *)` comment section to include OCaml
+- [x] Updated the `Unknown` comment section to include Malbolge
+- [x] Switched to a new Assembly language logo, as the previous one had fake transparency checkers, and no replacement could be found.
+- [x] Added the `print_endline "String"` string section, which includes OCaml
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 26
+- - [x] Fixed the entry for version 25
 - [ ] No other changes in version 26
 
 </details>
@@ -1843,6 +1869,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 50
+
+</details>
+
+<details><summary><b>Version 51 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 51
+
+</details>
+
+<details><summary><b>Version 52 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 52
 
 </details>
 
