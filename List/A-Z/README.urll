@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V19: 2022, Wednesday, September 7th at 10:10 pm PST
+-- V20: 2022, Thursday, September 8th at 8:16 pm PST
 
 -- Programming
 -- 1
@@ -80,6 +80,7 @@ https://github.com/seanpm2001/Learn-KiCad -- Layout and Schematic (both included
 https://github.com/seanpm2001/Learn-Kotlin
 https://github.com/seanpm2001/Learn-kvlang
 -- L
+https://github.com/seanpm2001/Learn-Lingo
 https://github.com/seanpm2001/Learn-LLVM
 https://github.com/seanpm2001/Learn-LogTalk
 https://github.com/seanpm2001/Learn-LOLCODE
@@ -88,6 +89,7 @@ https://github.com/seanpm2001/Learn-Lua
 https://github.com/seanpm2001/Learn-M
 https://github.com/seanpm2001/Learn-M4
 https://github.com/seanpm2001/Learn-Makefile
+https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Markdown
 https://github.com/seanpm2001/Learn-Mathematica
 https://github.com/seanpm2001/Learn-MediaWiki
@@ -100,6 +102,7 @@ https://github.com/seanpm2001/Learn-MoonScript
 https://github.com/seanpm2001/Learn-nesC
 https://github.com/seanpm2001/Learn-Nim
 -- O
+https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Objective-C
 https://github.com/seanpm2001/Learn-Objective-CPP
 https://github.com/seanpm2001/Learn-OpenQASM
@@ -160,10 +163,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 128 languages listed (as of 2022, Wednesday, September 7th at 10:10 pm PST)
+-- 131 languages listed (as of 2022, Thursday, September 8th at 8:16 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 19 (2022, Wednesday, September 7th at 10:10 pm PST)
--- Line count (including blank lines and compiler line): 170
+-- File version: 20 (2022, Thursday, September 8th at 8:16 pm PST)
+-- Line count (including blank lines and compiler line): 173
 -- End of file
