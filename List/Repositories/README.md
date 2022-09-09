@@ -5,9 +5,11 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `130`/`368` (as of 2022, Thursday, September 8th at 8:30 pm PST)
+Current progress `134`/`369` (as of 2022, Friday, September 9th at 4:20 pm PST)
 
-Ratio: `35.32%` complete, `64.68%` incomplete.
+<!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves !-->
+
+Ratio: `36.31%` complete, `63.69%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -145,7 +147,8 @@ This list covers the creation of the language repositories.
 - [ ] HAML
 - [ ] HandleBars
 - [ ] HAPROXY
-- [ ] Haxe
+- [x] Haxe
+- [x] HXML
 - [ ] HCL
 - [ ] HiveQL
 - [ ] HLSL
@@ -304,8 +307,8 @@ This list covers the creation of the language repositories.
 - [ ] RPC
 - [ ] RPGLE
 - [ ] Refal
-- [ ] Rascal
-- [ ] RouterOS Script
+- [x] Rascal
+- [x] RouterOS Script
 - [x] Ren'Py
 - [ ] RobotFramework
 - [ ] RUNOFF
@@ -398,9 +401,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Thursday, September 8th at 8:30 pm PST)`
+**File version:** `21 (2022, Friday, September 9th at 4:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,127`
+**Line count (including blank lines and compiler line):** `1,166`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -823,15 +826,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 21</b></summary>
 
-**Version 21 (Coming soon)**
+**Version 21 (2022, Friday, September 9th at 4:20 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V21.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V21.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 4 new entries, (old total: 130 | new total: 134)
+- - [x] Added 1 entry to the list (old total: 368 | new total: 369)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 21
 - [ ] No other changes in version 21
 
 </details>
@@ -1118,6 +1127,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 40
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 41</b></summary>
+
+**Version 41 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V41.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 41
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 42</b></summary>
+
+**Version 42 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V42.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 42
 
 </details>
 
