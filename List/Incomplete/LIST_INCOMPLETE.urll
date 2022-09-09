@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, September 7th at 10:18 pm PST
+-- As of 2022, Thursday, September 8th at 8:23 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
@@ -39,14 +39,17 @@ https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
 https://github.com/seanpm2001/Learn-KiCad
 https://github.com/seanpm2001/Learn-Kotlin
 https://github.com/seanpm2001/Learn-kvlang
+https://github.com/seanpm2001/Learn-Lingo
 https://github.com/seanpm2001/Learn-LLVM
 https://github.com/seanpm2001/Learn-LogTalk
 https://github.com/seanpm2001/Learn-M
 https://github.com/seanpm2001/Learn-M4
+https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Mercury
 https://github.com/seanpm2001/Learn-Nim
+https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-OpenQASM
 https://github.com/seanpm2001/Learn-Pawn
 https://github.com/seanpm2001/Learn-Pony
@@ -71,7 +74,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 66/126
+-- Count: 69/129
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -121,13 +124,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V21 date: 2022, Tuesday, September 6th at 10:36 pm PST
 -- V22: 3 entries added, 66 entries remain (ratio: 66/126 (52.38% incomplete, 47.62% complete))
 -- V22 date: 2022, Wednesday, September 7th at 10:18 pm PST
+-- V23: 3 entries added, 69 entries remain (ratio: 69/129 (53.48% incomplete, 46.52% complete))
+-- V23 date: 2022, Thursday, September 8th at 8:23 pm PST
 
--- Ratio (incomplete/complete): 66/123 (52.38% incomplete, 47.62% complete)
+-- Ratio (incomplete/complete): 69/129 (53.48% incomplete, 46.52% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 22 (2022, Wednesday, September 7th at 10:18 pm PST)
--- Line count (including blank lines and compiler line): 134
+-- File version: 23 (2022, Thursday, September 8th at 8:23 pm PST)
+-- Line count (including blank lines and compiler line): 139
 
 -- End of script
