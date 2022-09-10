@@ -39,7 +39,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section A2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Alloy/"><img src="/Programming/Logos/A/Alloy/Alloy_Logo_Circle.png" width="100px;" alt=""/><br /><sub><b>Learn Alloy</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AngelScript/"><img src="/Programming/Logos/A/AngelScript/AngelScriptLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AngelScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -184,7 +184,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScript/"><img src="/Programming/Logos/J/JavaScript/JavaScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JavaScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jinja/"><img src="/Programming/Logos/J/Jinja/jinja_logo-Opaque_180x180.png" width="100px;" alt=""/><br /><sub><b>Learn Jinja</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScriptPlusPlus/"><img src="/Programming/Logos/J/JavaScript%2B%2B/JSPP_512pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn JS++ (JavaScript++)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Jsonnet/"><img src="/Programming/Logos/J/Jsonnet/Jsonnet_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Jsonnet</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 11A !-->
@@ -255,8 +255,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-CPP/"><img src="/Programming/Logos/O/Objective-CPP/OBJECTIVE-C-PREPLUS.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-C++</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenQASM/"><img src="/Programming/Logos/O/OpenQASM/OpenQASM_QisKit.png" width="100px;" alt=""/><br /><sub><b>Learn OpenQASM</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OCaml/"><img src="/Programming/Logos/O/OCaml/OCaml_LogoSquare525px.svg" width="100px;" alt=""/><br /><sub><b>Learn OCaml</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-J/"><img src="/Programming/Logos/O/Objective-J/Objective-J_CAPPUCCINOLOGO.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-J</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ooc/"><img src="/Programming/Logos/O/Ooc/Ooc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Ooc</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 16A !-->
@@ -408,7 +408,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section Y1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Yacc/"><img src="/Programming/Logos/Y/Yacc/GCC.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Yacc</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Yara/"><img src="/Programming/Logos/Y/YARA/YARA_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn YARA</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -600,6 +600,9 @@ Isabelle
 * JavaScript++
 * Lingo
 * Haxe
+* Ooc
+* AngelScript
+* Jsonnet
 
 `//` & `/* */`
 
@@ -646,6 +649,9 @@ Isabelle
 * Metal
 * JavaScript++
 * Haxe
+* Ooc
+* AngelScript
+* Jsonnet
 
 <!-- * Lingo (unsure) !-->
 
@@ -686,6 +692,10 @@ Isabelle
 * Metal
 * JavaScript++
 * Haxe
+* Ooc
+* AngelScript
+* Jsonnet
+* YARA
 
 <!-- * Lingo (unsure) !-->
 
@@ -768,6 +778,10 @@ Isabelle
 `/** **/`
 
 * IDL
+
+`/*! */`
+
+* Objective-J
 
 `BTW`, `OBTW` &> `TLDR`
 
@@ -1203,9 +1217,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2022, Friday, September 9th at 4:09 pm PST)`
+**File version:** `28 (2022, Saturday, September 10th at 3:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,989`
+**Line count (including blank lines and compiler line):** `2,033`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1700,7 +1714,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/OldVersions/README/English/1/README_V26.md)
+[View this version](/OldVersions/README/English/1/README_V27.md)
 
 **Changes:**
 
@@ -1716,11 +1730,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 28 (Coming soon)</b></summary>
+<details><summary><b>Version 28 (2022, Saturday, September 10th at 3:58 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V28.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AngelScript, Jsonnet, Ooc, Objective-J, and YARA
+- [x] Updated the `//` comment section to include Ooc, AngelScript, and Jsonnet
+- [x] Updated the `// & /* */`  comment section to include Ooc, AngelScript, and Jsonnet
+- [x] Updated the `/* */` comment section to include  Ooc, AngelScript, Jsonnet, and YARA
+- [x] Added the `/*! */` comment section to include Objective-J
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 28
 - [ ] No other changes in version 28
 
 </details>
@@ -1956,6 +1982,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 54
+
+</details>
+
+<details><summary><b>Version 55 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 55
+
+</details>
+
+<details><summary><b>Version 56 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 56
 
 </details>
 
