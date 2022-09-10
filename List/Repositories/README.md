@@ -5,11 +5,11 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `134`/`369` (as of 2022, Friday, September 9th at 4:20 pm PST)
+Current progress `139`/`369` (as of 2022, Saturday, September 10th at 4:16 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves !-->
 
-Ratio: `36.31%` complete, `63.69%` incomplete.
+Ratio: `37.66%` complete, `62.34%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -29,7 +29,7 @@ This list covers the creation of the language repositories.
 - [x] Alloy
 - [x] Ada
 - [ ] AssemblyScript
-- [ ] AngelScript
+- [x] AngelScript
 - [x] Assembly
 - [ ] ANTLR
 - [ ] ASP
@@ -183,7 +183,7 @@ This list covers the creation of the language repositories.
 - [ ] JupyterNotebook
 - [ ] Jython
 - [ ] JSON5
-- [ ] Jsonette
+- [x] Jsonnet
 - [x] Julia
 - [x] KiCad Layout
 - [ ] KiXTart
@@ -245,7 +245,7 @@ This list covers the creation of the language repositories.
 - [ ] Nu
 - [x] Nim
 - [ ] Oberon
-- [ ] Objective-J
+- [x] Objective-J
 - [x] Objective-C
 - [x] Objective-CPP
 - [x] OCaml
@@ -257,7 +257,7 @@ This list covers the creation of the language repositories.
 - [ ] Orwell
 - [ ] Org-mode
 - [ ] OpenCL
-- [ ] Ooc
+- [x] Ooc
 - [x] Pawn
 - [ ] Piglatin
 - [ ] PlPGSQL (might be the same as PostGreSQL)
@@ -385,7 +385,7 @@ This list covers the creation of the language repositories.
 - [x] XML
 - [x] Yacc
 - [ ] YAML
-- [ ] YARA
+- [x] YARA
 - [x] ZenScript
 - [x] Zig
 - [x] ZIL
@@ -401,9 +401,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Friday, September 9th at 4:20 pm PST)`
+**File version:** `22 (2022, Saturday, September 10th at 4:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,166`
+**Line count (including blank lines and compiler line):** `1,202`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -847,15 +847,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 22</b></summary>
 
-**Version 22 (Coming soon)**
+**Version 22 (2022, Saturday, September 10th at 4:16 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V22.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V22.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries, (old total: 134 | new total: 139)
+- - [x] Added 0 entries to the list (old total: 369 | new total: 369)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 22
 - [ ] No other changes in version 22
 
 </details>
@@ -1157,6 +1163,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 42
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 43</b></summary>
+
+**Version 43 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V43.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 43
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 44</b></summary>
+
+**Version 44 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V44.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 44
 
 </details>
 
