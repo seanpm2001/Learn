@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V21: 2022, Friday, September 9th at 4:13 pm PST
+-- V22: 2022, Saturday, September 10th at 4:03 pm PST
 
 -- Programming
 -- 1
@@ -11,6 +11,7 @@ https://github.com/seanpm2001/Learn-ActionScript-3
 https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
 https://github.com/seanpm2001/Learn-Alloy
+https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-API-Blueprint
 https://github.com/seanpm2001/Learn-AppleScript
 https://github.com/seanpm2001/Learn-Assembly
@@ -76,6 +77,7 @@ https://github.com/seanpm2001/Learn-Java
 https://github.com/seanpm2001/Learn-JavaScript
 https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
 https://github.com/seanpm2001/Learn-Jinja
+https://github.com/seanpm2001/Learn-Jsonnet
 https://github.com/seanpm2001/Learn-Julia
 -- K
 https://github.com/seanpm2001/Learn-KiCad -- Layout and Schematic (both included as one)
@@ -107,6 +109,8 @@ https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Objective-C
 https://github.com/seanpm2001/Learn-Objective-CPP
+https://github.com/seanpm2001/Learn-Objective-J
+https://github.com/seanpm2001/Learn-Ooc
 https://github.com/seanpm2001/Learn-OpenQASM
 -- P
 https://github.com/seanpm2001/Learn-Pascal
@@ -162,15 +166,16 @@ https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-XML
 -- Y
 https://github.com/seanpm2001/Learn-Yacc
+https://github.com/seanpm2001/Learn-YARA
 -- Z
 https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 135 languages listed (as of 2022, Friday, September 9th at 4:13 pm PST)
+-- 140 languages listed (as of 2022, Saturday, September 10th at 4:03 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 21 (2022, Friday, September 9th at 4:13 pm PST)
--- Line count (including blank lines and compiler line): 177
+-- File version: 22 (2022, Saturday, September 10th at 4:03 pm PST)
+-- Line count (including blank lines and compiler line): 182
 -- End of file
