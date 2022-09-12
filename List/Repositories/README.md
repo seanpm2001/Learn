@@ -5,11 +5,11 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `139`/`369` (as of 2022, Saturday, September 10th at 4:16 pm PST)
+Current progress `144`/`370` (as of 2022, Sunday, September 11th at 8:26 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves !-->
 
-Ratio: `37.66%` complete, `62.34%` incomplete.
+Ratio: `38.91%` complete, `61.09%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -115,6 +115,7 @@ This list covers the creation of the language repositories.
 - [x] Eiffel
 - [x] Elm
 - [x] FORTRAN
+- [x] F#
 - [ ] Factor
 - [ ] Fancy
 - [ ] Fish
@@ -250,7 +251,7 @@ This list covers the creation of the language repositories.
 - [x] Objective-CPP
 - [x] OCaml
 - [ ] Octave
-- [ ] OpenEdge ABL
+- [x] OpenEdge ABL
 - [ ] OpenPolicyAgent
 - [x] OpenQASM
 - [ ] OpenSCAD
@@ -379,12 +380,12 @@ This list covers the creation of the language repositories.
 - [ ] Wierd
 - [ ] XProc
 - [ ] XQuery
-- [ ] XS
+- [x] XS
 - [ ] XSLT
-- [ ] XBase
+- [x] XBase
 - [x] XML
 - [x] Yacc
-- [ ] YAML
+- [x] YAML
 - [x] YARA
 - [x] ZenScript
 - [x] Zig
@@ -401,9 +402,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2022, Saturday, September 10th at 4:16 pm PST)`
+**File version:** `23 (2022, Sunday, September 11th at 8:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,202`
+**Line count (including blank lines and compiler line):** `1,239`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -868,7 +869,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 23</b></summary>
 
-**Version 23 (Coming soon)**
+**Version 23 (2022, Sunday, September 11th at 8:26 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
@@ -876,7 +877,13 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries, (old total: 139 | new total: 144)
+- - [x] Added 1 entriy to the list (old total: 369 | new total: 370)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 23
 - [ ] No other changes in version 23
 
 </details>
@@ -1193,6 +1200,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 44
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 45</b></summary>
+
+**Version 45 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V45.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 45
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 46</b></summary>
+
+**Version 46 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V46.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 46
 
 </details>
 
