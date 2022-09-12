@@ -55,7 +55,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BrightScript/"><img src="/Programming/Logos/B/BrightScript/BrightScript_1.png" width="100px;" alt=""/><br /><sub><b>Learn BrightScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BitBake/"><img src="/Programming/Logos/B/BitBake/VSCode_BitBake.png" width="100px;" alt=""/><br /><sub><b>Learn BitBake</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Brainfuck/"><img src="/Programming/Logos/B/Brainfuck/BrokenBrain.png" width="100px;" alt=""/><br /><sub><b>Learn Brainfuck</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Bicep/"><img src="/Programming/Logos/B/Bicep/Bicep1_100px.png" width="100px;" alt=""/><br /><sub><b>Learn Bicep</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 3A !-->
@@ -111,7 +111,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section F1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FORTRAN/"><img src="/Programming/Logos/F/FORTRAN/Fortran_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn FORTRAN</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FSharp/"><img src="/Programming/Logos/F/F%23/F_Sharp_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn F#</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FStar/"><img src="/Programming/Logos/F/F*/Fstar-official-logo-2015.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -208,8 +208,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LogTalk/"><img src="/Programming/Logos/L/LogTalk/Logtalk-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn LogTalk</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LLVM/"><img src="/Programming/Logos/L/LLVM/LLVM_logo.png" width="100px;" alt=""/><br /><sub><b>Learn LLVM</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lingo/"><img src="/Programming/Logos/L/Lingo/LingoLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Lingo (Adobe)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Logos/"><img src="/Programming/Logos/L/Logos/LOGOS.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Logos</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LookML/"><img src="/Programming/Logos/L/LookML/LookML_LookerLogo_702px.png" width="100px;" alt=""/><br /><sub><b>Learn LookML</b></sub></a></td>
   </tr>
   <!-- Row 13A !-->
   <!-- Letter M !-->
@@ -315,7 +315,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ren-Py/"><img src="/Programming/Logos/R/Ren'Py/Ren'Py_Logo_460x460_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Ren'Py</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Rascal/"><img src="/Programming/Logos/R/Rascal/RascalLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Rascal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RouterOS-Script/"><img src="/Programming/Logos/R/RouterOS-Script/RouterOS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn RouterOS Script</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Reason/"><img src="/Programming/Logos/R/Reason/Reason-1-logo.png" width="100px;" alt=""/><br /><sub><b>Learn Reason</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -552,6 +552,7 @@ Isabelle
 * Rascal
 * RouterOS Script
 * YAML
+* LookML
 
 `#` & `"""`
 
@@ -608,6 +609,9 @@ Isabelle
 * XS
 * xBase
 * OpenEdge ABL
+* Bicep
+* Logos
+* Reason
 
 `//` & `/* */`
 
@@ -657,6 +661,7 @@ Isabelle
 * Ooc
 * AngelScript
 * Jsonnet
+* Reason
 
 <!-- * Lingo (unsure) !-->
 
@@ -701,6 +706,7 @@ Isabelle
 * AngelScript
 * Jsonnet
 * YARA
+* Reason
 
 <!-- * Lingo (unsure) !-->
 
@@ -725,6 +731,7 @@ Isabelle
 * OCaml
 * Isabelle
 * Standard ML
+* F*
 
 `{# #}`
 
@@ -787,6 +794,14 @@ Isabelle
 `/*! */`
 
 * Objective-J
+
+`##`
+
+* LookML
+
+`# & ##`
+
+* LookML
 
 `BTW`, `OBTW` &> `TLDR`
 
@@ -1103,6 +1118,30 @@ string: "String"
 * INI
 * TOML
 
+```fstar
+let main = FStar.IO.print_string "String\n"
+```
+
+* F*
+
+```bicep
+output msg string = 'String`
+```
+
+* Bicep
+
+```lookml
+label "String"
+```
+
+* LookML
+
+```reason
+print_string "String"
+```
+
+* Reason
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1265,9 +1304,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `29 (2022, Sunday, September 11th at 8:09 pm PST)`
+**File version:** `30 (2022, Monday, September 12th at 3:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,116`
+**Line count (including blank lines and compiler line):** `2,191`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1825,11 +1864,29 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 30 (Coming soon)</b></summary>
+<details><summary><b>Version 30 (2022, Monday, September 12th at 3:33 pm PST</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Bicep, F*, Logos, LookML, and Reason
+- [x] Updated the comments section
+- - [x] Updated the `//` comment section to include Bicep, Logos, and Reason
+- - [x] Updated the `// & /* */`  comment section to include Reason
+- - [x] Updated the `/* */` comment section to include  Reason
+- - [x] Added the the `##`  comment section to include LookML
+- - [x] Added the the `# & ##`  comment section to include LookML
+- - [x] Updated the `#` comment section to include LookML
+- - [x] Updated the `(* *)` comment section to include F*
+- [x] Updated the strings section
+- - [x] Added the `let main = FStar.IO.print_string "String\n"` string section to include F*
+- - [x] Added the `output msg string = 'String`` string section to include Bicep
+- - [x] Added the `print [Hello World]` string section to include Logos
+- - [x] Added the `label "String"` section to include LookML
+- - [x] Added the `print_string "String"` section to include Reason
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 30
 - [ ] No other changes in version 30
 
 </details>
@@ -2083,6 +2140,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 58
+
+</details>
+
+<details><summary><b>Version 59 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 59
+
+</details>
+
+<details><summary><b>Version 60 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 60
 
 </details>
 
