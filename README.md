@@ -110,7 +110,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section F1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FORTRAN/"><img src="/Programming/Logos/F/FORTRAN/Fortran_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn FORTRAN</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FSharp/"><img src="/Programming/Logos/F/F%23/F_Sharp_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn F#</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -257,7 +257,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OCaml/"><img src="/Programming/Logos/O/OCaml/OCaml_LogoSquare525px.svg" width="100px;" alt=""/><br /><sub><b>Learn OCaml</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-J/"><img src="/Programming/Logos/O/Objective-J/Objective-J_CAPPUCCINOLOGO.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-J</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ooc/"><img src="/Programming/Logos/O/Ooc/Ooc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Ooc</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenEdge-ABL/"><img src="/Programming/Logos/O/OpenEdge_ABL/OpenEdge_ABL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenEdge ABL</b></sub></a></td>
   </tr>
   <!-- Row 16A !-->
   <!-- Letter P !-->
@@ -396,8 +396,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section X1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XML/"><img src="/Programming/Logos/X/ML/XML3.png" width="100px;" alt=""/><br /><sub><b>Learn XML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-XS/"><img src="/Programming/Logos/X/XS/XS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn XS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-XBase/"><img src="/Programming/Logos/X/XBase/XBASE_Logo_Cropped.png" width="100px;" alt=""/><br /><sub><b>Learn xBase</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -409,7 +409,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section Y1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Yacc/"><img src="/Programming/Logos/Y/Yacc/GCC.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Yacc</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Yara/"><img src="/Programming/Logos/Y/YARA/YARA_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn YARA</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-YAML/"><img src="/Programming/Logos/Y/YAML/Official_YAML_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn YAML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -551,6 +551,7 @@ Isabelle
 * HXML
 * Rascal
 * RouterOS Script
+* YAML
 
 `#` & `"""`
 
@@ -603,6 +604,10 @@ Isabelle
 * Ooc
 * AngelScript
 * Jsonnet
+* F#
+* XS
+* xBase
+* OpenEdge ABL
 
 `//` & `/* */`
 
@@ -1019,6 +1024,12 @@ println!("String");
 
 * Rust
 
+```fsharp
+printfn "String"
+```
+
+* F#
+
 ```ocaml
 print_endline "String"
 ```
@@ -1054,6 +1065,43 @@ w "String",!
 ```
 
 * Emacs Lisp
+
+```objective-j
+document.write("String");
+```
+
+* Objective-J
+
+```YARA
+description = "String"
+```
+
+* YARA
+
+```xbase
+Qout("String")
+```
+* xBase
+
+```xbase
+? 'String'
+```
+
+* xBase
+
+```openedge-abl
+DISPLAY "String".
+```
+
+* OpenEdge ABL
+
+```yaml
+string: "String"
+```
+
+* YAML
+* INI
+* TOML
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -1217,9 +1265,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2022, Saturday, September 10th at 3:58 pm PST)`
+**File version:** `29 (2022, Sunday, September 11th at 8:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,033`
+**Line count (including blank lines and compiler line):** `2,116`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1751,11 +1799,28 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 29 (Coming soon)</b></summary>
+<details><summary><b>Version 29 (2022, Sunday, September 11th at 8:09 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V29.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for F#, OpenEdge ABL, XS, xBase, and YAML
+- [x] Updated the `//` comment section to include F#, OpenEdgeABL, XS, and xBase
+- [x] Updated the `#`  comment section to include YAML
+- [X] Added the `document.write("String");` string section, which includes of Objective-J
+- [x] Added the `description = "String"` string section, which includes of YARA
+- [x] Added the `Qout("String")` string section, which includes of xBase
+- [x] Added the `? 'String'` string section, which includes of xBase
+- [x] Added the `printfn "String"` string section, which includes of F#
+- [x] Added the `DISPLAY "String".` string section, which includes of OpenEdge ABL
+- [x] Added the `string: "String"` string section, which includes of YAML
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 29
 - [ ] No other changes in version 29
 
 </details>
@@ -2000,6 +2065,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 56
+
+</details>
+
+<details><summary><b>Version 57 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 57
+
+</details>
+
+<details><summary><b>Version 58 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 58
 
 </details>
 
