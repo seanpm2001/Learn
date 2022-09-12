@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V22: 2022, Saturday, September 10th at 4:03 pm PST
+-- V23: 2022, Sunday, September 11th at 8:13 pm PST
 
 -- Programming
 -- 1
@@ -51,6 +51,7 @@ https://github.com/seanpm2001/Learn-EmacsLisp
 https://github.com/seanpm2001/Learn-Erlang
 -- F
 https://github.com/seanpm2001/Learn-FORTRAN
+https://github.com/seanpm2001/Learn-FSharp
 -- G
 https://github.com/seanpm2001/Learn-GDB
 https://github.com/seanpm2001/Learn-Go2003
@@ -111,6 +112,7 @@ https://github.com/seanpm2001/Learn-Objective-C
 https://github.com/seanpm2001/Learn-Objective-CPP
 https://github.com/seanpm2001/Learn-Objective-J
 https://github.com/seanpm2001/Learn-Ooc
+https://github.com/seanpm2001/Learn-OpenEdge-ABL
 https://github.com/seanpm2001/Learn-OpenQASM
 -- P
 https://github.com/seanpm2001/Learn-Pascal
@@ -163,19 +165,22 @@ https://github.com/seanpm2001/Learn-VueJS
 https://github.com/seanpm2001/Learn-WDL
 https://github.com/seanpm2001/Learn-WebVTT
 -- X
+https://github.com/seanpm2001/Learn-XBase
 https://github.com/seanpm2001/Learn-XML
+https://github.com/seanpm2001/Learn-XS
 -- Y
 https://github.com/seanpm2001/Learn-Yacc
+https://github.com/seanpm2001/Learn-YAML
 https://github.com/seanpm2001/Learn-YARA
 -- Z
 https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 140 languages listed (as of 2022, Saturday, September 10th at 4:03 pm PST)
+-- 145 languages listed (as of 2022, Sunday, September 11th at 8:13 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 22 (2022, Saturday, September 10th at 4:03 pm PST)
--- Line count (including blank lines and compiler line): 182
+-- File version: 23 (2022, Sunday, September 11th at 8:13 pm PST)
+-- Line count (including blank lines and compiler line): 187
 -- End of file
