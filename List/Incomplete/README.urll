@@ -1,13 +1,14 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Monday, September 12th at 3:47 pm PST
+-- As of 2022, Tuesday, September 13th at 6:13 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
 https://github.com/seanpm2001/Learn-Alloy
 https://github.com/seanpm2001/Learn-AngelScript
+https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-BitBake
@@ -16,6 +17,7 @@ https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-Clojure
 https://github.com/seanpm2001/Learn-CMake
 https://github.com/seanpm2001/Learn-Cython
+https://github.com/seanpm2001/Learn-Dafny
 https://github.com/seanpm2001/Learn-Desktop
 https://github.com/seanpm2001/Learn-DM
 https://github.com/seanpm2001/Learn-Dockerfile
@@ -27,6 +29,7 @@ https://github.com/seanpm2001/Learn-FStar
 https://github.com/seanpm2001/Learn-GDB
 https://github.com/seanpm2001/Learn-GDScript
 https://github.com/seanpm2001/Learn-Gherkin
+https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-Haxe
 https://github.com/seanpm2001/Learn-HXML
 https://github.com/seanpm2001/Learn-IDL
@@ -58,6 +61,7 @@ https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Mercury
 https://github.com/seanpm2001/Learn-Nim
+https://github.com/seanpm2001/Learn-Nix
 https://github.com/seanpm2001/Learn-Objective-J
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Ooc
@@ -73,6 +77,7 @@ https://github.com/seanpm2001/Learn-R
 https://github.com/seanpm2001/Learn-Racket
 https://github.com/seanpm2001/Learn-Rascal
 https://github.com/seanpm2001/Learn-Reason
+https://github.com/seanpm2001/Learn-ReasonML
 https://github.com/seanpm2001/Learn-Red
 https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn-RouterOS-Script
@@ -93,7 +98,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 88/148
+-- Count: 93/153
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -153,13 +158,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V26 date: 2022, Sunday, September 11th at 8:20 pm PST
 -- V27: 5 entries added, 88 entries remain (ratio: 88/148 (59.45% incomplete, 40.55% complete))
 -- V27 date: 2022, Monday, September 12th at 3:47 pm PST
+-- V28: 5 entries added, 93 entries remain (ratio: 93/153 (60.78% incomplete, 39.22% complete))
+-- V28 date: 2022, Tuesday, September 13th at 6:13 pm PST
 
--- Ratio (incomplete/complete): 88/148 (59.45% incomplete, 40.55% complete)
+-- Ratio (incomplete/complete): 93/153 (60.78% incomplete, 39.22% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 27 (2022, Monday, September 12th at 3:47 pm PST)
--- Line count (including blank lines and compiler line): 166
+-- File version: 28 (2022, Tuesday, September 13th at 6:13 pm PST)
+-- Line count (including blank lines and compiler line): 173
 
 -- End of script
