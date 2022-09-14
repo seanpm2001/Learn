@@ -5,11 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `149`/`373` (as of 2022, Monday, September 12th at 3:54 pm PST)
+Current progress `153`/`375` (as of 2022, Tuesday, September 13th at 6:23 pm PST)
 
-<!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves !-->
+<!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
+Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
+!-->
 
-**Ratio:** `39.94%` complete, `60.06%` incomplete.
+**Ratio:** `40.80%` complete, `59.20%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -39,7 +41,7 @@ This list covers the creation of the language repositories.
 - [ ] Astro
 - [ ] Apex
 - [ ] Arduino
-- [ ] ApacheConf
+- [x] ApacheConf
 - [ ] AutoIt
 - [x] AWK
 - [ ] ASCIIDoc
@@ -92,7 +94,7 @@ This list covers the creation of the language repositories.
 - [ ] CSound score
 - [ ] Ch
 - [x] D
-- [ ] Dafny
+- [x] Dafny
 - [x] Dart
 - [x] Desktop
 - [ ] Dhall
@@ -140,7 +142,7 @@ This list covers the creation of the language repositories.
 - [ ] Gosu
 - [ ] Graphviz DOT
 - [ ] Groovy
-- [ ] GraphQL
+- [x] GraphQL
 - [ ] Grammatical Framework
 - [x] Go2003
 - [x] GoogleGo
@@ -188,11 +190,12 @@ This list covers the creation of the language repositories.
 - [ ] JSON5
 - [x] Jsonnet
 - [x] Julia
-- [x] KiCad Layout
+- [x] KiCad
+- [ ] KiCad Layout
+- [ ] KiCad Schematic
 - [ ] KiXTart
 - [x] Kotlin
 - [ ] KRC
-- [x] KiCad Schematic
 - [x] kvlang
 - [ ] Lean
 - [ ] Less
@@ -241,7 +244,7 @@ This list covers the creation of the language repositories.
 - [ ] NetRexx
 - [ ] Nextflow
 - [ ] NGINX
-- [ ] Nix
+- [x] Nix
 - [ ] NSIS
 - [ ] Nunjucks
 - [ ] NVIDIA Cuda
@@ -300,7 +303,7 @@ This list covers the creation of the language repositories.
 - [x] Racket
 - [ ] Ragel
 - [x] Reason
-- [ ] ReasonML
+- [x] ReasonML
 - [ ] REBOL
 - [ ] ReScript
 - [x] ReStructuredText
@@ -361,6 +364,7 @@ This list covers the creation of the language repositories.
 - [ ] TSQL
 - [ ] Twig
 - [ ] Textile
+- [ ] Terra
 - [ ] TXL
 - [ ] TSX
 - [ ] UnrealScript
@@ -405,9 +409,9 @@ This list covers the creation of the language repositories.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Monday, September 12th at 3:54 pm PST)`
+**File version:** `25 (2022, Tuesday, September 13th at 6:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,279`
+**Line count (including blank lines and compiler line):** `1,319`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -915,15 +919,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 25</b></summary>
 
-**Version 25 (Coming soon)**
+**Version 25 (2022, Tuesday, September 13th at 6:23 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V25.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V25.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries, unchecked 1 entry (old total: 149 | new total: 153)
+- - [x] Added 2 entries to the list (old total: 373 | new total: 375)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 25
 - [ ] No other changes in version 25
 
 </details>
@@ -1270,6 +1280,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 48
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 49</b></summary>
+
+**Version 49 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V49.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 49
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 50</b></summary>
+
+**Version 50 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V50.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 50
 
 </details>
 
