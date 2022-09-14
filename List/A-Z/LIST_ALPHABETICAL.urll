@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V24: 2022, Monday, September 12th at 3:37 pm PST
+-- V25: 2022, Tuesday, September 13th at 6:05 pm PST
 
 -- Programming
 -- 1
@@ -12,6 +12,7 @@ https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
 https://github.com/seanpm2001/Learn-Alloy
 https://github.com/seanpm2001/Learn-AngelScript
+https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-API-Blueprint
 https://github.com/seanpm2001/Learn-AppleScript
 https://github.com/seanpm2001/Learn-Assembly
@@ -37,6 +38,7 @@ https://github.com/seanpm2001/Learn-CSS
 https://github.com/seanpm2001/Learn-Cython
 -- D
 https://github.com/seanpm2001/Learn-D
+https://github.com/seanpm2001/Learn-Dafny
 https://github.com/seanpm2001/Learn-Dart
 https://github.com/seanpm2001/Learn-Desktop
 https://github.com/seanpm2001/Learn-DM
@@ -56,10 +58,11 @@ https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
 -- G
 https://github.com/seanpm2001/Learn-GDB
-https://github.com/seanpm2001/Learn-Go2003
-https://github.com/seanpm2001/Learn-GoogleGo
 https://github.com/seanpm2001/Learn-GDScript
 https://github.com/seanpm2001/Learn-Gherkin
+https://github.com/seanpm2001/Learn-Go2003
+https://github.com/seanpm2001/Learn-GoogleGo
+https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-GSC
 -- H
 https://github.com/seanpm2001/Learn-Hack
@@ -110,6 +113,7 @@ https://github.com/seanpm2001/Learn-MoonScript
 -- N
 https://github.com/seanpm2001/Learn-nesC
 https://github.com/seanpm2001/Learn-Nim
+https://github.com/seanpm2001/Learn-Nix
 -- O
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Objective-C
@@ -139,6 +143,7 @@ https://github.com/seanpm2001/Learn-Racket
 https://github.com/seanpm2001/Learn-Raku
 https://github.com/seanpm2001/Learn-Rascal
 https://github.com/seanpm2001/Learn-Reason
+https://github.com/seanpm2001/Learn-ReasonML
 https://github.com/seanpm2001/Learn-Red
 https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn-ReStructuredText
@@ -182,10 +187,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 150 languages listed (as of 2022, Monday, September 12th at 3:37 pm PST)
+-- 155 languages listed (as of 2022, Tuesday, September 13th at 6:05 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 24 (2022, Monday, September 12th at 3:37 pm PST)
--- Line count (including blank lines and compiler line): 192
+-- File version: 25 (2022, Tuesday, September 13th at 6:05 pm PST)
+-- Line count (including blank lines and compiler line): 197
 -- End of file
