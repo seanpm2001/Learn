@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V25: 2022, Tuesday, September 13th at 6:05 pm PST
+-- V26: 2022, Wednesday, September 14th at 7:36 pm PST
 
 -- Programming
 -- 1
@@ -16,10 +16,12 @@ https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-API-Blueprint
 https://github.com/seanpm2001/Learn-AppleScript
 https://github.com/seanpm2001/Learn-Assembly
+https://github.com/seanpm2001/Learn-Astro
 https://github.com/seanpm2001/Learn-Awk
 -- B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-Bicep
+https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
 https://github.com/seanpm2001/Learn-Boo
 https://github.com/seanpm2001/Learn-Brainfuck
@@ -31,6 +33,7 @@ https://github.com/seanpm2001/Learn-Clean
 https://github.com/seanpm2001/Learn-Crystal
 https://github.com/seanpm2001/Learn-Clojure
 https://github.com/seanpm2001/Learn-CMake
+https://github.com/seanpm2001/Learn-Cool
 https://github.com/seanpm2001/Learn-C-Plus-Plus
 https://github.com/seanpm2001/Learn-COBOL
 https://github.com/seanpm2001/Learn-CSharp
@@ -46,6 +49,7 @@ https://github.com/seanpm2001/Learn-Dockerfile
 https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-Dylan
 -- E
+https://github.com/seanpm2001/Learn-Eagle
 https://github.com/seanpm2001/Learn-Earthly
 https://github.com/seanpm2001/Learn-Eiffel
 https://github.com/seanpm2001/Learn-Elixir
@@ -92,6 +96,7 @@ https://github.com/seanpm2001/Learn-kvlang
 -- L
 https://github.com/seanpm2001/Learn-Lingo
 https://github.com/seanpm2001/Learn-LLVM
+https://github.com/seanpm2001/Learn-Logcat
 https://github.com/seanpm2001/Learn-LogTalk
 https://github.com/seanpm2001/Learn-LOLCODE
 https://github.com/seanpm2001/Learn-Lua
@@ -187,10 +192,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 155 languages listed (as of 2022, Tuesday, September 13th at 6:05 pm PST)
+-- 160 languages listed (as of 2022, Wednesday, September 14th at 7:36 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 25 (2022, Tuesday, September 13th at 6:05 pm PST)
--- Line count (including blank lines and compiler line): 197
+-- File version: 26 (2022, Wednesday, September 14th at 7:36 pm PST)
+-- Line count (including blank lines and compiler line): 202
 -- End of file
