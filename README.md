@@ -41,7 +41,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Alloy/"><img src="/Programming/Logos/A/Alloy/Alloy_Logo_Circle.png" width="100px;" alt=""/><br /><sub><b>Learn Alloy</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AngelScript/"><img src="/Programming/Logos/A/AngelScript/AngelScriptLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AngelScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ApacheConf/"><img src="/Programming/Logos/A/ApacheConf/PoweredByApache.png" width="100px;" alt=""/><br /><sub><b>Learn ApacheConf</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Astro/"><img src="/Programming/Logos/A/Astro/AstroLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Astro</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -56,7 +56,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BitBake/"><img src="/Programming/Logos/B/BitBake/VSCode_BitBake.png" width="100px;" alt=""/><br /><sub><b>Learn BitBake</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Brainfuck/"><img src="/Programming/Logos/B/Brainfuck/BrokenBrain.png" width="100px;" alt=""/><br /><sub><b>Learn Brainfuck</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Bicep/"><img src="/Programming/Logos/B/Bicep/Bicep1_100px.png" width="100px;" alt=""/><br /><sub><b>Learn Bicep</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Bikeshed/"><img src="/Programming/Logos/B/Bikeshed/Bikeshedding_256px.png" width="100px;" alt=""/><br /><sub><b>Learn Bikeshed</b></sub></a></td>
   </tr>
   <!-- Row 3A !-->
   <!-- Letter C !-->
@@ -78,7 +78,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Clojure/"><img src="/Programming/Logos/C/Clojure/ClojureLogo_2K.png" width="100px;" alt=""/><br /><sub><b>Learn Clojure</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CMake/"><img src="/Programming/Logos/C/CMake/Cmake.svg" width="100px;" alt=""/><br /><sub><b>Learn CMake</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ceylon/"><img src="/Programming/Logos/C/Ceylon/Ceylon_128px.png" width="100px;" alt=""/><br /><sub><b>Learn Ceylon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cool/"><img src="/Programming/Logos/C/Cool/Cool1_640px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Cool</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -116,7 +116,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Erlang/"><img src="/Programming/Logos/E/Erlang/Erlang_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Erlang</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Earthly/"><img src="/Programming/Logos/E/Earthly/EarthlyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn-Earthly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EmacsLisp/"><img src="/Programming/Logos/E/Emacs_Lisp/EmacsLispIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Emacs Lisp</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Eagle/"><img src="/Programming/Logos/E/Eagle/AutoDesk_EAGLE_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Eagle (AutoDesk)</b></sub></a></td>
   <!-- Row 6A !-->
   <!-- Letter F !-->
   <tr>
@@ -223,6 +223,19 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Logos/"><img src="/Programming/Logos/L/Logos/LOGOS.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Logos</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LookML/"><img src="/Programming/Logos/L/LookML/LookML_LookerLogo_702px.png" width="100px;" alt=""/><br /><sub><b>Learn LookML</b></sub></a></td>
   </tr>
+  <!-- Row 12B !-->
+  <!-- Letter L !-->  
+  <tr>
+    <td align="center"><p>Section L2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Logcat/"><img src="/Programming/Logos/L/Logcat/Matlog_390x390_LogcatLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Logcat</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+
   <!-- Row 13A !-->
   <!-- Letter M !-->
   <tr>
@@ -516,6 +529,7 @@ Isabelle
 * URLL
 * VHDL
 * q
+* Cool
 
 `--` & `{- -}`
 
@@ -568,6 +582,7 @@ Isabelle
 * GraphQL
 * ApacheConf
 * Nix
+* Logcat
 
 `#` & `"""`
 
@@ -629,6 +644,7 @@ Isabelle
 * Reason
 * ReasonML
 * Dafny
+* Astro
 
 `//` & `/* */`
 
@@ -683,6 +699,7 @@ Isabelle
 * Dafny
 
 <!-- * Lingo (unsure) !-->
+<!-- * Astro (unsure) !-->
 
 `/*` & `*/`
 
@@ -728,6 +745,7 @@ Isabelle
 * Reason
 * ReasonML
 * Dafny
+<!-- * Astro (unsure) !-->
 
 <!-- * Lingo (unsure) !-->
 
@@ -739,6 +757,8 @@ Isabelle
 * Markdown
 * SGML
 * XML
+* Eagle
+* Bikeshed
 
 `(* *)`
 
@@ -753,6 +773,7 @@ Isabelle
 * Isabelle
 * Standard ML
 * F*
+* Cool
 
 `{# #}`
 
@@ -1170,6 +1191,12 @@ print_string "String"
 
 * GraphQL
 
+```cool
+out_string("String.\n")
+```
+
+* Cool
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1332,9 +1359,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2022, Tuesday, September 13th at 6:00 pm PST)`
+**File version:** `32 (2022, Wednesday, September 14th at 7:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,257`
+**Line count (including blank lines and compiler line):** `2,318`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1948,11 +1975,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 32 (Coming soon)</b></summary>
+<details><summary><b>Version 32 (2022, Wednesday, September 14th at 7:12 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V32.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Astro, Bikeshed, Cool, Eagle, and Logcat
+- [x] Updated the comments section
+- - [x] Updated the `//` comment section to include Astro
+- - [x] Updated the `--` comment section to include Cool
+- - [x] Updated the `<!-- !-->` comment section to include Bikeshed and Eagle
+- - [x] Updated the `(* *)` comment section to include Cool
+- - [x] Updated the `#` comment section to include Logcat
+- [x] Updated the strings section
+- - [x] Added the `out_string("String.\n")` section to include Cool
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 32
 - [ ] No other changes in version 32
 
 </details>
@@ -2224,6 +2267,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 62
+
+</details>
+
+<details><summary><b>Version 63 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 63
+
+</details>
+
+<details><summary><b>Version 64 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 64
 
 </details>
 
