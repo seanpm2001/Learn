@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `153`/`375` (as of 2022, Tuesday, September 13th at 6:23 pm PST)
+Current progress `158`/`377` (as of 2022, Wednesday, September 14th at 7:55 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `40.80%` complete, `59.20%` incomplete.
+**Ratio:** `41.90%` complete, `58.10%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -38,7 +38,7 @@ This list covers the creation of the language repositories.
 - [ ] ASP.NET
 - [ ] ASL
 - [ ] AMPL
-- [ ] Astro
+- [x] Astro
 - [ ] Apex
 - [ ] Arduino
 - [x] ApacheConf
@@ -55,7 +55,7 @@ This list covers the creation of the language repositories.
 - [x] Ballerina
 - [ ] Batchfile
 - [ ] BibTeX
-- [ ] Bikeshed
+- [x] Bikeshed
 - [x] Bicep
 - [x] BitBake
 - [x] Brainfuck
@@ -82,7 +82,7 @@ This list covers the creation of the language repositories.
 - [ ] CoffeeScript
 - [ ] CommonLisp
 - [ ] CommonWorkflowLanguage
-- [ ] Cool
+- [x] Cool
 - [ ] Coq
 - [x] Crystal
 - [ ] CSound
@@ -107,7 +107,7 @@ This list covers the creation of the language repositories.
 - [x] DogeScript
 - [x] Dylan
 - [ ] E
-- [ ] EAGLE
+- [x] EAGLE
 - [x] Earthly
 - [ ] EJS
 - [x] Elixir
@@ -175,6 +175,7 @@ This list covers the creation of the language repositories.
 - [ ] INTERCAL
 - [ ] ISWIM
 - [ ] J
+- [ ] JFlex
 - [ ] Jade
 - [x] Java
 - [x] JavaScript
@@ -207,6 +208,7 @@ This list covers the creation of the language repositories.
 - [ ] LispFlavoredErlang
 - [x] LLVM
 - [x] Logos
+- [x] Logcat
 - [x] Logtalk
 - [x] LOLCODE
 - [x] LookML
@@ -403,15 +405,25 @@ This list covers the creation of the language repositories.
 
 ***
 
+## How I discover languages
+
+I discover languages either by reading about them on an external site (commonly Wikipedia) or browsing source code on GitHub.
+
+### Why not use the GitHub language list
+
+I do use the GitHub language list sometimes, but I try not to use it as an official source of new languages, as so I don't overwhelm myself. GitHub lists several hundred languages in its advanced search, I hope to come across as many of these as I can on my own.
+
+***
+
 ## File info
 
 <details open><summary><b>Click/tap here to expand/collapse the file info section</b></summary>
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Tuesday, September 13th at 6:23 pm PST)`
+**File version:** `26 (2022, Wednesday, September 14th at 7:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,319`
+**Line count (including blank lines and compiler line):** `1,369`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -940,15 +952,23 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 26</b></summary>
 
-**Version 26 (Coming soon)**
+**Version 26 (2022, Wednesday, September 14th at 7:55 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V26.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V26.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 153 | new total: 158)
+- - [x] Added 2 entries to the list (old total: 375 | new total: 377)
+- [x] Updated the ratio in the title section
+- [x] Added the `How I discover languages` section
+- - [x] Added the `Why not use the GitHub language list` subsection
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 26
 - [ ] No other changes in version 26
 
 </details>
@@ -1310,6 +1330,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 50
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 51</b></summary>
+
+**Version 51 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V51.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 51
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 52</b></summary>
+
+**Version 52 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V52.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 52
 
 </details>
 
