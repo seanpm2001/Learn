@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, September 14th at 7:45 pm PST
+-- As of 2022, Wednesday, September 15th at 5:33 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
@@ -14,6 +14,8 @@ https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
+https://github.com/seanpm2001/Learn-Blade
+https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-Cool
@@ -35,7 +37,9 @@ https://github.com/seanpm2001/Learn-GDScript
 https://github.com/seanpm2001/Learn-Gherkin
 https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-Haxe
+https://github.com/seanpm2001/Learn-HaProxy
 https://github.com/seanpm2001/Learn-HXML
+https://github.com/seanpm2001/Learn-HyPhy
 https://github.com/seanpm2001/Learn-IDL
 https://github.com/seanpm2001/Learn-Idris
 https://github.com/seanpm2001/Learn-Inform
@@ -90,6 +94,7 @@ https://github.com/seanpm2001/Learn_Ruby
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-SourcePawn
 https://github.com/seanpm2001/Learn-Squirrel
+https://github.com/seanpm2001/Learn-SVG
 https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-VueJS
@@ -103,7 +108,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 98/158
+-- Count: 103/163
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -167,13 +172,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V28 date: 2022, Tuesday, September 13th at 6:13 pm PST
 -- V29: 5 entries added, 98 entries remain (ratio: 98/158 (62.02% incomplete, 37.98% complete))
 -- V29 date: 2022, Wednesday, September 14th at 7:45 pm PST
+-- V30: 5 entries added, 103 entries remain (ratio: 103/163 (63.19% incomplete, 36.81% complete))
+-- V30 date: 2022, Thursday, September 15th at 5:33 pm PST
 
--- Ratio (incomplete/complete): 98/158 (62.02% incomplete, 37.98% complete)
+-- Ratio (incomplete/complete): 103/163 (63.19% incomplete, 36.81% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 29 (2022, Wednesday, September 14th at 7:45 pm PST)
--- Line count (including blank lines and compiler line): 180
+-- File version: 30 (2022, Thursday, September 15th at 5:33 pm PST)
+-- Line count (including blank lines and compiler line): 187
 
 -- End of script
