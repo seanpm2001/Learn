@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `158`/`377` (as of 2022, Wednesday, September 14th at 7:55 pm PST)
+Current progress `163`/`378` (as of 2022, Thursday, September 15th at 5:22 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `41.90%` complete, `58.10%` incomplete.
+**Ratio:** `43.12%` complete, `56.88%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -62,9 +62,9 @@ This list covers the creation of the language repositories.
 - [x] BrightScript
 - [x] Boo
 - [ ] BSDL
-- [ ] Boogie
+- [x] Boogie
 - [ ] Befunge
-- [ ] Blade
+- [x] Blade
 - [ ] BlitzBasic
 - [x] C
 - [x] C-Plus-Plus
@@ -151,7 +151,7 @@ This list covers the creation of the language repositories.
 - [x] Hack
 - [ ] HAML
 - [ ] HandleBars
-- [ ] HAPROXY
+- [x] HAPROXY
 - [x] Haxe
 - [x] HXML
 - [ ] HCL
@@ -159,7 +159,7 @@ This list covers the creation of the language repositories.
 - [ ] HLSL
 - [ ] HolyC
 - [ ] Hope
-- [ ] HyPhy
+- [x] HyPhy
 - [x] Haskell
 - [x] IDL
 - [x] Idris
@@ -355,7 +355,7 @@ This list covers the creation of the language repositories.
 - [ ] SASL
 - [ ] SQLPL
 - [ ] Sublime Text
-- [ ] SVG
+- [x] SVG
 - [ ] SAS
 - [x] TypeScript
 - [x] TCL
@@ -375,7 +375,8 @@ This list covers the creation of the language repositories.
 - [ ] Verilog AMS
 - [ ] Verilog
 - [ ] Verona
-- [ ] VimScript
+- [ ] Vim Script
+- [ ] Vim Snippet
 - [ ] Visual Basic Dot Net
 - [x] VueJS
 - [ ] VBA
@@ -407,7 +408,7 @@ This list covers the creation of the language repositories.
 
 ## How I discover languages
 
-I discover languages either by reading about them on an external site (commonly Wikipedia) or browsing source code on GitHub.
+I discover languages either by reading about them on an external site (commonly Wikipedia) or browsing source code on GitHub. Sometimes, I discover languages via Gedit, but I don't always add it to my list.
 
 ### Why not use the GitHub language list
 
@@ -421,9 +422,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2022, Wednesday, September 14th at 7:55 pm PST)`
+**File version:** `27 (2022, Thursday, September 15th at 5:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,369`
+**Line count (including blank lines and compiler line):** `1,407`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -975,15 +976,22 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 27</b></summary>
 
-**Version 27 (Coming soon)**
+**Version 27 (2022, Thursday, September 15th at 5:22 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V27.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V27.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 158 | new total: 163)
+- - [x] Added 1 entry to the list (old total: 377 | new total: 378)
+- [x] Updated the ratio in the title section
+- [x] Updated the `How I discover languages` section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 27
 - [ ] No other changes in version 27
 
 </details>
@@ -1360,6 +1368,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 52
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 53</b></summary>
+
+**Version 53 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V53.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 53
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 54</b></summary>
+
+**Version 54 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V54.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 54
 
 </details>
 
