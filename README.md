@@ -58,6 +58,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Bicep/"><img src="/Programming/Logos/B/Bicep/Bicep1_100px.png" width="100px;" alt=""/><br /><sub><b>Learn Bicep</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Bikeshed/"><img src="/Programming/Logos/B/Bikeshed/Bikeshedding_256px.png" width="100px;" alt=""/><br /><sub><b>Learn Bikeshed</b></sub></a></td>
   </tr>
+  <!-- Row 2B !-->
+  <!-- Letter B !-->
+  <tr>
+    <td align="center"><p>Section B2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Blade/"><img src="/Programming/Logos/B/Blade/Blade_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Blade</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Boogie/"><img src="/Programming/Logos/B/Boogie/BoogieLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Boogie</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 3A !-->
   <!-- Letter C !-->
   <tr>
@@ -148,8 +160,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Hack/"><img src="/Programming/Logos/H/Hack/Hack_(programming_language)_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Hack</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Haxe/"><img src="/Programming/Logos/H/Haxe/Haxe-Logo-Glyph.png" width="100px;" alt=""/><br /><sub><b>Learn Haxe</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HXML/"><img src="/Programming/Logos/H/HXML/HXML_Logo1.svg" width="100px;" alt=""/><br /><sub><b>Learn HXML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HaProxy/"><img src="/Programming/Logos/H/HaProxy/HAPROXY_LOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn HaProxy</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HyPhy/"><img src="/Programming/Logos/H/HyPhy/HyPhy_Logo_460px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HyPhy</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 9A !-->
@@ -362,7 +374,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section S2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Singularity/"><img src="/Programming/Logos/S/Singularity/SIngularityLogoBetter300px.png" width="100px;" alt=""/><br /><sub><b>Learn Singularity</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SourcePawn/"><img src="/Programming/Logos/S/SourcePawn/SourcePAWN.png" width="100px;" alt=""/><br /><sub><b>Learn SourcePawn</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SVG/"><img src="/Programming/Logos/S/SVG/SVG_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SVG</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -583,6 +595,8 @@ Isabelle
 * ApacheConf
 * Nix
 * Logcat
+* Blade
+* HaProxy
 
 `#` & `"""`
 
@@ -592,6 +606,10 @@ Isabelle
 
 * Python 3
 * Ren'Py
+
+`#` & `/*`
+
+* Blade
 
 `//`
 
@@ -645,6 +663,8 @@ Isabelle
 * ReasonML
 * Dafny
 * Astro
+* Boogie
+* HyPhy
 
 `//` & `/* */`
 
@@ -700,6 +720,8 @@ Isabelle
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
+<!-- * Boogie (unsure) !-->
+<!-- * HyPhy (unsure) !-->
 
 `/*` & `*/`
 
@@ -745,9 +767,11 @@ Isabelle
 * Reason
 * ReasonML
 * Dafny
-<!-- * Astro (unsure) !-->
 
+<!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
+<!-- * Boogie (unsure) !-->
+<!-- * HyPhy (unsure) !-->
 
 `<!-- !-->`
 
@@ -759,6 +783,7 @@ Isabelle
 * XML
 * Eagle
 * Bikeshed
+* SVG
 
 `(* *)`
 
@@ -832,6 +857,14 @@ Isabelle
 `/** **/`
 
 * IDL
+
+`/** */`
+
+* HyPhy
+
+`//` & `/** */`
+
+* HyPhy
 
 `/*! */`
 
@@ -1005,6 +1038,12 @@ print("String");
 
 * Perl
 
+```blade
+print 'String\n'
+```
+
+* Blade
+
 ```java
 System.out.println("String");
 ```
@@ -1062,6 +1101,12 @@ echo("String");
 * Shell
 * Fish
 * Batchfile
+
+```blade
+echo 'String\n'
+```
+
+* Blade
 
 ```groovy
 println "String"
@@ -1196,6 +1241,26 @@ out_string("String.\n")
 ```
 
 * Cool
+
+```haproxy
+vtest "String"
+```
+
+* HaProxy
+
+```hyphy
+function String () {
+    return "String";
+}
+```
+
+* HyPhy
+
+```boogie
+assert str("String") == "String";
+```
+
+* Boogie
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -1359,9 +1424,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `32 (2022, Wednesday, September 14th at 7:12 pm PST)`
+**File version:** `33 (2022, Thursday, September 15th at 5:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,318`
+**Line count (including blank lines and compiler line):** `2,449`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2000,11 +2065,59 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b>Version 33 (Coming soon)</b></summary>
+<details><summary><b>Version 33 (2022, Thursday, September 15th at 5:15 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V33.md)
 
 **Changes:**
 
-- [ ] Coming soon
+<!-- Notes
+SVG
+<!--
+Boogie
+// & /*
+assert str("String") == "String";
+Blade
+# & /*
+echo 'String\n'
+print 'String\n'
+HyPhy
+//
+/** */
+function String () {
+    return "String";
+}
+HAProxy
+#
+vtest "String"
+!-->
+
+- [x] Updated the `Learn` table
+- - [x] Added support for Blade, Boogie, HaProxy, HyPHy, and SVG
+- [x] Updated the comments section
+- - [x] Updated the `//` comment section to include Boogie, and HyPhy
+- - [x] Updated the `#` comment section to include HaProxy, and Blade
+- - [x] Updated the `<!-- !-->` comment section to include SVG
+- - [x] Updated the `/* */` comment section to include hidden entries
+- - [x] Updated the `//` & `/* */` comment section to include hidden entries
+- - [x] Added the `/** */` comment section to include HyPhy
+- - [x] Added the `//` & `/** */` comment section to include HyPhy
+- - [x] Added the `#` & `/*` comment section to include Boogie
+- [x] Updated the strings section
+- - [x] Added the `assert str("String") == "String";` section to include Boogie
+- - [x] Added the `echo 'String\n'` section to include Blade
+- - [x] Added the `print 'String\n'` section to include Blade
+- - [x] Added the
+- - - [ ] function String () {
+- - - [ ] return "String";
+- - - [ ] 
+- - [ ] section to include HyPhy
+- - [x] Added the `vtest "String"` section to include HaProxy
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 33
 - [ ] No other changes in version 33
 
 </details>
@@ -2285,6 +2398,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 - [ ] Coming soon
 - [ ] No other changes in version 64
+
+</details>
+
+<details><summary><b>Version 65 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 65
+
+</details>
+
+<details><summary><b>Version 66 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 66
 
 </details>
 
