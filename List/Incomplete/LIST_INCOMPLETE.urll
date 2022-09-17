@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, September 15th at 5:33 pm PST
+-- As of 2022, Friday, September 17th at 10:24 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
@@ -30,6 +30,11 @@ https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-Eagle
 https://github.com/seanpm2001/Learn-Earthly
 https://github.com/seanpm2001/Learn-EmacsLisp
+https://github.com/seanpm2001/Learn-Factor
+https://github.com/seanpm2001/Learn-Fantom
+https://github.com/seanpm2001/Learn-Fish
+https://github.com/seanpm2001/Learn-Fluent
+https://github.com/seanpm2001/Learn-Forth
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
 https://github.com/seanpm2001/Learn-GDB
@@ -108,7 +113,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 103/163
+-- Count: 108/168
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -174,13 +179,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V29 date: 2022, Wednesday, September 14th at 7:45 pm PST
 -- V30: 5 entries added, 103 entries remain (ratio: 103/163 (63.19% incomplete, 36.81% complete))
 -- V30 date: 2022, Thursday, September 15th at 5:33 pm PST
+-- V31: 5 entries added, 108 entries remain (ratio: 108/168 (64.28% incomplete, 35.72% complete))
+-- V31 date: 2022, Friday, September 16th at 10:24 pm PST
 
--- Ratio (incomplete/complete): 103/163 (63.19% incomplete, 36.81% complete)
+-- Ratio (incomplete/complete): 108/168 (64.28% incomplete, 35.72% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 30 (2022, Thursday, September 15th at 5:33 pm PST)
--- Line count (including blank lines and compiler line): 187
+-- File version: 31 (2022, Friday, September 6th at 10:24 pm PST)
+-- Line count (including blank lines and compiler line): 194
 
 -- End of script
