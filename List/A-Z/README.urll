@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V27: 2022, Thursday, September 15th at 5:26 pm PST
+-- V28: 2022, Friday, September 16th at 10:18 pm PST
 
 -- Programming
 -- 1
@@ -59,6 +59,11 @@ https://github.com/seanpm2001/Learn-Elm
 https://github.com/seanpm2001/Learn-EmacsLisp
 https://github.com/seanpm2001/Learn-Erlang
 -- F
+https://github.com/seanpm2001/Learn-Factor
+https://github.com/seanpm2001/Learn-Fantom
+https://github.com/seanpm2001/Learn-Fish
+https://github.com/seanpm2001/Learn-Fluent
+https://github.com/seanpm2001/Learn-Forth
 https://github.com/seanpm2001/Learn-FORTRAN
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
@@ -197,10 +202,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 165 languages listed (as of 2022, Thursday, September 15th at 5:26 pm PST)
+-- 170 languages listed (as of 2022, Friday, September 16th at 10:18 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 27 (2022, Thursday, September 15th at 5:26 pm PST)
--- Line count (including blank lines and compiler line): 207
+-- File version: 28 (2022, Friday, September 16th at 10:18 pm PST)
+-- Line count (including blank lines and compiler line): 212
 -- End of file
