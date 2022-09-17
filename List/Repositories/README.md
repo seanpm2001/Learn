@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `163`/`378` (as of 2022, Thursday, September 15th at 5:22 pm PST)
+Current progress `168`/`379` (as of 2022, Friday, September 16th at 10:30 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `43.12%` complete, `56.88%` incomplete.
+**Ratio:** `44.32%` complete, `55.68%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -120,13 +120,13 @@ This list covers the creation of the language repositories.
 - [x] FORTRAN
 - [x] F#
 - [x] F*
-- [ ] Factor
+- [x] Factor
 - [ ] Fancy
-- [ ] Fish
-- [ ] Fluent
-- [ ] Forth
+- [x] Fish
+- [x] Fluent
+- [x] Forth
 - [ ] FreeMarker
-- [ ] Fantom
+- [x] Fantom
 - [ ] FP
 - [ ] G-CODE
 - [ ] GAP
@@ -243,6 +243,7 @@ This list covers the creation of the language repositories.
 - [ ] Maxima
 - [ ] NASL
 - [x] nesC
+- [ ] Nemerle
 - [ ] NetRexx
 - [ ] Nextflow
 - [ ] NGINX
@@ -422,9 +423,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2022, Thursday, September 15th at 5:22 pm PST)`
+**File version:** `28 (2022, Friday, September 16th at 10:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,407`
+**Line count (including blank lines and compiler line):** `1,444`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -998,15 +999,21 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 28</b></summary>
 
-**Version 28 (Coming soon)**
+**Version 28 (2022, Friday, September 16th at 10:30 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V28.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V28.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 163 | new total: 168)
+- - [x] Added 1 entry to the list (old total: 378 | new total: 379)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 28
 - [ ] No other changes in version 28
 
 </details>
@@ -1398,6 +1405,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 54
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 55</b></summary>
+
+**Version 55 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V55.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 55
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 56</b></summary>
+
+**Version 56 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V56.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 56
 
 </details>
 
