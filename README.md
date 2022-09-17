@@ -135,7 +135,19 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section F1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FORTRAN/"><img src="/Programming/Logos/F/FORTRAN/Fortran_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn FORTRAN</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FSharp/"><img src="/Programming/Logos/F/F%23/F_Sharp_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn F#</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-FStar/"><img src="/Programming/Logos/F/F*/Fstar-official-logo-2015.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FStar/"><img src="/Programming/Logos/F/F*/Fstar-official-logo-2015.png" width="100px;" alt=""/><br /><sub><b>Learn F*</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Fish/"><img src="/Programming/Logos/F/Fish/Fish_shell_logo_ascii.png" width="100px;" alt=""/><br /><sub><b>Learn Fish</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Fluent/"><img src="/Programming/Logos/F/Fluent/Fluent_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Fluent</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Factor/"><img src="/Programming/Logos/F/Factor/FactorialFactor.png" width="100px;" alt=""/><br /><sub><b>Learn Factor</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Fantom/"><img src="/Programming/Logos/F/Fantom/Fantom_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Fantom</b></sub></a></td>
+  </tr>
+  <!-- Row 6B !-->
+  <!-- Letter F !-->
+  <tr>
+    <td align="center"><p>Section F2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Forth/"><img src="/Programming/Logos/F/Forth/Forth_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Forth</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1424,9 +1436,9 @@ Coming soon
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `33 (2022, Thursday, September 15th at 5:15 pm PST)`
+**File version:** `34 (2022, Friday, September 16th at 10:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,449`
+**Line count (including blank lines and compiler line):** `2,487`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2122,16 +2134,24 @@ vtest "String"
 
 </details>
 
-<details><summary><b>Version 34 (Coming soon)</b></summary>
+<details><summary><b>Version 34 (2022, Friday, September 16th at 10:15 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Fish, Fantom, Forth, Fluent, and Factor
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added a log entry for version 34
 - [ ] No other changes in version 34
 
 </details>
 
 <details><summary><b>Version 35 (Coming soon)</b></summary>
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, and Forth
+!-->
 
 **Changes:**
 
@@ -2416,6 +2436,24 @@ vtest "String"
 
 - [ ] Coming soon
 - [ ] No other changes in version 66
+
+</details>
+
+<details><summary><b>Version 67 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 67
+
+</details>
+
+<details><summary><b>Version 68 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 68
 
 </details>
 
