@@ -146,7 +146,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section F2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Forth/"><img src="/Programming/Logos/F/Forth/Forth_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Forth</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FCL/"><img src="/Programming/Logos/F/FCL/FCL_Language_512pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn FCL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -252,7 +252,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section L2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Logcat/"><img src="/Programming/Logos/L/Logcat/Matlog_390x390_LogcatLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Logcat</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Lean/"><img src="/Programming/Logos/L/Lean/Lean_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Lean</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -291,8 +291,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Nim/"><img src="/Programming/Logos/N/Nim/Nim_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Nim</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-nesC/"><img src="/Programming/Logos/N/nesC/TinyOS_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn nesC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Nix/"><img src="/Programming/Logos/N/Nix/Nixos-Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn Nix</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-NetREXX/"><img src="/Programming/Logos/N/NetREXX/NetREXX_Placeholder.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NetREXX</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-NewLisp/"><img src="/Programming/Logos/N/NewLisp/newLISP-Logo_128px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn New Lisp</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -366,7 +366,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RouterOS-Script/"><img src="/Programming/Logos/R/RouterOS-Script/RouterOS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn RouterOS Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Reason/"><img src="/Programming/Logos/R/Reason/Reason-1-logo.png" width="100px;" alt=""/><br /><sub><b>Learn Reason</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReasonML/"><img src="/Programming/Logos/R/ReasonML/ReasonML_400px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ReasonML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-REXX/"><img src="/Programming/Logos/R/REXX/REXX_LOGO.png" width="100px;" alt=""/><br /><sub><b>Learn REXX</b></sub></a></td>
   </tr>
   <!-- Row 19A !-->
   <!-- Letter S !-->
@@ -1430,15 +1430,45 @@ Coming soon
 
 ***
 
+## Additional docs
+
+### Acceleration project
+
+I started accelerating the rate of creating Learn repositories on 2022, Friday, August 26th. At the start of acceleration, I began creating 2 learn repositories per day, and 2 associated SNU 2D Programming Tools IDE projects. The acceleration was increased multiple times.
+
+On 2022, September 5th, the rate of acceleration was doubled to 4 learn repositories per day, and 4 associated SNU 2D Programming Tools IDE projects per day.
+
+On 2022, September 10th, acceleration was increased to 5 learn repositories per day, and 5 associated SNU 2D Programming Tools IDE projects per day.
+
+On 2022, September 15th, an additional sixth SNU 2D Programming Tools IDE project was added to the daily flow, as this project wasn't on par with the learn project.
+
+On 2022 September 17th, there was a severe issue with my laptop workflow today, as my main laptop had a malfunctioning fan, and had to be backed up and alternated from, which used up the rest of the days development time. I started the 11 projects beforehand (plus a seventh SNU programming Tools IDE project) but work on them wasn't finished until the next day.
+
+On 2022, September 18th, I began to consider do a new system where I start the projects on day A, make as much progress as I can, then finish the projects on day B (until my laptop can be repaired)
+
+### Issues
+
+I cannot document the languages in full at the rate I am creating them. It may never be possible to get caught up (at least for the next 3 years)
+
+#### 2022 September 17th issues
+
+There was a severe issue with my laptop workflow today, as my main laptop had a malfunctioning fan, and had to be backed up and alternated from, which used up the rest of the days development time.
+
+#### 2022 September 18th issues
+
+I might do a new system where I start the projects on day A, make as much progress as I can, then finish the projects on day B (until my laptop can be repaired)
+
+***
+
 ## File info
 
 <details open><summary><b>Click/tap here to expand/collapse the file info section</b></summary>
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `34 (2022, Friday, September 16th at 10:15 pm PST)`
+**File version:** `35 (2022, Sunday, September 18th at 7:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,487`
+**Line count (including blank lines and compiler line):** `2,555`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2136,6 +2166,10 @@ vtest "String"
 
 <details><summary><b>Version 34 (2022, Friday, September 16th at 10:15 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V34.md)
+
 **Changes:**
 
 - [x] Updated the `Learn` table
@@ -2147,15 +2181,31 @@ vtest "String"
 
 </details>
 
-<details><summary><b>Version 35 (Coming soon)</b></summary>
+<details><summary><b>Version 35 (2022, Sunday, September 18th at 7:09 pm PST)</b></summary>
 
 <!-- TODO
-Code comments and strings for Factor, Fluent, Fish, Fantom, and Forth
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, and REXX
 !-->
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V35.md)
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for FCL, Lean, NewLisp, NetREXX, and REXX
+- [x] Added the `Additional docs` section
+- - [x] Added the `Acceleration project` subsection
+- - [x] Added the `Issues` subsection
+- - - [x] Added the `2022 September 17th issues` sub-subsection
+- - - [x] Added the `2022 September 18th issues` sub-subsection
+- [x] Updated the file info section
+- - [x] Updated the version numbr
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 35
 - [ ] No other changes in version 35
 
 </details>
@@ -2454,6 +2504,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, and Forth
 
 - [ ] Coming soon
 - [ ] No other changes in version 68
+
+</details>
+
+<details><summary><b>Version 69 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 69
+
+</details>
+
+<details><summary><b>Version 70 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 70
 
 </details>
 
