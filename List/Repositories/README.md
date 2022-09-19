@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `168`/`379` (as of 2022, Friday, September 16th at 10:30 pm PST)
+Current progress `173`/`381` (as of 2022, Sunday, September 18th at 7:32 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `44.32%` complete, `55.68%` incomplete.
+**Ratio:** `45.41%` complete, `54.59%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -125,6 +125,7 @@ This list covers the creation of the language repositories.
 - [x] Fish
 - [x] Fluent
 - [x] Forth
+- [x] FCL
 - [ ] FreeMarker
 - [x] Fantom
 - [ ] FP
@@ -198,7 +199,7 @@ This list covers the creation of the language repositories.
 - [x] Kotlin
 - [ ] KRC
 - [x] kvlang
-- [ ] Lean
+- [x] Lean
 - [ ] Less
 - [ ] Lex
 - [ ] Limbo
@@ -244,7 +245,8 @@ This list covers the creation of the language repositories.
 - [ ] NASL
 - [x] nesC
 - [ ] Nemerle
-- [ ] NetRexx
+- [x] NetRexx
+- [x] NewLisp
 - [ ] Nextflow
 - [ ] NGINX
 - [x] Nix
@@ -310,7 +312,7 @@ This list covers the creation of the language repositories.
 - [ ] REBOL
 - [ ] ReScript
 - [x] ReStructuredText
-- [ ] Rexx
+- [x] REXX
 - [ ] Rich Text Format
 - [ ] Roff
 - [ ] RDoc
@@ -423,9 +425,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2022, Friday, September 16th at 10:30 pm PST)`
+**File version:** `29 (2022, Sunday, September 18th at 7:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,444`
+**Line count (including blank lines and compiler line):** `1,485`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1020,7 +1022,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 29</b></summary>
 
-**Version 29 (Coming soon)**
+**Version 29 (2022, Sunday, September 18th at 7:37 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
@@ -1028,7 +1030,16 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 168 | new total: 173)
+- - [x] Added 2 new entries to the list (old total: 379 | new total: 381)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the  versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 29
 - [ ] No other changes in version 29
 
 </details>
@@ -1435,6 +1446,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 56
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 57</b></summary>
+
+**Version 57 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V57.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 57
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 58</b></summary>
+
+**Version 58 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V58.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 58
 
 </details>
 
