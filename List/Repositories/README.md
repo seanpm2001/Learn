@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `178`/`381` (as of 2022, Monday, September 19th at 11:05 pm PST)
+Current progress `183`/`382` (as of 2022, Tuesday, September 20th at 10:47 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `46.72%` complete, `53.28%` incomplete.
+**Ratio:** `47.91%` complete, `52.09%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -73,7 +73,7 @@ This list covers the creation of the language repositories.
 - [x] CSS
 - [ ] CAML
 - [ ] Cap'n Proto
-- [ ] CartoCSS
+- [x] CartoCSS
 - [x] Ceylon
 - [x] Clean
 - [x] Clojure
@@ -129,7 +129,8 @@ This list covers the creation of the language repositories.
 - [ ] FreeMarker
 - [x] Fantom
 - [ ] FP
-- [ ] G-CODE
+- [x] G-CODE
+- [x] GnuPlot
 - [ ] GAP
 - [ ] GCC Machine Description
 - [ ] Genie
@@ -222,7 +223,7 @@ This list covers the creation of the language repositories.
 - [x] M4
 - [x] Makefile
 - [x] Malbolge
-- [ ] Mako
+- [x] Mako
 - [ ] Mallard
 - [x] Markdown
 - [x] Mathematica
@@ -277,7 +278,7 @@ This list covers the creation of the language repositories.
 - [ ] PostScript
 - [ ] POV Ray SDL
 - [ ] PowerShell
-- [ ] Pug
+- [x] Pug
 - [ ] Puppet
 - [ ] PureBasic
 - [ ] PureData
@@ -425,9 +426,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `30 (2022, Monday, September 19th at 11:05 pm PST)`
+**File version:** `31 (2022, Tuesday, September 20th at 10:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,524`
+**Line count (including blank lines and compiler line):** `1,564`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1070,7 +1071,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 31</b></summary>
 
-**Version 31 (Coming soon)**
+**Version 31 (2022, Tuesday, September 20th at 10:47 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
@@ -1078,7 +1079,16 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 178 | new total: 183)
+- - [x] Added 1 new entry to the list (old total: 381 | new total: 382)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 31
 - [ ] No other changes in version 31
 
 </details>
@@ -1515,6 +1525,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 60
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 61</b></summary>
+
+**Version 61 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V61.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 61
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 62</b></summary>
+
+**Version 62 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V62.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 62
 
 </details>
 
