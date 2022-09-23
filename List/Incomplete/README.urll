@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, September 21st at 11:59 pm PST
+-- As of 2022, Thursday, September 22nd at 7:28 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-Ada
@@ -83,11 +83,13 @@ https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Mercury
+https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-NetREXX
 https://github.com/seanpm2001/Learn-NewLisp
 https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-Nix
 https://github.com/seanpm2001/Learn-Nu
+https://github.com/seanpm2001/Learn-Oberon
 https://github.com/seanpm2001/Learn-Objective-J
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Ooc
@@ -95,6 +97,7 @@ https://github.com/seanpm2001/Learn-OpenEdge-ABL
 https://github.com/seanpm2001/Learn-OpenQASM
 https://github.com/seanpm2001/Learn-Pawn
 https://github.com/seanpm2001/Learn-PicoLisp
+https://github.com/seanpm2001/Learn-Pod
 https://github.com/seanpm2001/Learn-Pony
 https://github.com/seanpm2001/Learn-PostGreSQL
 https://github.com/seanpm2001/Learn-Procfile
@@ -114,6 +117,7 @@ https://github.com/seanpm2001/Learn_Ruby
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-SourcePawn
 https://github.com/seanpm2001/Learn-Squirrel
+https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
 https://github.com/seanpm2001/Learn-SVG
 https://github.com/seanpm2001/Learn-Tcl
@@ -124,6 +128,7 @@ https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-VueJS
 https://github.com/seanpm2001/Learn-WebVTT
+https://github.com/seanpm2001/Learn-WikiText
 https://github.com/seanpm2001/Learn-XBase
 https://github.com/seanpm2001/Learn-XS
 https://github.com/seanpm2001/Learn-YAML
@@ -133,7 +138,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 128/188
+-- Count: 133/193
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -208,14 +213,16 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V34: 5 entries added, 123 entries remain (ratio: 123/183 (67.21% incomplete, 32.79% complete))
 -- V34 date: 2022, Tuesday, September 20th at 10:40 pm PST
 -- V35: 5 entries added, 128 entries remain (ratio: 128/188 (68.09% incomplete, 31.91% complete))
--- V35 date: 2022, Thursday, September 22nd at &:21 pm PST, representing data from 2022, Wednesday, September 21st
+-- V35 date: 2022, Thursday, September 22nd at 7:21 pm PST, representing data from 2022, Wednesday, September 21st
+-- V36: 5 entries added, 133 entries remain (ratio: 133/193 (68.91% incomplete, 31.09% complete))
+-- V36 date: 2022, Thursday, September 22nd at 7:28 pm PST, representing data from 2022, Thursday, September 22nd
 
--- Ratio (incomplete/complete): 128/188 (68.09% incomplete, 31.91% complete)
+-- Ratio (incomplete/complete): 133/193 (68.91% incomplete, 31.09% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 35 (2022, Thursday, September 22nd at 7:21 pm PST)
--- Line count (including blank lines and compiler line): 222
+-- File version: 36 (2022, Thursday, September 22nd at 7:28 pm PST)
+-- Line count (including blank lines and compiler line): 229
 
 -- End of script
