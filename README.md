@@ -42,8 +42,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AngelScript/"><img src="/Programming/Logos/A/AngelScript/AngelScriptLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AngelScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ApacheConf/"><img src="/Programming/Logos/A/ApacheConf/PoweredByApache.png" width="100px;" alt=""/><br /><sub><b>Learn ApacheConf</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Astro/"><img src="/Programming/Logos/A/Astro/AstroLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Astro</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ASCIIDoc/"><img src="/Programming/Logos/A/ASCIIDoc/ASCIIDoctor_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ASCIIDoc</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AutoIt/"><img src="/Programming/Logos/A/AutoIt/AU3_Script_File_Format_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn AutoIt</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
@@ -411,7 +411,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section T1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TypeScript/"><img src="/Programming/Logos/T/TypeScript/TypeScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn TypeScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Tcl/"><img src="/Programming/Logos/T/Tcl/Tcl-powered.svg" width="100px;" alt=""/><br /><sub><b>Learn Tcl</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Twig/"><img src="/Programming/Logos/T/Twig/TwigLang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Twig</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -422,7 +422,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section U1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-UnrealScript/"><img src="/Programming/Logos/U/UnrealScript/UnrealScript_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn UnrealScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Uno/"><img src="/Programming/Logos/U/Uno/UnoIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Uno</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -438,7 +438,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VHDL/"><img src="/Programming/Logos/V/VHDL/VHD_VirtualBox.png" width="100px;" alt=""/><br /><sub><b>Learn VHDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-V/"><img src="/Programming/Logos/V/V/V_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn V</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VueJS/"><img src="/Programming/Logos/V/Vue.js/Vue.js_Logo_2.svg" width="100px;" alt=""/><br /><sub><b>Learn Vue.js</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VimScript/"><img src="/Programming/Logos/V/VimScript/VIMSCRIPT.png" width="100px;" alt=""/><br /><sub><b>Learn Vim Script</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 23A !-->
@@ -1479,9 +1479,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2022, Tuesday, September 20th at 10:59 pm PST)`
+**File version:** `38 (2022, Thursday, September 22nd at 6:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,630`
+**Line count (including blank lines and compiler line):** `2,665`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2267,11 +2267,28 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 38 (Coming soon)</b></summary>
+<details><summary><b>Version 38 (2022, Thursday, September 22nd at 6:45 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V38.md)
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, and VimScript
+!-->
 
 **Changes:**
 
-- [ ] Coming soon
+**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
+
+- [x] Updated the `Learn` table
+- - [x] Added support for ASCIIDoc, AutoIt, Twig, Uno, and Vim Script
+- [x] Updated the file info section
+- - [x] Updated the version numbr
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 38
 - [ ] No other changes in version 38
 
 </details>
@@ -2597,6 +2614,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 74
+
+</details>
+
+<details><summary><b>Version 75 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 75
+
+</details>
+
+<details><summary><b>Version 76 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 76
 
 </details>
 
