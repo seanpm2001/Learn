@@ -175,8 +175,6 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
-
-!-->
   <!-- Row 8A !-->
   <!-- Letter H !-->
   <tr>
@@ -295,7 +293,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Malbolge/"><img src="/Programming/Logos/M/Malbolge/Malbolge_Caution_512px.png" width="100px;" alt=""/><br /><sub><b>Learn Malbolge</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mako/"><img src="/Programming/Logos/M/Mako/MakoLogo_Modified_600px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Mako</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-2/"><img src="/Programming/Logos/M/Modula-2/Modula2.gif" width="100px;" alt=""/><br /><sub><b>Learn Modula-2</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
   <!-- Letter N !-->
@@ -321,6 +319,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ooc/"><img src="/Programming/Logos/O/Ooc/Ooc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Ooc</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenEdge-ABL/"><img src="/Programming/Logos/O/OpenEdge_ABL/OpenEdge_ABL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenEdge ABL</b></sub></a></td>
   </tr>
+  <!-- Row 15B !-->
+  <!-- Letter O !-->
+  <tr>
+    <td align="center"><p>Section O2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Oberon/"><img src="/Programming/Logos/O/Oberon/Oberon_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Oberon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 16A !-->
   <!-- Letter P !-->
   <tr>
@@ -341,7 +351,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pawn/"><img src="/Programming/Logos/P/Pawn/Pawn.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pawn</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PicoLisp/"><img src="/Programming/Logos/P/PicoLisp/PicoLisp_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn PicoLisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pug/"><img src="/Programming/Logos/P/Pug/PugProgrammingLanguageIcon.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pug</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Pod/"><img src="/Programming/Logos/P/Pod/PodLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Pod</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -401,7 +411,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SourcePawn/"><img src="/Programming/Logos/S/SourcePawn/SourcePAWN.png" width="100px;" alt=""/><br /><sub><b>Learn SourcePawn</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SVG/"><img src="/Programming/Logos/S/SVG/SVG_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SVG</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stylus/"><img src="/Programming/Logos/S/Stylus/StylusLang_128x128.png" width="100px;" alt=""/><br /><sub><b>Learn Stylus</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-StringTemplate/"><img src="/Programming/Logos/S/StringTemplate/StringTemplate_Logo_128px.png" width="100px;" alt=""/><br /><sub><b>Learn String Template</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -447,7 +457,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section W1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WDL/"><img src="/Programming/Logos/W/WDL/OpenWDL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn wdl</b></sub></a></td>
     <td align="center"><a href="https://github/com/seanpm2001/Learn-WebVTT/"><img src="/Programming/Logos/W/WebVTT/CCWEBVTT.png" width="100px;" alt=""/><br /><sub><b>Learn WebVTT</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WikiText/"><img src="/Programming/Logos/W/WikiText/MediaWiki_Sunflower.png" width="100px;" alt=""/><br /><sub><b>Learn WikiText</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1479,9 +1489,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `38 (2022, Thursday, September 22nd at 6:45 pm PST)`
+**File version:** `39 (2022, Thursday, September 22nd at 6:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,665`
+**Line count (including blank lines and compiler line):** `2,717`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2293,11 +2303,26 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 39 (Coming soon)</b></summary>
+<details><summary><b>Version 39 (2022, Thursday, September 22nd at 6:57 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V39.md)
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Modula-2, Oberon, Pod, StringTemplate, and WikiText
+!-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Modula-2, Oberon, Pod, StringTemplate, and WikiText
+- [x] Updated the file info section
+- - [x] Updated the version numbr
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 39
 - [ ] No other changes in version 39
 
 </details>
@@ -2635,7 +2660,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
+<details><summary><b>Version 74 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 74
+
 </details>
+
+<details><summary><b>Version 77 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 77
+
+</details>
+
+<details><summary><b>Version 78 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 78
+
+</details>
+
+</details> <!-- Dropdown table end !-->
 
 ***
 
