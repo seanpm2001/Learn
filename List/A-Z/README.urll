@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V30: 2022, Monday, September 19th at 10:50 pm PST
+-- V31: 2022, Thursday, September 22nd at 7:02 pm PST
 
 -- Programming
 -- 1
@@ -15,8 +15,10 @@ https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-API-Blueprint
 https://github.com/seanpm2001/Learn-AppleScript
+https://github.com/seanpm2001/Learn-ASCIIDoc
 https://github.com/seanpm2001/Learn-Assembly
 https://github.com/seanpm2001/Learn-Astro
+https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-Awk
 -- B
 https://github.com/seanpm2001/Learn-Ballerina
@@ -191,14 +193,17 @@ https://github.com/seanpm2001/Learn-SVG
 https://github.com/seanpm2001/Learn-Swift
 -- T
 https://github.com/seanpm2001/Learn-Tcl
+https://github.com/seanpm2001/Learn-Tiwg
 https://github.com/seanpm2001/Learn-TypeScript
 -- U
 https://github.com/seanpm2001/Learn-UnrealScript
+https://github.com/seanpm2001/Learn-Uno
 -- V
 https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-Vala
 https://github.com/seanpm2001/Learn-VBScript
 https://github.com/seanpm2001/Learn-VHDL
+https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-VueJS
 -- W
 https://github.com/seanpm2001/Learn-WDL
@@ -216,10 +221,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 185 languages listed (as of 2022, Tuesday, September 20th at 10:30 pm PST)
+-- 190 languages listed (as of 2022, Wednesday, September 21st at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 31 (2022, Tuesday, September 20th at 10:30 pm PST)
--- Line count (including blank lines and compiler line): 226
+-- File version: 32 (2022, Thursday, September 22nd at 7:02 pm PST)
+-- Line count (including blank lines and compiler line): 231
 -- End of file
