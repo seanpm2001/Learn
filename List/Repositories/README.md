@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `188`/`382` (as of 2022, Wednesday, September 21st at 11:59 pm PST)
+Current progress `193`/`383` (as of 2022, Thursday, September 22nd at 7:43 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `49.21%` complete, `50.79%` incomplete.
+**Ratio:** `50.39%` complete, `49.61%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -234,7 +234,7 @@ This list covers the creation of the language repositories.
 - [x] Metal
 - [ ] ML
 - [x] Modelica
-- [ ] Modula-2
+- [x] Modula-2
 - [ ] Modula-3
 - [ ] Motorola S-RECORD
 - [ ] MS-DOS Style
@@ -256,7 +256,7 @@ This list covers the creation of the language repositories.
 - [ ] NVIDIA Cuda
 - [x] Nu
 - [x] Nim
-- [ ] Oberon
+- [x] Oberon
 - [x] Objective-J
 - [x] Objective-C
 - [x] Objective-CPP
@@ -284,7 +284,7 @@ This list covers the creation of the language repositories.
 - [ ] PureData
 - [ ] PureScript
 - [ ] PostCSS
-- [ ] Pod
+- [x] Pod
 - [ ] PowerFX
 - [ ] PlSQL
 - [ ] Python Traceback
@@ -349,7 +349,7 @@ This list covers the creation of the language repositories.
 - [ ] SQL
 - [ ] StandardML
 - [ ] Starlark
-- [ ] StringTemplate
+- [x] StringTemplate
 - [x] Stylus
 - [ ] SuperCollider
 - [x] Svelte
@@ -391,6 +391,7 @@ This list covers the creation of the language repositories.
 - [x] VHDL
 - [x] WDL
 - [x] WebVTT
+- [x] WikiText
 - [ ] Wierd
 - [ ] XProc
 - [ ] XQuery
@@ -426,9 +427,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `32 (2022, Thursday, September 22nd at 7:36 pm PST)`
+**File version:** `33 (2022, Thursday, September 22nd at 7:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,603`
+**Line count (including blank lines and compiler line):** `1,643`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1097,9 +1098,9 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 32 (2022, Thursday, September 22nd at 7:36 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V32.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V32.md)
 
 > Changes:
 
@@ -1119,15 +1120,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 33</b></summary>
 
-**Version 33 (Coming soon)**
+**Version 33 (2022, Thursday, September 22nd at 7:43 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V33.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V33.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 188 | new total: 193)
+- - [x] Added 1 new entry to the list (old total: 382 | new total: 383)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 33
 - [ ] No other changes in version 33
 
 </details>
@@ -1594,6 +1604,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 64
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 65</b></summary>
+
+**Version 65 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V65.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 65
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 66</b></summary>
+
+**Version 66 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V66.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 66
 
 </details>
 
