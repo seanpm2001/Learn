@@ -111,7 +111,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section D2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dafny/"><img src="/Programming/Logos/D/Dafny/Dafny_logo.jpg" width="100px;" alt=""/><br /><sub><b>Learn Dafny</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DTrace/"><img src="/Programming/Logos/D/DTrace/DTrace_Kindle.jpeg" width="100px;" alt=""/><br /><sub><b>Learn DTrace</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -169,7 +169,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section G2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-G-CODE/"><img src="/Programming/Logos/G/G-CODE/GCODE_1_300px.png" width="100px;" alt=""/><br /><sub><b>Learn G-CODE</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GnuPlot/"><img src="/Programming/Logos/G/Gnuplot/Gnuplot_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn GnuPlot</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GLSL/"><img src="/Programming/Logos/G/GLSL/OpenGL_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn GLSL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -192,8 +192,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section H2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HCL/"><img src="/Programming/Logos/H/HCL/HCL_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HCL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HLSL/"><img src="/Programming/Logos/H/HLSL/HLSL-Sample1.png" width="100px;" alt=""/><br /><sub><b>Learn HLSL</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HAML/"><img src="/Programming/Logos/H/HAML/HAML_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn HAML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -276,7 +276,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section L2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Logcat/"><img src="/Programming/Logos/L/Logcat/Matlog_390x390_LogcatLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Logcat</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lean/"><img src="/Programming/Logos/L/Lean/Lean_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Lean</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LispFlavoredErlang/"><img src="/Programming/Logos/L/LispFlavoredErlang/LFELogo1.png" width="100px;" alt=""/><br /><sub><b>Learn LispFlavoredErlang (LFE)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1513,9 +1513,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2022, Saturday, September 24th at 10:42 pm PST)`
+**File version:** `41 (2022, Saturday, September 24th at 10:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,776`
+**Line count (including blank lines and compiler line):** `2,809`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2377,11 +2377,26 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 41 (Coming soon)</b></summary>
+<details><summary><b>Version 41 (2022, Saturday, September 24th at 10:52 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V41.md)
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Creole, HCL, Modula-3, Seed7, SystemVerilog, DTrace, HAML, HLSL, GLSL, and LispFlavoredErlang
+!-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for DTrace, HAML, HLSL, GLSL, and LispFlavoredErlang (LVFE)
+- [x] Updated the file info section
+- - [x] Updated the version numbr
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 41
 - [ ] No other changes in version 41
 
 </details>
@@ -2743,6 +2758,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 80
+
+</details>
+
+<details><summary><b>Version 81 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 81
+
+</details>
+
+<details><summary><b>Version 82 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 82
 
 </details>
 
