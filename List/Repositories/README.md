@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `193`/`383` (as of 2022, Thursday, September 22nd at 7:43 pm PST)
+Current progress `198`/`383` (as of 2022, Friday, September 23rd at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `50.39%` complete, `49.61%` incomplete.
+**Ratio:** `51.70%` complete, `48.30%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -88,7 +88,7 @@ This list covers the creation of the language repositories.
 - [ ] CSound
 - [ ] CSV
 - [ ] Cyclone
-- [ ] Creole
+- [x] Creole
 - [ ] CSON
 - [ ] CSound document
 - [ ] CSound score
@@ -156,7 +156,7 @@ This list covers the creation of the language repositories.
 - [x] HAPROXY
 - [x] Haxe
 - [x] HXML
-- [ ] HCL
+- [x] HCL
 - [ ] HiveQL
 - [ ] HLSL
 - [ ] HolyC
@@ -235,7 +235,7 @@ This list covers the creation of the language repositories.
 - [ ] ML
 - [x] Modelica
 - [x] Modula-2
-- [ ] Modula-3
+- [x] Modula-3
 - [ ] Motorola S-RECORD
 - [ ] MS-DOS Style
 - [ ] Max
@@ -335,7 +335,7 @@ This list covers the creation of the language repositories.
 - [x] Scala
 - [ ] SCSS
 - [ ] Sed
-- [ ] Seed7
+- [x] Seed7
 - [ ] Self
 - [ ] SGML
 - [ ] ShaderLab
@@ -355,7 +355,7 @@ This list covers the creation of the language repositories.
 - [x] Svelte
 - [ ] SWIG
 - [ ] SXML
-- [ ] SystemVerilog
+- [x] SystemVerilog
 - [ ] SASL
 - [ ] SQLPL
 - [ ] Sublime Text
@@ -427,9 +427,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `33 (2022, Thursday, September 22nd at 7:43 pm PST)`
+**File version:** `34 (2022, Saturday, September 24th at 11:21 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,643`
+**Line count (including blank lines and compiler line):** `1,682`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1144,15 +1144,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 34</b></summary>
 
-**Version 34 (Coming soon)**
+**Version 34 (2022, Saturday, September 24th at 11:21 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V34.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V34.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 193 | new total: 198)
+- - [x] Added 0 new entries to the list (old total: 383 | new total: 383)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 34
 - [ ] No other changes in version 34
 
 </details>
@@ -1634,6 +1643,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 66
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 67</b></summary>
+
+**Version 67 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V67.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 67
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 68</b></summary>
+
+**Version 68 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V68.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 68
 
 </details>
 
