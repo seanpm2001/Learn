@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `198`/`383` (as of 2022, Friday, September 23rd at 11:59 pm PST)
+Current progress `203`/`385` (as of 2022, Saturday, September 24th at 11:25 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `51.70%` complete, `48.30%` incomplete.
+**Ratio:** `52.73%` complete, `47.27%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -66,6 +66,7 @@ This list covers the creation of the language repositories.
 - [ ] Befunge
 - [x] Blade
 - [ ] BlitzBasic
+- [ ] Cadence
 - [x] C
 - [x] C-Plus-Plus
 - [x] COBOL
@@ -102,7 +103,7 @@ This list covers the creation of the language repositories.
 - [ ] DIGITAL Command Language
 - [x] DM
 - [x] Dockerfile
-- [ ] DTrace
+- [x] DTrace
 - [ ] DCPU-16-ASM
 - [x] DogeScript
 - [x] Dylan
@@ -137,7 +138,7 @@ This list covers the creation of the language repositories.
 - [ ] Gerber Image
 - [ ] GetText
 - [ ] Gherkin
-- [ ] GLSL
+- [x] GLSL
 - [ ] GN
 - [x] GDB
 - [x] GSC
@@ -151,14 +152,14 @@ This list covers the creation of the language repositories.
 - [x] GDScript
 - [ ] Gradle
 - [x] Hack
-- [ ] HAML
+- [x] HAML
 - [x] HandleBars
 - [x] HAPROXY
 - [x] Haxe
 - [x] HXML
 - [x] HCL
 - [ ] HiveQL
-- [ ] HLSL
+- [x] HLSL
 - [ ] HolyC
 - [ ] Hope
 - [x] HyPhy
@@ -207,7 +208,7 @@ This list covers the creation of the language repositories.
 - [x] Lingo
 - [ ] Liquid
 - [ ] Lisp
-- [ ] LispFlavoredErlang
+- [x] LispFlavoredErlang
 - [x] LLVM
 - [x] Logos
 - [x] Logcat
@@ -232,6 +233,7 @@ This list covers the creation of the language repositories.
 - [x] Mercury
 - [x] Meson
 - [x] Metal
+- [ ] Macaulay2
 - [ ] ML
 - [x] Modelica
 - [x] Modula-2
@@ -427,9 +429,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `34 (2022, Saturday, September 24th at 11:21 pm PST)`
+**File version:** `35 (2022, Saturday, September 24th at 11:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,682`
+**Line count (including blank lines and compiler line):** `1,723`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1168,15 +1170,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 35</b></summary>
 
-**Version 35 (Coming soon)**
+**Version 35 (2022, Saturday, September 24th at 11:25 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V35.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V34.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 198 | new total: 203)
+- - [x] Added 2 new entries to the list (old total: 383 | new total: 385)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 35
 - [ ] No other changes in version 35
 
 </details>
@@ -1673,6 +1684,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 68
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 69</b></summary>
+
+**Version 69 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V69.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 69
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 70</b></summary>
+
+**Version 70 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V70.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 70
 
 </details>
 
