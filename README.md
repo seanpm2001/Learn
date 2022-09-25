@@ -92,7 +92,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ceylon/"><img src="/Programming/Logos/C/Ceylon/Ceylon_128px.png" width="100px;" alt=""/><br /><sub><b>Learn Ceylon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Cool/"><img src="/Programming/Logos/C/Cool/Cool1_640px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Cool</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CartoCSS/"><img src="/Programming/Logos/C/CartoCSS/CartoCSS_Logo_1425px_Project_Compressed.png" width="100px;" alt=""/><br /><sub><b>Learn CartoCSS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Creole/"><img src="/Programming/Logos/C/Creole/CreoleLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Creole</b></sub></a></td>
   </tr>
   <!-- Row 4A !-->
   <!-- Letter D !-->
@@ -186,6 +186,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HaProxy/"><img src="/Programming/Logos/H/HaProxy/HAPROXY_LOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn HaProxy</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HyPhy/"><img src="/Programming/Logos/H/HyPhy/HyPhy_Logo_460px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HyPhy</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Handlebars/"><img src="/Programming/Logos/H/Handlebars/handlebars_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Handlebars</b></sub></a></td>
+  </tr>
+  <!-- Row 8B !-->
+  <!-- Letter H !-->  
+  <tr>
+    <td align="center"><p>Section H2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HCL/"><img src="/Programming/Logos/H/HCL/HCL_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HCL</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 9A !-->
   <!-- Letter I !-->
@@ -294,6 +306,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Malbolge/"><img src="/Programming/Logos/M/Malbolge/Malbolge_Caution_512px.png" width="100px;" alt=""/><br /><sub><b>Learn Malbolge</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mako/"><img src="/Programming/Logos/M/Mako/MakoLogo_Modified_600px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Mako</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-2/"><img src="/Programming/Logos/M/Modula-2/Modula2.gif" width="100px;" alt=""/><br /><sub><b>Learn Modula-2</b></sub></a></td>
+  </tr>
+  <!-- Row 13C !-->
+  <!-- Letter M !--> 
+  <tr>
+    <td align="center"><p>Section M3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-3/"><img src="/Programming/Logos/M/Modula-3/Modula-3.svg" width="100px;" alt=""/><br /><sub><b>Learn Modula-3</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
   <!-- Letter N !-->
@@ -412,8 +436,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SVG/"><img src="/Programming/Logos/S/SVG/SVG_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SVG</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stylus/"><img src="/Programming/Logos/S/Stylus/StylusLang_128x128.png" width="100px;" alt=""/><br /><sub><b>Learn Stylus</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-StringTemplate/"><img src="/Programming/Logos/S/StringTemplate/StringTemplate_Logo_128px.png" width="100px;" alt=""/><br /><sub><b>Learn String Template</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Seed7/"><img src="/Programming/Logos/S/Seed7/Seed7.png" width="100px;" alt=""/><br /><sub><b>Learn Seed7</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SystemVerilog/"><img src="/Programming/Logos/S/SystemVerilog/SystemVerilog.png" width="100px;" alt=""/><br /><sub><b>Learn SystemVerilog</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -1489,9 +1513,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (2022, Thursday, September 22nd at 6:57 pm PST)`
+**File version:** `40 (2022, Saturday, September 24th at 10:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,717`
+**Line count (including blank lines and compiler line):** `2,776`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2327,11 +2351,28 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 40 (Coming soon)</b></summary>
+<details><summary><b>Version 40 (2022, Saturday, September 24th at 10:42 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V40.md)
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Creole, HCL, Modula-3, Seed7, and SystemVerilog
+!-->
 
 **Changes:**
 
-- [ ] Coming soon
+**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
+
+- [x] Updated the `Learn` table
+- - [x] Added support for Creole, HCL, Modula-3, Seed7, and SystemVerilog
+- [x] Updated the file info section
+- - [x] Updated the version numbr
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 40
 - [ ] No other changes in version 40
 
 </details>
@@ -2684,6 +2725,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 78
+
+</details>
+
+<details><summary><b>Version 79 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 79
+
+</details>
+
+<details><summary><b>Version 80 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 80
 
 </details>
 
