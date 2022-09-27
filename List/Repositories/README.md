@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `203`/`385` (as of 2022, Saturday, September 24th at 11:25 pm PST)
+Current progress `208`/`385` (as of 2022, Sunday, September 25th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `52.73%` complete, `47.27%` incomplete.
+**Ratio:** `54.03%` complete, `45.97%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -115,7 +115,7 @@ This list covers the creation of the language repositories.
 - [x] Emacs Lisp
 - [ ] Epigram
 - [x] Erlang
-- [ ] Euphoria
+- [x] Euphoria
 - [x] Eiffel
 - [x] Elm
 - [x] FORTRAN
@@ -142,7 +142,7 @@ This list covers the creation of the language repositories.
 - [ ] GN
 - [x] GDB
 - [x] GSC
-- [ ] Gosu
+- [x] Gosu
 - [ ] Graphviz DOT
 - [ ] Groovy
 - [x] GraphQL
@@ -265,7 +265,7 @@ This list covers the creation of the language repositories.
 - [x] OCaml
 - [ ] Octave
 - [x] OpenEdge ABL
-- [ ] OpenPolicyAgent
+- [x] OpenPolicyAgent
 - [x] OpenQASM
 - [ ] OpenSCAD
 - [ ] Orwell
@@ -332,7 +332,7 @@ This list covers the creation of the language repositories.
 - [x] Shell
 - [x] Swift
 - [ ] Sage
-- [ ] SaltStack
+- [x] SaltStack
 - [ ] SASS
 - [x] Scala
 - [ ] SCSS
@@ -395,7 +395,7 @@ This list covers the creation of the language repositories.
 - [x] WebVTT
 - [x] WikiText
 - [ ] Wierd
-- [ ] XProc
+- [x] XProc
 - [ ] XQuery
 - [x] XS
 - [ ] XSLT
@@ -429,9 +429,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `35 (2022, Saturday, September 24th at 11:25 pm PST)`
+**File version:** `36 (2022, Monday, September 26th at 11:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,723`
+**Line count (including blank lines and compiler line):** `1,760`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1174,7 +1174,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V34.md)
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V35.md)
 
 > Changes:
 
@@ -1194,15 +1194,22 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 36</b></summary>
 
-**Version 36 (Coming soon)**
+**Version 36 (2022, Monday, September 26th at 11:31 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
-
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V36.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V36.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 203 | new total: 208)
+- - [x] Added 0 new entries to the list (old total: 385 | new total: 385)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 36
 - [ ] No other changes in version 36
 
 </details>
@@ -1714,6 +1721,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 70
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 71</b></summary>
+
+**Version 71 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V71.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 71
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 72</b></summary>
+
+**Version 72 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V72.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 72
 
 </details>
 
