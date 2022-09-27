@@ -44,7 +44,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Astro/"><img src="/Programming/Logos/A/Astro/AstroLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Astro</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ASCIIDoc/"><img src="/Programming/Logos/A/ASCIIDoc/ASCIIDoctor_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ASCIIDoc</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AutoIt/"><img src="/Programming/Logos/A/AutoIt/AU3_Script_File_Format_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn AutoIt</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ABAP/"><img src="/Programming/Logos/A/ABAP/ABAP_1.png" width="100px;" alt=""/><br /><sub><b>Learn ABAP</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
   <!-- Letter B !-->
@@ -176,7 +176,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GSC/"><img src="/Programming/Logos/G/GSC/GSC_Language_SquareLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn GSC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GraphQL/"><img src="/Programming/Logos/G/GraphQL/GraphQL_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn GraphQL</b></sub></a></td>
   </tr>
-<!-- Row 7B !-->
+  <!-- Row 7B !-->
+  <!-- Letter G !-->
   <tr>
     <td align="center"><p>Section G2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-G-CODE/"><img src="/Programming/Logos/G/G-CODE/GCODE_1_300px.png" width="100px;" alt=""/><br /><sub><b>Learn G-CODE</b></sub></a></td>
@@ -206,7 +207,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HCL/"><img src="/Programming/Logos/H/HCL/HCL_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HCL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HLSL/"><img src="/Programming/Logos/H/HLSL/HLSL-Sample1.png" width="100px;" alt=""/><br /><sub><b>Learn HLSL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HAML/"><img src="/Programming/Logos/H/HAML/HAML_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn HAML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HiveQL/"><img src="/Programming/Logos/H/HiveQL/HiveQL_520px.png" width="100px;" alt=""/><br /><sub><b>Learn HiveQL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -388,7 +389,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PicoLisp/"><img src="/Programming/Logos/P/PicoLisp/PicoLisp_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn PicoLisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pug/"><img src="/Programming/Logos/P/Pug/PugProgrammingLanguageIcon.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pug</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pod/"><img src="/Programming/Logos/P/Pod/PodLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Pod</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PureData/"><img src="/Programming/Logos/P/PureData/PureData427px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pure Data</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 17A !-->
@@ -399,7 +400,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QSharp/"><img src="/Programming/Logos/Q/QSharp/QSharp_1.png" width="100px;" alt=""/><br /><sub><b>Learn Q#</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QT-Script/"><img src="/Programming/Logos/Q/QT-Script/QT_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn QT Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-q/"><img src="/Programming/Logos/Q/q/Q_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn q</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-QMake/"><img src="/Programming/Logos/Q/QMake/QMake_QT.png" width="100px;" alt=""/><br /><sub><b>Learn QMake</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -519,7 +520,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XS/"><img src="/Programming/Logos/X/XS/XS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn XS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XBase/"><img src="/Programming/Logos/X/XBase/XBASE_Logo_Cropped.png" width="100px;" alt=""/><br /><sub><b>Learn xBase</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XProc/"><img src="/Programming/Logos/X/XProc/XProc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn XProc</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-XQuery/"><img src="/Programming/Logos/X/XQuery/XQuery--Opaque_225px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn XQuery</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -1537,9 +1538,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2022, Monday, September 26th at 10:37 pm PST)`
+**File version:** `43 (2022, Monday, September 26th at 10:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,868`
+**Line count (including blank lines and compiler line):** `2,901`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2429,7 +2430,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/OldVersions/README/English/1/README_V41.md)
+[View this version](/OldVersions/README/English/1/README_V42.md)
 
 <!-- TODO
 Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Creole, HCL, Modula-3, Seed7, SystemVerilog, DTrace, HAML, HLSL, GLSL, LispFlavoredErlang, Euphoria, Gosu, OpenPolicyAgent, SaltStack, and XProc
@@ -2451,13 +2452,27 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 43 (Coming soon)</b></summary>
+<details><summary><b>Version 43 (2022, Monday, September 26th at 10:45 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V43.md)
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Creole, HCL, Modula-3, Seed7, SystemVerilog, DTrace, HAML, HLSL, GLSL, LispFlavoredErlang, Euphoria, Gosu, OpenPolicyAgent, SaltStack, XProc, ABAP, HiveQL, PureData, QMake, and XQuery
+!-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ABAP, HiveQL, PureData, QMake, and XQuery
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 43
 - [ ] No other changes in version 43
-
 </details>
 
 <details><summary><b>Version 44 (Coming soon)</b></summary>
@@ -2835,6 +2850,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 84
+
+</details>
+
+<details><summary><b>Version 85 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 85
+
+</details>
+
+<details><summary><b>Version 86 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 86
 
 </details>
 
