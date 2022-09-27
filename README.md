@@ -129,6 +129,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Earthly/"><img src="/Programming/Logos/E/Earthly/EarthlyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn-Earthly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EmacsLisp/"><img src="/Programming/Logos/E/Emacs_Lisp/EmacsLispIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Emacs Lisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Eagle/"><img src="/Programming/Logos/E/Eagle/AutoDesk_EAGLE_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Eagle (AutoDesk)</b></sub></a></td>
+  <!-- Row 5B !-->
+  <!-- Letter E !-->
+  <tr>
+    <td align="center"><p>Section E2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Euphoria/"><img src="/Programming/Logos/E/Euphoria/OpenEuphoriaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Euphoria</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 6A !-->
   <!-- Letter F !-->
   <tr>
@@ -170,7 +182,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-G-CODE/"><img src="/Programming/Logos/G/G-CODE/GCODE_1_300px.png" width="100px;" alt=""/><br /><sub><b>Learn G-CODE</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GnuPlot/"><img src="/Programming/Logos/G/Gnuplot/Gnuplot_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn GnuPlot</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GLSL/"><img src="/Programming/Logos/G/GLSL/OpenGL_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn GLSL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Gosu/"><img src="/Programming/Logos/G/Gosu/GosuLogo_174px.png" width="100px;" alt=""/><br /><sub><b>Learn Gosu</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -348,7 +360,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section O2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Oberon/"><img src="/Programming/Logos/O/Oberon/Oberon_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Oberon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenPolicyAgent/"><img src="/Programming/Logos/O/OpenPolicyAgent/OpenPolicyAgent-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenPolicyAgent</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -439,6 +451,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Seed7/"><img src="/Programming/Logos/S/Seed7/Seed7.png" width="100px;" alt=""/><br /><sub><b>Learn Seed7</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SystemVerilog/"><img src="/Programming/Logos/S/SystemVerilog/SystemVerilog.png" width="100px;" alt=""/><br /><sub><b>Learn SystemVerilog</b></sub></a></td>
   </tr>
+  <!-- Row 19C !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><p>Section S3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SaltStack/"><img src="/Programming/Logos/S/SaltStack/SaltStack-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SaltStack</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 20A !-->
   <!-- Letter T !-->
   <tr>
@@ -494,7 +518,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XML/"><img src="/Programming/Logos/X/ML/XML3.png" width="100px;" alt=""/><br /><sub><b>Learn XML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XS/"><img src="/Programming/Logos/X/XS/XS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn XS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XBase/"><img src="/Programming/Logos/X/XBase/XBASE_Logo_Cropped.png" width="100px;" alt=""/><br /><sub><b>Learn xBase</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-XProc/"><img src="/Programming/Logos/X/XProc/XProc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn XProc</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1513,9 +1537,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2022, Saturday, September 24th at 10:52 pm PST)`
+**File version:** `42 (2022, Monday, September 26th at 10:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,809`
+**Line count (including blank lines and compiler line):** `2,868`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2248,7 +2272,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - - [x] Added the `2022 September 17th issues` sub-subsection
 - - - [x] Added the `2022 September 18th issues` sub-subsection
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2268,7 +2292,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the `Learn` table
 - - [x] Added support for Handlebars, Nu, PicoLisp, Stylus, and UnrealScript
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2292,7 +2316,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the `Learn` table
 - - [x] Added support for CartoCSS, G-CODE, GnuPlot, Mako, and Pug
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2318,7 +2342,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the `Learn` table
 - - [x] Added support for ASCIIDoc, AutoIt, Twig, Uno, and Vim Script
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2342,7 +2366,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the `Learn` table
 - - [x] Added support for Modula-2, Oberon, Pod, StringTemplate, and WikiText
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2368,7 +2392,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the `Learn` table
 - - [x] Added support for Creole, HCL, Modula-3, Seed7, and SystemVerilog
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2390,9 +2414,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 **Changes:**
 
 - [x] Updated the `Learn` table
-- - [x] Added support for DTrace, HAML, HLSL, GLSL, and LispFlavoredErlang (LVFE)
+- - [x] Added support for DTrace, HAML, HLSL, GLSL, and LispFlavoredErlang (LFE)
 - [x] Updated the file info section
-- - [x] Updated the version numbr
+- - [x] Updated the version number
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
@@ -2401,11 +2425,28 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 42 (Coming soon)</b></summary>
+<details><summary><b>Version 42 (2022, Monday, September 26th at 10:37 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V41.md)
+
+<!-- TODO
+Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Creole, HCL, Modula-3, Seed7, SystemVerilog, DTrace, HAML, HLSL, GLSL, LispFlavoredErlang, Euphoria, Gosu, OpenPolicyAgent, SaltStack, and XProc
+!-->
+
+**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Euphoria, Gosu, OpenPolicyAgent, SaltStack, and XProc
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 42
 - [ ] No other changes in version 42
 
 </details>
@@ -2776,6 +2817,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 82
+
+</details>
+
+<details><summary><b>Version 83 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 83
+
+</details>
+
+<details><summary><b>Version 84 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 84
 
 </details>
 
