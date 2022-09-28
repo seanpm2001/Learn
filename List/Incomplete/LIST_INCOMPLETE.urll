@@ -1,12 +1,14 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Monday, September 26th at 11:23 pm PST
+-- As of 2022, Tuesday, September 27th at 7:50 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
 https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-AL
+https://github.com/seanpm2001/Learn-ALGOL
 https://github.com/seanpm2001/Learn-Alloy
 https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-ApacheConf
@@ -14,6 +16,7 @@ https://github.com/seanpm2001/Learn-ASCIIDoc
 https://github.com/seanpm2001/Learn-Astro
 https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-Ballerina
+https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
@@ -59,6 +62,7 @@ https://github.com/seanpm2001/Learn-Haxe
 https://github.com/seanpm2001/Learn-HaProxy
 https://github.com/seanpm2001/Learn-HCL
 https://github.com/seanpm2001/Learn-HiveQL
+https://github.com/seanpm2001/Learn-Hope
 https://github.com/seanpm2001/Learn-HLSL
 https://github.com/seanpm2001/Learn-HXML
 https://github.com/seanpm2001/Learn-HyPhy
@@ -98,6 +102,7 @@ https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-NetREXX
 https://github.com/seanpm2001/Learn-NewLisp
+https://github.com/seanpm2001/Learn-NGINX
 https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-Nix
 https://github.com/seanpm2001/Learn-Nu
@@ -157,7 +162,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 153/213
+-- Count: 158/218
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -243,13 +248,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V39 date: 2022, Monday, September 26th at 11:18 pm PST, representing data from 2022, Sunday, September 25th
 -- V40: 5 entries added, 153 entries remain (ratio: 153/213 (71.83% incomplete, 28.17% complete))
 -- V40 date: 2022, Monday, September 26th at 11:23 pm PST, representing data from 2022, Monday, September 26th
+-- V41: 5 entries added, 158 entries remain (ratio: 158/218 (72.48% incomplete, 27.52% complete))
+-- V41 date: 2022, Tuesday, September 27th at 7:50 pm PST, representing data from 2022, Tuesday, September 27th
 
 -- Ratio (incomplete/complete): 153/213 (71.83% incomplete, 28.17% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 40 (2022, Monday, September 26th at 11:23 pm PST)
--- Line count (including blank lines and compiler line): 256
+-- File version: 41 (2022, Tuesday, September 27th at 7:50 pm PST)
+-- Line count (including blank lines and compiler line): 263
 
 -- End of script
