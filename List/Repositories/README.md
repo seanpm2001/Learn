@@ -5,17 +5,19 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `213`/`386` (as of 2022, Monday, September 26th at 11:37 pm PST)
+Current progress `218`/`392` (as of 2022, Tuesday, September 27th at 8:02 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `55.18%` complete, `44.82%` incomplete.
+**Ratio:** `55.61%` complete, `44.39%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
 This list covers the creation of the language repositories.
+
+(It might be cheating, but I am including 3 of my computing languages on this list (DroppedText, Matrix, and URLL) if I am to be documenting all languages, I should at least document my own)
 
 </details>
 
@@ -27,9 +29,10 @@ This list covers the creation of the language repositories.
 - [x] Agda
 - [x] ActionScript-3
 - [x] AppleScript
-- [ ] ALGOL
+- [x] ALGOL
 - [x] Alloy
 - [x] Ada
+- [x] AL
 - [ ] AssemblyScript
 - [x] AngelScript
 - [x] Assembly
@@ -52,7 +55,7 @@ This list covers the creation of the language repositories.
 - [ ] AspectJ
 - [ ] Augeas
 - [x] API Blueprint
-- [ ] BASIC
+- [x] BASIC
 - [x] Ballerina
 - [ ] Batchfile
 - [ ] BibTeX
@@ -95,6 +98,7 @@ This list covers the creation of the language repositories.
 - [ ] CSound document
 - [ ] CSound score
 - [ ] Ch
+- [ ] DroppedText (seanpm2001)
 - [x] D
 - [x] Dafny
 - [x] Dart
@@ -131,6 +135,7 @@ This list covers the creation of the language repositories.
 - [ ] FreeMarker
 - [x] Fantom
 - [ ] FP
+- [ ] FreeBasic
 - [x] G-CODE
 - [x] GnuPlot
 - [ ] GAP
@@ -162,7 +167,7 @@ This list covers the creation of the language repositories.
 - [x] HiveQL
 - [x] HLSL
 - [ ] HolyC
-- [ ] Hope
+- [x] Hope
 - [x] HyPhy
 - [x] Haskell
 - [x] IDL
@@ -230,6 +235,8 @@ This list covers the creation of the language repositories.
 - [x] Markdown
 - [x] Mathematica
 - [ ] MATLAB
+- [ ] Matrix (seanpm2001)
+- [ ] Motoko
 - [x] MediaWiki
 - [x] Mercury
 - [x] Meson
@@ -252,7 +259,7 @@ This list covers the creation of the language repositories.
 - [x] NetRexx
 - [x] NewLisp
 - [ ] Nextflow
-- [ ] NGINX
+- [x] NGINX
 - [x] Nix
 - [ ] NSIS
 - [ ] Nunjucks
@@ -378,6 +385,8 @@ This list covers the creation of the language repositories.
 - [ ] TSX
 - [x] UnrealScript
 - [x] Uno
+- [ ] URLL (seanpm2001)
+- [ ] Unity3D Asset
 - [x] V
 - [ ] Verilog AMS
 - [ ] Verilog
@@ -430,9 +439,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2022, Monday, September 26th at 11:37 pm PST)`
+**File version:** `38 (2022, Tuesday, September 27th at 8:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,798`
+**Line count (including blank lines and compiler line):** `1,850`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1197,6 +1206,8 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 36 (2022, Monday, September 26th at 11:31 pm PST)**
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
 [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V36.md)
 
 > Changes:
@@ -1216,6 +1227,8 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 </details>
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 37</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 **Version 37 (2022, Monday, September 26th at 11:37 pm PST)**
 
@@ -1239,15 +1252,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 38</b></summary>
 
-**Version 38 (Coming soon)**
+**Version 38 (2022, Tuesday, September 27th at 8:02 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V38.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V38.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 213 | new total: 218)
+- - [x] Added 6 new entries to the list (old total: 386 | new total: 392)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 38
 - [ ] No other changes in version 38
 
 </details>
@@ -1789,6 +1811,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 74
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 75</b></summary>
+
+**Version 75 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V75.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 75
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 76</b></summary>
+
+**Version 76 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V76.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 76
 
 </details>
 
