@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, September 27th
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, September 28th
 
 - [ ] ALGOL
 - [ ] FCL
@@ -14,6 +14,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Lingo
 - [ ] NetREXX
 - [ ] Oberon
+- [ ] Orwell
 - [ ] Seed7
 
 ***
@@ -24,9 +25,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Tuesday, September 27th at 6:46 pm PST)`
+**File version:** `2 (2022, Wednesday, September 28th at 9:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `71`
+**Line count (including blank lines and compiler line):** `90`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -62,6 +63,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Wednesday, September 28th at 9:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `Orwell` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updatedthe `file history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
