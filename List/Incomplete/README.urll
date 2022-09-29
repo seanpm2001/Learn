@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Tuesday, September 27th at 7:50 pm PST
+-- As of 2022, Wednesday, September 28th at 11:45 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -48,6 +48,7 @@ https://github.com/seanpm2001/Learn-Fluent
 https://github.com/seanpm2001/Learn-Forth
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
+https://github.com/seanpm2001/Learn-GCC-Machine-Description
 https://github.com/seanpm2001/Learn-G-CODE
 https://github.com/seanpm2001/Learn-GDB
 https://github.com/seanpm2001/Learn-GDScript
@@ -63,6 +64,7 @@ https://github.com/seanpm2001/Learn-HaProxy
 https://github.com/seanpm2001/Learn-HCL
 https://github.com/seanpm2001/Learn-HiveQL
 https://github.com/seanpm2001/Learn-Hope
+https://github.com/seanpm2001/Learn-HolyC
 https://github.com/seanpm2001/Learn-HLSL
 https://github.com/seanpm2001/Learn-HXML
 https://github.com/seanpm2001/Learn-HyPhy
@@ -102,6 +104,7 @@ https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-NetREXX
 https://github.com/seanpm2001/Learn-NewLisp
+https://github.com/seanpm2001/Learn-NextFlow
 https://github.com/seanpm2001/Learn-NGINX
 https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-Nix
@@ -113,6 +116,7 @@ https://github.com/seanpm2001/Learn-Ooc
 https://github.com/seanpm2001/Learn-OpenEdge-ABL
 https://github.com/seanpm2001/Learn-OpenPolicyAgent
 https://github.com/seanpm2001/Learn-OpenQASM
+https://github.com/seanpm2001/Learn-Orwell
 https://github.com/seanpm2001/Learn-Pawn
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-Pod
@@ -144,6 +148,7 @@ https://github.com/seanpm2001/Learn-Stylus
 https://github.com/seanpm2001/Learn-SVG
 https://github.com/seanpm2001/Learn-SystemVerilog
 https://github.com/seanpm2001/Learn-Tcl
+https://github.com/seanpm2001/Learn-Thrift
 https://github.com/seanpm2001/Learn-Twig
 https://github.com/seanpm2001/Learn-Uno
 https://github.com/seanpm2001/Learn-UnrealScript
@@ -162,7 +167,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 158/218
+-- Count: 163/223
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -250,13 +255,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V40 date: 2022, Monday, September 26th at 11:23 pm PST, representing data from 2022, Monday, September 26th
 -- V41: 5 entries added, 158 entries remain (ratio: 158/218 (72.48% incomplete, 27.52% complete))
 -- V41 date: 2022, Tuesday, September 27th at 7:50 pm PST, representing data from 2022, Tuesday, September 27th
+-- V42: 5 entries added, 163 entries remain (ratio: 163/223 (73.09% incomplete, 26.91% complete))
+-- V42 date: 2022, Wednesday, September 28th at 11:45 pm PST, representing data from 2022, Wednesday, September 28th
 
--- Ratio (incomplete/complete): 153/213 (71.83% incomplete, 28.17% complete)
+-- Ratio (incomplete/complete): 163/223 (73.09% incomplete, 26.91% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 41 (2022, Tuesday, September 27th at 7:50 pm PST)
--- Line count (including blank lines and compiler line): 263
+-- File version: 42 (2022, Wednesday, September 28th at 11:45 pm PST)
+-- Line count (including blank lines and compiler line): 270
 
 -- End of script
