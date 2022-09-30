@@ -1,0 +1,166 @@
+--
+* Euphoria
+* HiveQL
+---
+* Hope
+#
+* Nu
+* GnuPlot
+* Pug
+* OpenPolicyAgent
+* SaltStack
+* QMake
+* NGINX
+//
+* Fantom
+* FCL
+* UnrealScript
+* CartoCSS
+* Uno
+* ASCIIDoc
+* SystemVerilog
+* DTrace
+* HLSL
+* GLSL
+* Gosu
+* AL
+* Thrift
+* NextFlow
+* HolyC
+// /* */
+* CartoCSS
+* DTrace
+* HAML
+* GLSL
+* AL
+* Thrift
+* NextFlow
+/* */
+* CartoCSS
+* DTrace
+* HAML
+* GLSL
+* AL
+* Thrift
+* NextFlow
+<!-- !-->
+* Handlebars
+* Twig
+* Mako
+* XProc
+* XQuery
+(* *)
+Modula-3
+;
+* LispFlavoredErlang
+* Forth
+REM
+* BASIC
+;;
+NewLisp
+UNKNOWN
+Orwell
+'
+* REXX
+comment (new)
+* ALGOL 60
+`! (new)
+ABAP
+! (new)
+Factor
+( & ) NEW
+* G-CODE
+* Forth
+/ NEW
+* Forth
+#C (new)
+PureData
+{t} {"String"} (new)
+* Factor
+echo("String");
+* Fantom
+* FCL
+STR1  ( -- )  CR ." String" ;
+* Forth
+#print "String"
+* Lean
+(print "String\n")
+* NewLisp
+say 'String'
+* NetREXX
+Say "String"
+* REXX
+printf("String\n");
+* HolyC
+* DTrace
+UNKNOWNSTRING
+* Fluent
+* FCL
+* Pug
+* GCC Machine Description
+* Orwell
+* NGINX
+* Hope
+* AL
+* XQuery
+* HiveQL
+* PureData
+* SaltStack
+* GLSL
+* HLSL
+* CartoCSS
+* G-CODE
+10 PRINT "String" NEW
+* BASIC
+= String
+* Creole
+* ASCIIDoc
+IO.PUT("String\n") NEW
+Modula-3
+service "String" { } NEW
+HCL
+string S1 = "String" NEW
+* SystemVerilog
+print "String" NEW
+NextFlow
+print("String") NEW
+* Gosu
+(prinl "String") NEW
+* PicoLisp
+<p>String</p> NEW
+* Handlebars
+* Twig
+<para>StringM/para> NEW
+* XProc
+WRITE "String". NEW
+ABAP
+BEGIN DISPLAY("String") END. NEW
+ALGOL 60
+echo "String" NEW
+Nu
+* Vim Script
+writeln("String\n") NEW
+* Seed7
+str: "String" NEW
+* Stylus
+Log("String"); NEW
+UnrealScript
+MsgBox($MB_SYSTEMMODAL, "Message box title", "String") NEW
+* AutoIt
+> * AutoIt3
+return "String"; NEW
+* Uno
+(io:format "String") NEW
+* Lisp Flavored Erlang (LFE)
+<note>String</note> NEW
+* Mako
+set title "String" NEW
+* GnuPlot
+request str1 = {"String"} NEW
+* OpenPolicyAgent
+HAML, %p.sample#Str String NEW
+* HAML
+puts (1, "String\n") NEW
+* Euphoria
+string message(1:string message "String") NEW
+Thrift
