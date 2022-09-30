@@ -197,7 +197,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GnuPlot/"><img src="/Programming/Logos/G/Gnuplot/Gnuplot_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn GnuPlot</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GLSL/"><img src="/Programming/Logos/G/GLSL/OpenGL_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn GLSL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gosu/"><img src="/Programming/Logos/G/Gosu/GosuLogo_174px.png" width="100px;" alt=""/><br /><sub><b>Learn Gosu</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GCC-Machine-Description/"><img src="/Programming/Logos/G/GCC-Machine-Description/GCC-Machine-Description-LogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn GCC Machine Description</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -222,7 +222,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HAML/"><img src="/Programming/Logos/H/HAML/HAML_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn HAML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HiveQL/"><img src="/Programming/Logos/H/HiveQL/HiveQL_520px.png" width="100px;" alt=""/><br /><sub><b>Learn HiveQL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Hope/"><img src="/Programming/Logos/H/Hope/HopeLogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn Hope</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HolyC/"><img src="/Programming/Logos/H/HolyC/TempleOS_600px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HolyC</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 9A !-->
@@ -357,6 +357,19 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Nu/"><img src="/Programming/Logos/N/Nu/Nu_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Nu</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NGINX/"><img src="/Programming/Logos/N/NGINX/Nginx_logo_square-3177237596.png" width="100px;" alt=""/><br /><sub><b>Learn NGINX</b></sub></a></td>
   </tr>
+  <!-- Row 14B !-->
+  <!-- Letter N !-->
+  <tr>
+    <td align="center"><p>Section N2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-NextFlow/"><img src="/Programming/Logos/N/NextFlow/Flow1Next.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NextFlow</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
+  
   <!-- Row 15A !-->
   <!-- Letter O !-->
   <tr>
@@ -375,7 +388,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section O2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Oberon/"><img src="/Programming/Logos/O/Oberon/Oberon_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Oberon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenPolicyAgent/"><img src="/Programming/Logos/O/OpenPolicyAgent/OpenPolicyAgent-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenPolicyAgent</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Orwell/"><img src="/Programming/Logos/O/Orwell/OrwellSticker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Orwell</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -484,7 +497,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TypeScript/"><img src="/Programming/Logos/T/TypeScript/TypeScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn TypeScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Tcl/"><img src="/Programming/Logos/T/Tcl/Tcl-powered.svg" width="100px;" alt=""/><br /><sub><b>Learn Tcl</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Twig/"><img src="/Programming/Logos/T/Twig/TwigLang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Twig</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Thrift/"><img src="/Programming/Logos/T/Thrift/ApacheThriftBook.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Thrift (Apache)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -639,6 +652,12 @@ Isabelle
 * VHDL
 * q
 * Cool
+* Euphoria
+* HiveQL
+
+`---`
+
+* Hope
 
 `--` & `{- -}`
 
@@ -694,6 +713,13 @@ Isabelle
 * Logcat
 * Blade
 * HaProxy
+* Nu
+* GnuPlot
+* Pug
+* OpenPolicyAgent
+* SaltStack
+* QMake
+* NGINX
 
 `#` & `"""`
 
@@ -762,6 +788,21 @@ Isabelle
 * Astro
 * Boogie
 * HyPhy
+* Fantom
+* FCL
+* UnrealScript
+* CartoCSS
+* Uno
+* ASCIIDoc
+* SystemVerilog
+* DTrace
+* HLSL
+* GLSL
+* Gosu
+* AL
+* Thrift
+* NextFlow
+* HolyC
 
 `//` & `/* */`
 
@@ -814,6 +855,13 @@ Isabelle
 * Reason
 * ReasonML
 * Dafny
+* CartoCSS
+* DTrace
+* HAML
+* GLSL
+* AL
+* Thrift
+* NextFlow
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -864,6 +912,13 @@ Isabelle
 * Reason
 * ReasonML
 * Dafny
+* CartoCSS
+* DTrace
+* HAML
+* GLSL
+* AL
+* Thrift
+* NextFlow
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -881,6 +936,11 @@ Isabelle
 * Eagle
 * Bikeshed
 * SVG
+* Handlebars
+* Twig
+* Mako
+* XProc
+* XQuery
 
 `(* *)`
 
@@ -896,6 +956,7 @@ Isabelle
 * Standard ML
 * F*
 * Cool
+* Modula-3
 
 `{# #}`
 
@@ -914,6 +975,8 @@ Isabelle
 * ZIL
 * ZAP
 * M (Mumps)
+* LispFlavoredErlang
+* Forth
 
 `C`
 
@@ -927,6 +990,7 @@ Isabelle
 * TOML
 * VB.NET
 * VHDL
+* BASIC
 
 `%`
 
@@ -944,12 +1008,14 @@ Isabelle
 
 * BrightScript
 * VB.net
+* REXX
 
 `;;`
 
 * Scheme
 * Racket
 * Emacs Lisp
+* NewLisp
 
 `/** **/`
 
@@ -983,11 +1049,37 @@ Isabelle
 
 * WebVTT
 
+`!`
+
+* Factor
+
+`comment`
+
+* ALGOL 60
+
+`"!`
+
+* ABAP
+
+`#C`
+
+* PureData
+
+`(` & `)`
+
+* G-CODE
+* Forth
+
+`/`
+
+* Forth
+
 `Unknown`
 
 * KiCad Layout
 * KiCad Schematic
 * Malbolge
+* Orwell
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1128,6 +1220,7 @@ print("String")
 ```
 
 * Python
+* Gosu
 
 ```perl
 print("String");
@@ -1140,6 +1233,12 @@ print 'String\n'
 ```
 
 * Blade
+
+```nextflow
+print "String"
+```
+
+* NextFlow
 
 ```java
 System.out.println("String");
@@ -1176,6 +1275,18 @@ say "String"
 * AppleScript
 * Raku
 
+```netrexx
+say 'String'
+```
+
+* NetREXX
+
+```rexx
+Say "String"
+```
+
+* REXX
+
 ```c
 printf("String\n");
 ```
@@ -1183,6 +1294,8 @@ printf("String\n");
 * C
 * nesC
 * Google Go
+* HolyC
+* DTrace
 
 ```cpp
 std::cout >> "String\n";
@@ -1198,12 +1311,20 @@ echo("String");
 * Shell
 * Fish
 * Batchfile
+* Fantom
 
 ```blade
 echo 'String\n'
 ```
 
 * Blade
+
+```nu
+echo "String"
+```
+
+* Nu
+* Vim Script
 
 ```groovy
 println "String"
@@ -1228,6 +1349,12 @@ printfn "String"
 ```
 
 * F#
+
+```lean
+#print "String"
+```
+
+* Lean
 
 ```ocaml
 print_endline "String"
@@ -1265,6 +1392,73 @@ w "String",!
 
 * Emacs Lisp
 
+```newlisp
+(print "String\n")
+```
+
+* NewLisp
+
+```picolisp
+(prinl "String")
+```
+
+* PicoLisp
+
+```lfe
+(io:format "String")
+```
+
+* Lisp Flavored Erlang (LFE)
+
+```handlebars
+<p>String</p>
+```
+
+* Handlebars
+* Twig
+
+```xproc
+<para>StringM/para>
+```
+
+* XProc
+
+```mako
+<note>String</note>
+```
+
+* Mako
+
+```gnuplot
+set title "String"
+```
+
+* GnuPlot
+
+```openpolicyagent
+request str1 = {"String"}
+```
+
+* OpenPolicyAgent
+
+```haml
+HAML, %p.sample#Str String
+```
+
+* HAML
+
+```euphoria
+puts (1, "String\n")
+```
+
+* Euphoria
+
+```thrift
+string message(1:string message "String")
+```
+
+* Thrift
+
 ```objective-j
 document.write("String");
 ```
@@ -1293,6 +1487,43 @@ DISPLAY "String".
 ```
 
 * OpenEdge ABL
+
+```abap
+WRITE "String".
+```
+
+* ABAP
+
+```algol
+BEGIN DISPLAY("String") END.
+```
+
+* ALGOL 60
+
+```seed7
+writeln("String\n")
+```
+
+* Seed7
+
+```stylus
+str: "String"
+```
+
+* Stylus
+
+```unrealscript
+Log("String");
+```
+
+* UnrealScript
+
+```autoit
+MsgBox($MB_SYSTEMMODAL, "Message box title", "String")
+```
+
+* AutoIt
+> * AutoIt3
 
 ```yaml
 string: "String"
@@ -1353,17 +1584,87 @@ function String () {
 
 * HyPhy
 
+```uno
+return "String";
+```
+
+* Uno
+
 ```boogie
 assert str("String") == "String";
 ```
 
 * Boogie
 
+```factor
+{t} {"String"}
+```
+
+* Factor
+
+```forth
+STR1  ( -- )  CR ." String" ;
+```
+
+* Forth
+
+```basic
+10 PRINT "String"
+```
+
+* BASIC
+
+```creole
+= String
+```
+
+* Creole
+* ASCIIDoc
+
+```modula-3
+IO.PUT("String\n")
+```
+
+* Modula-3
+
+```hcl
+service "String" { }
+```
+
+* HCL
+
+```systemverilog
+string S1 = "String"
+```
+
+* SystenVerilog
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
 
 * Brainfuck
+
+```
+unknown
+```
+
+* Fluent
+* FCL
+* Pug
+* GCC Machine Description
+* Orwell
+* NGINX
+* Hope
+* AL
+* XQuery
+* HiveQL
+* PureData
+* SaltStack
+* GLSL
+* HLSL
+* CartoCSS
+* G-CODE
 
 ### Int
 
@@ -1551,9 +1852,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `44 (2022, Tuesday, September 27th at 7:27 pm PST)`
+**File version:** `45 (2022, Thursday, September 29th at 5:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,960`
+**Line count (including blank lines and compiler line):** `3,348`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2525,11 +2826,80 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 45 (Coming soon)</b></summary>
+<details><summary><b>Version 45 (2022, Thursday, September 29th at 5:35 pm PST)</b></summary>
+ 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V45.md)
+
+**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. The part that took the most time was getting comment and string data for 55 languages. I hope to not fall so far behind on this next time.
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for GCC Machine Description, HolyC, NextFlow, Orwell, and Thrift
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include Euphoria and HiveQL
+- - [x] Added the ```` comment section to include Hope
+- - [x] Updated the `#` comment section to include Nu, GnuPlot, Pug, OpenPolicyAgent, SaltStack, QMake, and NGINX
+- - [x] Updated the `//` comment section to include Fantom, FCL, UnrealScript. CartoCSS, Uno, ASCIIDoc, SystemVerilog, DTrace, HLSL, GLSL, Gosu, AL, Thrift, Nextflow, and HolyC
+- - [x] Updated the `//` & `/*` comment section to include CartoCSS, DTrace, HAML, GLSL, AL, Thrift, and NextFlow
+- - [x] Updated the `/*` & `*/` comment section to include CartoCSS, DTrace, HAML, GLSL, AL, Thrift, and NextFlow
+- - [x] Updated the `<!--` & `!-->` comment section to include HandleBars, Twig, Mako, XProc, and XQuery
+- - [x] Updated the `(*` & `*)` comment section to include Modula-3
+- - [x] Updated the `;` comment section to include LispFlavoredErlang and Forth
+- - [x] Updated the `REM` / `rem` comment section to include BASIC
+- - [x] Updated the `;;` comment section to include NewLisp
+- - [x] Updated the `Unknown` comment section to include Orwell
+- - [x] Updated the `'` comment section to include REXX
+- - [x] Added the `comment` comment section to include ALGOL60
+- - [x] Added the `!` comment section to include Factor
+- - [x] Added the `(` & `)` comment section to include G-CODE and Forth
+- - [x] Added the `/` comment section to include Forth
+- - [x] Added the `"C` comment section to include PureData
+- - [x] Added the `"!` coment section to include ABAP
+- [x] Updated the print statement section
+- - [X] Added the `{t} {"String"` string section to include Factor
+- - [x] Updated the `echo("String");` string section to include Fantom and FCL
+- - [x] Added the `STR1  ( -- )  CR ." String" ;` to include Forth
+- - [x] Added the `#print "String"`section to include Lean
+- - [x] Added the `(print "String\n")` section to include NewLisp
+- - [x] Added the `say 'String'` section to include NetREXX
+- - [x] Added the `Say "String"` section to include REXX
+- - [x] Updated the `printf("String\n");` section to include HolyC and DTrace
+- - [x] Added the `UNKNOWN STRING` section to include Fluent, FCL, Pug, GCC Machine Description, Orwell, NGINX, Hope, AL, XQuery, HiveQL, PureData, SaltStack, GLSL, HLSL, CartoCSS, and G-CODE
+- - [x] Added the `10 PRINT "String"` section to include BASIC
+- - [x] Added the `= String` section to include Creole and ASCIIDoc
+- - [x] Added the `IO.PUT("String\n")` section to include Modula-3
+- - [x] Added the `service "String" { }` section to include HCL
+- - [x] Added the `string S1 = "String"` section to include SystemVerilog
+- - [x] Added the `print "String"` section to include NextFlow
+- - [x] Updated the `print("String")` section to include Gosu
+- - [x] Added the `(prinl "String")` section to include PicoLisp
+- - [x] Added the `(print "String\n")` section to include NewLisp
+- - [x] Added the `<p>String</p>` section to include Handlebars and Twig
+- - [x] Added the `<para>String</para>` section to include XProc
+- - [x] Added the `WRITE "String".` section to include ABAP 
+- - [x] Added the `BEGIN DISPLAY("String") END.` section to include ALGOL 60
+- - [x] Added the `echo "String"` section to include Nu and VimScript
+- - [x] Added the `writeln("String\n")` section to include Seed7
+- - [x] Added the `str: "String"` section to include Stylus
+- - [x] Added the `Log("String");` section to include UnrealScript
+- - [x] Added the `MsgBox($MB_SYSTEMMODAL, "Message box title", "String")` section to include AutoIt > AutoIt3
+- - [x] Added the `return "String";`section to include Uno
+- - [x] Added the `(io:format "String")` section to include Lisp Flavored Erlang (LFE)
+- - [x] Added the `<note>String</note>` section to include Mako
+- - [x] Added the `set title "String"` section to include GnuPlot
+- - [x] Added the `request str1 = {"String"}` section to include OpenPolicyAgent
+- - [x] Added the `%p.sample#Str String` section to include HAML
+- - [x] Added the `puts (1, "String\n")` section to include Euphoria
+- - [x] Added the `string message(1:string message "String")` section to include Thrift
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 45
 - [ ] No other changes in version 45
 
 </details>
@@ -2927,6 +3297,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 88
+
+</details>
+
+<details><summary><b>Version 89 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 89
+
+</details>
+
+<details><summary><b>Version 90 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 90
 
 </details>
 
