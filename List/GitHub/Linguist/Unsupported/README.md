@@ -6,16 +6,22 @@
 The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, September 28th
 
 - [ ] ALGOL
+- [ ] Epigram
 - [ ] FCL
 - [ ] Go!
 - [ ] Hope
+- [ ] Jade
 - [ ] JavaScript++
+- [ ] Joy
 - [ ] Logcat
 - [ ] Lingo
 - [ ] NetREXX
+- [ ] Mallard
 - [ ] Oberon
 - [ ] Orwell
 - [ ] Seed7
+
+**Total:** `15`
 
 ***
 
@@ -25,9 +31,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Wednesday, September 28th at 9:26 pm PST)`
+**File version:** `3 (2022, Thursday, September 29th at 5:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `90`
+**Line count (including blank lines and compiler line):** `115`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -81,6 +87,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updatedthe `file history` section
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Thursday, September 29th at 5:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `Epigram` ,`Jade`, `Joy`, and `Mallard` to the list
+- - [x] Added a list total entry counter
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
