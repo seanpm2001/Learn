@@ -147,7 +147,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section E2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Euphoria/"><img src="/Programming/Logos/E/Euphoria/OpenEuphoriaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Euphoria</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Epigram/"><img src="/Programming/Logos/E/Eprigram/Epigram200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Epigram</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -270,6 +270,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jinja/"><img src="/Programming/Logos/J/Jinja/jinja_logo-Opaque_180x180.png" width="100px;" alt=""/><br /><sub><b>Learn Jinja</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JavaScriptPlusPlus/"><img src="/Programming/Logos/J/JavaScript%2B%2B/JSPP_512pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn JS++ (JavaScript++)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jsonnet/"><img src="/Programming/Logos/J/Jsonnet/Jsonnet_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Jsonnet</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Jade/"><img src="/Programming/Logos/J/Jade/JadeLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Jade</b></sub></a></td>
+  </tr>
+  <!-- Row 10B !-->
+  <!-- Letter J !-->
+  <tr>
+    <td align="center"><p>Section J2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Joy"><img src="/Programming/Logos/J/Joy/JoyBasic.png" width="100px;" alt=""/><br /><sub><b>Learn Joy</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 11A !-->
@@ -338,7 +350,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section M3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-3/"><img src="/Programming/Logos/M/Modula-3/Modula-3.svg" width="100px;" alt=""/><br /><sub><b>Learn Modula-3</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/MallardDuck1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -483,7 +495,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section S3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SaltStack/"><img src="/Programming/Logos/S/SaltStack/SaltStack-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SaltStack</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Self/"><img src="/Programming/Logos/S/Self/Self-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Self</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -654,6 +666,7 @@ Isabelle
 * Cool
 * Euphoria
 * HiveQL
+* Epigram
 
 `---`
 
@@ -803,6 +816,7 @@ Isabelle
 * Thrift
 * NextFlow
 * HolyC
+* JADE
 
 `//` & `/* */`
 
@@ -867,6 +881,7 @@ Isabelle
 <!-- * Astro (unsure) !-->
 <!-- * Boogie (unsure) !-->
 <!-- * HyPhy (unsure) !-->
+<!-- * JADE (unsure) !-->
 
 `/*` & `*/`
 
@@ -924,6 +939,7 @@ Isabelle
 <!-- * Lingo (unsure) !-->
 <!-- * Boogie (unsure) !-->
 <!-- * HyPhy (unsure) !-->
+<!-- * JADE (unsure) !-->
 
 `<!-- !-->`
 
@@ -941,6 +957,7 @@ Isabelle
 * Mako
 * XProc
 * XQuery
+* Mallard
 
 `(* *)`
 
@@ -1009,6 +1026,7 @@ Isabelle
 * BrightScript
 * VB.net
 * REXX
+* Self
 
 `;;`
 
@@ -1080,6 +1098,7 @@ Isabelle
 * KiCad Schematic
 * Malbolge
 * Orwell
+* Joy
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1416,6 +1435,7 @@ w "String",!
 
 * Handlebars
 * Twig
+* Mallard
 
 ```xproc
 <para>StringM/para>
@@ -1505,6 +1525,18 @@ writeln("String\n")
 ```
 
 * Seed7
+
+```jade
+write "String";
+```
+
+* Jade
+
+```self
+'String' print.
+```
+
+* Self
 
 ```stylus
 str: "String"
@@ -1665,6 +1697,8 @@ unknown
 * HLSL
 * CartoCSS
 * G-CODE
+* Epigram
+* Joy
 
 ### Int
 
@@ -1852,9 +1886,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `45 (2022, Thursday, September 29th at 5:35 pm PST)`
+**File version:** `46 (2022, Friday, September 30th at 11:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,348`
+**Line count (including blank lines and compiler line):** `3,424`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2904,11 +2938,35 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 46 (Coming soon)</b></summary>
+<details><summary><b>Version 46 (2022, Friday, September 30th at 11:19 pm PST)</b></summary>
+ 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V46.md)
+
+**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for GCC Machine Description, HolyC, NextFlow, Orwell, and Thrift
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include Epigram
+- - [x] Updated the `'` comment section to include Self
+- - [x] Updated the `//` comment section to include Jade
+- - [x] Updated the `<!--` & `!-->` comment section to include Mallard
+- - [x] Updated the `Unknown` comment section to include Joy
+- [x] Updated the print statement section
+- - [X] Added the `write "String";` string section to include Jade
+- - [X] Added the `'String' print.` string section to include Self
+- - [x] Updated the `<p>String</p>` string section to include Mallard
+- - [x] Updated the `Unknown` string section to include Epigram and Joy
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 46
 - [ ] No other changes in version 46
 
 </details>
@@ -3315,6 +3373,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 90
+
+</details>
+
+<details><summary><b>Version 91 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 91
+
+</details>
+
+<details><summary><b>Version 92 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 92
 
 </details>
 
