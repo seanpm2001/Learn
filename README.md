@@ -52,8 +52,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section A3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AL/"><img src="/Programming/Logos/A/AL/AL_1920px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ALGOL/"><img src="/Programming/Logos/A/ALGOL/1965_ALGOL-20_A_Language_Manual,_Fierst_et_al_-_cover.jpg" width="100px;" alt=""/><br /><sub><b>Learn ALGOL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ALS/"><img src="/Programming/Logos/A/ALS/ALS_LOGO1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ALS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ANTLR/"><img src="/Programming/Logos/A/ANTLR/ANTLR_LOGO2.png" width="100px;" alt=""/><br /><sub><b>Learn ANTLR</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -107,6 +107,19 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CartoCSS/"><img src="/Programming/Logos/C/CartoCSS/CartoCSS_Logo_1425px_Project_Compressed.png" width="100px;" alt=""/><br /><sub><b>Learn CartoCSS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Creole/"><img src="/Programming/Logos/C/Creole/CreoleLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Creole</b></sub></a></td>
   </tr>
+  <!-- Row 3C !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C3(PO)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CLIPS/"><img src="/Programming/Logos/C/CLIPS/CLIPS_Logo_1000px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn CLIPS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonWorkflowLanguage/"><img src="/Programming/Logos/C/CommonWorkflowLanguage/CommonWorkflowLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CommonWorkflowLanguage</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+  CLIPS_Logo_1000px_PNG.png
   <!-- Row 4A !-->
   <!-- Letter D !-->
   <tr>
@@ -147,7 +160,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section E2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Euphoria/"><img src="/Programming/Logos/E/Euphoria/OpenEuphoriaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Euphoria</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Epigram/"><img src="/Programming/Logos/E/Eprigram/Epigram200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Epigram</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Epigram/"><img src="/Programming/Logos/E/Epigram/Epigram200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Epigram</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -496,7 +509,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section S3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SaltStack/"><img src="/Programming/Logos/S/SaltStack/SaltStack-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SaltStack</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Self/"><img src="/Programming/Logos/S/Self/Self-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Self</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Sage/"><img src="/Programming/Logos/S/Sage/Sage900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Sage</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -733,6 +746,8 @@ Isabelle
 * SaltStack
 * QMake
 * NGINX
+* CommonWorkflowLangugae
+* Sage
 
 `#` & `"""`
 
@@ -817,6 +832,7 @@ Isabelle
 * NextFlow
 * HolyC
 * JADE
+* ANTLR
 
 `//` & `/* */`
 
@@ -882,6 +898,7 @@ Isabelle
 <!-- * Boogie (unsure) !-->
 <!-- * HyPhy (unsure) !-->
 <!-- * JADE (unsure) !-->
+<!-- * ANTLR (unsure) !-->
 
 `/*` & `*/`
 
@@ -940,6 +957,7 @@ Isabelle
 <!-- * Boogie (unsure) !-->
 <!-- * HyPhy (unsure) !-->
 <!-- * JADE (unsure) !-->
+<!-- * ANTLR (unsure) !-->
 
 `<!-- !-->`
 
@@ -994,6 +1012,7 @@ Isabelle
 * M (Mumps)
 * LispFlavoredErlang
 * Forth
+* CLIPS
 
 `C`
 
@@ -1099,6 +1118,7 @@ Isabelle
 * Malbolge
 * Orwell
 * Joy
+* ASL
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1258,6 +1278,12 @@ print "String"
 ```
 
 * NextFlow
+
+```sage
+print("String\n")
+```
+
+* Sage
 
 ```java
 System.out.println("String");
@@ -1582,6 +1608,7 @@ label "String"
 ```
 
 * LookML
+* CommonWorkflowLanguage
 
 ```reason
 print_string "String"
@@ -1671,6 +1698,12 @@ string S1 = "String"
 
 * SystenVerilog
 
+```clips
+(printout t "String" crlf)
+```
+
+* CLIPS
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1699,6 +1732,8 @@ unknown
 * G-CODE
 * Epigram
 * Joy
+* ANTLR
+* ASL
 
 ### Int
 
@@ -1886,9 +1921,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `46 (2022, Friday, September 30th at 11:19 pm PST)`
+**File version:** `47 (2022, Saturday, October 1st at 12:41 am PST)`
 
-**Line count (including blank lines and compiler line):** `3,424`
+**Line count (including blank lines and compiler line):** `3,501`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2949,7 +2984,8 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 **Changes:**
 
 - [x] Updated the `Learn` table
-- - [x] Added support for GCC Machine Description, HolyC, NextFlow, Orwell, and Thrift
+- - [x] Added support for Joy, Jade, Epigram, Mallard, and Self
+- - [x] Fixed the image link for Epigram (it was broken, misspelling)
 - [x] Updated the source code comments section
 - - [x] Updated the `--` comment section to include Epigram
 - - [x] Updated the `'` comment section to include Self
@@ -2971,11 +3007,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 47 (Coming soon)</b></summary>
+<details><summary><b>Version 47 (2022, Saturday, October 1st at 12:41 am PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V47.md)
+
+**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ANTLR, ASL, CommonWorkflowLanguage, CLIPS, and Sage
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Sage and CommonWorkflowLanguage
+- - [x] Updated the `;` comment section to include CLIPS
+- - [x] Updated the `//` comment section to include ANTLR
+- - [x] Updated the `Unknown` comment section to include ASL
+- [x] Updated the print statement section
+- - [X] Added the `(printout t "String" crlf)` string section to include CLIPS
+- - [X] Added the `print("String\n")` string section to include Sage
+- - [x] Updated the `label "String"` string section to include CommonWorkflowLanguage
+- - [x] Updated the `Unknown` string section to include ANTLR, and ASL
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 47
 - [ ] No other changes in version 47
 
 </details>
@@ -3391,6 +3450,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 92
+
+</details>
+
+<details><summary><b>Version 93 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 93
+
+</details>
+
+<details><summary><b>Version 94 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 94
 
 </details>
 
