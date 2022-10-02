@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `233`/`393` (as of 2022, Friday, September 30th at 11:59 pm PST)
+Current progress `238`/`395` (as of 2022, Saturday, October 1st at 9:00 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `59.29%` complete, `40.71%` incomplete.
+**Ratio:** `60.25%` complete, `39.75%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -39,6 +39,7 @@ This list covers the creation of the language repositories.
 - [x] ANTLR
 - [ ] ASP
 - [ ] ASP.NET
+- [x] AIDL
 - [x] ASL
 - [ ] AMPL
 - [x] Astro
@@ -84,7 +85,7 @@ This list covers the creation of the language repositories.
 - [x] Clean
 - [x] Clojure
 - [x] CMAKE
-- [ ] CodeQL
+- [x] CodeQL
 - [ ] CoffeeScript
 - [ ] CommonLisp
 - [x] CommonWorkflowLanguage
@@ -146,7 +147,7 @@ This list covers the creation of the language repositories.
 - [ ] GetText
 - [ ] Gherkin
 - [x] GLSL
-- [ ] GN
+- [x] GN
 - [x] GDB
 - [x] GSC
 - [x] Gosu
@@ -299,6 +300,7 @@ This list covers the creation of the language repositories.
 - [ ] PowerFX
 - [ ] PlSQL
 - [ ] Python Traceback
+- [ ] ProGuard
 - [x] PicoLisp
 - [x] Pascal
 - [x] Perl
@@ -322,7 +324,7 @@ This list covers the creation of the language repositories.
 - [x] Reason
 - [x] ReasonML
 - [ ] REBOL
-- [ ] ReScript
+- [x] ReScript
 - [x] ReStructuredText
 - [x] REXX
 - [ ] Rich Text Format
@@ -376,7 +378,7 @@ This list covers the creation of the language repositories.
 - [x] TCL
 - [ ] TeX
 - [x] Thrift
-- [ ] TLA
+- [x] TLA
 - [ ] TOML
 - [ ] TSQL
 - [x] Twig
@@ -440,9 +442,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2022, Saturday, October 1st at 1:00 am PST)`
+**File version:** `42 (2022, Saturday, October 1st at 9:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,968`
+**Line count (including blank lines and compiler line):** `2,009`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1349,15 +1351,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 42</b></summary>
 
-**Version 42 (Coming soon)**
+**Version 42 (2022, Saturday, October 1st at 9:00 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V42.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V42.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 233 | new total: 238)
+- - [x] Added 2 new entries to the list (old total: 393 | new total: 395)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 42
 - [ ] No other changes in version 42
 
 </details>
@@ -1959,6 +1970,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 82
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 83</b></summary>
+
+**Version 83 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V83.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 83
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 84</b></summary>
+
+**Version 84 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V84.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 84
 
 </details>
 
