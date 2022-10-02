@@ -54,7 +54,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ALGOL/"><img src="/Programming/Logos/A/ALGOL/1965_ALGOL-20_A_Language_Manual,_Fierst_et_al_-_cover.jpg" width="100px;" alt=""/><br /><sub><b>Learn ALGOL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ALS/"><img src="/Programming/Logos/A/ALS/ALS_LOGO1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ALS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ANTLR/"><img src="/Programming/Logos/A/ANTLR/ANTLR_LOGO2.png" width="100px;" alt=""/><br /><sub><b>Learn ANTLR</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AIDL/"><img src="/Programming/Logos/A/AIDL/AIDL_Generic_300px.png" width="100px;" alt=""/><br /><sub><b>Learn AIDL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -113,13 +113,12 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section C3(PO)</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CLIPS/"><img src="/Programming/Logos/C/CLIPS/CLIPS_Logo_1000px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn CLIPS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonWorkflowLanguage/"><img src="/Programming/Logos/C/CommonWorkflowLanguage/CommonWorkflowLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CommonWorkflowLanguage</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CodeQL/"><img src="/Programming/Logos/C/CodeQL/CodeQL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CodeQL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
-  CLIPS_Logo_1000px_PNG.png
   <!-- Row 4A !-->
   <!-- Letter D !-->
   <tr>
@@ -211,7 +210,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GLSL/"><img src="/Programming/Logos/G/GLSL/OpenGL_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn GLSL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gosu/"><img src="/Programming/Logos/G/Gosu/GosuLogo_174px.png" width="100px;" alt=""/><br /><sub><b>Learn Gosu</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GCC-Machine-Description/"><img src="/Programming/Logos/G/GCC-Machine-Description/GCC-Machine-Description-LogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn GCC Machine Description</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GN/"><img src="/Programming/Logos/G/GN/GN_1388px.png" width="100px;" alt=""/><br /><sub><b>Learn GN</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 8A !-->
@@ -363,7 +362,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section M3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-3/"><img src="/Programming/Logos/M/Modula-3/Modula-3.svg" width="100px;" alt=""/><br /><sub><b>Learn Modula-3</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/MallardDuck1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/Mallard_XML_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -479,6 +478,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReasonML/"><img src="/Programming/Logos/R/ReasonML/ReasonML_400px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ReasonML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-REXX/"><img src="/Programming/Logos/R/REXX/REXX_LOGO.png" width="100px;" alt=""/><br /><sub><b>Learn REXX</b></sub></a></td>
   </tr>
+  <!-- Row 18C !-->
+  <!-- Letter R !-->
+  <tr>
+    <td align="center"><p>Section R3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ReScript/"><img src="/Programming/Logos/R/ReScript/ReScript_Logo_300px.png" width="100px;" alt=""/><br /><sub><b>Learn ReScript</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 19A !-->
   <!-- Letter S !-->
   <tr>
@@ -523,7 +534,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Tcl/"><img src="/Programming/Logos/T/Tcl/Tcl-powered.svg" width="100px;" alt=""/><br /><sub><b>Learn Tcl</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Twig/"><img src="/Programming/Logos/T/Twig/TwigLang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Twig</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Thrift/"><img src="/Programming/Logos/T/Thrift/ApacheThriftBook.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Thrift (Apache)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-TLA/"><img src="/Programming/Logos/T/TLA/TLA_Logo_1024px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn TLA</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -748,6 +759,7 @@ Isabelle
 * NGINX
 * CommonWorkflowLangugae
 * Sage
+* GN
 
 `#` & `"""`
 
@@ -833,6 +845,8 @@ Isabelle
 * HolyC
 * JADE
 * ANTLR
+* AIDL
+* CodeQL
 
 `//` & `/* */`
 
@@ -892,6 +906,8 @@ Isabelle
 * AL
 * Thrift
 * NextFlow
+* AIDL
+* CodeQL
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -951,6 +967,8 @@ Isabelle
 * AL
 * Thrift
 * NextFlow
+* AIDL
+* CodeQL
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1065,6 +1083,7 @@ Isabelle
 `//` & `/** */`
 
 * HyPhy
+* ReScript
 
 `/*! */`
 
@@ -1110,6 +1129,10 @@ Isabelle
 `/`
 
 * Forth
+
+`*/`
+
+* TLA
 
 `Unknown`
 
@@ -1260,6 +1283,7 @@ print("String")
 
 * Python
 * Gosu
+* GN
 
 ```perl
 print("String");
@@ -1704,6 +1728,36 @@ string S1 = "String"
 
 * CLIPS
 
+```tla
+/\ PrintT("String")
+```
+
+* TLA
+
+```aidl
+const string STRING1 = "String";
+```
+
+* AIDL
+
+```codeql
+select d, source, sink, "String" + msg + ".", v, v.toString(),
+```
+
+* CodeQL
+
+```rescript
+@val external string1 = "String"
+```
+
+* ReScript
+
+```gn
+str1 = "String"
+```
+
+* GN
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1921,9 +1975,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `47 (2022, Saturday, October 1st at 12:41 am PST)`
+**File version:** `48 (2022, Saturday, October 1st at 7:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,501`
+**Line count (including blank lines and compiler line):** `3,598`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3039,11 +3093,36 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 48 (Coming soon)</b></summary>
+<details><summary><b>Version 48 (2022, Saturday, October 1st at 7:57 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/1/README_V48.md)
+
+<!-- **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. !-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AIDL, CodeQL, GN, ReScript, and TLA
+- - [x] Corrected the Mallard image to the correct logo
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include GN
+- - [x] Updated the `/**` & `//` comment section to include ReScript
+- - [x] Updated the `//` comment section to include AIDL and CodeQL
+- - [x] Updated the `/*` & `//` comment section to include AIDL and CodeQL
+- - [x] Added the `*/` comment section to include TLA
+- [x] Updated the print statement section
+- - [X] Added the `/\ PrintT("String")` string section to include TLA
+- - [X] Added the `const string STRING1 = "String";` string section to include AIDL
+- - [x] Updated the `print("String")` string section to include GN
+- - [x] Added the `select d, source, sink, "String" + msg + ".", v, v.toString(),` string section to include CodeQL
+- - [x] Added the `@val external string1 = "String"` string section to include ReScript
+- - [x] Added the `str1 = "String"` string section to include GN
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 48
 - [ ] No other changes in version 48
 
 </details>
@@ -3468,6 +3547,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 94
+
+</details>
+
+<details><summary><b>Version 95 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 95
+
+</details>
+
+<details><summary><b>Version 96 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 96
 
 </details>
 
