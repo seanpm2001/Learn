@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `238`/`395` (as of 2022, Saturday, October 1st at 9:00 pm PST)
+Current progress `243`/`396` (as of 2022, Sunday, October 2nd at 11:54 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `60.25%` complete, `39.75%` incomplete.
+**Ratio:** `61.36%` complete, `38.64%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -56,6 +56,7 @@ This list covers the creation of the language repositories.
 - [ ] AspectJ
 - [ ] Augeas
 - [x] API Blueprint
+- [x] B
 - [x] BASIC
 - [x] Ballerina
 - [ ] Batchfile
@@ -248,7 +249,7 @@ This list covers the creation of the language repositories.
 - [x] Modelica
 - [x] Modula-2
 - [x] Modula-3
-- [ ] Motorola S-RECORD
+- [x] Motorola S-RECORD
 - [ ] MS-DOS Style
 - [ ] Max
 - [ ] MLIR
@@ -344,13 +345,13 @@ This list covers the creation of the language repositories.
 - [x] Swift
 - [x] Sage
 - [x] SaltStack
-- [ ] SASS
+- [x] SASS
 - [x] Scala
 - [ ] SCSS
 - [ ] Sed
 - [x] Seed7
 - [x] Self
-- [ ] SGML
+- [x] SGML
 - [ ] ShaderLab
 - [x] Singularity
 - [x] Squirrel
@@ -361,7 +362,7 @@ This list covers the creation of the language repositories.
 - [x] SourcePawn
 - [ ] SQL
 - [ ] StandardML
-- [ ] Starlark
+- [x] Starlark
 - [x] StringTemplate
 - [x] Stylus
 - [ ] SuperCollider
@@ -442,9 +443,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2022, Saturday, October 1st at 9:00 pm PST)`
+**File version:** `43 (2022, Sunday, October 2nd at 11:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,009`
+**Line count (including blank lines and compiler line):** `2,049`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1375,15 +1376,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 43</b></summary>
 
-**Version 43 (Coming soon)**
+**Version 43 (2022, Sunday, October 2nd at 11:54 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V43.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V43.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 238 | new total: 243)
+- - [x] Added 1 new entry to the list (old total: 395 | new total: 396)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 43
 - [ ] No other changes in version 43
 
 </details>
@@ -2000,6 +2010,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 84
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 85</b></summary>
+
+**Version 85 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V85.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 85
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 86</b></summary>
+
+**Version 86 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V86.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 86
 
 </details>
 
