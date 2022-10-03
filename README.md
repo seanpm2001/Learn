@@ -78,7 +78,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Blade/"><img src="/Programming/Logos/B/Blade/Blade_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Blade</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Boogie/"><img src="/Programming/Logos/B/Boogie/BoogieLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Boogie</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BASIC/"><img src="/Programming/Logos/B/BASIC/C64_BASIC_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BASIC</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-B/"><img src="/Programming/Logos/B/B/Rain-B-ow-B-.jpeg" width="100px;" alt=""/><br /><sub><b>Learn B</b></sub></a></td> <!-- I know the logos may look off/crappy, I picked this one out a long time ago. B doesn't officially have a logo. Its free real estate !-->
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -521,10 +521,10 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SaltStack/"><img src="/Programming/Logos/S/SaltStack/SaltStack-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SaltStack</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Self/"><img src="/Programming/Logos/S/Self/Self-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Self</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Sage/"><img src="/Programming/Logos/S/Sage/Sage900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Sage</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-S-RECORD/"><img src="/Programming/Logos/M/Motorola_S-RECORD/MotorolaCoin.png" width="100px;" alt=""/><br /><sub><b>Learn S-RECORD (Motorola)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SASS/"><img src="/Programming/Logos/S/SASS/SassLogo_660x660.png" width="100px;" alt=""/><br /><sub><b>Learn SASS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SGML/"><img src="/Programming/Logos/S/SGML/800px-SGML.svg.png" width="100px;" alt=""/><br /><sub><b>Learn SGML</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Starlark/"><img src="/Programming/Logos/S/Starlark/Bazel_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Starlark</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -760,15 +760,18 @@ Isabelle
 * CommonWorkflowLangugae
 * Sage
 * GN
+* Starlark
 
 `#` & `"""`
 
 * Python 3
+* Starlark
 
 `#` & `"""` & `'''`
 
 * Python 3
 * Ren'Py
+* Starlark
 
 `#` & `/*`
 
@@ -847,6 +850,7 @@ Isabelle
 * ANTLR
 * AIDL
 * CodeQL
+* SASS
 
 `//` & `/* */`
 
@@ -969,6 +973,8 @@ Isabelle
 * NextFlow
 * AIDL
 * CodeQL
+* B
+* SASS
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -994,6 +1000,7 @@ Isabelle
 * XProc
 * XQuery
 * Mallard
+* SGML
 
 `(* *)`
 
@@ -1142,6 +1149,7 @@ Isabelle
 * Orwell
 * Joy
 * ASL
+* Motorola S-REOCRD
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1284,6 +1292,7 @@ print("String")
 * Python
 * Gosu
 * GN
+* Starlark
 
 ```perl
 print("String");
@@ -1758,6 +1767,18 @@ str1 = "String"
 
 * GN
 
+```b
+putchar('String');
+```
+
+* B
+
+```sgml
+<sentence>String</sentence>
+```
+
+* SGML
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1788,6 +1809,8 @@ unknown
 * Joy
 * ANTLR
 * ASL
+* SASS
+* Motorola S-RECORD
 
 ### Int
 
@@ -1975,9 +1998,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `48 (2022, Saturday, October 1st at 7:57 pm PST)`
+**File version:** `49 (2022, Sunday, October 2nd at 11:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,598`
+**Line count (including blank lines and compiler line):** `3,664`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3127,11 +3150,36 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 49 (Coming soon)</b></summary>
+<details><summary><b>Version 49 (2022, Sunday, October 2nd at 11:30 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/1/README_V49.md)
+
+<!-- **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. !-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for B, Motorola S-RECORD, SASS, SGML, and Starlark
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Starlark
+- - [x] Updated the `#` & `"""` comment section to include Starlark
+- - [x] Updated the `#` & `'''` comment section to include Starlark
+- - [x] Updated the `/*` & `*/` comment section to include SASS and B
+- - [x] Updated the `//` comment section to include SASS
+- - [x] Updated the `/*` & `//` comment section to include SASS
+- - [x] Updated the `<!-- !-->` comment section to include SGML
+- - [x] Updated the `Unknown` comment section to include Motorola S-RECORD
+- [x] Updated the print statement section
+- - [X] Added the `putchar('String');` string section to include B
+- - [X] Added the `<sentence>String</sentence>` string section to include SGML
+- - [x] Updated the `print("String")` string section to include Starlark
+- - [x] Updated the `Unknown` string section to include Motorola S-RECORD, and SASS
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 49
 - [ ] No other changes in version 49
 
 </details>
@@ -3565,6 +3613,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 96
+
+</details>
+
+<details><summary><b>Version 97 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 97
+
+</details>
+
+<details><summary><b>Version 98 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 98
 
 </details>
 
