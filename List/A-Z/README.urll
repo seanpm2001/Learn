@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V42: 2022, Saturday, October 1st at 8:38 pm PST
--- Representing data from 2022, Thursday, September 29th at 8:38 pm PST
+-- V43: 2022, Sunday, October 2nd at 11:35 pm PST
+-- Representing data from 2022, Sunday, October 2nd at 11:35 pm PST
 
 -- Programming
 -- 1
@@ -28,6 +28,7 @@ https://github.com/seanpm2001/Learn-Astro
 https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-Awk
 -- B
+https://github.com/seanpm2001/Learn-B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Bicep
@@ -222,15 +223,19 @@ https://github.com/seanpm2001/Learn-Rust
 -- S
 https://github.com/seanpm2001/Learn-Sage
 https://github.com/seanpm2001/Learn-SaltStack
+https://github.com/seanpm2001/Learn-SASS
 https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
 https://github.com/seanpm2001/Learn-Seed7
 https://github.com/seanpm2001/Learn-Self
+https://github.com/seanpm2001/Learn-SGML
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-Shell
 https://github.com/seanpm2001/Learn-Solidity
 https://github.com/seanpm2001/Learn-SourcePawn
 https://github.com/seanpm2001/Learn-Squirrel
+https://github.com/seanpm2001/Learn-S-RECORD
+https://github.com/seanpm2001/Learn-Starlark
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
 https://github.com/seanpm2001/Learn-Svelte
@@ -272,10 +277,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 240 languages listed (as of 2022, Saturday, October 1st at 8:38 pm PST)
+-- 245 languages listed (as of 2022, Sunday, October 2nd at 11:35 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 42 (2022, Saturday, October 1st at 8:38 pm PST)
--- Line count (including blank lines and compiler line): 282
+-- File version: 43 (2022, Sunday, October 2nd at 11:35 pm PST)
+-- Line count (including blank lines and compiler line): 287
 -- End of file
