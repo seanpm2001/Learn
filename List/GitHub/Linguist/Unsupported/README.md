@@ -35,9 +35,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Sunday, October 2nd at 11:38 pm PST)`
+**File version:** `6 (2022, Monday, October 3rd at 3:51 pm PST)`
 
-**Line count (including blank lines and compiler line):** `155`
+**Line count (including blank lines and compiler line):** `173`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -138,7 +138,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > Changes:
 
 - [x] Updated the list section
-- - [x] Added `ALS` to the list
+- - [x] Added `B`, `SASS`, and `Starlark` to the list
 - [x] Updated the `file info` section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -146,6 +146,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+
+<details><summary><p lang="en"><b>Version 6 (2022, Monday, October 3rd at 3:51 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Corrected the first line in the list for the entry for version 5, added the actual 3 languages for the day
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
