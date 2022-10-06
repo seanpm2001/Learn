@@ -137,7 +137,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section D2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dafny/"><img src="/Programming/Logos/D/Dafny/Dafny_logo.jpg" width="100px;" alt=""/><br /><sub><b>Learn Dafny</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DTrace/"><img src="/Programming/Logos/D/DTrace/DTrace_Kindle.jpeg" width="100px;" alt=""/><br /><sub><b>Learn DTrace</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DIGITAL-Command-Language/"><img src="/Programming/Logos/D/DIGITAL_Command_Language/DIGITAL_Logo1000pxPNG.png" width="100px;" alt=""/><br /><sub><b>Learn DIGITAL Comand Language</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -327,7 +327,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Logcat/"><img src="/Programming/Logos/L/Logcat/Matlog_390x390_LogcatLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Logcat</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lean/"><img src="/Programming/Logos/L/Lean/Lean_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Lean</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LispFlavoredErlang/"><img src="/Programming/Logos/L/LispFlavoredErlang/LFELogo1.png" width="100px;" alt=""/><br /><sub><b>Learn LispFlavoredErlang (LFE)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Lex/"><img src="/Programming/Logos/L/Lex/LEXLOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn Lex</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -440,6 +440,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pug/"><img src="/Programming/Logos/P/Pug/PugProgrammingLanguageIcon.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pug</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pod/"><img src="/Programming/Logos/P/Pod/PodLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Pod</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PureData/"><img src="/Programming/Logos/P/PureData/PureData427px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Pure Data</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-POV-Ray-SDL/"><img src="/Programming/Logos/P/POV-RAY_SDL/POV_Ray_SDL_Logo_288px.png" width="100px;" alt=""/><br /><sub><b>Learn POV-Ray SDL</b></sub></a></td>
+  </tr>
+  <!-- Row 16C !-->
+  <!-- Letter P !-->
+  <tr>
+    <td align="center"><p>Section P3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Puppet/"><img src="/Programming/Logos/P/Puppet/PuppetLabsLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Puppet</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 17A !-->
@@ -525,6 +537,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SASS/"><img src="/Programming/Logos/S/SASS/SassLogo_660x660.png" width="100px;" alt=""/><br /><sub><b>Learn SASS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SGML/"><img src="/Programming/Logos/S/SGML/800px-SGML.svg.png" width="100px;" alt=""/><br /><sub><b>Learn SGML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Starlark/"><img src="/Programming/Logos/S/Starlark/Bazel_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Starlark</b></sub></a></td>
+  </tr>
+  <!-- Row 19D !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><p>Section S4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ShaderLab/"><img src="/Programming/Logos/S/ShaderLab/UnityLogo450px.png" width="100px;" alt=""/><br /><sub><b>Learn ShaderLab</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -761,6 +785,7 @@ Isabelle
 * Sage
 * GN
 * Starlark
+* Puppet
 
 `#` & `"""`
 
@@ -851,6 +876,8 @@ Isabelle
 * AIDL
 * CodeQL
 * SASS
+* Lex
+* POV-Ray SDL
 
 `//` & `/* */`
 
@@ -1083,6 +1110,10 @@ Isabelle
 
 * IDL
 
+`/*** ***/`
+
+* Lex
+
 `/** */`
 
 * HyPhy
@@ -1149,7 +1180,9 @@ Isabelle
 * Orwell
 * Joy
 * ASL
-* Motorola S-REOCRD
+* Motorola S-RECORD
+* DIGITAL Command Language
+* ShaderLab
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1779,6 +1812,30 @@ putchar('String');
 
 * SGML
 
+```digital-command-language
+variable'str'="String"
+```
+
+* DIGITAL Conmand Language
+
+```puppet
+attribute => "String"
+```
+
+* Puppet
+
+```pov-ray-sdl
+#declare str "String"
+```
+
+* POV-Ray SDL
+
+```shaderlab
+_string ("String")
+```
+
+* ShaderLab
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1811,6 +1868,7 @@ unknown
 * ASL
 * SASS
 * Motorola S-RECORD
+* Lex
 
 ### Int
 
@@ -1998,9 +2056,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `49 (2022, Sunday, October 2nd at 11:30 pm PST)`
+**File version:** `50 (2022, Wednesday, October 5th at 9:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,664`
+**Line count (including blank lines and compiler line):** `3,767`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3118,6 +3176,8 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 48 (2022, Saturday, October 1st at 7:57 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
 [View this version](/OldVersions/README/English/1/README_V48.md)
 
 <!-- **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. !-->
@@ -3152,6 +3212,8 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 49 (2022, Sunday, October 2nd at 11:30 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
 [View this version](/OldVersions/README/English/1/README_V49.md)
 
 <!-- **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. !-->
@@ -3184,11 +3246,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 50 (Coming soon)</b></summary>
+<details><summary><b>Version 50 (2022, Wednesday, October 5th at 9:45 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V50.md)
+
+**Note:** I am making this separate release with the day before yesterdays (2022, Sunday, October 3rd) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Lex, DIGITAL Command Language, Puppet, POV-Ray SDL, and ShaderLab
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Puppet
+- - [x] Added the `/*** ***/` comment section to include Lex
+- - [x] Updated the `//` comment section to include Lex, and POV-Ray SDL
+- - [x] Updated the `Unknown` comment section to include DIGITAL Command Language, and ShaderLab
+- [x] Updated the print statement section
+- - [X] Added the `variable'str'="String"` section to include DIGITAL Command Language
+- - [X] Added the `attribute => "String"` section to include Puppet
+- - [X] Added the `#declare str "String"` section to include POV-Ray SDL
+- - [X] Added the `_string ("String")` section to include ShaderLab
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 50
 - [ ] No other changes in version 50
 
 </details>
@@ -3631,6 +3716,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 98
+
+</details>
+
+<details><summary><b>Version 99 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 99
+
+</details>
+
+<details><summary><b>Version 100 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 100
 
 </details>
 
