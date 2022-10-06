@@ -25,6 +25,7 @@ https://github.com/seanpm2001/Learn-API-Blueprint
 https://github.com/seanpm2001/Learn-AppleScript
 https://github.com/seanpm2001/Learn-ASCIIDoc
 https://github.com/seanpm2001/Learn-Assembly
+https://github.com/seanpm2001/Learn-AssemblyScript
 https://github.com/seanpm2001/Learn-Astro
 https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-Awk
@@ -51,6 +52,7 @@ https://github.com/seanpm2001/Learn-Clojure
 https://github.com/seanpm2001/Learn-CMake
 https://github.com/seanpm2001/Learn-CLIPS
 https://github.com/seanpm2001/Learn-CodeQL
+https://github.com/seanpm2001/Learn-CoffeeScript
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
 https://github.com/seanpm2001/Learn-Cool
 https://github.com/seanpm2001/Learn-C-Plus-Plus
@@ -82,6 +84,7 @@ https://github.com/seanpm2001/Learn-Erlang
 https://github.com/seanpm2001/Learn-Euphoria
 -- F
 https://github.com/seanpm2001/Learn-Factor
+https://github.com/seanpm2001/Learn-Fancy
 https://github.com/seanpm2001/Learn-Fantom
 https://github.com/seanpm2001/Learn-FCL
 https://github.com/seanpm2001/Learn-Fish
@@ -138,6 +141,7 @@ https://github.com/seanpm2001/Learn-Jsonnet
 https://github.com/seanpm2001/Learn-Julia
 -- K
 https://github.com/seanpm2001/Learn-KiCad -- Layout and Schematic (both included as one)
+https://github.com/seanpm2001/Learn-KiXTart
 https://github.com/seanpm2001/Learn-Kotlin
 https://github.com/seanpm2001/Learn-kvlang
 -- L
@@ -241,6 +245,7 @@ https://github.com/seanpm2001/Learn-SGML
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-ShaderLab
 https://github.com/seanpm2001/Learn-Shell
+https://github.com/seanpm2001/Learn-Smarty
 https://github.com/seanpm2001/Learn-Solidity
 https://github.com/seanpm2001/Learn-SourcePawn
 https://github.com/seanpm2001/Learn-Squirrel
@@ -287,10 +292,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 255 languages listed (as of 2022, Tuesday, October 4th at 11:59 pm PST)
+-- 260 languages listed (as of 2022, Wednesday, October 5th at 11:04 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 45 (2022, Wednesday, October 5th at 10:28 pm PST)
--- Line count (including blank lines and compiler line): 297
+-- File version: 46 (2022, Wednesday, October 5th at 11:04 pm PST)
+-- Line count (including blank lines and compiler line): 302
 -- End of file
