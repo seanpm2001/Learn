@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `248`/`396` (as of 2022, Monday, October 3rd at 11:59 pm PST)
+Current progress `253`/`396` (as of 2022, Tuesday, October 4th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `62.63%` complete, `37.37%` incomplete.
+**Ratio:** `63.89%` complete, `36.11%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -41,7 +41,7 @@ This list covers the creation of the language repositories.
 - [ ] ASP.NET
 - [x] AIDL
 - [x] ASL
-- [ ] AMPL
+- [x] AMPL
 - [x] Astro
 - [ ] Apex
 - [ ] Arduino
@@ -115,7 +115,7 @@ This list covers the creation of the language repositories.
 - [ ] DCPU-16-ASM
 - [x] DogeScript
 - [x] Dylan
-- [ ] E
+- [x] E
 - [x] EAGLE
 - [x] Earthly
 - [ ] EJS
@@ -256,7 +256,7 @@ This list covers the creation of the language repositories.
 - [ ] mcFunction
 - [x] MoonScript
 - [ ] Maxima
-- [ ] NASL
+- [x] NASL
 - [x] nesC
 - [ ] Nemerle
 - [x] NetRexx
@@ -264,7 +264,7 @@ This list covers the creation of the language repositories.
 - [x] Nextflow
 - [x] NGINX
 - [x] Nix
-- [ ] NSIS
+- [x] NSIS
 - [ ] Nunjucks
 - [ ] NVIDIA Cuda
 - [x] Nu
@@ -278,7 +278,7 @@ This list covers the creation of the language repositories.
 - [x] OpenEdge ABL
 - [x] OpenPolicyAgent
 - [x] OpenQASM
-- [ ] OpenSCAD
+- [x] OpenSCAD
 - [x] Orwell
 - [ ] Org-mode
 - [ ] OpenCL
@@ -443,9 +443,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `44 (2022, Wednesday, October 5th at 10:09 pm PST)`
+**File version:** `45 (2022, Wednesday, October 5th at 10:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,090`
+**Line count (including blank lines and compiler line):** `2,131`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1419,22 +1419,33 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Updated the versiondate
 - - [x] Updated the line count
 - [x] Updated the file history section
-- - [x] Added an entry for version 43
-- [ ] No other changes in version 43
+- - [x] Added an entry for version 44
+- [ ] No other changes in version 44
 
 </details>
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 45</b></summary>
 
-**Version 45 (Coming soon)**
+**Version 45 (2022, Wednesday, October 5th at 10:40 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V45.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V54.md)
+
+**This release represents data from:** `2022, Tuesday, October 4th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 248 | new total: 253)
+- - [x] Added 0 new entries to the list (old total: 396 | new total: 396)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 45
 - [ ] No other changes in version 45
 
 </details>
@@ -2081,6 +2092,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 88
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 89</b></summary>
+
+**Version 89 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V89.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 89
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 90</b></summary>
+
+**Version 90 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V90.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 90
 
 </details>
 
