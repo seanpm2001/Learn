@@ -56,7 +56,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ANTLR/"><img src="/Programming/Logos/A/ANTLR/ANTLR_LOGO2.png" width="100px;" alt=""/><br /><sub><b>Learn ANTLR</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AIDL/"><img src="/Programming/Logos/A/AIDL/AIDL_Generic_300px.png" width="100px;" alt=""/><br /><sub><b>Learn AIDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AMPL/"><img src="/Programming/Logos/A/AMPL/AMPL_LOGO.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AMPL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AssemblyScript/"><img src="/Programming/Logos/A/AssemblyScript/AssemblyScript_logo_2020.svg" width="100px;" alt=""/><br /><sub><b>Learn AssemblyScript</b></sub></a></td>
   </tr>
 
   <!-- Row 2A !-->
@@ -114,7 +114,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CLIPS/"><img src="/Programming/Logos/C/CLIPS/CLIPS_Logo_1000px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn CLIPS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonWorkflowLanguage/"><img src="/Programming/Logos/C/CommonWorkflowLanguage/CommonWorkflowLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CommonWorkflowLanguage</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CodeQL/"><img src="/Programming/Logos/C/CodeQL/CodeQL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CodeQL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CoffeeScript/"><img src="/Programming/Logos/C/CoffeeScript/CoffeeScript_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CoffeeScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -184,7 +184,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section F2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Forth/"><img src="/Programming/Logos/F/Forth/Forth_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Forth</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FCL/"><img src="/Programming/Logos/F/FCL/FCL_Language_512pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn FCL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Fancy/"><img src="/Programming/Logos/F/Fancy/FancyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Fancy</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -303,7 +303,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Kotlin/"><img src="/Programming/Logos/K/Kotlin/KotlinLogo_2400x2400.png" width="100px;" alt=""/><br /><sub><b>Learn Kotlin</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-kvlang/"><img src="/Programming/Logos/K/kvlang/KivyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn kvlang</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-KiCad/"><img src="/Programming/Logos/K/KiCad/KiCad_Logo_280x280.png" width="100px;" alt=""/><br /><sub><b>Learn KiCad (Layout and Schematic)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-KiXTart/"><img src="/Programming/Logos/K/KiXTart/KiXtart_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn KiXTart</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -543,7 +543,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section S4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ShaderLab/"><img src="/Programming/Logos/S/ShaderLab/UnityLogo450px.png" width="100px;" alt=""/><br /><sub><b>Learn ShaderLab</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Smarty/"><img src="/Programming/Logos/S/Smarty/Smarty_Logo_Small.png" width="100px;" alt=""/><br /><sub><b>Learn Smarty</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -789,6 +789,8 @@ Isabelle
 * Puppet
 * NASL
 * AMPL
+* CoffeeScript
+* Fancy
 
 `#` & `"""`
 
@@ -882,6 +884,7 @@ Isabelle
 * Lex
 * POV-Ray SDL
 * OpenSCAD
+* AssemblyScript
 
 `//` & `/* */`
 
@@ -1053,6 +1056,10 @@ Isabelle
 
 * Jinja
 
+`{* *}`
+
+* Smarty
+
 `;`
 
 * Assembly
@@ -1070,6 +1077,7 @@ Isabelle
 * Forth
 * CLIPS
 * NSIS
+* KiXTart
 
 `C`
 
@@ -1377,6 +1385,12 @@ alert("String")
 * JavaScript
 * JavaScript++
 
+```coffeescript
+alert "String"
+```
+
+* CoffeeScript
+
 ```openedge-abl
 disp("String");
 ```
@@ -1534,6 +1548,7 @@ w "String",!
 * Handlebars
 * Twig
 * Mallard
+* Smarty
 
 ```xproc
 <para>StringM/para>
@@ -1635,6 +1650,12 @@ write "String";
 ```
 
 * Self
+
+```fancy
+"String" println
+```
+
+* Fancy
 
 ```stylus
 str: "String"
@@ -1854,6 +1875,12 @@ MessageBox StrMB "String" /SD IDOK
 
 * NSIS
 
+```kixtart
+? "String"
+```
+
+* KiXTart
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1889,6 +1916,7 @@ unknown
 * Lex
 * AMPL
 * NASL
+* AssemblyScript
 
 ### Int
 
@@ -2076,9 +2104,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `51 (2022, Wednesday, October 5th at 10:23 pm PST)`
+**File version:** `52 (2022, Wednesday, October 5th at 11:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,828`
+**Line count (including blank lines and compiler line):** `3,898`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3272,7 +3300,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 [View this version](/OldVersions/README/English/1/README_V50.md)
 
-**Note:** I am making this separate release with the day before yesterdays (2022, Sunday, October 3rd) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
+**Note:** I am making this separate release with the day before yesterdays (2022, Sunday, October 3rd) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -3304,7 +3332,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 [View this version](/OldVersions/README/English/1/README_V51.md)
 
-**Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
+**Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -3330,11 +3358,35 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 52 (Coming soon)</b></summary>
+<details><summary><b>Version 52 (2022, Wednesday, October 5th at 11:00 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V52.md)
+
+<!-- **Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AssemblyScript, CoffeeScript, Fancy, KiXTart, and Smarty
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Fancy and CoffeeScript
+- - [x] Updated the `//` comment section to include AssemblyScript
+- - [x] Updated the `;` comment section to include KiXTart
+- - [x] Added the `{* *}` comment section to include Smarty
+- [x] Updated the print statement section
+- - [x] Updated the `<p>String</p>` section to include Smarty
+- - [X] Added the `"String" println` section to include Fancy
+- - [x] Added the `? "String"` section to include KIXTart
+- - [x] Added the `alert "String"` section to include CoffeeScript
+- - [X] Updated the `Unknown` string section to include AssemblyScript
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 52
 - [ ] No other changes in version 52
 
 </details>
@@ -3795,6 +3847,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 102
+
+</details>
+
+<details><summary><b>Version 103 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 103
+
+</details>
+
+<details><summary><b>Version 104 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 104
 
 </details>
 
