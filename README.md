@@ -55,7 +55,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ALS/"><img src="/Programming/Logos/A/ALS/ALS_LOGO1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ALS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ANTLR/"><img src="/Programming/Logos/A/ANTLR/ANTLR_LOGO2.png" width="100px;" alt=""/><br /><sub><b>Learn ANTLR</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AIDL/"><img src="/Programming/Logos/A/AIDL/AIDL_Generic_300px.png" width="100px;" alt=""/><br /><sub><b>Learn AIDL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AMPL/"><img src="/Programming/Logos/A/AMPL/AMPL_LOGO.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AMPL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
 
@@ -160,7 +160,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section E2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Euphoria/"><img src="/Programming/Logos/E/Euphoria/OpenEuphoriaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Euphoria</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Epigram/"><img src="/Programming/Logos/E/Epigram/Epigram200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Epigram</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-E/"><img src="/Programming/Logos/E/E/E-1.png" width="100px;" alt=""/><br /><sub><b>Learn E</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -386,8 +386,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section N2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NextFlow/"><img src="/Programming/Logos/N/NextFlow/Flow1Next.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NextFlow</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-NASL/"><img src="/Programming/Logos/N/NASL/NessusLogo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NASL</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-NSIS/"><img src="/Programming/Logos/N/NSIS/NSISDL1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NSIS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -413,7 +413,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Oberon/"><img src="/Programming/Logos/O/Oberon/Oberon_programming_language_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Oberon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenPolicyAgent/"><img src="/Programming/Logos/O/OpenPolicyAgent/OpenPolicyAgent-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenPolicyAgent</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Orwell/"><img src="/Programming/Logos/O/Orwell/OrwellSticker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Orwell</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenSCAD/"><img src="/Programming/Logos/O/OpenSCAD/OpenScad400px.png" width="100px;" alt=""/><br /><sub><b>Learn OpenSCAD</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -715,6 +715,7 @@ Isabelle
 * Euphoria
 * HiveQL
 * Epigram
+* E
 
 `---`
 
@@ -786,6 +787,8 @@ Isabelle
 * GN
 * Starlark
 * Puppet
+* NASL
+* AMPL
 
 `#` & `"""`
 
@@ -878,6 +881,7 @@ Isabelle
 * SASS
 * Lex
 * POV-Ray SDL
+* OpenSCAD
 
 `//` & `/* */`
 
@@ -1065,6 +1069,7 @@ Isabelle
 * LispFlavoredErlang
 * Forth
 * CLIPS
+* NSIS
 
 `C`
 
@@ -1448,6 +1453,7 @@ println("String")
 ```
 
 * Kotlin
+* E
 
 ```rust
 println!("String");
@@ -1836,6 +1842,18 @@ _string ("String")
 
 * ShaderLab
 
+```openscad
+cube("String");
+```
+
+* OpenSCAD
+
+```nsis
+MessageBox StrMB "String" /SD IDOK
+```
+
+* NSIS
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1869,6 +1887,8 @@ unknown
 * SASS
 * Motorola S-RECORD
 * Lex
+* AMPL
+* NASL
 
 ### Int
 
@@ -2056,9 +2076,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `50 (2022, Wednesday, October 5th at 9:45 pm PST)`
+**File version:** `51 (2022, Wednesday, October 5th at 10:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,767`
+**Line count (including blank lines and compiler line):** `3,828`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3278,11 +3298,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 51 (Coming soon)</b></summary>
+<details><summary><b>Version 51 (2022, Wednesday, October 5th at 10:23 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V51.md)
+
+**Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AMPL, E, NASL, NSIS, and OpenSCAD
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include AMPL and NASL
+- - [x] Updated the `//` comment section to include OpenSCAD
+- - [x] Updated the `;` comment section to include NSIS
+- - [x] Updated the `--` comment section to include E
+- [x] Updated the print statement section
+- - [x] Updated the `println("String")` section to include E
+- - [X] Added the `cube("String");` section to include OpenSCAD
+- - [X] Added the `MessageBox StrMB "String" /SD IDOK"` section to include NSIS
+- - [X] Updated the `Unknown` string section to include AMPL, and NASL
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 51
 - [ ] No other changes in version 51
 
 </details>
@@ -3734,6 +3777,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 100
+
+</details>
+
+<details><summary><b>Version 101 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 101
+
+</details>
+
+<details><summary><b>Version 102 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 102
 
 </details>
 
