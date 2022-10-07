@@ -115,7 +115,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonWorkflowLanguage/"><img src="/Programming/Logos/C/CommonWorkflowLanguage/CommonWorkflowLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CommonWorkflowLanguage</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CodeQL/"><img src="/Programming/Logos/C/CodeQL/CodeQL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CodeQL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CoffeeScript/"><img src="/Programming/Logos/C/CoffeeScript/CoffeeScript_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CoffeeScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CAML/"><img src="/Programming/Logos/C/CAML/ApacheCAML.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CAML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -211,7 +211,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gosu/"><img src="/Programming/Logos/G/Gosu/GosuLogo_174px.png" width="100px;" alt=""/><br /><sub><b>Learn Gosu</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GCC-Machine-Description/"><img src="/Programming/Logos/G/GCC-Machine-Description/GCC-Machine-Description-LogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn GCC Machine Description</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GN/"><img src="/Programming/Logos/G/GN/GN_1388px.png" width="100px;" alt=""/><br /><sub><b>Learn GN</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GAP/"><img src="/Programming/Logos/G/GAP/GAP_computer_algebra_system_icon.png" width="100px;" alt=""/><br /><sub><b>Learn GAP</b></sub></a></td>
   </tr>
   <!-- Row 8A !-->
   <!-- Letter H !-->
@@ -288,9 +288,9 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter J !-->
   <tr>
     <td align="center"><p>Section J2</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Joy"><img src="/Programming/Logos/J/Joy/JoyBasic.png" width="100px;" alt=""/><br /><sub><b>Learn Joy</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Joy/"><img src="/Programming/Logos/J/Joy/JoyBasic.png" width="100px;" alt=""/><br /><sub><b>Learn Joy</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JScript/"><img src="/Programming/Logos/J/JScript/JS1.png" width="100px;" alt=""/><br /><sub><b>Learn JScript</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JupyterNotebook/"><img src="/Programming/Logos/J/JupyterNotebook/Jupyter_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Jupyter Notebook</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -544,7 +544,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section S4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ShaderLab/"><img src="/Programming/Logos/S/ShaderLab/UnityLogo450px.png" width="100px;" alt=""/><br /><sub><b>Learn ShaderLab</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Smarty/"><img src="/Programming/Logos/S/Smarty/Smarty_Logo_Small.png" width="100px;" alt=""/><br /><sub><b>Learn Smarty</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SmallTalk/"><img src="/Programming/Logos/S/SmallTalk/Smalltalk_Balloon.svg" width="100px;" alt=""/><br /><sub><b>Learn SmallTalk</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -791,6 +791,8 @@ Isabelle
 * AMPL
 * CoffeeScript
 * Fancy
+* CAML
+* GAP
 
 `#` & `"""`
 
@@ -885,6 +887,7 @@ Isabelle
 * POV-Ray SDL
 * OpenSCAD
 * AssemblyScript
+* JScript
 
 `//` & `/* */`
 
@@ -1112,6 +1115,10 @@ Isabelle
 * REXX
 * Self
 
+`"`
+
+* SmallTalk
+
 `;;`
 
 * Scheme
@@ -1196,6 +1203,7 @@ Isabelle
 * Motorola S-RECORD
 * DIGITAL Command Language
 * ShaderLab
+* Jupyter Notebook
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1376,7 +1384,7 @@ console.log("String")
 
 * JavaScript
 * JavaScript++
-
+* JScript
 
 ```javascript
 alert("String")
@@ -1492,6 +1500,12 @@ print_endline "String"
 ```
 
 * OCaml
+
+```caml
+print_endline "String";;
+```
+
+* CAML
 
 ```applescript
 display dialog "String"
@@ -1881,6 +1895,18 @@ MessageBox StrMB "String" /SD IDOK
 
 * KiXTart
 
+```smalltalk
+Transcript show: 'String'.
+```
+
+* SmallTalk
+
+```json
+"cells":[{"cell_type":"markdown","source":"String","metadata":{}},
+```
+
+* Jupyter Notebook
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -1917,6 +1943,7 @@ unknown
 * AMPL
 * NASL
 * AssemblyScript
+* GAP
 
 ### Int
 
@@ -2104,9 +2131,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `52 (2022, Wednesday, October 5th at 11:00 pm PST)`
+**File version:** `53 (2022, Thursday, October 6th at 9:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,898`
+**Line count (including blank lines and compiler line):** `3,967`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3378,7 +3405,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the print statement section
 - - [x] Updated the `<p>String</p>` section to include Smarty
 - - [X] Added the `"String" println` section to include Fancy
-- - [x] Added the `? "String"` section to include KIXTart
+- - [x] Added the `? "String"` section to include KiXTart
 - - [x] Added the `alert "String"` section to include CoffeeScript
 - - [X] Updated the `Unknown` string section to include AssemblyScript
 - [x] Updated the file info section
@@ -3391,11 +3418,35 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 53 (Coming soon)</b></summary>
+<details><summary><b>Version 53 (2022, Thursday, October 6th at 9:54 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V53.md)
+
+<!-- **Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for CAML, GAP, JScript, Jupyter Notebook, and SmallTalk
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include CAML and GAP
+- - [x] Updated the `//` comment section to include JScript
+- - [x] Updated the `"` comment section to include SmallTalk
+- - [x] Updated the `Unknown` comment section to include Jupyter Notebook
+- [x] Updated the print statement section
+- - [x] Updated the `console.log("String");` section to include JScript
+- - [X] Added the `print_endline "String";;` section to include CAML
+- - [x] Added the `Transcript show: 'String'.` section to include SmallTalk
+- - [x] Added the `"cells":[{"cell_type":"markdown","source":"String","metadata":{}},` section to include Jupyter Notebook
+- - [X] Updated the `Unknown` string section to include GAP
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 53
 - [ ] No other changes in version 53
 
 </details>
@@ -3865,6 +3916,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 104
+
+</details>
+
+<details><summary><b>Version 105 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 105
+
+</details>
+
+<details><summary><b>Version 106 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 106
 
 </details>
 
