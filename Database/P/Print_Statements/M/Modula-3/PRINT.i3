@@ -1,0 +1,1 @@
+IO.PUT("String\n")

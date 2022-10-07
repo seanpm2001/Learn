@@ -1,0 +1,1 @@
+(printout t "String" crlf)
