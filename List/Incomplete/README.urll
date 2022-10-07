@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, October 5th at 11:12 pm PST
+-- As of 2022, Thursday, October 6th at 10:13 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -30,6 +30,7 @@ https://github.com/seanpm2001/Learn-Blade
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-CartoCSS
+https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-CoffeeScript
 https://github.com/seanpm2001/Learn-CLIPS
@@ -62,6 +63,7 @@ https://github.com/seanpm2001/Learn-Fluent
 https://github.com/seanpm2001/Learn-Forth
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
+https://github.com/seanpm2001/Learn-GAP
 https://github.com/seanpm2001/Learn-GCC-Machine-Description
 https://github.com/seanpm2001/Learn-G-CODE
 https://github.com/seanpm2001/Learn-GDB
@@ -94,11 +96,13 @@ https://github.com/seanpm2001/Learn-Isabelle
 https://github.com/seanpm2001/Learn-Jade
 https://github.com/seanpm2001/Learn-Jinja
 https://github.com/seanpm2001/Learn-Joy
+https://github.com/seanpm2001/Learn-JScript
 https://github.com/seanpm2001/Learn-Jsonnet
 https://github.com/seanpm2001/Learn-Julia
 https://github.com/seanpm2001/Learn-Java -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included 
 https://github.com/seanpm2001/Learn-JavaScript -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included. 
 https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
+https://github.com/seanpm2001/Learn-JupyterNotebook
 https://github.com/seanpm2001/Learn-KiCad
 https://github.com/seanpm2001/Learn-KiXTart
 https://github.com/seanpm2001/Learn-Kotlin
@@ -173,6 +177,7 @@ https://github.com/seanpm2001/Learn-SGML
 https://github.com/seanpm2001/Learn-ShaderLab
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-Smarty
+https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-SourcePawn
 https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-S-RECORD
@@ -202,7 +207,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 198/258
+-- Count: 203/263
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -306,13 +311,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V48 date: 2022, Wednesday, October 5th at 10:35 pm PST, representing data from 2022, Tuesday, October 4th
 -- V49: 5 entries added, 198 entries remain (ratio: 198/258 (76.74% incomplete, 23.26% complete))
 -- V49 date: 2022, Wednesday, October 5th at 11:12 pm PST, representing data from 2022, Wednesday, October 5th
+-- V50: 5 entries added, 203 entries remain (ratio: 203/263 (77.19% incomplete, 22.81% complete))
+-- V50 date: 2022, Thursday, October 6th at 10:13 pm PST, representing data from 2022, Thursday, October 6th
 
--- Ratio (incomplete/complete): 198/258 (76.28% incomplete, 23.72% complete)
+-- Ratio (incomplete/complete): 203/263 (77.19% incomplete, 22.81% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 49 (2022, Wednesday, October 5th at 11:12 pm PST)
--- Line count (including blank lines and compiler line): 319
+-- File version: 50 (2022, Thursday, October 6th at 10:13 pm PST)
+-- Line count (including blank lines and compiler line): 326
 
 -- End of script
