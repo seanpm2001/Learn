@@ -3,13 +3,15 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, October 6th
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, October 9th
 
 - [ ] ALGOL
 - [ ] ALS
 - [ ] AssemblyScript
 - [ ] B
 - [ ] CAML
+- [ ] Cyclone
+- [ ] DroppedText (seanpm2001)
 - [ ] Epigram
 - [ ] FCL
 - [ ] Go!
@@ -23,13 +25,17 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Lingo
 - [ ] NetREXX
 - [ ] Mallard
+- [ ] Matrix (seanpm2001)
 - [ ] Oberon
+- [ ] Octave
 - [ ] Orwell
 - [ ] SASS
 - [ ] Seed7
 - [ ] Starlark
+- [ ] URLL (seanpm2001)
+- [ ] Verona
 
-**Total:** `23`
+**Total:** `29`
 
 ***
 
@@ -39,9 +45,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Thursday, October 6th at 5:41 pm PST)`
+**File version:** `9 (2022, Sunday, October 9th at 10:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `213`
+**Line count (including blank lines and compiler line):** `237`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -204,6 +210,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Sunday, October 9th at 10:59 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `Cyclone` `DroppedText` `URLL` `Matrix` `Octave` and `Verona` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
 
 </details>
 
