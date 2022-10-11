@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V45: 2022, Wednenday, October 5th at 10:28 pm PST
--- Representing data from 2022, Tuesday, October 4th at 11:59 pm PST
+-- V85: 2022, Monday, October 10th at 10:45 pm PST
+-- Representing data from 2022, Friday, October 7th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -92,6 +92,7 @@ https://github.com/seanpm2001/Learn-Fish
 https://github.com/seanpm2001/Learn-Fluent
 https://github.com/seanpm2001/Learn-Forth
 https://github.com/seanpm2001/Learn-FORTRAN
+https://github.com/seanpm2001/Learn-FreeMarker
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
 -- G
@@ -131,6 +132,7 @@ https://github.com/seanpm2001/Learn-INI
 https://github.com/seanpm2001/Learn-Inno-Setup
 https://github.com/seanpm2001/Learn-ImageJ
 https://github.com/seanpm2001/Learn-Io
+https://github.com/seanpm2001/Learn-IronPython
 https://github.com/seanpm2001/Learn-Isabelle
 -- J
 https://github.com/seanpm2001/Learn-Jade
@@ -152,6 +154,7 @@ https://github.com/seanpm2001/Learn-kvlang
 https://github.com/seanpm2001/Learn-Lean
 https://github.com/seanpm2001/Learn-Lex
 https://github.com/seanpm2001/Learn-Lingo
+https://github.com/seanpm2001/Learn-Liquid
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
 https://github.com/seanpm2001/Learn-LLVM
 https://github.com/seanpm2001/Learn-Logcat
@@ -234,6 +237,7 @@ https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn-ReScript
 https://github.com/seanpm2001/Learn-ReStructuredText
 https://github.com/seanpm2001/Learn-REXX
+https://github.com/seanpm2001/Learn-RichTextFormat
 https://github.com/seanpm2001/Learn-RouterOS-Script
 https://github.com/seanpm2001/Learn-Ruby
 https://github.com/seanpm2001/Learn-Rust
@@ -275,6 +279,7 @@ https://github.com/seanpm2001/Learn-Uno
 https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-Vala
 https://github.com/seanpm2001/Learn-VBScript
+https://github.com/seanpm2001/Learn-VCL
 https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-VueJS
@@ -297,10 +302,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 265 languages listed (as of 2022, Thursday, October 6th at 10:00 pm PST)
+-- 270 languages listed (as of 2022, Friday, October 7th at 10:45 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 47 (2022, Thursday, October 6th at 10:00 pm PST)
--- Line count (including blank lines and compiler line): 307
+-- File version: 48 (2022, Monday, October 10th at 10:45 pm PST)
+-- Line count (including blank lines and compiler line): 312
 -- End of file
