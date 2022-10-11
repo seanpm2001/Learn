@@ -128,7 +128,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CoffeeScript/"><img src="/Programming/Logos/C/CoffeeScript/CoffeeScript_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CoffeeScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CAML/"><img src="/Programming/Logos/C/CAML/ApacheCAML.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CAML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CUDA/"><img src="/Programming/Logos/C/CUDA/NVIDIA_CUDA_Logo_WhiteOpaque.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CUDA (NVIDIA)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cyclone/"><img src="/Programming/Logos/C/Cyclone/CycloneEmoji.png" width="100px;" alt=""/><br /><sub><b>Learn Cyclone</b></sub></a></td>
   </tr>
   <!-- Row 4A !-->
   <!-- Letter D !-->
@@ -149,8 +149,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dafny/"><img src="/Programming/Logos/D/Dafny/Dafny_logo.jpg" width="100px;" alt=""/><br /><sub><b>Learn Dafny</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DTrace/"><img src="/Programming/Logos/D/DTrace/DTrace_Kindle.jpeg" width="100px;" alt=""/><br /><sub><b>Learn DTrace</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DIGITAL-Command-Language/"><img src="/Programming/Logos/D/DIGITAL_Command_Language/DIGITAL_Logo1000pxPNG.png" width="100px;" alt=""/><br /><sub><b>Learn DIGITAL Comand Language</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Dhall/"><img src="/Programming/Logos/D/Dhall/Dhall1.png" width="100px;" alt=""/><br /><sub><b>Learn Djall</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Dhall/"><img src="/Programming/Logos/D/Dhall/Dhall1.png" width="100px;" alt=""/><br /><sub><b>Learn Dhall</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Diff/"><img src="/Programming/Logos/D/Diff/Diff.png" width="100px;" alt=""/><br /><sub><b>Learn Diff</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -172,7 +172,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Euphoria/"><img src="/Programming/Logos/E/Euphoria/OpenEuphoriaLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Euphoria</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Epigram/"><img src="/Programming/Logos/E/Epigram/Epigram200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Epigram</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-E/"><img src="/Programming/Logos/E/E/E-1.png" width="100px;" alt=""/><br /><sub><b>Learn E</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-EJS/"><img src="/Programming/Logos/E/EJS/EJS.png" width="100px;" alt=""/><br /><sub><b>Learn EJS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -425,7 +425,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenPolicyAgent/"><img src="/Programming/Logos/O/OpenPolicyAgent/OpenPolicyAgent-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenPolicyAgent</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Orwell/"><img src="/Programming/Logos/O/Orwell/OrwellSticker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Orwell</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenSCAD/"><img src="/Programming/Logos/O/OpenSCAD/OpenScad400px.png" width="100px;" alt=""/><br /><sub><b>Learn OpenSCAD</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Octave/"><img src="/Programming/Logos/O/Octave/OctaveLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Octave</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -596,6 +596,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VueJS/"><img src="/Programming/Logos/V/Vue.js/Vue.js_Logo_2.svg" width="100px;" alt=""/><br /><sub><b>Learn Vue.js</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VimScript/"><img src="/Programming/Logos/V/VimScript/VIMSCRIPT.png" width="100px;" alt=""/><br /><sub><b>Learn Vim Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VCL/"><img src="/Programming/Logos/V/VCL/VCL_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn VCL</b></sub></a></td>
+  </tr>
+  <!-- Row 22B !-->
+  <!-- Letter V !-->
+  <tr>
+    <td align="center"><p>Section V2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Verona/"><img src="/Programming/Logos/V/Verona/VeronaEmacs.png" width="100px;" alt=""/><br /><sub><b>Learn Verona</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 23A !-->
   <!-- Letter W !-->
@@ -903,6 +915,10 @@ Isabelle
 * AssemblyScript
 * JScript
 * CUDA
+* Verona
+* MATLAB
+* Octave
+* Cyclone
 
 `//` & `/* */`
 
@@ -1058,6 +1074,7 @@ Isabelle
 * FreeMarker
 * Liquid
 * XSLT
+* EJS
 
 `(* *)`
 
@@ -1224,6 +1241,10 @@ Isabelle
 `- #`
 
 * Slim
+
+`++`
+
+* Diff
 
 `Unknown`
 
@@ -1440,6 +1461,13 @@ disp("String");
 * OpenEdge ABL
 * SciLab
 
+```matlab
+disp('String');
+```
+
+* MATLAB
+* Octave
+
 ```raku
 say "String"
 ```
@@ -1469,6 +1497,7 @@ printf("String\n");
 * HolyC
 * DTrace
 * CUDA
+* Cyclone
 
 ```cpp
 std::cout >> "String\n";
@@ -1600,6 +1629,7 @@ w "String",!
 * Smarty
 * FreeMarker
 * XSLT
+* EJS
 
 ```xproc
 <para>String</para>
@@ -1986,6 +2016,20 @@ System.debug('String');
 
 * Apex
 
+```verona
+'"
+String
+'";
+```
+
+* Verona
+
+```diff
+++String
+```
+
+* Diff
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -2210,9 +2254,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `55 (2022, Monday, October 10th at 11:25 pm PST)`
+**File version:** `56 (2022, Tuesday, October 11th at 12:54 am PST)`
 
-**Line count (including blank lines and compiler line):** `4,132`
+**Line count (including blank lines and compiler line):** `4,218`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3598,13 +3642,37 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 56 (Coming soon)</b></summary>
+<details><summary><b>Version 56 (2022, Tuesday, October 11th at 12:54 am PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V56.md)
+
+**This release uses/represents data from:** `2022, Sunday, October 9th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Cyclone, Diff, EJS, Octave, and Verona
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include MATLAB, Verona, Cyclone, and Octave
+- - [x] Updated the `<!--` & `--!>` comment section to include EJS
+- - [x] Added the `++` comment section to include Diff
+- [x] Updated the print statement section
+- - [x] Updated the `<p>String</p>` section to include EJS
+- - [x] Updated the `printf("String\n");` section to include Cyclone
+- - [x] Added the `disp('String');` section to include Octave and MATLAB
+- - [x] Added the `'"`
+- - `String`
+- - `'";` section to include Verona
+- - [x] Added the `++` section to include Diff
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 56
 - [ ] No other changes in version 56
-
 </details>
 
 <details><summary><b>Version 57 (Coming soon)</b></summary>
@@ -4099,6 +4167,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 110
+
+</details>
+
+<details><summary><b>Version 111 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 111
+
+</details>
+
+<details><summary><b>Version 112 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 112
 
 </details>
 
