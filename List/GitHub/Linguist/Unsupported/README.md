@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, October 9th
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, October 10th
 
 - [ ] ALGOL
 - [ ] ALS
@@ -20,6 +20,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] JavaScript++
 - [ ] Joy
 - [ ] JScript (too similar to JavaScript)
+- [ ] JScript.NET (also too similar to JavaScript)
+- [ ] JSSS
+- [ ] Jython
 - [ ] KiXTart
 - [ ] Logcat
 - [ ] Lingo
@@ -32,10 +35,11 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] SASS
 - [ ] Seed7
 - [ ] Starlark
+- [ ] SXML
 - [ ] URLL (seanpm2001)
 - [ ] Verona
 
-**Total:** `29`
+**Total:** `33`
 
 ***
 
@@ -45,9 +49,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Sunday, October 9th at 10:59 pm PST)`
+**File version:** `10 (2022, Monday, October 10th at 10:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `237`
+**Line count (including blank lines and compiler line):** `259`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -228,6 +232,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p lang="en"><b>Version109 (2022, Monday, October 10th at 10:49 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `JScript.NET` `JSSS` `Jython` and `SXML` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
 
 </details>
 
