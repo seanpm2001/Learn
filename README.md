@@ -63,7 +63,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section A4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Apex/"><img src="/Programming/Logos/A/Apex/APEX.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Apex</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Arduino/"><img src="/Programming/Logos/A/Arduino/ArduinoLogo_Glossy.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Arduino</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -302,9 +302,9 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Joy/"><img src="/Programming/Logos/J/Joy/JoyBasic.png" width="100px;" alt=""/><br /><sub><b>Learn Joy</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JScript/"><img src="/Programming/Logos/J/JScript/JS1.png" width="100px;" alt=""/><br /><sub><b>Learn JScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JupyterNotebook/"><img src="/Programming/Logos/J/JupyterNotebook/Jupyter_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn Jupyter Notebook</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JScript.NET/"><img src="/Programming/Logos/J/JScript.NET/DOTNET.png" width="100px;" alt=""/><br /><sub><b>Learn JScript.NET</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JSSS/"><img src="/Programming/Logos/J/JSSS/NetscapeNavigator.png" width="100px;" alt=""/><br /><sub><b>Learn JSSS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Jython/"><img src="/Programming/Logos/J/Jython/Jython1.png" width="100px;" alt=""/><br /><sub><b>Learn Jython</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 11A !-->
@@ -557,7 +557,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Smarty/"><img src="/Programming/Logos/S/Smarty/Smarty_Logo_Small.png" width="100px;" alt=""/><br /><sub><b>Learn Smarty</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SmallTalk/"><img src="/Programming/Logos/S/SmallTalk/Smalltalk_Balloon.svg" width="100px;" alt=""/><br /><sub><b>Learn SmallTalk</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Slim/"><img src="/Programming/Logos/S/Slim/SLIM-LANG.png" width="100px;" alt=""/><br /><sub><b>Learn Slim</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SXML/"><img src="/Programming/Logos/S/SXML/SXML_Sample.png" width="100px;" alt=""/><br /><sub><b>Learn SXML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -819,6 +819,7 @@ Isabelle
 * GAP
 * VCL
 * IronPython
+* Jython
 
 `#` & `"""`
 
@@ -919,6 +920,9 @@ Isabelle
 * MATLAB
 * Octave
 * Cyclone
+* Arduino
+* JSSS
+* JScript.NET
 
 `//` & `/* */`
 
@@ -1044,6 +1048,7 @@ Isabelle
 * CodeQL
 * B
 * SASS
+* Arduino
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1118,6 +1123,7 @@ Isabelle
 * CLIPS
 * NSIS
 * KiXTart
+* SXML
 
 `C`
 
@@ -1420,6 +1426,7 @@ print "String"
 ```
 
 * NextFlow
+* Jython
 
 ```sage
 print("String\n")
@@ -2030,6 +2037,24 @@ String
 
 * Diff
 
+```arduino
+const char check[] PROGMEM = "String\n";
+```
+
+* Arduino
+
+```sxml
+(tag (@ (attr1="String")))
+```
+
+* SXML
+
+```jscript.NET
+Console.WriteLine("String");
+```
+
+* JScript.NET
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -2067,6 +2092,7 @@ unknown
 * NASL
 * AssemblyScript
 * GAP
+* JSSS
 
 ### Int
 
@@ -2254,9 +2280,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `56 (2022, Tuesday, October 11th at 12:54 am PST)`
+**File version:** `57 (2022, Tuesday, October 11th at 1:33 am PST)`
 
-**Line count (including blank lines and compiler line):** `4,218`
+**Line count (including blank lines and compiler line):** `4,283`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3673,13 +3699,37 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [x] Updated the file history section
 - - [x] Added a log entry for version 56
 - [ ] No other changes in version 56
+
 </details>
 
-<details><summary><b>Version 57 (Coming soon)</b></summary>
+<details><summary><b>Version 57 (2022, Tuesday, October 11th at 1:33 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V57.md)
+
+**This release uses/represents data from:** `2022, Monday, October 10th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Arduino, JSSS, JScript.NET, Jython, and SXML
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Arduino, JSSS, and JScript.NET
+- - [x] Updated the `;` comment section to include SXML
+- - [x] Updated the `#` comment section to include Jython
+- [x] Updated the print statement section
+- - [x] Updated the `print "String"` section to include Jython
+- - [x] Added the `const char check[] PROGMEM = "String\n";` section to include Arduino
+- - [x] Added the `(tag (@ (attr1="String")))` section to include SXML
+- - [x] Added the `Console.WriteLine("String");` section to include JScript.NET
+- - [x] Updated the `unknown` section to include JSSS
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 57
 - [ ] No other changes in version 57
 
 </details>
@@ -4186,6 +4236,21 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [ ] Coming soon
 - [ ] No other changes in version 112
 
+<details><summary><b>Version 113 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 113
+
+</details>
+
+<details><summary><b>Version 114 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 114
 </details>
 
 </details> <!-- Dropdown table end !-->
