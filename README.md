@@ -185,7 +185,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Forth/"><img src="/Programming/Logos/F/Forth/Forth_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Forth</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FCL/"><img src="/Programming/Logos/F/FCL/FCL_Language_512pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn FCL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Fancy/"><img src="/Programming/Logos/F/Fancy/FancyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Fancy</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeMarker/"><img src="/Programming/Logos/F/FreeMarker/FreeMarker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn FreeMarker</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -265,7 +265,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section I2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Isabelle/"><img src="/Programming/Logos/I/Isabelle/PYTHAGOREAN_THEOREM_5000x5000.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Isabelle</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-IronPython/"><img src="/Programming/Logos/I/IronPython/IronPython_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn IronPython</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -328,7 +328,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lean/"><img src="/Programming/Logos/L/Lean/Lean_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Lean</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LispFlavoredErlang/"><img src="/Programming/Logos/L/LispFlavoredErlang/LFELogo1.png" width="100px;" alt=""/><br /><sub><b>Learn LispFlavoredErlang (LFE)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lex/"><img src="/Programming/Logos/L/Lex/LEXLOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn Lex</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Liquid"><img src="/Programming/Logos/L/Liquid/water-drop-64x.png" width="100px;" alt=""/><br /><sub><b>Learn Liquid</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -495,7 +495,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section R3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReScript/"><img src="/Programming/Logos/R/ReScript/ReScript_Logo_300px.png" width="100px;" alt=""/><br /><sub><b>Learn ReScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RichTextFormat/"><img src="/Programming/Logos/R/RichTextFormat/RTF_ICON_WORDSTYLE.png" width="100px;" alt=""/><br /><sub><b>Learn Rich Text Format (RTF)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -584,7 +584,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-V/"><img src="/Programming/Logos/V/V/V_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn V</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VueJS/"><img src="/Programming/Logos/V/Vue.js/Vue.js_Logo_2.svg" width="100px;" alt=""/><br /><sub><b>Learn Vue.js</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VimScript/"><img src="/Programming/Logos/V/VimScript/VIMSCRIPT.png" width="100px;" alt=""/><br /><sub><b>Learn Vim Script</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VCL/"><img src="/Programming/Logos/V/VCL/VCL_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn VCL</b></sub></a></td>
   </tr>
   <!-- Row 23A !-->
   <!-- Letter W !-->
@@ -793,6 +793,8 @@ Isabelle
 * Fancy
 * CAML
 * GAP
+* VCL
+* IronPython
 
 `#` & `"""`
 
@@ -1038,6 +1040,8 @@ Isabelle
 * XQuery
 * Mallard
 * SGML
+* FreeMarker
+* Liquid
 
 `(* *)`
 
@@ -1204,6 +1208,7 @@ Isabelle
 * DIGITAL Command Language
 * ShaderLab
 * Jupyter Notebook
+* Rich Text Format
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1563,9 +1568,10 @@ w "String",!
 * Twig
 * Mallard
 * Smarty
+* FreeMarker
 
 ```xproc
-<para>StringM/para>
+<para>String</para>
 ```
 
 * XProc
@@ -1907,6 +1913,30 @@ Transcript show: 'String'.
 
 * Jupyter Notebook
 
+```vcl
+{{ "String" }}
+```
+
+* VCL
+
+```liquid
+synthetic {" String "};
+```
+
+* Liquid
+
+```python
+MessageBox.Show("String", "Str", MessageBoxButtons.OKCancel)
+```
+
+* IronPython
+
+```rich-text-format
+{\loch String}
+```
+
+* Rich Text Format
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -2131,9 +2161,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `53 (2022, Thursday, October 6th at 9:54 pm PST)`
+**File version:** `54 (2022, Monday, October 10th at 10:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,967`
+**Line count (including blank lines and compiler line):** `4,038`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3451,11 +3481,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 54 (Coming soon)</b></summary>
+<details><summary><b>Version 54 (2022, Monday, October 10th at 10:40 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V54.md)
+
+**This release uses/represents data from:** `2022, Friday, October 7th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for FreeMarker, Liquid, RichTextFormat, IronPython, and VCL
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include VCL and IronPython
+- - [x] Updated the `<!--` & `--!>` comment section to include FreeMarker and Liquid
+- - [x] Updated the `Unknown` comment section to include Rich Text Format
+- [x] Updated the print statement section
+- - [x] Updated the `<p>String</p>` section to include FreeMarker
+- - [x] Added the `{{ "String" }}` section to include Liquid
+- - [x] Added the `synthetic {" String "};` section to include VCL
+- - [x] Added the `MessageBox.Show("String", "Str", MessageBoxButtons.OKCancel)` section to include IronPython
+- - [x] Added the `{\loch String}` section to include Rich Text Format
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 54
 - [ ] No other changes in version 54
 
 </details>
@@ -3934,6 +3987,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 106
+
+</details>
+
+<details><summary><b>Version 107 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 107
+
+</details>
+
+<details><summary><b>Version 108 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 108
 
 </details>
 
