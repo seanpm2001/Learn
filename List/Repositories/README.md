@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `278`/`396` (as of 2022, Sunday, October 9th at 11:59 pm PST)
+Current progress `283`/`396` (as of 2022, Monday, October 10th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `70.20%` complete, `29.80%` incomplete.
+**Ratio:** `71.46%` complete, `28.54%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -44,7 +44,7 @@ This list covers the creation of the language repositories.
 - [x] AMPL
 - [x] Astro
 - [x] Apex
-- [ ] Arduino
+- [x] Arduino
 - [x] ApacheConf
 - [x] AutoIt
 - [x] AWK
@@ -195,11 +195,11 @@ This list covers the creation of the language repositories.
 - [x] Jinja
 - [x] Joy
 - [x] JScript
-- [ ] JScript DOT NET
+- [x] JScript DOT NET
 - [ ] JSON
-- [ ] JSSS
+- [x] JSSS
 - [x] JupyterNotebook
-- [ ] Jython
+- [x] Jython
 - [ ] JSON5
 - [x] Jsonnet
 - [x] Julia
@@ -368,7 +368,7 @@ This list covers the creation of the language repositories.
 - [ ] SuperCollider
 - [x] Svelte
 - [ ] SWIG
-- [ ] SXML
+- [x] SXML
 - [x] SystemVerilog
 - [ ] SASL
 - [ ] SQLPL
@@ -443,9 +443,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** 50 (2022, Tuesday, October 11th at 1:16 am PST)`
+**File version:** 51 (2022, Tuesday, October 11th at 1:51 am PST)`
 
-**Line count (including blank lines and compiler line):** `2,335`
+**Line count (including blank lines and compiler line):** `2,376`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1581,15 +1581,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 51</b></summary>
 
-**Version 51 (Coming soon)**
+**Version 51 (2022, Tuesday, October 11th at 1:51 am PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V51.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V51.md)
+
+**This release represents data from:** `2022, Monday, October 10th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 278 | new total: 283)
+- - [x] Added 0 new entries to the list (old total: 396 | new total: 396)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 51
 - [ ] No other changes in version 51
 
 </details>
@@ -2326,6 +2337,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 100
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 101</b></summary>
+
+**Version 101 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 101
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 102</b></summary>
+
+**Version 102 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 102
 
 </details>
 
