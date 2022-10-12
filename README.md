@@ -374,7 +374,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section M3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-3/"><img src="/Programming/Logos/M/Modula-3/Modula-3.svg" width="100px;" alt=""/><br /><sub><b>Learn Modula-3</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/Mallard_XML_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mustache/"><img src="/Programming/Logos/M/Mustache/MustacheLangLogoGitHub.png" width="100px;" alt=""/><br /><sub><b>Learn Mustache</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -399,7 +399,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NextFlow/"><img src="/Programming/Logos/N/NextFlow/Flow1Next.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NextFlow</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NASL/"><img src="/Programming/Logos/N/NASL/NessusLogo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NASL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NSIS/"><img src="/Programming/Logos/N/NSIS/NSISDL1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NSIS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Nunjucks/"><img src="/Programming/Logos/N/Nunjucks/nunjucks.png" width="100px;" alt=""/><br /><sub><b>Learn Nunjucks</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -558,8 +558,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SmallTalk/"><img src="/Programming/Logos/S/SmallTalk/Smalltalk_Balloon.svg" width="100px;" alt=""/><br /><sub><b>Learn SmallTalk</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Slim/"><img src="/Programming/Logos/S/Slim/SLIM-LANG.png" width="100px;" alt=""/><br /><sub><b>Learn Slim</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SXML/"><img src="/Programming/Logos/S/SXML/SXML_Sample.png" width="100px;" alt=""/><br /><sub><b>Learn SXML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SuperCollider/"><img src="/Programming/Logos/S/SuperCollider/SuperCollider_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SuperCollier</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SWIG/"><img src="/Programming/Logos/S/SWIG/SWIG_Logo_GitHub.png" width="100px;" alt=""/><br /><sub><b>Learn SWIG</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -570,7 +570,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Twig/"><img src="/Programming/Logos/T/Twig/TwigLang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Twig</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Thrift/"><img src="/Programming/Logos/T/Thrift/ApacheThriftBook.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Thrift (Apache)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TLA/"><img src="/Programming/Logos/T/TLA/TLA_Logo_1024px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn TLA</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-TOML/"><img src="/Programming/Logos/T/TOML/toml-400.png" width="100px;" alt=""/><br /><sub><b>Learn TOML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 21A !-->
@@ -820,6 +820,7 @@ Isabelle
 * VCL
 * IronPython
 * Jython
+* TOML
 
 `#` & `"""`
 
@@ -923,6 +924,7 @@ Isabelle
 * Arduino
 * JSSS
 * JScript.NET
+* SuperCollider
 
 `//` & `/* */`
 
@@ -1049,6 +1051,7 @@ Isabelle
 * B
 * SASS
 * Arduino
+* SWIG
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1100,6 +1103,7 @@ Isabelle
 `{# #}`
 
 * Jinja
+* Nunjucks
 
 `{* *}`
 
@@ -1251,6 +1255,10 @@ Isabelle
 `++`
 
 * Diff
+
+`{{!-- Comment !--}}`
+
+* Mustache
 
 `Unknown`
 
@@ -2017,6 +2025,12 @@ title: string
 
 * Slim
 
+```toml
+title = "String"
+```
+
+* TOML
+
 ```apex
 System.debug('String');
 ```
@@ -2054,6 +2068,30 @@ Console.WriteLine("String");
 ```
 
 * JScript.NET
+
+```supercollider
+"String".postln;
+```
+
+* SuperCollider
+
+```nunjucks
+{ text: "String" }
+```
+
+* Nunjucks
+
+```swig
+%echo "String"
+```
+
+* SWIG
+
+```mustache
+{{String}}
+```
+
+* Mustache
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -2280,9 +2318,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `57 (2022, Tuesday, October 11th at 1:33 am PST)`
+**File version:** `58 (2022, Tuesday, October 11th at 11:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,283`
+**Line count (including blank lines and compiler line):** `4,365`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3734,11 +3772,36 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 58 (Coming soon)</b></summary>
+<details><summary><b>Version 58 (2022, Tuesday, Octoebr 11th at 11:38 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V58.md)
+
+**This release uses/represents data from:** `2022, Tuesday, October 11th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Arduino, Mustache, Nunjucks, SWIG, SuperCollider, and TOML
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include SuperCollider
+- - [x] Updated the `{#` & `#}` comment section to include Nunjucks
+- - [x] Updated the `#` comment section to include TOML
+- - [x] Updated the `/*` & `*/` comment section to include SWIG
+- - [x] Added the `{{!-- Comment !--}}` comment section to include Mustache
+- [x] Updated the print statement section
+- - [x] Added the `{{String}}` string section to include Mustache
+- - [x] Added the `%echo "String"` section to include SWIG
+- - [x] Added the `{ text: "String" }` section to include Nunjucks
+- - [x] Added the `"String".postln;` section to include SuperCollider
+- - [x] Added thw `title = "String"` seciton to include TOML
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 58
 - [ ] No other changes in version 58
 
 </details>
@@ -4251,6 +4314,25 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 114
+
+</details>
+
+<details><summary><b>Version 115 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 115
+
+</details>
+
+<details><summary><b>Version 116 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 116
+
 </details>
 
 </details> <!-- Dropdown table end !-->
