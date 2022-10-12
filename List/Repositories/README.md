@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `283`/`396` (as of 2022, Monday, October 10th at 11:59 pm PST)
+Current progress `288`/`397` (as of 2022, Tuesday, October 11th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `71.46%` complete, `28.54%` incomplete.
+**Ratio:** `72.54%` complete, `27.46%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -228,6 +228,7 @@ This list covers the creation of the language repositories.
 - [ ] Lucid
 - [ ] LiveScript
 - [ ] LabVIEW
+- [x] Mustache
 - [x] Lua
 - [x] M
 - [x] M4
@@ -265,7 +266,7 @@ This list covers the creation of the language repositories.
 - [x] NGINX
 - [x] Nix
 - [x] NSIS
-- [ ] Nunjucks
+- [x] Nunjucks
 - [x] NVIDIA Cuda
 - [x] Nu
 - [x] Nim
@@ -365,9 +366,9 @@ This list covers the creation of the language repositories.
 - [x] Starlark
 - [x] StringTemplate
 - [x] Stylus
-- [ ] SuperCollider
+- [x] SuperCollider
 - [x] Svelte
-- [ ] SWIG
+- [x] SWIG
 - [x] SXML
 - [x] SystemVerilog
 - [ ] SASL
@@ -380,7 +381,7 @@ This list covers the creation of the language repositories.
 - [ ] TeX
 - [x] Thrift
 - [x] TLA
-- [ ] TOML
+- [x] TOML
 - [ ] TSQL
 - [x] Twig
 - [ ] Textile
@@ -443,9 +444,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** 51 (2022, Tuesday, October 11th at 1:51 am PST)`
+**File version:** 52 (2022, Tuesday, October 11th at 11:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,376`
+**Line count (including blank lines and compiler line):** `2,418`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1607,15 +1608,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 52</b></summary>
 
-**Version 52 (Coming soon)**
+**Version 52 (2022, Tuesday, October 11th at 11:57 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V52.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V21.md)
+
+**This release represents data from:** `2022, Tuesday, October 11th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 283 | new total: 288)
+- - [x] Added 1 new entry to the list (old total: 396 | new total: 397)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 52
 - [ ] No other changes in version 52
 
 </details>
@@ -2367,6 +2379,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 102
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 103</b></summary>
+
+**Version 103 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 103
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 104</b></summary>
+
+**Version 104 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 104
 
 </details>
 
