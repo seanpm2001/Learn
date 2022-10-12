@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V50: 2022, Tuesday, October 11th at 1:00 am PST
--- Representing data from 2022, Sunday, October 9th at 11:59 pm PST
+-- V52: 2022, Tuesday, October 11th at 11:44 Pm PST
+-- Representing data from 2022, Tuesday, October 11th at 11:42 pm PST
 
 -- Programming
 -- 1
@@ -190,6 +190,7 @@ https://github.com/seanpm2001/Learn-Modelica
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-MoonScript
+https://github.com/seanpm2001/Learn-Mustache
 -- N
 https://github.com/seanpm2001/Learn-NASL
 https://github.com/seanpm2001/Learn-nesC
@@ -201,6 +202,7 @@ https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-Nix
 https://github.com/seanpm2001/Learn-NSIS
 https://github.com/seanpm2001/Learn-Nu
+https://github.com/seanpm2001/Learn-Nunjucks
 -- O
 https://github.com/seanpm2001/Learn-Oberon
 https://github.com/seanpm2001/Learn-Objective-C
@@ -274,9 +276,11 @@ https://github.com/seanpm2001/Learn-S-RECORD
 https://github.com/seanpm2001/Learn-Starlark
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
+https://github.com/seanpm2001/Learn-SuperCollider
 https://github.com/seanpm2001/Learn-Svelte
 https://github.com/seanpm2001/Learn-SVG
 https://github.com/seanpm2001/Learn-Swift
+https://github.com/seanpm2001/Learn-SWIG
 https://github.com/seanpm2001/Learn-SXML
 https://github.com/seanpm2001/Learn-SystemVerilog
 -- T
@@ -284,6 +288,7 @@ https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn-Tiwg
 https://github.com/seanpm2001/Learn-Thrift
 https://github.com/seanpm2001/Learn-TLA
+https://github.com/seanpm2001/Learn-TOML
 https://github.com/seanpm2001/Learn-TypeScript
 -- U
 https://github.com/seanpm2001/Learn-UnrealScript
@@ -317,10 +322,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 285 languages listed (as of 2022, Monday, October 10th at 11:59 pm PST)
+-- 290 languages listed (as of 2022, Tuesday, October 11th at 11:42 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 51 (2022, Tuesday, October 11th at 1:36 am PST)
--- Line count (including blank lines and compiler line): 327
+-- File version: 52 (2022, Tuesday, October 11th at 11:42 pm PST)
+-- Line count (including blank lines and compiler line): 332
 -- End of file
