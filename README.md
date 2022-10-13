@@ -130,6 +130,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CUDA/"><img src="/Programming/Logos/C/CUDA/NVIDIA_CUDA_Logo_WhiteOpaque.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CUDA (NVIDIA)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Cyclone/"><img src="/Programming/Logos/C/Cyclone/CycloneEmoji.png" width="100px;" alt=""/><br /><sub><b>Learn Cyclone</b></sub></a></td>
   </tr>
+  <!-- Row 3D !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C4 (KA-BOOM!)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonLisp/"><img src="/Programming/Logos/C/CommonLisp/CommonLisp.png" width="100px;" alt=""/><br /><sub><b>Learn CommonLisp</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CSV/"><img src="/Programming/Logos/C/CSV/CSV.png" width="100px;" alt=""/><br /><sub><b>Learn CSV</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 4A !-->
   <!-- Letter D !-->
   <tr>
@@ -223,6 +235,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GCC-Machine-Description/"><img src="/Programming/Logos/G/GCC-Machine-Description/GCC-Machine-Description-LogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn GCC Machine Description</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GN/"><img src="/Programming/Logos/G/GN/GN_1388px.png" width="100px;" alt=""/><br /><sub><b>Learn GN</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GAP/"><img src="/Programming/Logos/G/GAP/GAP_computer_algebra_system_icon.png" width="100px;" alt=""/><br /><sub><b>Learn GAP</b></sub></a></td>
+  </tr>
+  <!-- Row 7C !-->
+  <!-- Letter G !-->
+  <tr>
+    <td align="center"><p>Section G3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Gradle/"><img src="/Programming/Logos/G/Gradle/Gradlephant.png" width="100px;" alt=""/><br /><sub><b>Learn Gradle</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 8A !-->
   <!-- Letter H !-->
@@ -340,10 +364,9 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LispFlavoredErlang/"><img src="/Programming/Logos/L/LispFlavoredErlang/LFELogo1.png" width="100px;" alt=""/><br /><sub><b>Learn LispFlavoredErlang (LFE)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lex/"><img src="/Programming/Logos/L/Lex/LEXLOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn Lex</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Liquid"><img src="/Programming/Logos/L/Liquid/water-drop-64x.png" width="100px;" alt=""/><br /><sub><b>Learn Liquid</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LabVIEW/"><img src="/Programming/Logos/L/LabVIEW/NI_LabVIEW_Logo_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn LabVIEW</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
-
   <!-- Row 13A !-->
   <!-- Letter M !-->
   <tr>
@@ -602,7 +625,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section V2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Verona/"><img src="/Programming/Logos/V/Verona/VeronaEmacs.png" width="100px;" alt=""/><br /><sub><b>Learn Verona</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualBasicScript/"><img src="/Programming/Logos/V/VisualBasicScript/VBSccript_file_format_icon.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic Script (duplicate of VBScript)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -925,6 +948,7 @@ Isabelle
 * JSSS
 * JScript.NET
 * SuperCollider
+* Gradle
 
 `//` & `/* */`
 
@@ -986,6 +1010,7 @@ Isabelle
 * NextFlow
 * AIDL
 * CodeQL
+* Gradle
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1052,6 +1077,7 @@ Isabelle
 * SASS
 * Arduino
 * SWIG
+* Gradle
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1083,6 +1109,7 @@ Isabelle
 * Liquid
 * XSLT
 * EJS
+* LabVIEW
 
 `(* *)`
 
@@ -1128,6 +1155,7 @@ Isabelle
 * NSIS
 * KiXTart
 * SXML
+* Common Lisp
 
 `C`
 
@@ -1142,6 +1170,7 @@ Isabelle
 * VB.NET
 * VHDL
 * BASIC
+* Visual Basic Script/VBScript
 
 `%`
 
@@ -1161,6 +1190,7 @@ Isabelle
 * VB.net
 * REXX
 * Self
+* Visual Basic Script/VBScript
 
 `"`
 
@@ -1259,6 +1289,11 @@ Isabelle
 `{{!-- Comment !--}}`
 
 * Mustache
+
+`UNSUPPORTED`
+
+* JSON
+* CSV
 
 `Unknown`
 
@@ -2093,6 +2128,36 @@ Console.WriteLine("String");
 
 * Mustache
 
+```vbscript
+x=msgbox("String", 2+64, "Title")
+```
+
+* Visual Basic Script/VBScript
+
+```common-lisp
+(format t "Project language file 1")
+```
+
+* Common Lisp
+
+```csv
+String,String
+```
+
+* CSV
+
+```gradle
+description = "String"
+```
+
+* Gradle
+
+```labview
+<Property Name="String" Type="Str"></Property>
+```
+
+* LabVIEW
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -2310,6 +2375,19 @@ There was a severe issue with my laptop workflow today, as my main laptop had a 
 
 I might do a new system where I start the projects on day A, make as much progress as I can, then finish the projects on day B (until my laptop can be repaired)
 
+Edit: I have postponed this until needed. My workflow resumed normally.
+
+#### Integration with SNU Programming Tools
+
+**2022 October 6th scope expansion for SNU Programming Tools**
+
+The Learn project is being expanded to include all knowledge of languages, instead of just my knowledge. In addition to this, the 2 projects are being connected. The Learn project will serve as the documentation for the project, separate from the IDE chain.
+
+- `Core 1`: **SNU_2D_ProgrammingTools**
+- `Core 2`: **Learn**
+
+I hope for all of my projects to be interconnected in the future, so that all roads lead to Rome.
+
 ***
 
 ## File info
@@ -2318,9 +2396,9 @@ I might do a new system where I start the projects on day A, make as much progre
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `58 (2022, Tuesday, October 11th at 11:38 pm PST)`
+**File version:** `59 (2022, Thursday, October 13th at 1:07 am PST)`
 
-**Line count (including blank lines and compiler line):** `4,365`
+**Line count (including blank lines and compiler line):** `4,490`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3806,11 +3884,42 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 59 (Coming soon)</b></summary>
+<details><summary><b>Version 59 (2022, Thursday, October 13th at 1:07 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V59.md)
+
+**This release uses/represents data from:** `2022, Wednesday, October 12th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for CSV, CommonLisp, LabVIEW, Visual Basic Script, and Gradle
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Gradle
+- - [x] Updated the `;` comment section to include Common Lisp
+- - [x] Updated the `<!-- !-->` comment section to include LabVIEW
+- - [x] Updated the `/*` & `*/` comment section to include Gradle
+- - [x] Updated the `//` & `/*`& `*/` comment section to include Gradle
+- - [x] Updated the `rem` / `REM` comment section to include Visual Basic Script
+- - [x] Updated the `'` comment section to include Visual Basic Script
+- - [x] Adddd the `UNSUPPORTED` comment section to include JSON and CSV
+- - [x] Added the `{{!-- Comment !--}}` comment section to include Mustache
+- [x] Updated the print statement section
+- - [x] Added the `x=msgbox("String", 2+64, "Title")` string section to include Visual Basic Script
+- - [x] Added the `(format t "Project language file 1")` section to include CommonLisp
+- - [x] Added the `description = "String"` section to include Gradle
+- - [x] Added the `<Property Name="String" Type="Str"></Property>` section to include LabVIEW
+- - [x] Added thw `String,String` section to include CSV
+- [x] Updated the 2022 September 18th issues section
+- [x] Added the `Integration with SNU Prorgramming Tools` section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 59
 - [ ] No other changes in version 59
 
 </details>
@@ -4332,6 +4441,22 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 116
+
+<details><summary><b>Version 117 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 117
+
+</details>
+
+<details><summary><b>Version 118 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 118
 
 </details>
 
