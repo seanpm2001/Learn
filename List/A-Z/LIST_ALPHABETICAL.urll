@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V52: 2022, Tuesday, October 11th at 11:44 Pm PST
--- Representing data from 2022, Tuesday, October 11th at 11:42 pm PST
+-- V53: 2022, Thursday, October 13th at 1:13 am PST
+-- Representing data from 2022, Wednesday, October 12th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -56,12 +56,14 @@ https://github.com/seanpm2001/Learn-CMake
 https://github.com/seanpm2001/Learn-CLIPS
 https://github.com/seanpm2001/Learn-CodeQL
 https://github.com/seanpm2001/Learn-CoffeeScript
+https://github.com/seanpm2001/Learn-CommonLisp
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
 https://github.com/seanpm2001/Learn-Cool
 https://github.com/seanpm2001/Learn-C-Plus-Plus
 https://github.com/seanpm2001/Learn-COBOL
 https://github.com/seanpm2001/Learn-CSharp
 https://github.com/seanpm2001/Learn-CSS
+https://github.com/seanpm2001/Learn-CSV
 https://github.com/seanpm2001/Learn-CUDA
 https://github.com/seanpm2001/Learn-Cyclone
 https://github.com/seanpm2001/Learn-Cython
@@ -115,6 +117,7 @@ https://github.com/seanpm2001/Learn-GnuPlot
 https://github.com/seanpm2001/Learn-Go2003
 https://github.com/seanpm2001/Learn-GoogleGo
 https://github.com/seanpm2001/Learn-Gosu
+https://github.com/seanpm2001/Learn-Gradle
 https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-GSC
 -- H
@@ -161,6 +164,7 @@ https://github.com/seanpm2001/Learn-KiXTart
 https://github.com/seanpm2001/Learn-Kotlin
 https://github.com/seanpm2001/Learn-kvlang
 -- L
+https://github.com/seanpm2001/Learn-LabVIEW
 https://github.com/seanpm2001/Learn-Lean
 https://github.com/seanpm2001/Learn-Lex
 https://github.com/seanpm2001/Learn-Lingo
@@ -301,6 +305,7 @@ https://github.com/seanpm2001/Learn-VCL
 https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-VimScript
+https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VueJS
 -- W
 https://github.com/seanpm2001/Learn-WDL
@@ -322,10 +327,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 290 languages listed (as of 2022, Tuesday, October 11th at 11:42 pm PST)
+-- 295 languages listed (as of 2022, Wednesday, October 12th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 52 (2022, Tuesday, October 11th at 11:42 pm PST)
--- Line count (including blank lines and compiler line): 332
+-- File version: 53 (2022, Thursday, October 13th at 1:13 am PST)
+-- Line count (including blank lines and compiler line): 337
 -- End of file
