@@ -136,7 +136,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section C4 (KA-BOOM!)</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonLisp/"><img src="/Programming/Logos/C/CommonLisp/CommonLisp.png" width="100px;" alt=""/><br /><sub><b>Learn CommonLisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSV/"><img src="/Programming/Logos/C/CSV/CSV.png" width="100px;" alt=""/><br /><sub><b>Learn CSV</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CSON/"><img src="/Programming/Logos/C/CSON/CoffeeScriptObjectNotation.png" width="100px;" alt=""/><br /><sub><b>Learn CSON</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -329,7 +329,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JScript.NET/"><img src="/Programming/Logos/J/JScript.NET/DOTNET.png" width="100px;" alt=""/><br /><sub><b>Learn JScript.NET</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JSSS/"><img src="/Programming/Logos/J/JSSS/NetscapeNavigator.png" width="100px;" alt=""/><br /><sub><b>Learn JSSS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jython/"><img src="/Programming/Logos/J/Jython/Jython1.png" width="100px;" alt=""/><br /><sub><b>Learn Jython</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Jasmin/"><img src="/Programming/Logos/J/Jasmine/JasmineLogo_128px.png" width="100px;" alt=""/><br /><sub><b>Learn Jasmin</b></sub></a></td>
   </tr>
   <!-- Row 11A !-->
   <!-- Letter K !-->
@@ -398,7 +398,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-3/"><img src="/Programming/Logos/M/Modula-3/Modula-3.svg" width="100px;" alt=""/><br /><sub><b>Learn Modula-3</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/Mallard_XML_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mustache/"><img src="/Programming/Logos/M/Mustache/MustacheLangLogoGitHub.png" width="100px;" alt=""/><br /><sub><b>Learn Mustache</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Maxima/"><img src="/Programming/Logos/M/Maxima/MaximaLogo750px.png" width="100px;" alt=""/><br /><sub><b>Learn Maxima</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -481,7 +481,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section P3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Puppet/"><img src="/Programming/Logos/P/Puppet/PuppetLabsLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Puppet</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PythonTraceback/"><img src="/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Python TraceBack</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -583,6 +583,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SXML/"><img src="/Programming/Logos/S/SXML/SXML_Sample.png" width="100px;" alt=""/><br /><sub><b>Learn SXML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SuperCollider/"><img src="/Programming/Logos/S/SuperCollider/SuperCollider_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SuperCollier</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SWIG/"><img src="/Programming/Logos/S/SWIG/SWIG_Logo_GitHub.png" width="100px;" alt=""/><br /><sub><b>Learn SWIG</b></sub></a></td>
+  </tr>
+  <!-- Row 19E !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><p>Section S5</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SAS/"><img src="/Programming/Logos/S/SAS/SAS_LanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SAS</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -844,6 +856,8 @@ Isabelle
 * IronPython
 * Jython
 * TOML
+* Python Traceback
+* CSON
 
 `#` & `"""`
 
@@ -1078,6 +1092,7 @@ Isabelle
 * Arduino
 * SWIG
 * Gradle
+* Maxima
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1156,6 +1171,7 @@ Isabelle
 * KiXTart
 * SXML
 * Common Lisp
+* Jasmin
 
 `C`
 
@@ -1289,6 +1305,14 @@ Isabelle
 `{{!-- Comment !--}}`
 
 * Mustache
+
+`/*= Comment =*/`
+
+* SAS
+
+`%*-- Comment`
+
+* SAS
 
 `UNSUPPORTED`
 
@@ -2158,6 +2182,30 @@ description = "String"
 
 * LabVIEW
 
+```jasmin
+ldc "String"
+```
+
+* Jasmin
+
+``sas
+%putit(string=String)
+```
+
+* SAS
+
+```cson
+name: "String"
+```
+
+* CSON
+
+```maxima
+string "String";
+```
+
+* Maxima
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -2196,6 +2244,7 @@ unknown
 * AssemblyScript
 * GAP
 * JSSS
+* Python Traceback
 
 ### Int
 
@@ -2396,9 +2445,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `59 (2022, Thursday, October 13th at 1:07 am PST)`
+**File version:** `60 (2022, Thursday, October 13th at 9:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,490`
+**Line count (including blank lines and compiler line):** `4,582`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3911,7 +3960,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added the `(format t "Project language file 1")` section to include CommonLisp
 - - [x] Added the `description = "String"` section to include Gradle
 - - [x] Added the `<Property Name="String" Type="Str"></Property>` section to include LabVIEW
-- - [x] Added thw `String,String` section to include CSV
+- - [x] Added the `String,String` section to include CSV
 - [x] Updated the 2022 September 18th issues section
 - [x] Added the `Integration with SNU Prorgramming Tools` section
 - [x] Updated the file info section
@@ -3924,11 +3973,36 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 60 (Coming soon)</b></summary>
+<details><summary><b>Version 60 (2022, Thursday, October 13th at 9:01 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V60.md)
+
+**This release uses/represents data from:** `2022, Thursday, October 13th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for CSON, Jasmin, Maxima, Python Traceback, and SAS
+- [x] Updated the source code comments section
+- - [x] Updated the `/*` & `*/` comment section to include Maxima
+- - [x] Updated the `;` comment section to include Common Jasmin
+- - [x] Updated the `#` comment section to include Python Traceback, and CSON
+- - [x] Added the `/*= Comment =*/` comment section to include SAS
+- - [x] Added the `%*-- Comment` comment section to include SAS
+- [x] Updated the print statement section
+- - [x] Added the `ldc "String"` string section to include Jasmin
+- - [x] Added the `%putit(string=String)` section to include SAS
+- - [x] Added the `name: "String"` section to include CSON
+- - [x] Added the `string "String";` section to include Maxima
+- - [x] Updated the `UNKNOWN` section to include Python Traceback
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 60
 - [ ] No other changes in version 60
 
 </details>
@@ -4457,6 +4531,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 118
+
+</details>
+
+<details><summary><b>Version 119 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 119
+
+</details>
+
+<details><summary><b>Version 120 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 120
 
 </details>
 
