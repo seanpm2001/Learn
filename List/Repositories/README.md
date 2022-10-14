@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `293`/`399` (as of 2022, Friday, October 12th at 11:59 pm PST)
+Current progress `298`/`400` (as of 2022, Thursday, October 13th at 9:28 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `73.43%` complete, `26.57%` incomplete.
+**Ratio:** `74.50%` complete, `25.50%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -97,7 +97,7 @@ This list covers the creation of the language repositories.
 - [x] CSV
 - [x] Cyclone
 - [x] Creole
-- [ ] CSON
+- [x] CSON
 - [ ] CSound document
 - [ ] CSound score
 - [ ] Ch
@@ -203,6 +203,7 @@ This list covers the creation of the language repositories.
 - [ ] JSON5
 - [x] Jsonnet
 - [x] Julia
+- [x] Jasmin
 - [ ] Jetbrains MPS
 - [x] KiCad
 - [ ] KiCad Layout
@@ -257,7 +258,7 @@ This list covers the creation of the language repositories.
 - [ ] MLIR
 - [ ] mcFunction
 - [x] MoonScript
-- [ ] Maxima
+- [x] Maxima
 - [x] NASL
 - [x] nesC
 - [ ] Nemerle
@@ -302,7 +303,7 @@ This list covers the creation of the language repositories.
 - [x] Pod
 - [ ] PowerFX
 - [ ] PlSQL
-- [ ] Python Traceback
+- [x] Python Traceback
 - [ ] ProGuard
 - [x] PicoLisp
 - [x] Pascal
@@ -376,7 +377,7 @@ This list covers the creation of the language repositories.
 - [ ] SQLPL
 - [ ] Sublime Text
 - [x] SVG
-- [ ] SAS
+- [x] SAS
 - [x] TypeScript
 - [x] TCL
 - [ ] TeX
@@ -446,9 +447,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `53 (2022, Thursday, October 12th at 1:34 am PST)`
+**File version:** `54 (2022, Thursday, October 13th at 9:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,461`
+**Line count (including blank lines and compiler line):** `2,503`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1662,15 +1663,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 54</b></summary>
 
-**Version 54 (Coming soon)**
+**Version 54 (2022, Thursday, October 13th at 9:28 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V54.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V54.md)
+
+**This release represents data from:** `2022, Thursday, October 13th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 293 | new total: 298)
+- - [x] Added 1 new entry to the list (old total: 399 | new total: 400)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 54
 - [ ] No other changes in version 54
 
 </details>
@@ -2452,6 +2464,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 106
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 107</b></summary>
+
+**Version 107 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 107
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 108</b></summary>
+
+**Version 108 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 108
 
 </details>
 
