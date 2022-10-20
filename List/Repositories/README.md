@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `318`/`405` (as of 2022, Monday, October 17th at 11:59 pm PST)
+Current progress `323`/`412` (as of 2022, Tuesday, October 18th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `78.51%` complete, `21.49%` incomplete.
+**Ratio:** `78.39%` complete, `21.61%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -55,6 +55,7 @@ This list covers the creation of the language repositories.
 - [ ] Amulet
 - [x] AspectJ
 - [ ] Augeas
+- [x] AGS-Script
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] B
@@ -68,9 +69,10 @@ This list covers the creation of the language repositories.
 - [x] Brainfuck
 - [x] BrightScript
 - [x] Boo
+- [ ] Berry
 - [ ] BSDL
 - [x] Boogie
-- [ ] Befunge
+- [x] Befunge
 - [x] Blade
 - [ ] BlitzBasic
 - [ ] Cadence
@@ -102,6 +104,7 @@ This list covers the creation of the language repositories.
 - [ ] CSound document
 - [ ] CSound score
 - [ ] Ch
+- [x] Chapel
 - [ ] DroppedText (seanpm2001)
 - [x] D
 - [x] Dafny
@@ -138,6 +141,7 @@ This list covers the creation of the language repositories.
 - [x] FCL
 - [x] FreeMarker
 - [x] Fantom
+- [ ] FLUX
 - [ ] FP
 - [ ] FreeBasic
 - [x] G-CODE
@@ -243,6 +247,7 @@ This list covers the creation of the language repositories.
 - [x] Mallard
 - [x] Markdown
 - [x] Mathematica
+- [ ] Miranda
 - [ ] MATLAB
 - [ ] Matrix (seanpm2001)
 - [ ] Motoko
@@ -305,7 +310,8 @@ This list covers the creation of the language repositories.
 - [x] PostCSS
 - [x] Pod
 - [x] PowerFX
-- [ ] PlSQL
+- [x] PLSQL
+- [x] PlantUML
 - [x] Python Traceback
 - [ ] ProGuard
 - [x] PicoLisp
@@ -413,6 +419,7 @@ This list covers the creation of the language repositories.
 - [x] VBScript
 - [x] Visual Basic Script (duplicate of VBScript)
 - [x] VHDL
+- [ ] Wavefront-material
 - [x] WDL
 - [x] WebVTT
 - [x] WikiText
@@ -452,9 +459,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `58 (2022, Thursday, October 20th at 1:44 pm PST)`
+**File version:** `59 (2022, Thursday, October 20th at 2:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,674`
+**Line count (including blank lines and compiler line):** `2,719`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1799,15 +1806,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 59</b></summary>
 
-**Version 59 (Coming soon)**
+**Version 59 (2022, Thursday, October 20th at 2:37 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V59.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V59.md)
+
+**This release represents data from:** `2022, Tuesday, October 18th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 318 | new total: 323)
+- - [x] Added 7 new entries to the list (old total: 405 | new total: 412)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 59
 - [ ] No other changes in version 59
 
 </details>
@@ -2637,7 +2655,6 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 </details>
 
-
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 115</b></summary>
 
 **Version 115 (Coming soon)**
@@ -2667,6 +2684,34 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] No other changes in version 116
 
 </details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 117</b></summary>
+
+**Version 117 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 117
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 118</b></summary>
+
+**Version 118 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 118
 
 </details>
 
