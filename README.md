@@ -301,7 +301,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section I2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Isabelle/"><img src="/Programming/Logos/I/Isabelle/PYTHAGOREAN_THEOREM_5000x5000.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Isabelle</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-IronPython/"><img src="/Programming/Logos/I/IronPython/IronPython_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn IronPython</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-INTERCAL/"><img src="/Programming/Logos/I/INTERCAL/INTERCAL_LogoLQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn INTERCAL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -365,7 +365,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lex/"><img src="/Programming/Logos/L/Lex/LEXLOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn Lex</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Liquid"><img src="/Programming/Logos/L/Liquid/water-drop-64x.png" width="100px;" alt=""/><br /><sub><b>Learn Liquid</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LabVIEW/"><img src="/Programming/Logos/L/LabVIEW/NI_LabVIEW_Logo_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn LabVIEW</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LiveCode/"><img src="/Programming/Logos/L/LiveCode/Livecode_Logo300px.png" width="100px;" alt=""/><br /><sub><b>Learn LiveCode</b></sub></a></td>
   </tr>
   <!-- Row 13A !-->
   <!-- Letter M !-->
@@ -590,7 +590,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section S5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SAS/"><img src="/Programming/Logos/S/SAS/SAS_LanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SAS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SublimeText/"><img src="/Programming/Logos/S/SublimeText/SublimeTextLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Sublime Text</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SMT/"><img src="/Programming/Logos/S/SMT/SMTLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SMT</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -638,7 +638,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section V2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Verona/"><img src="/Programming/Logos/V/Verona/VeronaEmacs.png" width="100px;" alt=""/><br /><sub><b>Learn Verona</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualBasicScript/"><img src="/Programming/Logos/V/VisualBasicScript/VBSccript_file_format_icon.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic Script (duplicate of VBScript)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VBA/"><img src="/Programming/Logos/V/VBA/VBA_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn VBA</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -651,7 +651,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WDL/"><img src="/Programming/Logos/W/WDL/OpenWDL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn wdl</b></sub></a></td>
     <td align="center"><a href="https://github/com/seanpm2001/Learn-WebVTT/"><img src="/Programming/Logos/W/WebVTT/CCWEBVTT.png" width="100px;" alt=""/><br /><sub><b>Learn WebVTT</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WikiText/"><img src="/Programming/Logos/W/WikiText/MediaWiki_Sunflower.png" width="100px;" alt=""/><br /><sub><b>Learn WikiText</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WindowsRegistry/"><img src="/Programming/Logos/W/WindowsRegistry/WindowsRegistryLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn Windows Registry (Windows Registry Entries)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -775,6 +775,7 @@ Isabelle
 * Epigram
 * E
 * Dhall
+* LiveCode
 
 `---`
 
@@ -1182,6 +1183,9 @@ Isabelle
 * Common Lisp
 * Jasmin
 * ABNF
+* Windows Registry
+* SMT
+* INTERCAL
 
 `C`
 
@@ -1217,6 +1221,7 @@ Isabelle
 * REXX
 * Self
 * Visual Basic Script/VBScript
+* VBA
 
 `"`
 
@@ -1498,7 +1503,6 @@ End of line:
 
 ### Print statement
 
-
 ```python
 print("String")
 ```
@@ -1773,6 +1777,12 @@ puts (1, "String\n")
 ```
 
 * Euphoria
+
+```livecode
+put "String"
+```
+
+* LiveCode
 
 ```thrift
 string message(1:string message "String")
@@ -2270,6 +2280,24 @@ field-content   = <String>
 
 * ABAP-CDS
 
+```vba
+Debug.Print "String "
+```
+
+* VBA
+
+```windows-registry-entries
+"Value"=String"
+```
+
+* Windows Registry/Windows Registry Entries
+
+```intercal
+DO .1 <- '?.1$.2'~'#String'
+```
+
+* INTERCAL
+
 ```markdown
 string
 ```
@@ -2325,6 +2353,7 @@ unknown
 * Python Traceback
 * RobotFramework
 * PostCSS
+* SMT
 
 ### Int
 
@@ -2525,9 +2554,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `62 (2022, Wednesday, October 19th at 11:19 pm PST)`
+**File version:** `63 (2022, Thursday, October 20th at 12:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,752`
+**Line count (including blank lines and compiler line):** `4,822`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4159,11 +4188,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 63 (Coming soon)</b></summary>
+<details><summary><b>Version 63 (2022, Thursday, October 20th at 12:25 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V63.md)
+
+**This release uses/represents data from:** `2022, Sunday, October 16th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for INTERCAL, LiveCode, SMT, VBA, and Windows Registry Entries
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include LiveCode
+- - [x] Updated the `;` comment section to include SMT, Windows Registry, and INTERCAL
+- - [x] Updated the `'` comment section to include VBA
+- [x] Updated the print statement section
+- - [x] Added the `put "String"` section to include LiveCode
+- - [x] Added the `Debug.Print "String "` section to include VBA
+- - [x] Added the `"Value"=String"` section to include Windows Registry Entries
+- - [x] Added the `DO .1 <- '?.1$.2'~'#String'` section to include INTERCAL
+- - [x] Updated the `UNKNOWN` section to include SMT
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 63
 - [ ] No other changes in version 63
 
 </details>
@@ -4719,6 +4771,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 124
+
+</details>
+
+<details><summary><b>Version 125 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 125
+
+</details>
+
+<details><summary><b>Version 126 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 126
 
 </details>
 
