@@ -64,8 +64,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section A4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Apex/"><img src="/Programming/Logos/A/Apex/APEX.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Apex</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Arduino/"><img src="/Programming/Logos/A/Arduino/ArduinoLogo_Glossy.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Arduino</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ABNF/"><img src="/Programming/Logos/A/ABNF/ABNF_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ABNF</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AspectJ/"><img src="/Programming/Logos/A/AspectJ/AspectJ_JavaLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AspectJ</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -482,7 +482,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section P3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Puppet/"><img src="/Programming/Logos/P/Puppet/PuppetLabsLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Puppet</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PythonTraceback/"><img src="/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Python TraceBack</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PowerFX/"><img src="/Programming/Logos/P/PowerFX/Logo_of_PowerFX.svg" width="100px;" alt=""/><br /><sub><b>Learn PowerFX</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -530,8 +530,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section R3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ReScript/"><img src="/Programming/Logos/R/ReScript/ReScript_Logo_300px.png" width="100px;" alt=""/><br /><sub><b>Learn ReScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RichTextFormat/"><img src="/Programming/Logos/R/RichTextFormat/RTF_ICON_WORDSTYLE.png" width="100px;" alt=""/><br /><sub><b>Learn Rich Text Format (RTF)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RobotFramework/"><img src="/Programming/Logos/R/RobotFramework/RobotFrameworkLogo.png" width="100px;" alt=""/><br /><sub><b>Learn RobotFramework</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RUNOFF/"><img src="/Programming/Logos/R/RUNOFF/RUNOFF_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn RUNOFF</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -858,6 +858,8 @@ Isabelle
 * TOML
 * Python Traceback
 * CSON
+* RobotFramework
+* PowerFX
 
 `#` & `"""`
 
@@ -963,6 +965,7 @@ Isabelle
 * JScript.NET
 * SuperCollider
 * Gradle
+* AspectJ
 
 `//` & `/* */`
 
@@ -1025,6 +1028,7 @@ Isabelle
 * AIDL
 * CodeQL
 * Gradle
+* AspectJ
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1093,6 +1097,7 @@ Isabelle
 * SWIG
 * Gradle
 * Maxima
+* AspectJ
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1172,6 +1177,7 @@ Isabelle
 * SXML
 * Common Lisp
 * Jasmin
+* ABNF
 
 `C`
 
@@ -1313,6 +1319,22 @@ Isabelle
 `%*-- Comment`
 
 * SAS
+
+`***`
+
+* RobotFramework
+
+`Documentation comment`
+
+* RobotFramework
+
+`[Documentation] comment`
+
+* RobotFramework
+
+`.ds comment`
+
+* RUNOFF
 
 `UNSUPPORTED`
 
@@ -1506,6 +1528,7 @@ System.out.println("String");
 ```
 
 * Java
+* AspectJ
 
 ```javascript
 console.log("String")
@@ -2206,6 +2229,26 @@ string "String";
 
 * Maxima
 
+```RUNOFF
+.in string
+```
+
+* RUNOFF
+
+```yaml
+HtmlText: |-
+	="<p style='margin:0 0 0 0;'><a href='https://www.w3.org/TR/WCAG21/'> String </a></p>"
+```
+
+* PowerFX
+
+```abnf
+field-content   = <String>
+```
+
+* ABNF
+
+
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 ```
@@ -2245,6 +2288,7 @@ unknown
 * GAP
 * JSSS
 * Python Traceback
+* RobotFramework
 
 ### Int
 
@@ -2445,9 +2489,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `60 (2022, Thursday, October 13th at 9:01 pm PST)`
+**File version:** `61 (2022, Wednesday, October 19th at 10:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,582`
+**Line count (including blank lines and compiler line):** `4,674`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3987,7 +4031,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added support for CSON, Jasmin, Maxima, Python Traceback, and SAS
 - [x] Updated the source code comments section
 - - [x] Updated the `/*` & `*/` comment section to include Maxima
-- - [x] Updated the `;` comment section to include Common Jasmin
+- - [x] Updated the `;` comment section to include Jasmin
 - - [x] Updated the `#` comment section to include Python Traceback, and CSON
 - - [x] Added the `/*= Comment =*/` comment section to include SAS
 - - [x] Added the `%*-- Comment` comment section to include SAS
@@ -4007,11 +4051,41 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 61 (Coming soon)</b></summary>
+<details><summary><b>Version 61 (2022, Wednesday, October 19th at 10:24 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V61.md)
+
+**This release uses/represents data from:** `2022, Friday, October 14th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ABNF, AspectJ, PowerFX, RobotFramework, and RUNOFF
+- [x] Updated the source code comments section
+- - [x] Updated the `/*` & `*/` comment section to include AspectJ
+- - [x] Updated the `//` & `/*` & `*/` comment section to include AspectJ
+- - [x] Updated the `//` comment section to include AspectJ
+- - [x] Updated the `;` comment section to include ABNF
+- - [x] Updated the `#` comment section to include RobotFramework and PowerFX
+- - [x] Added the `***` comment section to include RobotFramework
+- - [x] Added the `Documentation comment` comment section to include RobotFramework
+- - [x] Added the `[Documentation] comment` comment section to include RobotFramework
+- - [x] Added the `.ds comment` comment section to include RUNOFF
+- [x] Updated the print statement section
+- - [x] Updated the `System.out.println("String");` string section to include AspectJ
+- - [x] Added the `.in string` section to include RUNOFF
+- - [x] Added the `HtmlText: |-`
+- - [ ] ********* `="<p style='margin:0 0 0 0;'><a href='https://www.w3.org/TR/WCAG21/'> String </a></p>"` section to include PowerFX
+- - [x] Added the `field-content   = <String>` section to include ABNF
+- - [x] Updated the `UNKNOWN` section to include RobotFramework
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 61
 - [ ] No other changes in version 61
 
 </details>
@@ -4549,6 +4623,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 120
+
+</details>
+
+<details><summary><b>Version 121 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 121
+
+</details>
+
+<details><summary><b>Version 122 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 122
 
 </details>
 
