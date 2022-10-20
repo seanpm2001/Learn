@@ -367,6 +367,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LabVIEW/"><img src="/Programming/Logos/L/LabVIEW/NI_LabVIEW_Logo_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn LabVIEW</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LiveCode/"><img src="/Programming/Logos/L/LiveCode/Livecode_Logo300px.png" width="100px;" alt=""/><br /><sub><b>Learn LiveCode</b></sub></a></td>
   </tr>
+  <!-- Row 12C !-->
+  <!-- Letter L !-->  
+  <tr>
+    <td align="center"><p>Section L3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-LiveScript/"><img src="/Programming/Logos/L/LiveScript/LiveScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn LiveScript</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 13A !-->
   <!-- Letter M !-->
   <tr>
@@ -400,7 +412,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mustache/"><img src="/Programming/Logos/M/Mustache/MustacheLangLogoGitHub.png" width="100px;" alt=""/><br /><sub><b>Learn Mustache</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Maxima/"><img src="/Programming/Logos/M/Maxima/MaximaLogo750px.png" width="100px;" alt=""/><br /><sub><b>Learn Maxima</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Max/"><img src="/Programming/Logos/M/Max/Logo_Max_8_software.jpg" width="100px;" alt=""/><br /><sub><b>Learn Max</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Module-Management=System/"><img src="/Programming/Logos/M/Module-Management-System/ModuleManagementSystem_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Module Management System</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
@@ -591,7 +603,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SAS/"><img src="/Programming/Logos/S/SAS/SAS_LanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SAS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SublimeText/"><img src="/Programming/Logos/S/SublimeText/SublimeTextLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Sublime Text</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SMT/"><img src="/Programming/Logos/S/SMT/SMTLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SMT</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-S-RECODE-Template/"><img src="/Programming/Logos/S/S-RECODE-Template/S-RECODE_Template_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SRecode Template</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -606,7 +618,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Thrift/"><img src="/Programming/Logos/T/Thrift/ApacheThriftBook.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Thrift (Apache)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TLA/"><img src="/Programming/Logos/T/TLA/TLA_Logo_1024px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn TLA</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TOML/"><img src="/Programming/Logos/T/TOML/toml-400.png" width="100px;" alt=""/><br /><sub><b>Learn TOML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-TXL/"><img src="/Programming/Logos/T/TXL/TXL_Logo_Large_500x.png" width="100px;" alt=""/><br /><sub><b>Learn TXL</b></sub></a></td>
   </tr>
   <!-- Row 21A !-->
   <!-- Letter U !-->
@@ -652,7 +664,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github/com/seanpm2001/Learn-WebVTT/"><img src="/Programming/Logos/W/WebVTT/CCWEBVTT.png" width="100px;" alt=""/><br /><sub><b>Learn WebVTT</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WikiText/"><img src="/Programming/Logos/W/WikiText/MediaWiki_Sunflower.png" width="100px;" alt=""/><br /><sub><b>Learn WikiText</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WindowsRegistry/"><img src="/Programming/Logos/W/WindowsRegistry/WindowsRegistryLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn Windows Registry (Windows Registry Entries)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Wierd/"><img src="/Programming/Logos/W/Wierd/Wierd_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Wierd</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -862,6 +874,7 @@ Isabelle
 * CSON
 * RobotFramework
 * PowerFX
+* LiveScript
 
 `#` & `"""`
 
@@ -1193,6 +1206,7 @@ Isabelle
 * INTERCAL
 * AutoHotKey
 * Hy
+* SRecode Template
 
 `C`
 
@@ -1220,6 +1234,7 @@ Isabelle
 * PostScript
 * TeX
 * LogTalk
+* TXL
 
 `'`
 
@@ -1387,6 +1402,8 @@ Isabelle
 * RDoc
 * RPC
 * Befunge
+* Module Management System
+* Wierd
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1563,12 +1580,18 @@ System.out.println("String");
 * AspectJ
 
 ```javascript
-console.log("String")
+console.log("String");
 ```
 
 * JavaScript
 * JavaScript++
 * JScript
+
+```livescript
+console.log "String"
+```
+
+* LiveScript
 
 ```javascript
 alert("String")
@@ -2358,6 +2381,24 @@ this.Text = "String";
 
 * AGS-Script
 
+```module-management-system
+Text    BYTE  "String",10,0
+```
+
+* Module Management System
+
+```srecode-template
+"String"
+```
+
+* SRecode Template
+
+```wierd
+gnirtS
+```
+
+* Wierd
+
 ```markdown
 string
 ```
@@ -2417,6 +2458,7 @@ unknown
 * SMT
 * RDoc
 * PlantUML
+* TXL
 
 ### Int
 
@@ -2617,9 +2659,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `65 (2022, Thursday, October 20th at 2:10 pm PST)`
+**File version:** `66 (2022, Thursday, October 20th at 3:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,971`
+**Line count (including blank lines and compiler line):** `5,055`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4350,11 +4392,36 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 66 (Coming soon)</b></summary>
+<details><summary><b>Version 66 (2022, Thursday, October 20th at 3:02 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V65.md)
+
+**This release uses/represents data from:** `2022, Wednesday, October 19th` & `2022, Thursday, October 20th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for LiveScript, Module Management System, SRecode Template, TXL, and Wierd
+- [x] Updated the source code comments section
+- - [x] Updated the `;` comment section to include SRecode Template
+- - [x] Updated the `#` comment section to include LiveScript
+- - [x] Updated the `%` comment section to include TXL
+- - [x] Updated the `UNKNOWN` comment section to include Module Management System, and Wierd
+- [x] Updated the print statement section
+- - [x] Added the `"String"` section to include SRecode Template
+- - [x] Added the `Text    BYTE  "String",10,0` section to include Module Management System
+- - [x] Added the `console.log "String"` section to include LiveScript
+- - [x] Added the `gnirtS` section to include Wierd
+- - [x] Added a semicolon to the `console.log("String")` section (now: `console.log("String");`)
+- - [x] Updated the `UNKNOWN` section to include TXL
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 66
 - [ ] No other changes in version 66
 
 </details>
@@ -4940,6 +5007,23 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
+<details><summary><b>Version 131 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 131
+
+</details>
+
+<details><summary><b>Version 132 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 132
+
+</details>
 
 </details> <!-- Dropdown table end !-->
 
