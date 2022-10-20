@@ -67,7 +67,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ABNF/"><img src="/Programming/Logos/A/ABNF/ABNF_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ABNF</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AspectJ/"><img src="/Programming/Logos/A/AspectJ/AspectJ_JavaLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AspectJ</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ABAP-CDS/"><img src="/Programming/Logos/A/ABAP-CDS/SAP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ABAP CDS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AutoHotKey/"><img src="/Programming/Logos/A/AutoHotKey/AutoHotKeyLogo_400px.png" width="100px;" alt=""/><br /><sub><b>Learn AutoHotKey (AHK)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
@@ -270,7 +270,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HiveQL/"><img src="/Programming/Logos/H/HiveQL/HiveQL_520px.png" width="100px;" alt=""/><br /><sub><b>Learn HiveQL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Hope/"><img src="/Programming/Logos/H/Hope/HopeLogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn Hope</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HolyC/"><img src="/Programming/Logos/H/HolyC/TempleOS_600px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HolyC</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Hy/"><img src="/Programming/Logos/H/Hy/Hy_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Hy</b></sub></a></td>
   </tr>
   <!-- Row 9A !-->
   <!-- Letter I !-->
@@ -339,7 +339,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-kvlang/"><img src="/Programming/Logos/K/kvlang/KivyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn kvlang</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-KiCad/"><img src="/Programming/Logos/K/KiCad/KiCad_Logo_280x280.png" width="100px;" alt=""/><br /><sub><b>Learn KiCad (Layout and Schematic)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-KiXTart/"><img src="/Programming/Logos/K/KiXTart/KiXtart_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn KiXTart</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-KRC/"><img src="/Programming/Logos/K/KRC/KentRecursiveCalculator_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn KRC (Kent Recursive Calculator)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -532,8 +532,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RichTextFormat/"><img src="/Programming/Logos/R/RichTextFormat/RTF_ICON_WORDSTYLE.png" width="100px;" alt=""/><br /><sub><b>Learn Rich Text Format (RTF)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RobotFramework/"><img src="/Programming/Logos/R/RobotFramework/RobotFrameworkLogo.png" width="100px;" alt=""/><br /><sub><b>Learn RobotFramework</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RUNOFF/"><img src="/Programming/Logos/R/RUNOFF/RUNOFF_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn RUNOFF</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RDoc/"><img src="/Programming/Logos/R/RDoc/RDoc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn RDoc</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RPC/"><img src="/Programming/Logos/R/RPC/RPC_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn RPC</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 19A !-->
@@ -1186,6 +1186,8 @@ Isabelle
 * Windows Registry
 * SMT
 * INTERCAL
+* AutoHotKey
+* Hy
 
 `C`
 
@@ -1349,6 +1351,10 @@ Isabelle
 
 * ORGMODE
 
+`||`
+
+* KRC (Kent Recursive Calculator)
+
 `UNSUPPORTED`
 
 * JSON
@@ -1369,6 +1375,8 @@ Isabelle
 * Rich Text Format
 * Max
 * Sublime Text
+* RDoc
+* RPC
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1718,6 +1726,12 @@ w "String",!
 
 * NewLisp
 
+```newlisp
+(print "String")
+```
+
+* Hy
+
 ```picolisp
 (prinl "String")
 ```
@@ -1881,6 +1895,12 @@ string: "String"
 * YAML
 * INI
 * TOML
+
+```rpc
+STRING "String";
+```
+
+* RPC
 
 ```fstar
 let main = FStar.IO.print_string "String\n"
@@ -2298,6 +2318,12 @@ DO .1 <- '?.1$.2'~'#String'
 
 * INTERCAL
 
+```krc
+main=["String",nl]
+```
+
+* KRC
+
 ```markdown
 string
 ```
@@ -2309,6 +2335,7 @@ string
 * ASCIIDoc
 * Pod
 * RMarkdown
+* RDoc
 
 <!-- and more !-->
 
@@ -2354,6 +2381,7 @@ unknown
 * RobotFramework
 * PostCSS
 * SMT
+* RDoc
 
 ### Int
 
@@ -2554,9 +2582,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `63 (2022, Thursday, October 20th at 12:25 pm PST)`
+**File version:** `64 (2022, Thursday, October 20th at 1:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,822`
+**Line count (including blank lines and compiler line):** `4,891`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4220,11 +4248,34 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 64 (Coming soon)</b></summary>
+<details><summary><b>Version 64 (2022, Thursday, October 20th at 1:15 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V64.md)
+
+**This release uses/represents data from:** `2022, Monday, October 17th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AutoHotKey, Hy, KRC, RDoc, and RPC, 
+- [x] Updated the source code comments section
+- - [x] Updated the `;` comment section to include AutoHotKey and Hy
+- - [x] Added the `||` comment section to include KRC (Kent Recursive Calculator)
+- - [x] Updated the `UNKNOWN` comment section to include RPC, and RDoc
+- [x] Updated the print statement section
+- - [x] Added the `MsgBox, "String""` section to include AutoHotKey
+- - [x] Added the `(print "String")` section to include Hy
+- - [x] Added the `STRING "String";` section to include RPC
+- - [x] Added the `main=["String",nl]` section to include KRC (Kent Recursive Calculator)
+- - [x] Updated the `STRING` section to include RDoc
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 64
 - [ ] No other changes in version 64
 
 </details>
@@ -4789,6 +4840,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 126
+
+</details>
+
+<details><summary><b>Version 127 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 127
+
+</details>
+
+<details><summary><b>Version 128 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 128
 
 </details>
 
