@@ -1,14 +1,15 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V55: 2022, Wednesday, October 19th at 10:29 pm PST
--- Representing data from 2022, Friday, October 14th at 11:59 pm PST
+-- V56: 2022, Wednesday, October 19th at 11:26 pm PST
+-- Representing data from 2022, Saturday, October 15th at 11:59 pm PST
 
 -- Programming
 -- 1
 https://github.com/seanpm2001/Learn-1C-Enterprise
 -- A
 https://github.com/seanpm2001/Learn-ABAP
+https://github.com/seanpm2001/Learn-ABAP-CDS
 https://github.com/seanpm2001/Learn-ABNF
 https://github.com/seanpm2001/Learn-ActionScript-3
 https://github.com/seanpm2001/Learn-Ada
@@ -190,6 +191,7 @@ https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Mallard
 https://github.com/seanpm2001/Learn-Markdown
 https://github.com/seanpm2001/Learn-Mathematica
+https://github.com/seanpm2001/Learn-Max
 https://github.com/seanpm2001/Learn-Maxima
 https://github.com/seanpm2001/Learn-MediaWiki
 https://github.com/seanpm2001/Learn-Mercury
@@ -225,6 +227,7 @@ https://github.com/seanpm2001/Learn-OpenPolicyAgent
 https://github.com/seanpm2001/Learn-OpenQASM
 https://github.com/seanpm2001/Learn-OpenSCAD
 https://github.com/seanpm2001/Learn-Orwell
+https://github.com/seanpm2001/Learn-OrgMode
 -- P
 https://github.com/seanpm2001/Learn-Pascal
 https://github.com/seanpm2001/Learn-Pawn
@@ -233,6 +236,7 @@ https://github.com/seanpm2001/Learn-PHP
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-Pod
 https://github.com/seanpm2001/Learn-Pony
+https://github.com/seanpm2001/Learn-PostCSS
 https://github.com/seanpm2001/Learn-PostGreSQL
 https://github.com/seanpm2001/Learn-POV-Ray-SDL
 https://github.com/seanpm2001/Learn-PowerFX
@@ -290,6 +294,7 @@ https://github.com/seanpm2001/Learn-S-RECORD
 https://github.com/seanpm2001/Learn-Starlark
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
+https://github.com/seanpm2001/Learn-SublimeText
 https://github.com/seanpm2001/Learn-SuperCollider
 https://github.com/seanpm2001/Learn-Svelte
 https://github.com/seanpm2001/Learn-SVG
@@ -337,10 +342,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 305 languages listed (as of 2022, Friday, October 14th at 10:29 pm PST)
+-- 310 languages listed (as of 2022, Saturday, October 15th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 55 (2022, Wednesday, October 14th at 10:29 pm PST)
--- Line count (including blank lines and compiler line): 347
+-- File version: 56 (2022, Wednesday, October 14th at 11:26 pm PST)
+-- Line count (including blank lines and compiler line): 352
 -- End of file
