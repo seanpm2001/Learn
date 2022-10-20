@@ -66,7 +66,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Arduino/"><img src="/Programming/Logos/A/Arduino/ArduinoLogo_Glossy.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Arduino</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ABNF/"><img src="/Programming/Logos/A/ABNF/ABNF_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ABNF</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AspectJ/"><img src="/Programming/Logos/A/AspectJ/AspectJ_JavaLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AspectJ</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ABAP-CDS/"><img src="/Programming/Logos/A/ABAP-CDS/SAP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ABAP CDS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -399,7 +399,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/Mallard_XML_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mustache/"><img src="/Programming/Logos/M/Mustache/MustacheLangLogoGitHub.png" width="100px;" alt=""/><br /><sub><b>Learn Mustache</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Maxima/"><img src="/Programming/Logos/M/Maxima/MaximaLogo750px.png" width="100px;" alt=""/><br /><sub><b>Learn Maxima</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Max/"><img src="/Programming/Logos/M/Max/Logo_Max_8_software.jpg" width="100px;" alt=""/><br /><sub><b>Learn Max</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -449,7 +449,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Orwell/"><img src="/Programming/Logos/O/Orwell/OrwellSticker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Orwell</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenSCAD/"><img src="/Programming/Logos/O/OpenSCAD/OpenScad400px.png" width="100px;" alt=""/><br /><sub><b>Learn OpenSCAD</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Octave/"><img src="/Programming/Logos/O/Octave/OctaveLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Octave</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ORGMode"><img src="/Programming/Logos/O/ORGMode/Org-mode-unicorn.svg" width="100px;" alt=""/><br /><sub><b>Learn ORG(mode)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 16A !-->
@@ -483,7 +483,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Puppet/"><img src="/Programming/Logos/P/Puppet/PuppetLabsLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Puppet</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PythonTraceback/"><img src="/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Python TraceBack</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PowerFX/"><img src="/Programming/Logos/P/PowerFX/Logo_of_PowerFX.svg" width="100px;" alt=""/><br /><sub><b>Learn PowerFX</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PostCSS/"><img src="/Programming/Logos/P/PostCSS/PostCSS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostCSS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -589,7 +589,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section S5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SAS/"><img src="/Programming/Logos/S/SAS/SAS_LanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SAS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SublimeText/"><img src="/Programming/Logos/S/SublimeText/SublimeTextLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Sublime Text</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -966,6 +966,7 @@ Isabelle
 * SuperCollider
 * Gradle
 * AspectJ
+* ABAP-CDS
 
 `//` & `/* */`
 
@@ -1037,6 +1038,7 @@ Isabelle
 <!-- * JADE (unsure) !-->
 <!-- * ANTLR (unsure) !-->
 <!-- * CUDA (unsure) !-->
+<!-- * ABAP-CDS (unsure) !-->
 
 `/*` & `*/`
 
@@ -1098,6 +1100,7 @@ Isabelle
 * Gradle
 * Maxima
 * AspectJ
+* PostCSS
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1106,6 +1109,7 @@ Isabelle
 <!-- * JADE (unsure) !-->
 <!-- * ANTLR (unsure) !-->
 <!-- * CUDA (unsure) !-->
+<!-- * ABAP-CDS (unsure) !-->
 
 `<!-- !-->`
 
@@ -1336,6 +1340,10 @@ Isabelle
 
 * RUNOFF
 
+` # Comment`
+
+* ORGMODE
+
 `UNSUPPORTED`
 
 * JSON
@@ -1354,6 +1362,8 @@ Isabelle
 * ShaderLab
 * Jupyter Notebook
 * Rich Text Format
+* Max
+* Sublime Text
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -2248,6 +2258,31 @@ field-content   = <String>
 
 * ABNF
 
+```max
+"maxclass" : "String",
+```
+
+* Max
+
+```abap-cds
+@String.type:      #STRING
+```
+
+* ABAP-CDS
+
+```markdown
+string
+```
+
+* OrgMode
+* Plain text 
+* Markdown
+* ReStructuredText
+* ASCIIDoc
+* Pod
+* RMarkdown
+
+<!-- and more !-->
 
 ```brainfuck
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
@@ -2289,6 +2324,7 @@ unknown
 * JSSS
 * Python Traceback
 * RobotFramework
+* PostCSS
 
 ### Int
 
@@ -2489,9 +2525,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `61 (2022, Wednesday, October 19th at 10:24 pm PST)`
+**File version:** `62 (2022, Wednesday, October 19th at 11:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,674`
+**Line count (including blank lines and compiler line):** `4,752`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4090,11 +4126,35 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 62 (Coming soon)</b></summary>
+<details><summary><b>Version 62 (2022, Wedesday, Octobr 19th at 11:19 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V62.md)
+
+**This release uses/represents data from:** `2022, Saturday, October 15th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ABAP-CDS, Max, ORGMODE, PostCSS, and Sublime Text
+- [x] Updated the source code comments section
+- - [x] Updated the `/*` & `*/` comment section to include PostCSS
+- - [x] Updated the `//` comment section to include ABAP CDS
+- - [x] Updated the `UNKNOWN` comment section to include Max and Sublime Text
+- - [x] Added the ` #` comment section to include ORGMODE
+- [x] Updated the print statement section
+- - [x] Added the `"maxclass" : "String",` section to include Max
+- - [x] Added the `@String.type:      #STRING` section to include ABAP-CDS
+- - [x] Added the `"id" : "String",` section to include Sublime Text
+- - [x] Added the `string` section to include OrgMode, Plain Text, Markdown, ReStructuredText, ASCIIDoc, Pod, and RMarkdown
+- - [x] Updated the `UNKNOWN` section to include PostCSS
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 62
 - [ ] No other changes in version 62
 
 </details>
@@ -4641,6 +4701,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 122
+
+</details>
+
+<details><summary><b>Version 123 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 123
+
+</details>
+
+<details><summary><b>Version 124 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 124
 
 </details>
 
