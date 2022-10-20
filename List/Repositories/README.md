@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `298`/`400` (as of 2022, Thursday, October 13th at 9:28 pm PST)
+Current progress `303`/`400` (as of 2022, Friday, October 14th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `74.50%` complete, `25.50%` incomplete.
+**Ratio:** `75.75%` complete, `24.25%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -49,11 +49,11 @@ This list covers the creation of the language repositories.
 - [x] AutoIt
 - [x] AWK
 - [x] ASCIIDoc
-- [ ] ABNF
+- [x] ABNF
 - [x] ABAP
 - [ ] ABAP-CDS
 - [ ] Amulet
-- [ ] AspectJ
+- [x] AspectJ
 - [ ] Augeas
 - [x] API Blueprint
 - [x] B
@@ -301,7 +301,7 @@ This list covers the creation of the language repositories.
 - [ ] PureScript
 - [ ] PostCSS
 - [x] Pod
-- [ ] PowerFX
+- [x] PowerFX
 - [ ] PlSQL
 - [x] Python Traceback
 - [ ] ProGuard
@@ -340,8 +340,8 @@ This list covers the creation of the language repositories.
 - [x] Rascal
 - [x] RouterOS Script
 - [x] Ren'Py
-- [ ] RobotFramework
-- [ ] RUNOFF
+- [x] RobotFramework
+- [x] RUNOFF
 - [ ] Smalli
 - [x] SciLab
 - [x] Shell
@@ -447,9 +447,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `54 (2022, Thursday, October 13th at 9:28 pm PST)`
+**File version:** `55 (2022, Wednesday, October 19th at 10:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,503`
+**Line count (including blank lines and compiler line):** `2,544`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1689,15 +1689,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 55</b></summary>
 
-**Version 55 (Coming soon)**
+**Version 55 (2022, Wednesday, October 19th at 10:45 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V55.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V55.md)
+
+**This release represents data from:** `2022, Friday, October 14th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 298 | new total: 303)
+- - [x] Added 0 new entries to the list (old total: 400 | new total: 400)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the versiondate
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 55
 - [ ] No other changes in version 55
 
 </details>
@@ -2494,6 +2505,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 108
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 109</b></summary>
+
+**Version 109 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 109
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 110</b></summary>
+
+**Version 110 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 110
 
 </details>
 
