@@ -68,7 +68,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AspectJ/"><img src="/Programming/Logos/A/AspectJ/AspectJ_JavaLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn AspectJ</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ABAP-CDS/"><img src="/Programming/Logos/A/ABAP-CDS/SAP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn ABAP CDS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AutoHotKey/"><img src="/Programming/Logos/A/AutoHotKey/AutoHotKeyLogo_400px.png" width="100px;" alt=""/><br /><sub><b>Learn AutoHotKey (AHK)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AGS-Script/"><img src="/Programming/Logos/A/AGS-Script/AGS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn AGS Script</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
   <!-- Letter B !-->
@@ -90,7 +90,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Boogie/"><img src="/Programming/Logos/B/Boogie/BoogieLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Boogie</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BASIC/"><img src="/Programming/Logos/B/BASIC/C64_BASIC_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BASIC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-B/"><img src="/Programming/Logos/B/B/Rain-B-ow-B-.jpeg" width="100px;" alt=""/><br /><sub><b>Learn B</b></sub></a></td> <!-- I know the logos may look off/crappy, I picked this one out a long time ago. B doesn't officially have a logo. Its free real estate !-->
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Befunge/"><img src="/Programming/Logos/B/Befunge/BefungeLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Befunge</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -137,7 +137,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CommonLisp/"><img src="/Programming/Logos/C/CommonLisp/CommonLisp.png" width="100px;" alt=""/><br /><sub><b>Learn CommonLisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSV/"><img src="/Programming/Logos/C/CSV/CSV.png" width="100px;" alt=""/><br /><sub><b>Learn CSV</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSON/"><img src="/Programming/Logos/C/CSON/CoffeeScriptObjectNotation.png" width="100px;" alt=""/><br /><sub><b>Learn CSON</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Chapel/"><img src="/Programming/Logos/C/Chapel/ChapelLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Chapel</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -484,8 +484,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PythonTraceback/"><img src="/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Python TraceBack</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PowerFX/"><img src="/Programming/Logos/P/PowerFX/Logo_of_PowerFX.svg" width="100px;" alt=""/><br /><sub><b>Learn PowerFX</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PostCSS/"><img src="/Programming/Logos/P/PostCSS/PostCSS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostCSS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PlantUML/"><img src="/Programming/Logos/P/PlantUML/PlantUML_Logo_512px.png" width="100px;" alt=""/><br /><sub><b>Learn PlantUML</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PLSQL/"><img src="/Programming/Logos/P/PLSQL/OraclePLSQL_LogoLQ.png" width="100px;" alt=""/><br /><sub><b>Learn PLSQL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 17A !-->
@@ -776,6 +776,7 @@ Isabelle
 * E
 * Dhall
 * LiveCode
+* PLSQL
 
 `---`
 
@@ -968,6 +969,8 @@ Isabelle
 * Gradle
 * AspectJ
 * ABAP-CDS
+* AGS-Script
+* Chapel
 
 `//` & `/* */`
 
@@ -1031,6 +1034,7 @@ Isabelle
 * CodeQL
 * Gradle
 * AspectJ
+* Chapel
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1102,6 +1106,7 @@ Isabelle
 * Maxima
 * AspectJ
 * PostCSS
+* Chapel
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1224,6 +1229,10 @@ Isabelle
 * Self
 * Visual Basic Script/VBScript
 * VBA
+
+`''`
+
+* PlantUML
 
 `"`
 
@@ -1377,6 +1386,7 @@ Isabelle
 * Sublime Text
 * RDoc
 * RPC
+* Befunge
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1851,6 +1861,12 @@ writeln("String\n")
 
 * Seed7
 
+```
+writeln("String");
+```
+
+* Chapel
+
 ```jade
 write "String";
 ```
@@ -2324,6 +2340,24 @@ main=["String",nl]
 
 * KRC
 
+```befunge
+>"gnirtS",,,,,,,,,,,@
+```
+
+* Befunge
+
+```plsql
+dbms_output.put_line('String');
+```
+
+* PLSQL
+
+```ags-script
+this.Text = "String";
+```
+
+* AGS-Script
+
 ```markdown
 string
 ```
@@ -2382,6 +2416,7 @@ unknown
 * PostCSS
 * SMT
 * RDoc
+* PlantUML
 
 ### Int
 
@@ -2582,9 +2617,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `64 (2022, Thursday, October 20th at 1:15 pm PST)`
+**File version:** `65 (2022, Thursday, October 20th at 2:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,891`
+**Line count (including blank lines and compiler line):** `4,971`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4280,11 +4315,37 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 65 (Coming soon)</b></summary>
+<details><summary><b>Version 65 (2022, Thursday, October 20th at 2:10 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V65.md)
+
+**This release uses/represents data from:** `2022, Tuesday, October 18th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AGS-Script, Befunge, Chapel, PlantUML, and PLSQL
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include PLSQL
+- - [x] Added the `''` comment section to include PlantUML
+- - [x] Updated the `UNKNOWN` comment section to include Befunge
+- - [x] Updated the `//` comment section to include AGS-Script, and Chapel
+- - [x] Updated the `/*` & `*/` comment section to include Chapel
+- - [x] Updated the `//` & `/*` & `*/` comment section to include Chapel
+- [x] Updated the print statement section
+- - [x] Added the `>"gnirtS",,,,,,,,,,,@` section to include Befunge
+- - [x] Added the `dbms_output.put_line('String');` section to include PLSQL
+- - [x] Added the `this.Text = "String";` section to include AGS-Script
+- - [x] Added the `writeln("String");` section to include Chapel
+- - [x] Updated the `UNKNOWN` section to include PlantUML
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 65
 - [ ] No other changes in version 65
 
 </details>
@@ -4860,6 +4921,25 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [ ] No other changes in version 128
 
 </details>
+
+<details><summary><b>Version 129 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 129
+
+</details>
+
+<details><summary><b>Version 130 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 130
+
+</details>
+
 
 </details> <!-- Dropdown table end !-->
 
