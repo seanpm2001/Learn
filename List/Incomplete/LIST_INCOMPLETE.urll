@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, October 19th at 11:59 pm PST
+-- As of 2022, Friday, October 21st at 1:03 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -25,6 +25,7 @@ https://github.com/seanpm2001/Learn-ASCIIDoc
 https://github.com/seanpm2001/Learn-AspectJ
 https://github.com/seanpm2001/Learn-AssemblyScript
 https://github.com/seanpm2001/Learn-Astro
+https://github.com/seanpm2001/Learn-Augeas
 https://github.com/seanpm2001/Learn-AutoHotKey
 https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-B
@@ -40,6 +41,7 @@ https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-Ceylon
+https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
 https://github.com/seanpm2001/Learn-CLIPS
 https://github.com/seanpm2001/Learn-CodeQL
@@ -78,6 +80,7 @@ https://github.com/seanpm2001/Learn-FCL
 https://github.com/seanpm2001/Learn-Fish
 https://github.com/seanpm2001/Learn-Fluent
 https://github.com/seanpm2001/Learn-Forth
+https://github.com/seanpm2001/Learn-FP
 https://github.com/seanpm2001/Learn-FreeMarker
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
@@ -176,6 +179,7 @@ https://github.com/seanpm2001/Learn-Objective-J
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Octave
 https://github.com/seanpm2001/Learn-Ooc
+https://github.com/seanpm2001/Learn-OpenCL
 https://github.com/seanpm2001/Learn-OpenEdge-ABL
 https://github.com/seanpm2001/Learn-OpenPolicyAgent
 https://github.com/seanpm2001/Learn-OpenQASM
@@ -262,6 +266,7 @@ https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
 https://github.com/seanpm2001/Learn-WindowsRegistry
 https://github.com/seanpm2001/Learn-XBase
+https://github.com/seanpm2001/Learn-X-Pixmap
 https://github.com/seanpm2001/Learn-XQuery
 https://github.com/seanpm2001/Learn-XS
 https://github.com/seanpm2001/Learn-XSLT
@@ -272,7 +277,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 268/328
+-- Count: 273/333
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -404,13 +409,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V62 date: 2022, Thursday, October 20th at 2:26 pm PST, representing data from 2022, Tuesday, October 18th
 -- V63: 5 entries added, 268 entries remain (ratio: 268/328 (81.70% incomplete, 18.30% complete))
 -- V63 date: 2022, Thursday, October 20th at 3:32 pm PST, representing data from 2022, Wednesday, October 19th
+-- V64: 5 entries added, 273 entries remain (ratio: 273/333 (81.98% incomplete, 18.02% complete))
+-- V64 date: 2022, Friday, October 21st at 1:03 pm PST, representing data from 2022, Friday, October 21st
 
--- Ratio (incomplete/complete): 268/328 (81.70% incomplete, 18.30% complete)
+-- Ratio (incomplete/complete): 273/333 (81.98% incomplete, 18.02% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 63 (2022, Thursday, October 20th at 3:32 pm PST)
--- Line count (including blank lines and compiler line): 417
+-- File version: 64 (2022, Friday, October 21st at 1:03 pm PST)
+-- Line count (including blank lines and compiler line): 424
 
 -- End of script
