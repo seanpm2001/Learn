@@ -1,0 +1,423 @@
+--URLL-version=2;
+-- Start of script
+-- Incomplete projects list
+-- As of 2022, Friday, October 21st at 1:03 pm PST
+
+-- These projects need to be started
+https://github.com/seanpm2001/Learn-ABAP
+https://github.com/seanpm2001/Learn-ABAP-CDS
+https://github.com/seanpm2001/Learn-ABNF
+https://github.com/seanpm2001/Learn-Ada
+https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-AGS-Script
+https://github.com/seanpm2001/Learn-AIDL
+https://github.com/seanpm2001/Learn-AL
+https://github.com/seanpm2001/Learn-ALGOL
+https://github.com/seanpm2001/Learn-Alloy
+https://github.com/seanpm2001/Learn-ALS
+https://github.com/seanpm2001/Learn-AngelScript
+https://github.com/seanpm2001/Learn-ANTLR
+https://github.com/seanpm2001/Learn-AMPL
+https://github.com/seanpm2001/Learn-ApacheConf
+https://github.com/seanpm2001/Learn-Apex
+https://github.com/seanpm2001/Learn-Arduino
+https://github.com/seanpm2001/Learn-ASCIIDoc
+https://github.com/seanpm2001/Learn-AspectJ
+https://github.com/seanpm2001/Learn-AssemblyScript
+https://github.com/seanpm2001/Learn-Astro
+https://github.com/seanpm2001/Learn-Augeas
+https://github.com/seanpm2001/Learn-AutoHotKey
+https://github.com/seanpm2001/Learn-AutoIt
+https://github.com/seanpm2001/Learn-B
+https://github.com/seanpm2001/Learn-Ballerina
+https://github.com/seanpm2001/Learn-BASIC
+https://github.com/seanpm2001/Learn-Befunge
+https://github.com/seanpm2001/Learn-Bicep
+https://github.com/seanpm2001/Learn-Bikeshed
+https://github.com/seanpm2001/Learn-BitBake
+https://github.com/seanpm2001/Learn-Blade
+https://github.com/seanpm2001/Learn-Boogie
+https://github.com/seanpm2001/Learn-Brainfuck
+https://github.com/seanpm2001/Learn-CartoCSS
+https://github.com/seanpm2001/Learn-CAML
+https://github.com/seanpm2001/Learn-Ceylon
+https://github.com/seanpm2001/Learn-CH
+https://github.com/seanpm2001/Learn-Chapel
+https://github.com/seanpm2001/Learn-CLIPS
+https://github.com/seanpm2001/Learn-CodeQL
+https://github.com/seanpm2001/Learn-CoffeeScript
+https://github.com/seanpm2001/Learn-CommonLisp
+https://github.com/seanpm2001/Learn-CommonWorkflowLanguage
+https://github.com/seanpm2001/Learn-Cool
+https://github.com/seanpm2001/Learn-Clojure
+https://github.com/seanpm2001/Learn-CMake
+https://github.com/seanpm2001/Learn-Creole
+https://github.com/seanpm2001/Learn-CSON
+https://github.com/seanpm2001/Learn-CSV
+https://github.com/seanpm2001/Learn-CUDA
+https://github.com/seanpm2001/Learn-Cyclone
+https://github.com/seanpm2001/Learn-Cython
+https://github.com/seanpm2001/Learn-Dafny
+https://github.com/seanpm2001/Learn-Desktop
+https://github.com/seanpm2001/Learn-DIGITAL-Command-Language
+https://github.com/seanpm2001/Learn-DM
+https://github.com/seanpm2001/Learn-Dhall
+https://github.com/seanpm2001/Learn-Diff
+https://github.com/seanpm2001/Learn-Dockerfile
+https://github.com/seanpm2001/Learn-DogeScript
+https://github.com/seanpm2001/Learn-DTrace
+https://github.com/seanpm2001/Learn-E
+https://github.com/seanpm2001/Learn-Eagle
+https://github.com/seanpm2001/Learn-Earthly
+https://github.com/seanpm2001/Learn-EJS
+https://github.com/seanpm2001/Learn-EmacsLisp
+https://github.com/seanpm2001/Learn-Epigram
+https://github.com/seanpm2001/Learn-Euphoria
+https://github.com/seanpm2001/Learn-Factor
+https://github.com/seanpm2001/Learn-Fancy
+https://github.com/seanpm2001/Learn-Fantom
+https://github.com/seanpm2001/Learn-FCL
+https://github.com/seanpm2001/Learn-Fish
+https://github.com/seanpm2001/Learn-Fluent
+https://github.com/seanpm2001/Learn-Forth
+https://github.com/seanpm2001/Learn-FP
+https://github.com/seanpm2001/Learn-FreeMarker
+https://github.com/seanpm2001/Learn-FSharp
+https://github.com/seanpm2001/Learn-FStar
+https://github.com/seanpm2001/Learn-GAP
+https://github.com/seanpm2001/Learn-GCC-Machine-Description
+https://github.com/seanpm2001/Learn-G-CODE
+https://github.com/seanpm2001/Learn-GDB
+https://github.com/seanpm2001/Learn-GDScript
+https://github.com/seanpm2001/Learn-Gherkin
+https://github.com/seanpm2001/Learn-GLSL
+https://github.com/seanpm2001/Learn-GN
+https://github.com/seanpm2001/Learn-GnuPlot
+https://github.com/seanpm2001/Learn-Gosu
+https://github.com/seanpm2001/Learn-Gradle
+https://github.com/seanpm2001/Learn-GraphQL
+https://github.com/seanpm2001/Learn-HAML
+https://github.com/seanpm2001/Learn-Handlebars
+https://github.com/seanpm2001/Learn-Haxe
+https://github.com/seanpm2001/Learn-HaProxy
+https://github.com/seanpm2001/Learn-HCL
+https://github.com/seanpm2001/Learn-HiveQL
+https://github.com/seanpm2001/Learn-Hope
+https://github.com/seanpm2001/Learn-HolyC
+https://github.com/seanpm2001/Learn-HLSL
+https://github.com/seanpm2001/Learn-HXML
+https://github.com/seanpm2001/Learn-Hy
+https://github.com/seanpm2001/Learn-HyPhy
+https://github.com/seanpm2001/Learn-IDL
+https://github.com/seanpm2001/Learn-Idris
+https://github.com/seanpm2001/Learn-Inform
+https://github.com/seanpm2001/Learn-INI
+https://github.com/seanpm2001/Learn-Inno-Setup
+https://github.com/seanpm2001/Learn-INTERCAL
+https://github.com/seanpm2001/Learn-ImageJ
+https://github.com/seanpm2001/Learn-Io
+https://github.com/seanpm2001/Learn-IronPython
+https://github.com/seanpm2001/Learn-Isabelle
+https://github.com/seanpm2001/Learn-Jade
+https://github.com/seanpm2001/Learn-Jasmin
+https://github.com/seanpm2001/Learn-Jinja
+https://github.com/seanpm2001/Learn-Joy
+https://github.com/seanpm2001/Learn-JScript
+https://github.com/seanpm2001/Learn-JScript.NET
+https://github.com/seanpm2001/Learn-Jsonnet
+https://github.com/seanpm2001/Learn-JSSS
+https://github.com/seanpm2001/Learn-Julia
+https://github.com/seanpm2001/Learn-Java -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included 
+https://github.com/seanpm2001/Learn-JavaScript -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included. 
+https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
+https://github.com/seanpm2001/Learn-JupyterNotebook
+https://github.com/seanpm2001/Learn-Jython
+https://github.com/seanpm2001/Learn-KiCad
+https://github.com/seanpm2001/Learn-KiXTart
+https://github.com/seanpm2001/Learn-Kotlin
+https://github.com/seanpm2001/Learn-KRC
+https://github.com/seanpm2001/Learn-kvlang
+https://github.com/seanpm2001/Learn-LabVIEW
+https://github.com/seanpm2001/Learn-Lean
+https://github.com/seanpm2001/Learn-Lex
+https://github.com/seanpm2001/Learn-Lingo
+https://github.com/seanpm2001/Learn-Liquid
+https://github.com/seanpm2001/Learn-LispFlavoredErlang
+https://github.com/seanpm2001/Learn-LiveCode
+https://github.com/seanpm2001/Learn-LiveScript
+https://github.com/seanpm2001/Learn-LLVM
+https://github.com/seanpm2001/Learn-Logos
+https://github.com/seanpm2001/Learn-LookML
+https://github.com/seanpm2001/Learn-Logcat
+https://github.com/seanpm2001/Learn-LogTalk
+https://github.com/seanpm2001/Learn-M
+https://github.com/seanpm2001/Learn-Mako
+https://github.com/seanpm2001/Learn-M4
+https://github.com/seanpm2001/Learn-Malbolge
+https://github.com/seanpm2001/Learn-Mallard
+https://github.com/seanpm2001/Learn-Max
+https://github.com/seanpm2001/Learn-Maxima
+https://github.com/seanpm2001/Learn-Meson
+https://github.com/seanpm2001/Learn-Metal
+https://github.com/seanpm2001/Learn-Mercury
+https://github.com/seanpm2001/Learn-Modula-2
+https://github.com/seanpm2001/Learn-Modula-3
+https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Mustache
+https://github.com/seanpm2001/Learn-NASL
+https://github.com/seanpm2001/Learn-NetREXX
+https://github.com/seanpm2001/Learn-NewLisp
+https://github.com/seanpm2001/Learn-NextFlow
+https://github.com/seanpm2001/Learn-NGINX
+https://github.com/seanpm2001/Learn-Nim
+https://github.com/seanpm2001/Learn-Nix
+https://github.com/seanpm2001/Learn-NSIS
+https://github.com/seanpm2001/Learn-Nu
+https://github.com/seanpm2001/Learn-Nunjucks
+https://github.com/seanpm2001/Learn-Oberon
+https://github.com/seanpm2001/Learn-Objective-J
+https://github.com/seanpm2001/Learn-OCaml
+https://github.com/seanpm2001/Learn-Octave
+https://github.com/seanpm2001/Learn-Ooc
+https://github.com/seanpm2001/Learn-OpenCL
+https://github.com/seanpm2001/Learn-OpenEdge-ABL
+https://github.com/seanpm2001/Learn-OpenPolicyAgent
+https://github.com/seanpm2001/Learn-OpenQASM
+https://github.com/seanpm2001/Learn-OpenSCAD
+https://github.com/seanpm2001/Learn-OrgMode
+https://github.com/seanpm2001/Learn-Orwell
+https://github.com/seanpm2001/Learn-Pawn
+https://github.com/seanpm2001/Learn-PicoLisp
+https://github.com/seanpm2001/Learn-PlantUML
+https://github.com/seanpm2001/Learn-PLSQL
+https://github.com/seanpm2001/Learn-Pod
+https://github.com/seanpm2001/Learn-Pony
+https://github.com/seanpm2001/Learn-PostCSS
+https://github.com/seanpm2001/Learn-PostGreSQL
+https://github.com/seanpm2001/Learn-POV-Ray-SDL
+https://github.com/seanpm2001/Learn-PowerFX
+https://github.com/seanpm2001/Learn-Procfile
+https://github.com/seanpm2001/Learn-Pug
+https://github.com/seanpm2001/Learn-Puppet
+https://github.com/seanpm2001/Learn-PureData
+https://github.com/seanpm2001/Learn-PythonTraceback
+https://github.com/seanpm2001/Learn-q
+https://github.com/seanpm2001/Learn-QMake
+https://github.com/seanpm2001/Learn-QT-Script
+https://github.com/seanpm2001/Learn-R
+https://github.com/seanpm2001/Learn-Racket
+https://github.com/seanpm2001/Learn-Rascal
+https://github.com/seanpm2001/Learn-RDoc
+https://github.com/seanpm2001/Learn-Reason
+https://github.com/seanpm2001/Learn-ReasonML
+https://github.com/seanpm2001/Learn-Red
+https://github.com/seanpm2001/Learn-Ren-Py
+https://github.com/seanpm2001/Learn-ReScript
+https://github.com/seanpm2001/Learn-REXX
+https://github.com/seanpm2001/Learn-RichTextFormat
+https://github.com/seanpm2001/Learn-RobotFramework
+https://github.com/seanpm2001/Learn-RouterOS-Script
+https://github.com/seanpm2001/Learn-RPC
+https://github.com/seanpm2001/Learn_Ruby
+https://github.com/seanpm2001/Learn-RUNOFF
+https://github.com/seanpm2001/Learn-Sage
+https://github.com/seanpm2001/Learn-SaltStack
+https://github.com/seanpm2001/Learn-SAS
+https://github.com/seanpm2001/Learn-SASS
+https://github.com/seanpm2001/Learn-Seed7
+https://github.com/seanpm2001/Learn-Self
+https://github.com/seanpm2001/Learn-SGML
+https://github.com/seanpm2001/Learn-ShaderLab
+https://github.com/seanpm2001/Learn-Singularity
+https://github.com/seanpm2001/Learn-Slim
+https://github.com/seanpm2001/Learn-Smarty
+https://github.com/seanpm2001/Learn-SmallTalk
+https://github.com/seanpm2001/Learn-SMT
+https://github.com/seanpm2001/Learn-SourcePawn
+https://github.com/seanpm2001/Learn-Squirrel
+https://github.com/seanpm2001/Learn-S-RECORD
+https://github.com/seanpm2001/Learn-SRecode-Template
+https://github.com/seanpm2001/Learn-Starlark
+https://github.com/seanpm2001/Learn-StringTemplate
+https://github.com/seanpm2001/Learn-Stylus
+https://github.com/seanpm2001/Learn-SublimeText
+https://github.com/seanpm2001/Learn-SuperCollider
+https://github.com/seanpm2001/Learn-SVG
+https://github.com/seanpm2001/Learn-SWIG
+https://github.com/seanpm2001/Learn-SXML
+https://github.com/seanpm2001/Learn-SystemVerilog
+https://github.com/seanpm2001/Learn-Tcl
+https://github.com/seanpm2001/Learn-Thrift
+https://github.com/seanpm2001/Learn-TLA
+https://github.com/seanpm2001/Learn-TOML
+https://github.com/seanpm2001/Learn-Twig
+https://github.com/seanpm2001/Learn-TXL
+https://github.com/seanpm2001/Learn-Uno
+https://github.com/seanpm2001/Learn-UnrealScript
+https://github.com/seanpm2001/Learn_V
+https://github.com/seanpm2001/Learn-VBA
+https://github.com/seanpm2001/Learn-VCL
+https://github.com/seanpm2001/Learn-Verona
+https://github.com/seanpm2001/Learn-VimScript
+https://github.com/seanpm2001/Learn-VisualBasicScript
+https://github.com/seanpm2001/Learn-VueJS
+https://github.com/seanpm2001/Learn-WebVTT
+https://github.com/seanpm2001/Learn-Wierd
+https://github.com/seanpm2001/Learn-WikiText
+https://github.com/seanpm2001/Learn-WindowsRegistry
+https://github.com/seanpm2001/Learn-XBase
+https://github.com/seanpm2001/Learn-X-Pixmap
+https://github.com/seanpm2001/Learn-XQuery
+https://github.com/seanpm2001/Learn-XS
+https://github.com/seanpm2001/Learn-XSLT
+https://github.com/seanpm2001/Learn-YAML
+https://github.com/seanpm2001/Learn-YARA
+https://github.com/seanpm2001/Learn-ZAP
+https://github.com/seanpm2001/Learn-ZenScript
+https://github.com/seanpm2001/Learn-Zig
+https://github.com/seanpm2001/Learn-ZIL
+
+-- Count: 273/333
+-- These repositories have already been created, but proper documentation and examples have yet to be provided
+
+-- File history
+-- V1: File started with 11 entries (11 entries remain (ratio: 11/45 (24.44% incomplete, 75.56% complete))
+-- V1 date: 2022, Thursday, April 14th at 10:12 pm PST
+-- V2: 1 entry removed, as it was recently completed, 19 entries remain, 10 entries added (ratio: 19/55 (34.55% incomplete, 65.45% complete))
+-- V2 date: 2022, Sunday, April 17th at 6:22 pm PST
+-- V3: 2 entries removed, as they were recently completed, 17 entries remain (ratio: 17/55 (30.91% incomplete, 69.09% complete))
+-- V3 date: 2022, Monday, April 18th at 1:25 pm PST
+-- V4: 4 entries removed, as they were recently completed, 13 entries remain (ratio: 13/55 (23.64% incomplete, 76.36% complete))
+-- V4 date: 2022, Monday, April 18th at 8:06 pm PST
+-- V5: 4 entries removed, as they were recently completed, 9 entries remain (ratio: 09/55 (16.36% incomplete, 83.64% complete)) also: list sorted in A-Z order
+-- V5 date: 2022, Tuesday, April 19th at 4:06 pm PST
+-- V6: 1 entry removed, as they were recently completed, 8 entries remain, not doing any more today (ratio: 08/55 (14.55% incomplete, 85.45% complete))
+-- V6 date: 2022, Tuesday, April 19th at 4:51 pm PST
+-- V7: 5 entries added, 13 entries remain (ratio: 13/60 (21.67% incomplete, 78.33% complete))
+-- V7 date: 2022, Wednesday, April 20th at 5:25 pm PST
+-- V8: 8 entries added, 21 entries remain (ratio: 21/68 (30.88% incomplete, 69.12% complete))
+-- V8 date: 2022, Thursday, April 21st at 8:48 pm PST
+-- V9: 2 entries added, 23 entries remain (ratio: 23/70 (32.85% incomplete, 67.15% complete))
+-- V9 date: 2022, Monday, July 4th at 4:49 pm PST
+-- V10: 1 entry removed, as it was recently completed, 22 entries remain (ratio: 22/70 (31.42% incomplete, 68.58% complete))
+-- V10 date: 2022, Monday, July 4th at 6:26 pm PST
+-- V11: 14 entries added, 4 entries not added, as they were recently completed, 36 entries remain (ratio: 36/90 (40.00% incomplete, 60.00% complete))
+-- V11 date: 2022, Monday, August 1st at 6:54 pm PST
+-- V12: 0 entries added, 5 entries removed, as they were recently completed, 31 entries remain (ratio: 31/90 (34.44% incomplete, 65.56% complete))
+-- V12 date: 2022, Wednesday, August 3rd at 2:05 pm PST
+-- V13: 8 entries added, 1 entry not added, as it was complete before it could be added, 39 entries remain (ratio: 39/99 (39.39% incomplete, 60.61% complete))
+-- V13 date: 2022, Monday, August 29th at 8:23 pm PST
+-- V14: 2 entries added, 41 entries remain (ratio: 41/101 (40.59% incomplete, 59.41% complete))
+-- V14 date: 2022, Tuesday, August 30th at 10:33 pm PST
+-- Side note: I have stopped updating the numbers next to the repository, as it was not worth the effort to keep swapping almost every number around every day. I just haven't gotten to removing the numbers yet.
+-- V15: 4 entries added, 45 entries remain (ratio: 45/105 (42.85% incomplete, 57.15% complete))
+-- V15 date: 2022, Wednesday, August 31st at 6:27 pm PST
+-- V16: 2 entries added, 47 entries remain (ratio: 47/107 (43.92% incomplete, 56.08% complete))
+-- V16 date: 2022, Thursday, September 1st at 6:39 pm PST
+-- V17: 5 entries added, 52 entries remain (ratio: 52/112 (46.42% incomplete, 53.58% complete))
+-- V17 date: 2022, Friday, September 2nd at 7:21 pm PST
+-- Side note: all numbers next to repositories have been removed, as they became obsolete and unmaintainable.
+-- V18: 2 entries added, 54 entries remain (ratio: 54/114 (47.36% incomplete, 52.64% complete))
+-- V18 date: 2022, Saturday, September 3rd at 2:29 pm PST
+-- V19: 2 entries added, 56 entries remain (ratio: 56/116 (48.27% incomplete, 51.73% complete))
+-- V19 date: 2022, Sunday, September 4th at 8:48 pm PST
+-- V20: 4 entries added, 60 entries remain (ratio: 60/120 (50.00% incomplete, 50.00% complete))
+-- V20 date: 2022, Monday, September 5th at 9:04 pm PST
+-- V21: 3 entries added, 63 entries remain (ratio: 63/123 (51.21% incomplete, 48.79% complete))
+-- V21 date: 2022, Tuesday, September 6th at 10:36 pm PST
+-- V22: 3 entries added, 66 entries remain (ratio: 66/126 (52.38% incomplete, 47.62% complete))
+-- V22 date: 2022, Wednesday, September 7th at 10:18 pm PST
+-- V23: 3 entries added, 69 entries remain (ratio: 69/129 (53.48% incomplete, 46.52% complete))
+-- V23 date: 2022, Thursday, September 8th at 8:23 pm PST
+-- V24: 4 entries added, 73 entries remain (ratio: 73/133 (54.88% incomplete, 45.12% complete))
+-- V24 date: 2022, Friday, September 9th at 4:27 pm PST
+-- V25: 5 entries added, 78 entries remain (ratio: 78/138 (56.52% incomplete, 43.48% complete))
+-- V25 date: 2022, Saturday, September 10th at 4:10 pm PST
+-- V26: 5 entries added, 83 entries remain (ratio: 83/143 (58.04% incomplete, 41.96% complete))
+-- V26 date: 2022, Sunday, September 11th at 8:20 pm PST
+-- V27: 5 entries added, 88 entries remain (ratio: 88/148 (59.45% incomplete, 40.55% complete))
+-- V27 date: 2022, Monday, September 12th at 3:47 pm PST
+-- V28: 5 entries added, 93 entries remain (ratio: 93/153 (60.78% incomplete, 39.22% complete))
+-- V28 date: 2022, Tuesday, September 13th at 6:13 pm PST
+-- V29: 5 entries added, 98 entries remain (ratio: 98/158 (62.02% incomplete, 37.98% complete))
+-- V29 date: 2022, Wednesday, September 14th at 7:45 pm PST
+-- V30: 5 entries added, 103 entries remain (ratio: 103/163 (63.19% incomplete, 36.81% complete))
+-- V30 date: 2022, Thursday, September 15th at 5:33 pm PST
+-- V31: 5 entries added, 108 entries remain (ratio: 108/168 (64.28% incomplete, 35.72% complete))
+-- V31 date: 2022, Friday, September 16th at 10:24 pm PST
+-- V32: 5 entries added, 113 entries remain (ratio: 113/173 (65.32% incomplete, 34.68% complete))
+-- V32 date: 2022, Sunday, September 18th at 7:23 pm PST
+-- V33: 5 entries added, 118 entries remain (ratio: 118/178 (66.29% incomplete, 33.71% complete))
+-- V33 date: 2022, Monday, September 19th at 10:59 pm PST
+-- V34: 5 entries added, 123 entries remain (ratio: 123/183 (67.21% incomplete, 32.79% complete))
+-- V34 date: 2022, Tuesday, September 20th at 10:40 pm PST
+-- V35: 5 entries added, 128 entries remain (ratio: 128/188 (68.09% incomplete, 31.91% complete))
+-- V35 date: 2022, Thursday, September 22nd at 7:21 pm PST, representing data from 2022, Wednesday, September 21st
+-- V36: 5 entries added, 133 entries remain (ratio: 133/193 (68.91% incomplete, 31.09% complete))
+-- V36 date: 2022, Thursday, September 22nd at 7:28 pm PST, representing data from 2022, Thursday, September 22nd
+-- V37: 5 entries added, 138 entries remain (ratio: 138/198 (69.70% incomplete, 30.30% complete))
+-- V37 date: 2022, Saturday, September 24th at 11:12 pm PST, representing data from 2022, Friday, September 23rd
+-- V38: 5 entries added, 143 entries remain (ratio: 143/203 (70.44% incomplete, 29.56% complete))
+-- V38 date: 2022, Saturday, September 24th at 11:15 pm PST, representing data from 2022, Saturday, September 24th
+-- V39: 5 entries added, 148 entries remain (ratio: 148/208 (71.15% incomplete, 28.85% complete))
+-- V39 date: 2022, Monday, September 26th at 11:18 pm PST, representing data from 2022, Sunday, September 25th
+-- V40: 5 entries added, 153 entries remain (ratio: 153/213 (71.83% incomplete, 28.17% complete))
+-- V40 date: 2022, Monday, September 26th at 11:23 pm PST, representing data from 2022, Monday, September 26th
+-- V41: 5 entries added, 158 entries remain (ratio: 158/218 (72.48% incomplete, 27.52% complete))
+-- V41 date: 2022, Tuesday, September 27th at 7:50 pm PST, representing data from 2022, Tuesday, September 27th
+-- V42: 5 entries added, 163 entries remain (ratio: 163/223 (73.09% incomplete, 26.91% complete))
+-- V42 date: 2022, Wednesday, September 28th at 11:45 pm PST, representing data from 2022, Wednesday, September 28th
+-- V43: 5 entries added, 168 entries remain (ratio: 168/228 (73.68% incomplete, 26.32% complete))
+-- V43 date: 2022, Friday, September 30th at 11:38 pm PST, representing data from 2022, Thursday, September 29th
+-- V44: 5 entries added, 173 entries remain (ratio: 173/233 (74.25% incomplete, 25.75% complete))
+-- V44 date: 2022, Saturday, October 1st at 12:53 am PST, representing data from 2022, Friday, September 30th
+-- V45: 5 entries added, 178 entries remain (ratio: 178/238 (74.79% incomplete, 25.21% complete))
+-- V45 date: 2022, Saturday, October 1st at 8:52 pm PST, representing data from 2022, Saturday, October 1st
+-- V46: 5 entries added, 183 entries remain (ratio: 183/243 (75.31% incomplete, 24.69% complete))
+-- V46 date: 2022, Sunday, October 2nd at 11:46 pm PST, representing data from 2022, Sunday, October 2nd
+-- V47: 5 entries added, 188 entries remain (ratio: 188/248 (75.81% incomplete, 24.19% complete))
+-- V47 date: 2022, Wednesday, October 5th at 10:02 pm PST, representing data from 2022, Monday, October 3rd
+-- V48: 5 entries added, 193 entries remain (ratio: 193/253 (76.28% incomplete, 23.72% complete))
+-- V48 date: 2022, Wednesday, October 5th at 10:35 pm PST, representing data from 2022, Tuesday, October 4th
+-- V49: 5 entries added, 198 entries remain (ratio: 198/258 (76.74% incomplete, 23.26% complete))
+-- V49 date: 2022, Wednesday, October 5th at 11:12 pm PST, representing data from 2022, Wednesday, October 5th
+-- V50: 5 entries added, 203 entries remain (ratio: 203/263 (77.19% incomplete, 22.81% complete))
+-- V50 date: 2022, Thursday, October 6th at 10:13 pm PST, representing data from 2022, Thursday, October 6th
+-- V51: 5 entries added, 208 entries remain (ratio: 208/268 (77.61% incomplete, 22.39% complete))
+-- V51 date: 2022, Monday, October 10th at 10:58 pm PST, representing data from 2022, Friday, October 7th
+-- V52: 5 entries added, 213 entries remain (ratio: 213/273 (78.02% incomplete, 21.98% complete))
+-- V52 date: 2022, Monday, October 10th at 11:40 pm PST, representing data from 2022, Saturday, October 8th
+-- V53: 5 entries added, 218 entries remain (ratio: 218/278 (78.42% incomplete, 21.58% complete))
+-- V53 date: 2022, Tuesday, October 11th at 1:10 am PST, representing data from 2022, Sunday, October 9th
+-- V54: 5 entries added, 223 entries remain (ratio: 223/283 (78.80% incomplete, 21.20% complete))
+-- V54 date: 2022, Tuesday, October 11th at 1:10 am PST, representing data from 2022, Monday, October 10th
+-- V55: 5 entries added, 228 entries remain (ratio: 228/288 (79.17% incomplete, 20.83% complete))
+-- V55 date: 2022, Tuesday, October 11th at 11:49 pm PST, representing data from 2022, Tuesday, October 11th
+-- V56: 5 entries added, 233 entries remain (ratio: 233/293 (79.52% incomplete, 20.48% complete))
+-- V56 date: 2022, Thursday, October 13th at 1:24 am PST, representing data from 2022, Wednesday, October 12th
+-- V57: 5 entries added, 238 entries remain (ratio: 238/298 (79.87% incomplete, 20.13% complete))
+-- V57 date: 2022, Thursday, October 13th at 9:18 pm PST, representing data from 2022, Thursday, October 13th
+-- V58: 5 entries added, 243 entries remain (ratio: 243/303 (80.19% incomplete, 19.81% complete))
+-- V58 date: 2022, Wednesday, October 19th at 10:39 pm PST, representing data from 2022, Friday, October 14th
+-- V59: 5 entries added, 248 entries remain (ratio: 248/308 (80.51% incomplete, 19.49% complete))
+-- V59 date: 2022, Wednesday, October 19th at 11:39 pm PST, representing data from 2022, Saturday, October 15th
+-- V60: 5 entries added, 253 entries remain (ratio: 253/313 (80.83% incomplete, 19.17% complete))
+-- V60 date: 2022, Thursday, October 20th at 12:48 pm PST, representing data from 2022, Sunday, October 16th
+-- V61: 5 entries added, 258 entries remain (ratio: 258/318 (81.13% incomplete, 18.87% complete))
+-- V61 date: 2022, Thursday, October 20th at 1:35 pm PST, representing data from 2022, Monday, October 17th
+-- V62: 5 entries added, 263 entries remain (ratio: 263/323 (81.42% incomplete, 18.58% complete))
+-- V62 date: 2022, Thursday, October 20th at 2:26 pm PST, representing data from 2022, Tuesday, October 18th
+-- V63: 5 entries added, 268 entries remain (ratio: 268/328 (81.70% incomplete, 18.30% complete))
+-- V63 date: 2022, Thursday, October 20th at 3:32 pm PST, representing data from 2022, Wednesday, October 19th
+-- V64: 5 entries added, 273 entries remain (ratio: 273/333 (81.98% incomplete, 18.02% complete))
+-- V64 date: 2022, Friday, October 21st at 1:03 pm PST, representing data from 2022, Friday, October 21st
+
+-- Ratio (incomplete/complete): 273/333 (81.98% incomplete, 18.02% complete)
+-- Calculation source: Mental math, GNOME Calculator
+
+-- File info
+-- File type: URLL shortcut file (*.urll)
+-- File version: 64 (2022, Friday, October 21st at 1:03 pm PST)
+-- Line count (including blank lines and compiler line): 424
+
+-- End of script
