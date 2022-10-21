@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V60: 2022, Thursday, October 20th at 3:06 pm PST
--- Representing data from 2022, Wednesday, October 19th at 11:59 pm PST
+-- V61: 2022, Friday, October 21st at 12:50 pm PST
+-- Representing data from 2022, Friday, October 21st at 12:50 pm PST
 
 -- Programming
 -- 1
@@ -33,6 +33,7 @@ https://github.com/seanpm2001/Learn-AspectJ
 https://github.com/seanpm2001/Learn-Assembly
 https://github.com/seanpm2001/Learn-AssemblyScript
 https://github.com/seanpm2001/Learn-Astro
+https://github.com/seanpm2001/Learn-Augeas
 https://github.com/seanpm2001/Learn-AutoHotKey
 https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-Awk
@@ -54,6 +55,7 @@ https://github.com/seanpm2001/Learn-C
 https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-Ceylon
+https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
 https://github.com/seanpm2001/Learn-Clean
 https://github.com/seanpm2001/Learn-Creole
@@ -104,6 +106,7 @@ https://github.com/seanpm2001/Learn-Euphoria
 https://github.com/seanpm2001/Learn-Factor
 https://github.com/seanpm2001/Learn-Fancy
 https://github.com/seanpm2001/Learn-Fantom
+https://github.com/seanpm2001/Learn-FP
 https://github.com/seanpm2001/Learn-FCL
 https://github.com/seanpm2001/Learn-Fish
 https://github.com/seanpm2001/Learn-Fluent
@@ -232,6 +235,7 @@ https://github.com/seanpm2001/Learn-Objective-J
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Octave
 https://github.com/seanpm2001/Learn-Ooc
+https://github.com/seanpm2001/Learn-OpenCL
 https://github.com/seanpm2001/Learn-OpenEdge-ABL
 https://github.com/seanpm2001/Learn-OpenPolicyAgent
 https://github.com/seanpm2001/Learn-OpenQASM
@@ -349,6 +353,7 @@ https://github.com/seanpm2001/Learn-WindowsRegistry
 -- X
 https://github.com/seanpm2001/Learn-XBase
 https://github.com/seanpm2001/Learn-XML
+https://github.com/seanpm2001/Learn-X-Pixmap
 https://github.com/seanpm2001/Learn-XProc
 https://github.com/seanpm2001/Learn-XQuery
 https://github.com/seanpm2001/Learn-XS
@@ -362,10 +367,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 330 languages listed (as of 2022, Wednesday, October 19th at 11:59 pm PST)
+-- 335 languages listed (as of 2022, Friday, October 21st at 12:50 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 60 (2022, Thursday, October 20th at 3:06 pm PST)
--- Line count (including blank lines and compiler line): 372
+-- File version: 61 (2022, Friday, October 21st at 12:50 pm PST)
+-- Line count (including blank lines and compiler line): 377
 -- End of file
