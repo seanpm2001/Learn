@@ -70,6 +70,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AutoHotKey/"><img src="/Programming/Logos/A/AutoHotKey/AutoHotKeyLogo_400px.png" width="100px;" alt=""/><br /><sub><b>Learn AutoHotKey (AHK)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-AGS-Script/"><img src="/Programming/Logos/A/AGS-Script/AGS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn AGS Script</b></sub></a></td>
   </tr>
+  <!-- Row 1E !-->
+  <!-- Letter A !-->
+  <tr>
+    <td align="center"><p>Section A5</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Augeas/"><img src="/Programming/Logos/A/Augeas/Augueas_Logo400px.png" width="100px;" alt=""/><br /><sub><b>Learn Augueas</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 2A !-->
   <!-- Letter B !-->
   <tr>
@@ -138,7 +150,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSV/"><img src="/Programming/Logos/C/CSV/CSV.png" width="100px;" alt=""/><br /><sub><b>Learn CSV</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSON/"><img src="/Programming/Logos/C/CSON/CoffeeScriptObjectNotation.png" width="100px;" alt=""/><br /><sub><b>Learn CSON</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Chapel/"><img src="/Programming/Logos/C/Chapel/ChapelLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Chapel</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CH/"><img src="/Programming/Logos/C/CH/CH_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CH</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -209,7 +221,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FCL/"><img src="/Programming/Logos/F/FCL/FCL_Language_512pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn FCL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Fancy/"><img src="/Programming/Logos/F/Fancy/FancyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Fancy</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeMarker/"><img src="/Programming/Logos/F/FreeMarker/FreeMarker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn FreeMarker</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FP/"><img src="/Programming/Logos/F/FP/FP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn FP</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -462,7 +474,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenSCAD/"><img src="/Programming/Logos/O/OpenSCAD/OpenScad400px.png" width="100px;" alt=""/><br /><sub><b>Learn OpenSCAD</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Octave/"><img src="/Programming/Logos/O/Octave/OctaveLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Octave</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ORGMode"><img src="/Programming/Logos/O/ORGMode/Org-mode-unicorn.svg" width="100px;" alt=""/><br /><sub><b>Learn ORG(mode)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenCL/"><img src="/Programming/Logos/O/OpenCL/OpenCL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenCL</b></sub></a></td>
   </tr>
   <!-- Row 16A !-->
   <!-- Letter P !-->
@@ -678,8 +690,21 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XProc/"><img src="/Programming/Logos/X/XProc/XProc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn XProc</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XQuery/"><img src="/Programming/Logos/X/XQuery/XQuery--Opaque_225px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn XQuery</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XSLT/"><img src="/Programming/Logos/X/XSLT/XSL_Icon.png" width="100px;" alt=""/><br /><sub><b>Leanr XSLT</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-X-Pixmap/"><img src="/Programming/Logos/X/X-Pixmap/X_Pixmap_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn X-Pixmap</b></sub></a></td>
   </tr>
+  <!-- Row 24B !-->
+  <!-- Letter X !-->
+  <tr>
+    <td align="center"><p>Section X2</p></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
+  <!-- X should always have at least 1 full row of X's !-->
   <!-- Row 25A !-->
   <!-- Letter Y !-->
   <tr>
@@ -715,6 +740,14 @@ This repository is a reference to my learning experience on programming. Other s
 ![/Programming/Logos/R/ReStructuredText/RST.png](/Programming/Logos/R/ReStructuredText/RST.png)
 
 [ReStructuredText Sandbox](https://github.com/seanpm2001/ReStructuredText_Sandbox)
+
+> A place for testing ReStructuredText
+
+![/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png](/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png)
+
+[Python Traceback Examples](https://github.com/seanpm2001/Python-Traceback-Examples/)
+
+> Predates the [`Learn-PythonTraceback`](https://github.com/seanpm2001/Learn-PythonTraceback/) repository (predecessor)
 
 </details>
 
@@ -984,6 +1017,9 @@ Isabelle
 * ABAP-CDS
 * AGS-Script
 * Chapel
+* X-Pixmap
+* OpenCL
+* CH
 
 `//` & `/* */`
 
@@ -1048,6 +1084,8 @@ Isabelle
 * Gradle
 * AspectJ
 * Chapel
+* OpenCL
+* CH
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1120,6 +1158,8 @@ Isabelle
 * AspectJ
 * PostCSS
 * Chapel
+* OpenCL
+* CH
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1169,6 +1209,7 @@ Isabelle
 * F*
 * Cool
 * Modula-3
+* Augeas
 
 `{# #}`
 
@@ -1318,6 +1359,7 @@ Isabelle
 
 * G-CODE
 * Forth
+* FP
 
 `/`
 
@@ -1650,6 +1692,7 @@ printf("String\n");
 * DTrace
 * CUDA
 * Cyclone
+* CH
 
 ```cpp
 std::cout >> "String\n";
@@ -2399,6 +2442,12 @@ gnirtS
 
 * Wierd
 
+```augeas
+let x = "String"
+```
+
+* Augeas
+
 ```markdown
 string
 ```
@@ -2459,6 +2508,9 @@ unknown
 * RDoc
 * PlantUML
 * TXL
+* X-Pixmap
+* OpenCL
+* FP
 
 ### Int
 
@@ -2659,9 +2711,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `66 (2022, Thursday, October 20th at 3:02 pm PST)`
+**File version:** `67 (2022, Friday, October 21st at 12:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,055`
+**Line count (including blank lines and compiler line):** `5,149`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4396,7 +4448,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/OldVersions/README/English/1/README_V65.md)
+[View this version](/OldVersions/README/English/1/README_V66.md)
 
 **This release uses/represents data from:** `2022, Wednesday, October 19th` & `2022, Thursday, October 20th`
 
@@ -4426,11 +4478,35 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 67 (Coming soon)</b></summary>
+<details><summary><b>Version 67 (2022, Friday, October 21st at 12:43 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V67.md)
+
+**This release uses/represents data from:** `2022, Friday, October 21st`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Augeas, CH, FP, OpenCL, and X-Pixmap
+- [x] Updated the source code comments section
+- - [x] Updated the `(*` & `*)` comment section to include Augeas
+- - [x] Updated the `(` & `)` comment section to include FP
+- - [x] Updated the `//` comment section to include CH, OpenCL, and X-Pixmap
+- - [x] Updated the `//` & `/*` & `*/` comment section to include CH
+- - [x] Updated the `/*` & `*/` comment section to include CH
+- [x] Updated the print statement section
+- - [x] Added the `let x = "String"` section to include Augeas
+- - [x] Updated the `printf("String\n");` section to include CH
+- - [x] Updated the `UNKNOWN` section to include FP, OpenCL, and X-Pixmap
+- [x] Updated the `Extras` section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 67
 - [ ] No other changes in version 67
 
 </details>
@@ -5022,6 +5098,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 132
+
+</details>
+
+<details><summary><b>Version 133 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 133
+
+</details>
+
+<details><summary><b>Version 134 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 134
 
 </details>
 
