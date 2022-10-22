@@ -39,6 +39,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Maxima
 - [ ] Oberon
 - [ ] Octave
+- [ ] OpenCL (recognizes as C)
 - [ ] Orwell
 - [ ] PostCSS (recognizes as CSS)
 - [ ] PowerFX (basically just a YAML format)
@@ -53,8 +54,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] URLL (seanpm2001)
 - [ ] Verona
 - [ ] Wierd
+- [ ] X-PixMap (recognizes as C)
 
-**Total:** `48`
+**Total:** `50`
 
 ***
 
@@ -64,9 +66,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2022, Friday, October 21st at 12:54 pm PST)`
+**File version:** `14 (2022, Friday, October 21st at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `329`
+**Line count (including blank lines and compiler line):** `349`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -320,6 +322,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
+
+</details>
+
+<details><summary><p lang="en"><b>Version 14 (2022, Friday, October 21st at 6:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `OpenCL` and `X-PixMap` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
 
 </details>
 
