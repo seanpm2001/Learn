@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Friday, October 21st
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Saturday, October 22nd
 
 - [ ] ALGOL
 - [ ] ALS
@@ -27,6 +27,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] JScript (too similar to JavaScript)
 - [ ] JScript.NET (also too similar to JavaScript)
 - [ ] JSSS
+- [ ] JSON5
 - [ ] Jython
 - [ ] KiXTart
 - [ ] KRC (Kent Recursive Calculator)
@@ -43,6 +44,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Orwell
 - [ ] PostCSS (recognizes as CSS)
 - [ ] PowerFX (basically just a YAML format)
+- [ ] QueryByExample
 - [ ] SASS
 - [ ] Scratch 1.x (basically just a JSON zip archive)
 - [ ] Scratch 2 (basically just a JSON zip archive)
@@ -51,12 +53,13 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Starlark
 - [ ] Sublime Text (justification for adding to Linguist: it is clearly a JSON language. Many more obscure XML and JSON languages are listed, why can't this one be?)
 - [ ] SXML
+- [ ] TSX (recognizes as TypeScript)
 - [ ] URLL (seanpm2001)
 - [ ] Verona
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `50`
+**Total:** `53`
 
 ***
 
@@ -66,9 +69,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Friday, October 21st at 6:20 pm PST)`
+**File version:** `15 (2022, Saturday, October 22nd at 9:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `349`
+**Line count (including blank lines and compiler line):** `369`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -343,6 +346,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
+<details><summary><p lang="en"><b>Version 15 (2022, Saturday, October 22nd at 9:53 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `QueryByExample`, `JSON5` and `TSX` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
+
+</details>
 </details>
 
 ***
