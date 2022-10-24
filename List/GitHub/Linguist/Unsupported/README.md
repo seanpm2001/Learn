@@ -3,8 +3,9 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Saturday, October 22nd
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Monday, October 24th
 
+- [ ] Amulet
 - [ ] ALGOL
 - [ ] ALS
 - [ ] AssemblyScript
@@ -21,6 +22,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Go! (the one Google blatantly steamrolled over, and mostly everyone kind of forgot)
 - [ ] Hope
 - [ ] INTERCAL
+- [ ] ISWIM
 - [ ] Jade
 - [ ] JavaScript++
 - [ ] Joy
@@ -34,6 +36,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] LiveCode (recently switched to being proprietary, older versions are still open source)
 - [ ] Logcat
 - [ ] Lingo
+- [ ] Lucid
 - [ ] NetREXX
 - [ ] Mallard
 - [ ] Matrix (seanpm2001)
@@ -45,6 +48,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] PostCSS (recognizes as CSS)
 - [ ] PowerFX (basically just a YAML format)
 - [ ] QueryByExample
+- [ ] SASL
 - [ ] SASS
 - [ ] Scratch 1.x (basically just a JSON zip archive)
 - [ ] Scratch 2 (basically just a JSON zip archive)
@@ -56,10 +60,11 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] TSX (recognizes as TypeScript)
 - [ ] URLL (seanpm2001)
 - [ ] Verona
+- [ ] VisualLogic
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `53`
+**Total:** `58`
 
 ***
 
@@ -69,9 +74,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Saturday, October 22nd at 9:53 pm PST)`
+**File version:** `16 (2022, Monday, October 24th at 4:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `369`
+**Line count (including blank lines and compiler line):** `393`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -363,6 +368,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 15
 
 </details>
+
+<details><summary><p lang="en"><b>Version 16 (2022, Monday, October 24th at 4:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `Amulet`, `ISWIM`, `Lucid`, `SASL`, and `VisualLogic` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 16
+- [ ] No other changes in version 16
+
+</details>
+
 </details>
 
 ***
