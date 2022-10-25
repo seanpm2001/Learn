@@ -5,6 +5,7 @@
 
 The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Monday, October 24th
 
+- [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
 - [ ] Amulet
 - [ ] ALGOL
 - [ ] ALS
@@ -14,6 +15,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] CAML
 - [ ] CH
 - [ ] Cyclone
+- [ ] DCPU16-ASM (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with DCPU-16 ASM source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the DCPU-16 ASM language will just perform an `all repositories` search)
 - [ ] DroppedText (seanpm2001)
 - [ ] Epigram
 - [ ] FCL
@@ -45,6 +47,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Octave
 - [ ] OpenCL (recognizes as C)
 - [ ] Orwell
+- [ ] Perl6 (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Perl6 source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Perl6 language will just perform an `all repositories` search) (side note: Perl6 was renamed to Raku, but Perl6 still is recognized as a separate language by the GitHub linguist)
 - [ ] PostCSS (recognizes as CSS)
 - [ ] PowerFX (basically just a YAML format)
 - [ ] QueryByExample
@@ -64,7 +67,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `58`
+**Total:** `61`
 
 ***
 
@@ -74,9 +77,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Monday, October 24th at 4:20 pm PST)`
+**File version:** `17 (2022, Monday, October 24th at 6:01 pm PST)`
 
-**Line count (including blank lines and compiler line):** `393`
+**Line count (including blank lines and compiler line):** `414`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -384,6 +387,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><p lang="en"><b>Version 17 (2022, Monday, October 24th at 6:01 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `Arduino`, `DCPU-16-ASM`, and `Perl6` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
 
 </details>
 
