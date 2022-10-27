@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V63: 2022, Wednesday, October 26th at 7:20 pm PST
--- Representing data from 2022, Sunday, October 23rd at 11:59 pm PST
+-- V64: 2022, Wednesday, October 26th at 8:31 pm PST
+-- Representing data from 2022, Monday, October 24th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -83,6 +83,7 @@ https://github.com/seanpm2001/Learn-Cython
 https://github.com/seanpm2001/Learn-D
 https://github.com/seanpm2001/Learn-Dafny
 https://github.com/seanpm2001/Learn-Dart
+https://github.com/seanpm2001/Learn-DCPU-16-ASM
 https://github.com/seanpm2001/Learn-Desktop
 https://github.com/seanpm2001/Learn-Dhall
 https://github.com/seanpm2001/Learn-Diff
@@ -131,6 +132,7 @@ https://github.com/seanpm2001/Learn-Go2003
 https://github.com/seanpm2001/Learn-GoogleGo
 https://github.com/seanpm2001/Learn-Gosu
 https://github.com/seanpm2001/Learn-Gradle
+https://github.com/seanpm2001/Learn-Grammatical-Framework
 https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-GSC
 -- H
@@ -159,6 +161,7 @@ https://github.com/seanpm2001/Learn-ImageJ
 https://github.com/seanpm2001/Learn-Io
 https://github.com/seanpm2001/Learn-IronPython
 https://github.com/seanpm2001/Learn-Isabelle
+https://github.com/seanpm2001/Learn-ISWIM
 -- J
 https://github.com/seanpm2001/Learn-Jade
 https://github.com/seanpm2001/Learn-Jasmin
@@ -196,6 +199,7 @@ https://github.com/seanpm2001/Learn-Logcat
 https://github.com/seanpm2001/Learn-LogTalk
 https://github.com/seanpm2001/Learn-LOLCODE
 https://github.com/seanpm2001/Learn-Lua
+https://github.com/seanpm2001/Learn-Lucid
 https://github.com/seanpm2001/Learn-Logos
 https://github.com/seanpm2001/Learn-LookML
 -- M
@@ -292,6 +296,7 @@ https://github.com/seanpm2001/Learn-RichTextFormat
 https://github.com/seanpm2001/Learn-RobotFramework
 https://github.com/seanpm2001/Learn-RouterOS-Script
 https://github.com/seanpm2001/Learn-RPC
+https://github.com/seanpm2001/Learn-RPGLE
 https://github.com/seanpm2001/Learn-Ruby
 https://github.com/seanpm2001/Learn-RUNOFF
 https://github.com/seanpm2001/Learn-Rust
@@ -377,10 +382,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 345 languages listed (as of 2022, Sunday, October 23rd at 11:59 pm PST)
+-- 350 languages listed (as of 2022, Monday, October 24th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 63 (2022, Wednesday, October 26th at 7:20 pm PST)
--- Line count (including blank lines and compiler line): 387
+-- File version: 64 (2022, Wednesday, October 26th at 8:31 pm PST)
+-- Line count (including blank lines and compiler line): 392
 -- End of file
