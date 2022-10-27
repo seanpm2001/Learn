@@ -75,7 +75,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section A5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Augeas/"><img src="/Programming/Logos/A/Augeas/Augueas_Logo400px.png" width="100px;" alt=""/><br /><sub><b>Learn Augueas</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Amulet/"><img src="/Programming/Logos/A/Amulet/AmuletML_LogoPlaceholder.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Amulet</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -103,7 +103,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BASIC/"><img src="/Programming/Logos/B/BASIC/C64_BASIC_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BASIC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-B/"><img src="/Programming/Logos/B/B/Rain-B-ow-B-.jpeg" width="100px;" alt=""/><br /><sub><b>Learn B</b></sub></a></td> <!-- I know the logos may look off/crappy, I picked this one out a long time ago. B doesn't officially have a logo. Its free real estate !-->
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Befunge/"><img src="/Programming/Logos/B/Befunge/BefungeLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Befunge</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzBasic/"><img src="/Programming/Logos/B/BlitzBasic/BlitzBasicLogoWide.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzBasic</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 3A !-->
@@ -437,7 +437,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Maxima/"><img src="/Programming/Logos/M/Maxima/MaximaLogo750px.png" width="100px;" alt=""/><br /><sub><b>Learn Maxima</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Max/"><img src="/Programming/Logos/M/Max/Logo_Max_8_software.jpg" width="100px;" alt=""/><br /><sub><b>Learn Max</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Module-Management=System/"><img src="/Programming/Logos/M/Module-Management-System/ModuleManagementSystem_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Module Management System</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-McFunction/"><img src="/Programming/Logos/M/mcFunction/McFunction_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn mcfunction</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
   <!-- Letter N !-->
@@ -628,7 +628,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SublimeText/"><img src="/Programming/Logos/S/SublimeText/SublimeTextLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Sublime Text</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SMT/"><img src="/Programming/Logos/S/SMT/SMTLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SMT</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-S-RECODE-Template/"><img src="/Programming/Logos/S/S-RECODE-Template/S-RECODE_Template_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SRecode Template</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SASL/"><img src="/Programming/Logos/S/SASL/SASL_PlaceholderLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SASL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -687,7 +687,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Verona/"><img src="/Programming/Logos/V/Verona/VeronaEmacs.png" width="100px;" alt=""/><br /><sub><b>Learn Verona</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualBasicScript/"><img src="/Programming/Logos/V/VisualBasicScript/VBSccript_file_format_icon.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic Script (duplicate of VBScript)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VBA/"><img src="/Programming/Logos/V/VBA/VBA_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn VBA</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualLogic/"><img src="/Programming/Logos/V/Visual-Logic/VisualLogic_LogoWide_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Logic</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -932,6 +932,7 @@ Isabelle
 * RobotFramework
 * PowerFX
 * LiveScript
+* mcFunction
 
 `#` & `"""`
 
@@ -1046,6 +1047,7 @@ Isabelle
 * CH
 * TSX
 * JSON5
+* VisualLogic
 
 `//` & `/* */`
 
@@ -1123,6 +1125,7 @@ Isabelle
 <!-- * CUDA (unsure) !-->
 <!-- * ABAP-CDS (unsure) !-->
 <!-- * JSON5 (unsure) !-->
+<!-- * VisualLogic (unsure) !-->
 
 `/*` & `*/`
 
@@ -1199,6 +1202,7 @@ Isabelle
 <!-- * CUDA (unsure) !-->
 <!-- * ABAP-CDS (unsure) !-->
 <!-- * JSON5 (unsure) !-->
+<!-- * VisualLogic (unsure) !-->
 
 `<!-- !-->`
 
@@ -1240,6 +1244,7 @@ Isabelle
 * Cool
 * Modula-3
 * Augeas
+* Amulet
 
 `{# #}`
 
@@ -1279,6 +1284,7 @@ Isabelle
 * Hy
 * SRecode Template
 * Latte
+* BlitzBasic
 
 `C`
 
@@ -1451,6 +1457,7 @@ Isabelle
 `||`
 
 * KRC (Kent Recursive Calculator)
+* SASL
 
 `UNSUPPORTED`
 
@@ -2507,6 +2514,30 @@ h1.Heading 1 String
 
 * QueryByExample (QBE)
 
+```SASL
+%s: 'tring''
+```
+
+* SASL
+
+```blitzbasic
+Print "String"
+```
+
+* BlitzBasic
+
+```mcfunction
+tellraw @p "String"
+```
+
+* mcfunction
+
+```amulet
+put_line "String"
+```
+
+* Amulet
+
 ```markdown
 string
 ```
@@ -2572,6 +2603,7 @@ unknown
 * OpenCL
 * FP
 * Lucid
+* VisualLogic
 
 ### Int
 
@@ -2780,9 +2812,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `68 (2022, Wednesday, October 26th at 6:31 pm PST)`
+**File version:** `69 (2022, Wednesday, October 26th at 7:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,283`
+**Line count (including blank lines and compiler line):** `5,361`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2817,7 +2849,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the footer section
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 2 (2022, Tuesday, April 12th at 4:55 pm PST)</b></summary>
 
@@ -2833,7 +2865,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 3 (2022, Wednesday, April 13th at 4:32 pm PST)</b></summary>
 
@@ -2852,7 +2884,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 4 (2022, Thursday, April 14th at 5:08 pm PST)</b></summary>
 
@@ -2867,7 +2899,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 5 (2022, Friday, April 15th at 8:00 pm pST)</b></summary>
 
@@ -2882,7 +2914,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 6 (2022, Sunday, April 17th at 5:58 pm PST)</b></summary>
 
@@ -2897,7 +2929,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 7 (2022, Tuesday, April 19th at 5:40 pm PST)</b></summary>
 
@@ -2912,7 +2944,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the programming language similarities section
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 8 (2022, Wednesday, April 20th at 5:09 pm PST)</b></summary>
 
@@ -2931,7 +2963,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added more examples for languages supporting the `break` keyword
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 9 (2022, Thursday, April 21st at 8:28 pm PST)</b></summary>
 
@@ -2948,7 +2980,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added more examples for comments
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 10 (2022, Monday, July 4th at 4:29 pm PST)</b></summary>
 
@@ -2963,7 +2995,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 11 (2022, Thursday, July 7th at 7:00 pm PST)</b></summary>
 
@@ -2978,7 +3010,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 12 (2022, Friday, July 8th at 7:43 pm PST)</b></summary>
 
@@ -2994,7 +3026,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 13 (2022, Tuesday, July 26th at 6:30 pm PST)</b></summary>
 
@@ -3009,7 +3041,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 13
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 14 (2022, Wednesday, July 27th at 7:40 pm PST)</b></summary>
 
@@ -3029,7 +3061,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 14
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 15 (2022, Saturday, July 30th at 9:00 pm PST)</b></summary>
 
@@ -3045,7 +3077,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 15
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 16 (2022, Monday, August 29th at 3:13 pm PST)</b></summary>
 
@@ -3062,7 +3094,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 16
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 17 (2022, Tuesday, August 30th at 10:24 pm PST)</b></summary>
 
@@ -3080,7 +3112,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file history section
 - [ ] No other changes in version 17
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 18 (2022, Wednesday, August 31st at 6:17 pm PST)</b></summary>
 
@@ -3102,7 +3134,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log for version 18
 - [ ] No other changes in version 18
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 19 (2022, Thursday, September 1st at 6:28 pm PST)</b></summary>
 
@@ -3121,7 +3153,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log for version 19
 - [ ] No other changes in version 19
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 20 (2022, Friday, September 2nd at 7:05 pm PST)</b></summary>
 
@@ -3142,7 +3174,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 20
 - [ ] No other changes in version 20
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 21 (2022, Saturday, September 3rd at 2:20 pm PST)</b></summary>
 
@@ -3160,7 +3192,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 21
 - [ ] No other changes in version 21
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 22 (2022, Sunday, September 4th at 8:38 pm PST)</b></summary>
 
@@ -3180,7 +3212,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 22
 - [ ] No other changes in version 22
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 23 (2022, Monday, September 5th at 8:52 pm PST)</b></summary>
 
@@ -3204,7 +3236,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 23
 - [ ] No other changes in version 23
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 24 (2022, Tuesday, September 6th at 10:22 pm PST)</b></summary>
 
@@ -3225,7 +3257,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 24
 - [ ] No other changes in version 24
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 25 (2022, Wednesday, September 7th at 10:06 pm PST)</b></summary>
 
@@ -3248,7 +3280,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 25
 - [ ] No other changes in version 25
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 26 (2022, Thursday, September 8th at 8:12 pm PST)</b></summary>
 
@@ -3271,7 +3303,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Fixed the entry for version 25
 - [ ] No other changes in version 26
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 27 (2022, Friday, September 9th at 4:09 pm PST)</b></summary>
 
@@ -3291,7 +3323,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 27
 - [ ] No other changes in version 27
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 28 (2022, Saturday, September 10th at 3:58 pm PST)</b></summary>
 
@@ -3312,7 +3344,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 28
 - [ ] No other changes in version 28
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 29 (2022, Sunday, September 11th at 8:09 pm PST)</b></summary>
 
@@ -3338,7 +3370,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 29
 - [ ] No other changes in version 29
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 30 (2022, Monday, September 12th at 3:33 pm PST</b></summary>
 
@@ -3369,7 +3401,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 30
 - [ ] No other changes in version 30
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 31 (2022, Tuesday, September 13th at 6:00 pm PST)</b></summary>
 
@@ -3394,7 +3426,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 31
 - [ ] No other changes in version 31
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 32 (2022, Wednesday, September 14th at 7:12 pm PST)</b></summary>
 
@@ -3419,7 +3451,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added a log entry for version 32
 - [ ] No other changes in version 32
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 33 (2022, Thursday, September 15th at 5:15 pm PST)</b></summary>
 
@@ -3476,7 +3508,7 @@ vtest "String"
 - - [x] Added a log entry for version 33
 - [ ] No other changes in version 33
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 34 (2022, Friday, September 16th at 10:15 pm PST)</b></summary>
 
@@ -3493,7 +3525,7 @@ vtest "String"
 - - [x] Added a log entry for version 34
 - [ ] No other changes in version 34
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 35 (2022, Sunday, September 18th at 7:09 pm PST)</b></summary>
 
@@ -3523,7 +3555,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 35
 - [ ] No other changes in version 35
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 36 (2022, Monday, September 19th at 11:15 pm PST)</b></summary>
 
@@ -3543,7 +3575,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 36
 - [ ] No other changes in version 36
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 37 (2022, Tuesday, September 20th at 10:59 pm PST)</b></summary>
 
@@ -3568,7 +3600,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 37
 - [ ] No other changes in version 37
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 38 (2022, Thursday, September 22nd at 6:45 pm PST)</b></summary>
 
@@ -3595,7 +3627,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 38
 - [ ] No other changes in version 38
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 39 (2022, Thursday, September 22nd at 6:57 pm PST)</b></summary>
 
@@ -3620,7 +3652,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 39
 - [ ] No other changes in version 39
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 40 (2022, Saturday, September 24th at 10:42 pm PST)</b></summary>
 
@@ -3647,7 +3679,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 40
 - [ ] No other changes in version 40
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 41 (2022, Saturday, September 24th at 10:52 pm PST)</b></summary>
 
@@ -3672,7 +3704,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 41
 - [ ] No other changes in version 41
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 42 (2022, Monday, September 26th at 10:37 pm PST)</b></summary>
 
@@ -3699,7 +3731,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 42
 - [ ] No other changes in version 42
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 43 (2022, Monday, September 26th at 10:45 pm PST)</b></summary>
 
@@ -3724,7 +3756,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 43
 - [ ] No other changes in version 43
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 44 (2022, Tuesday, September 27th at 7:27 pm PST)</b></summary>
 
@@ -3752,7 +3784,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 44
 - [ ] No other changes in version 44
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 45 (2022, Thursday, September 29th at 5:35 pm PST)</b></summary>
  
@@ -3830,7 +3862,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 45
 - [ ] No other changes in version 45
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 46 (2022, Friday, September 30th at 11:19 pm PST)</b></summary>
  
@@ -3864,7 +3896,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 46
 - [ ] No other changes in version 46
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 47 (2022, Saturday, October 1st at 12:41 am PST)</b></summary>
 
@@ -3896,7 +3928,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 47
 - [ ] No other changes in version 47
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 48 (2022, Saturday, October 1st at 7:57 pm PST)</b></summary>
 
@@ -3932,7 +3964,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 48
 - [ ] No other changes in version 48
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 49 (2022, Sunday, October 2nd at 11:30 pm PST)</b></summary>
 
@@ -3968,7 +4000,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 49
 - [ ] No other changes in version 49
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 50 (2022, Wednesday, October 5th at 9:45 pm PST)</b></summary>
 
@@ -4000,7 +4032,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 50
 - [ ] No other changes in version 50
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 51 (2022, Wednesday, October 5th at 10:23 pm PST)</b></summary>
 
@@ -4032,7 +4064,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 51
 - [ ] No other changes in version 51
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 52 (2022, Wednesday, October 5th at 11:00 pm PST)</b></summary>
 
@@ -4065,7 +4097,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 52
 - [ ] No other changes in version 52
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 53 (2022, Thursday, October 6th at 9:54 pm PST)</b></summary>
 
@@ -4098,7 +4130,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 53
 - [ ] No other changes in version 53
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 54 (2022, Monday, October 10th at 10:40 pm PST)</b></summary>
 
@@ -4130,7 +4162,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 54
 - [ ] No other changes in version 54
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 55 (2022, Monday, October 10th at 11:25 pm PST)</b></summary>
 
@@ -4166,7 +4198,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 55
 - [ ] No other changes in version 55
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 56 (2022, Tuesday, October 11th at 12:54 am PST)</b></summary>
 
@@ -4200,7 +4232,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 56
 - [ ] No other changes in version 56
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 57 (2022, Tuesday, October 11th at 1:33 pm PST)</b></summary>
 
@@ -4232,7 +4264,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 57
 - [ ] No other changes in version 57
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 58 (2022, Tuesday, Octoebr 11th at 11:38 pm PST)</b></summary>
 
@@ -4266,7 +4298,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 58
 - [ ] No other changes in version 58
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 59 (2022, Thursday, October 13th at 1:07 pm PST)</b></summary>
 
@@ -4306,7 +4338,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 59
 - [ ] No other changes in version 59
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 60 (2022, Thursday, October 13th at 9:01 pm PST)</b></summary>
 
@@ -4340,7 +4372,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 60
 - [ ] No other changes in version 60
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 61 (2022, Wednesday, October 19th at 10:24 pm PST)</b></summary>
 
@@ -4379,9 +4411,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 61
 - [ ] No other changes in version 61
 
-</details>
+</details> <!-- Section end !-->
 
-<details><summary><b>Version 62 (2022, Wedesday, Octobr 19th at 11:19 pm PST)</b></summary>
+<details><summary><b>Version 62 (2022, Wedesday, October 19th at 11:19 pm PST)</b></summary>
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
@@ -4412,7 +4444,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 62
 - [ ] No other changes in version 62
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 63 (2022, Thursday, October 20th at 12:25 pm PST)</b></summary>
 
@@ -4444,7 +4476,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 63
 - [ ] No other changes in version 63
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 64 (2022, Thursday, October 20th at 1:15 pm PST)</b></summary>
 
@@ -4476,7 +4508,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 64
 - [ ] No other changes in version 64
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 65 (2022, Thursday, October 20th at 2:10 pm PST)</b></summary>
 
@@ -4511,7 +4543,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 65
 - [ ] No other changes in version 65
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 66 (2022, Thursday, October 20th at 3:02 pm PST)</b></summary>
 
@@ -4545,7 +4577,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 66
 - [ ] No other changes in version 66
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 67 (2022, Friday, October 21st at 12:43 pm PST)</b></summary>
 
@@ -4578,7 +4610,7 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - - [x] Added a log entry for version 67
 - [ ] No other changes in version 67
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 68 (2022, Wednesday, October 26th at 6:31 pm PST)</b></summary>
 
@@ -4630,16 +4662,44 @@ console.log(message);
 - - [x] Fixed a dropdown bug
 - [ ] No other changes in version 68
 
-</details>
+</details> <!-- Section end !-->
 
-<details><summary><b>Version 69 (Coming soon)</b></summary>
+<details><summary><b>Version 69 (2022, Wednesday, October 26th at 7:15 pm PST)</b></summary>
+
+**Changes:**
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V68.md)
+
+**This release uses/represents data from:** `2022, Sunday, October 23rd`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Amulet, BlitzBasic, mcfunction, SASL, and VisualLogic
+- [x] Updated the source code comments section
+- - [x] Updated the `;` comment section to include BlitzBasic
+- - [x] Updated the `||` comment section to include SASL
+- - [x] Updated the `#` comment section to include mcfunction (Minecraft)
+- - [x] Updated the `//` comment section to include VisualLogic
+- - [x] Updated the `(*` & `*)` comment section to include Amulet
+- [x] Updated the print statement section
+- - [x] Added the `%s: 'tring''` string section to include SASL
+- - [x] Added the `Print "String"` string section to include BlitzBasic
+- - [x] Added the `tellraw @p "String"` string section to include mcfunction (Minecraft)
+- - [ ] Added the `put_line "String"` section to include Amulet
+- - [x] Updated the `UNKNOWN` section to VisualLogic
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 69
+- [x] Internal changes
+- - [x] Added a comment to all 138 changelog entries to indicate an end of section
 - [ ] No other changes in version 69
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 70 (Coming soon)</b></summary>
 
@@ -4648,7 +4708,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 70
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 71 (Coming soon)</b></summary>
 
@@ -4657,7 +4717,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 71
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 72 (Coming soon)</b></summary>
 
@@ -4666,7 +4726,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 72
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 73 (Coming soon)</b></summary>
 
@@ -4675,7 +4735,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 73
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 74 (Coming soon)</b></summary>
 
@@ -4684,7 +4744,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 74
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 75 (Coming soon)</b></summary>
 
@@ -4693,7 +4753,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 75
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 76 (Coming soon)</b></summary>
 
@@ -4702,7 +4762,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 76
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 74 (Coming soon)</b></summary>
 
@@ -4711,7 +4771,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 74
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 77 (Coming soon)</b></summary>
 
@@ -4720,7 +4780,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 77
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 78 (Coming soon)</b></summary>
 
@@ -4729,7 +4789,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 78
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 79 (Coming soon)</b></summary>
 
@@ -4738,7 +4798,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 79
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 80 (Coming soon)</b></summary>
 
@@ -4747,7 +4807,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 80
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 81 (Coming soon)</b></summary>
 
@@ -4756,7 +4816,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 81
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 82 (Coming soon)</b></summary>
 
@@ -4765,7 +4825,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 82
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 83 (Coming soon)</b></summary>
 
@@ -4774,7 +4834,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 83
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 84 (Coming soon)</b></summary>
 
@@ -4783,7 +4843,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 84
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 85 (Coming soon)</b></summary>
 
@@ -4792,7 +4852,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 85
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 86 (Coming soon)</b></summary>
 
@@ -4801,7 +4861,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 86
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 87 (Coming soon)</b></summary>
 
@@ -4810,7 +4870,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 87
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 88 (Coming soon)</b></summary>
 
@@ -4819,7 +4879,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 88
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 89 (Coming soon)</b></summary>
 
@@ -4828,7 +4888,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 89
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 90 (Coming soon)</b></summary>
 
@@ -4837,7 +4897,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 90
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 91 (Coming soon)</b></summary>
 
@@ -4846,7 +4906,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 91
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 92 (Coming soon)</b></summary>
 
@@ -4855,7 +4915,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 92
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 93 (Coming soon)</b></summary>
 
@@ -4864,7 +4924,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 93
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 94 (Coming soon)</b></summary>
 
@@ -4873,7 +4933,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 94
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 95 (Coming soon)</b></summary>
 
@@ -4882,7 +4942,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 95
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 96 (Coming soon)</b></summary>
 
@@ -4891,7 +4951,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 96
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 97 (Coming soon)</b></summary>
 
@@ -4900,7 +4960,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 97
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 98 (Coming soon)</b></summary>
 
@@ -4909,7 +4969,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 98
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 99 (Coming soon)</b></summary>
 
@@ -4918,7 +4978,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 99
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 100 (Coming soon)</b></summary>
 
@@ -4927,7 +4987,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 100
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 101 (Coming soon)</b></summary>
 
@@ -4936,7 +4996,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 101
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 102 (Coming soon)</b></summary>
 
@@ -4945,7 +5005,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 102
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 103 (Coming soon)</b></summary>
 
@@ -4954,7 +5014,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 103
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 104 (Coming soon)</b></summary>
 
@@ -4963,7 +5023,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 104
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 105 (Coming soon)</b></summary>
 
@@ -4972,7 +5032,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 105
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 106 (Coming soon)</b></summary>
 
@@ -4981,7 +5041,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 106
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 107 (Coming soon)</b></summary>
 
@@ -4990,7 +5050,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 107
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 108 (Coming soon)</b></summary>
 
@@ -4999,7 +5059,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 108
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 109 (Coming soon)</b></summary>
 
@@ -5008,7 +5068,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 109
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 110 (Coming soon)</b></summary>
 
@@ -5017,7 +5077,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 110
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 111 (Coming soon)</b></summary>
 
@@ -5026,7 +5086,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 111
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 112 (Coming soon)</b></summary>
 
@@ -5035,7 +5095,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 112
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 113 (Coming soon)</b></summary>
 
@@ -5044,7 +5104,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 113
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 114 (Coming soon)</b></summary>
 
@@ -5053,7 +5113,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 114
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 115 (Coming soon)</b></summary>
 
@@ -5062,7 +5122,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 115
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 116 (Coming soon)</b></summary>
 
@@ -5071,7 +5131,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 116
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 117 (Coming soon)</b></summary>
 
@@ -5080,7 +5140,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 117
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 118 (Coming soon)</b></summary>
 
@@ -5089,7 +5149,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 118
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 119 (Coming soon)</b></summary>
 
@@ -5098,7 +5158,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 119
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 120 (Coming soon)</b></summary>
 
@@ -5107,7 +5167,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 120
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 121 (Coming soon)</b></summary>
 
@@ -5116,7 +5176,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 121
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 122 (Coming soon)</b></summary>
 
@@ -5125,7 +5185,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 122
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 123 (Coming soon)</b></summary>
 
@@ -5134,7 +5194,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 123
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 124 (Coming soon)</b></summary>
 
@@ -5143,7 +5203,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 124
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 125 (Coming soon)</b></summary>
 
@@ -5152,7 +5212,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 125
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 126 (Coming soon)</b></summary>
 
@@ -5161,7 +5221,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 126
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 127 (Coming soon)</b></summary>
 
@@ -5170,7 +5230,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 127
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 128 (Coming soon)</b></summary>
 
@@ -5179,7 +5239,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 128
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 129 (Coming soon)</b></summary>
 
@@ -5188,7 +5248,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 129
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 130 (Coming soon)</b></summary>
 
@@ -5197,7 +5257,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 130
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 131 (Coming soon)</b></summary>
 
@@ -5206,7 +5266,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 131
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 132 (Coming soon)</b></summary>
 
@@ -5215,7 +5275,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 132
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 133 (Coming soon)</b></summary>
 
@@ -5224,7 +5284,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 133
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 134 (Coming soon)</b></summary>
 
@@ -5233,7 +5293,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 134
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 135 (Coming soon)</b></summary>
 
@@ -5242,7 +5302,7 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 135
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b>Version 136 (Coming soon)</b></summary>
 
@@ -5251,7 +5311,25 @@ console.log(message);
 - [ ] Coming soon
 - [ ] No other changes in version 136
 
-</details>
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 137 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 137
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 138 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 138
+
+</details> <!-- Section end !-->
 
 </details> <!-- Dropdown table end !-->
 
