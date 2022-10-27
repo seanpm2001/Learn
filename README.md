@@ -364,8 +364,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-KiCad/"><img src="/Programming/Logos/K/KiCad/KiCad_Logo_280x280.png" width="100px;" alt=""/><br /><sub><b>Learn KiCad (Layout and Schematic)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-KiXTart/"><img src="/Programming/Logos/K/KiXTart/KiXtart_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn KiXTart</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-KRC/"><img src="/Programming/Logos/K/KRC/KentRecursiveCalculator_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn KRC (Kent Recursive Calculator)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-KiCad-Layout/"><img src="/Programming/Logos/K/KiCad_Layout/KiCad_Logo_280x280.png" width="100px;" alt=""/><br /><sub><b>Learn KiCad (Layout)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-KiCad-Schematic/"><img src="/Programming/Logos/K/KiCad_Schematic/KiCad_Logo_280x280.png" width="100px;" alt=""/><br /><sub><b>Learn KiCad (Schematic)</b></sub></a></td>
   </tr>
   <!-- Row 12A !-->
   <!-- Letter L !-->
@@ -438,6 +438,19 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Max/"><img src="/Programming/Logos/M/Max/Logo_Max_8_software.jpg" width="100px;" alt=""/><br /><sub><b>Learn Max</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Module-Management=System/"><img src="/Programming/Logos/M/Module-Management-System/ModuleManagementSystem_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Module Management System</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-McFunction/"><img src="/Programming/Logos/M/mcFunction/McFunction_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn mcfunction</b></sub></a></td>
+  </tr>
+  <!-- Row 13D !-->
+  <!-- Letter M !--> 
+  <tr>
+    <td align="center"><p>Section M4</p></td>
+    <!-- TODO at a later date: move lang:m4 to Section_M4 as the first entry !-->
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MLIR/"><img src="/Programming/Logos/M/MLIR/MLIR-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MLIR</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
   <!-- Letter N !-->
@@ -629,7 +642,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SMT/"><img src="/Programming/Logos/S/SMT/SMTLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SMT</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-S-RECODE-Template/"><img src="/Programming/Logos/S/S-RECODE-Template/S-RECODE_Template_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SRecode Template</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SASL/"><img src="/Programming/Logos/S/SASL/SASL_PlaceholderLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SASL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Smali/"><img src="/Programming/Logos/S/Smali/SmaliLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Smali</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 20A !-->
@@ -650,7 +663,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section T2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Textile/"><img src="/Programming/Logos/T/Textile/TextileLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Textile</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TSX/"><img src="/Programming/Logos/T/TSX/TSX_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn TSX</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Terra/"><img src="/Programming/Logos/T/Terra/TerraLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Terra</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -935,6 +948,9 @@ Isabelle
 * PowerFX
 * LiveScript
 * mcFunction
+* Smalli
+* Tera
+* KiCad Schematic
 
 `#` & `"""`
 
@@ -1051,6 +1067,7 @@ Isabelle
 * JSON5
 * VisualLogic
 * RPGLE
+* MLIR
 
 `//` & `/* */`
 
@@ -1130,6 +1147,7 @@ Isabelle
 <!-- * JSON5 (unsure) !-->
 <!-- * VisualLogic (unsure) !-->
 <!-- * RPGLE (unsure) !-->
+<!-- * MLIR (unsure) !-->
 
 `/*` & `*/`
 
@@ -1208,6 +1226,7 @@ Isabelle
 <!-- * JSON5 (unsure) !-->
 <!-- * VisualLogic (unsure) !-->
 <!-- * RPGLE (unsure) !-->
+<!-- * MLIR (unsure) !-->
 
 `<!-- !-->`
 
@@ -1469,6 +1488,7 @@ Isabelle
 
 * JSON
 * CSV
+* KiCad Layout
 
 `Unknown`
 
@@ -1636,6 +1656,7 @@ print("String")
 * Gosu
 * GN
 * Starlark
+* Terra
 
 ```perl
 print("String");
@@ -1855,6 +1876,12 @@ w "String",!
 ```
 
 * Hy
+
+```kicad-layout
+("String")
+```
+
+* KiCad Layout
 
 ```picolisp
 (prinl "String")
@@ -2174,6 +2201,7 @@ str1 = "String"
 ```
 
 * GN
+* MLIR
 
 ```b
 putchar('String');
@@ -2204,6 +2232,12 @@ attribute => "String"
 ```
 
 * POV-Ray SDL
+
+```kicad-schemaic
+_string ("String")
+```
+
+* KiCad Schematic
 
 ```shaderlab
 _string ("String")
@@ -2573,6 +2607,12 @@ S = "String";
 
 * Lucid
 
+```smali
+const-string	v1, "String"
+```
+
+* Smali
+
 ```markdown
 string
 ```
@@ -2848,9 +2888,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `70 (2022, Wednesday, October 26th at 8:26 pm PST)`
+**File version:** `71 (2022, Wednesday, October 26th at 9:13 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,454`
+**Line count (including blank lines and compiler line):** `5,536`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4785,11 +4825,35 @@ mytext = 'String';
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 71 (Coming soon)</b></summary>
+<details><summary><b>Version 71 (2022, Wednesday, October 26th at 9:13 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V71.md)
+
+**This release uses/represents data from:** `2022, Tuesday, October 25th` & `2022, Wednesday, October 26th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for KiCad Layout, KiCad Schematic, MLIR, Smali, and Terra
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Smali, Terra, and KiCad Schematic
+- - [x] Updated the `//` comment section to include MLIR
+- - [x] Updated the `UNSUPPORTED` comment section to include KiCad Layout
+- [x] Updated the print statement section
+- - [x] Updated the `str1 = "String"` section to include MLIR
+- - [x] Added the `const-string	v1, "String"` string section to include Smali
+- - [x] Updated the `print("String")` string section to include Terra
+- - [x] Added the `S = "String";` string section to include Lucid
+- - [x] Added the `string "String"` section to include KiCad Schematic
+- - [x] Added the `("String")` section to KiCad Layout
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 71
 - [ ] No other changes in version 71
 
 </details> <!-- Section end !-->
@@ -5421,6 +5485,24 @@ mytext = 'String';
 
 - [ ] Coming soon
 - [ ] No other changes in version 140
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 141 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 141
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 142 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 142
 
 </details> <!-- Section end !-->
 
