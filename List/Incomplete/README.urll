@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Saturday, October 22nd at 11:59 pm PST
+-- As of 2022, Sunday, October 23rd at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -18,6 +18,7 @@ https://github.com/seanpm2001/Learn-ALS
 https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-ANTLR
 https://github.com/seanpm2001/Learn-AMPL
+https://github.com/seanpm2001/Learn-Amulet
 https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-Apex
 https://github.com/seanpm2001/Learn-Arduino
@@ -36,6 +37,7 @@ https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
 https://github.com/seanpm2001/Learn-Blade
+https://github.com/seanpm2001/Learn-BlitzBasic
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-CartoCSS
@@ -159,6 +161,7 @@ https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Mallard
 https://github.com/seanpm2001/Learn-Max
 https://github.com/seanpm2001/Learn-Maxima
+https://github.com/seanpm2001/Learn-McFunction
 https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Mercury
@@ -226,6 +229,7 @@ https://github.com/seanpm2001/Learn-RUNOFF
 https://github.com/seanpm2001/Learn-Sage
 https://github.com/seanpm2001/Learn-SaltStack
 https://github.com/seanpm2001/Learn-SAS
+https://github.com/seanpm2001/Learn-SASL
 https://github.com/seanpm2001/Learn-SASS
 https://github.com/seanpm2001/Learn-Seed7
 https://github.com/seanpm2001/Learn-Self
@@ -265,6 +269,7 @@ https://github.com/seanpm2001/Learn-VCL
 https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-VisualBasicScript
+https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
@@ -282,7 +287,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 278/338
+-- Count: 283/343
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -418,13 +423,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V64 date: 2022, Friday, October 21st at 1:03 pm PST, representing data from 2022, Friday, October 21st
 -- V65: 5 entries added, 278 entries remain (ratio: 278/338 (82.24% incomplete, 17.76% complete))
 -- V65 date: 2022, Wednesday, October 26th at 6:45 pm PST, representing data from 2022, Saturday, October 22nd
+-- V66: 5 entries added, 283 entries remain (ratio: 283/343 (82.50% incomplete, 17.50% complete))
+-- V66 date: 2022, Wednesday, October 26th at 7:52 pm PST, representing data from 2022, Sunday, October 23rd
 
--- Ratio (incomplete/complete): 278/338 (82.24% incomplete, 17.76% complete)
+-- Ratio (incomplete/complete): 283/343 (82.50% incomplete, 17.50% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 65 (2022, Wednesday, October 26th at 6:45 pm PST)
--- Line count (including blank lines and compiler line): 431
+-- File version: 66 (2022, Wednesday, October 26th at 7:52 pm PST)
+-- Line count (including blank lines and compiler line): 438
 
 -- End of script
