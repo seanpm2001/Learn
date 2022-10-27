@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `343`/`415` (as of 2022, Sunday, October 23rd at 11:59 pm PST)
+Current progress `348`/`415` (as of 2022, Monday, October 24th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `81.65%` complete, `18.35%` incomplete.
+**Ratio:** `83.85%` complete, `16.15%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -24,6 +24,8 @@ This list covers the creation of the language repositories.
 ***
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the repository list</b></summary>
+
+**This list is 1 entry short, but I can't figure out where at the moment (if it is a `1` (`- [x]`) or a `0` (`- []`))**
 
 - [x] 1C Enterprise
 - [x] Agda
@@ -116,7 +118,7 @@ This list covers the creation of the language repositories.
 - [x] DM
 - [x] Dockerfile
 - [x] DTrace
-- [ ] DCPU-16-ASM
+- [x] DCPU-16-ASM
 - [x] DogeScript
 - [x] Dylan
 - [x] E
@@ -160,7 +162,7 @@ This list covers the creation of the language repositories.
 - [ ] Graphviz DOT
 - [ ] Groovy
 - [x] GraphQL
-- [ ] Grammatical Framework
+- [x] Grammatical Framework
 - [x] Go2003
 - [x] GoogleGo
 - [x] GDScript
@@ -191,7 +193,7 @@ This list covers the creation of the language repositories.
 - [ ] HyPhy
 - [x] INI
 - [x] INTERCAL
-- [ ] ISWIM
+- [x] ISWIM
 - [ ] J
 - [ ] JFlex
 - [x] Jade
@@ -233,7 +235,7 @@ This list covers the creation of the language repositories.
 - [x] LOLCODE
 - [x] LookML
 - [x] Latte
-- [ ] Lucid
+- [x] Lucid
 - [x] LiveScript
 - [x] LiveCode
 - [x] LabVIEW
@@ -345,7 +347,7 @@ This list covers the creation of the language repositories.
 - [ ] Roff
 - [x] RDoc
 - [x] RPC
-- [ ] RPGLE
+- [x] RPGLE
 - [ ] Refal
 - [x] Rascal
 - [x] RouterOS Script
@@ -462,9 +464,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `63 (2022, Wednesday, October 22nd at 8:05 pm PST)`
+**File version:** `64 (2022, Wednesday, October 22nd at 8:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,892`
+**Line count (including blank lines and compiler line):** `2,936`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1914,13 +1916,13 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 63</b></summary>
 
-**Version 63 (C2022, Wednesday, October 26th at 8:05 pm PST)**
+**Version 63 (2022, Wednesday, October 26th at 8:05 pm PST)**
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V62.md)
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V63.md)
 
-**This release represents data from:** `2022, Saturday, October 22nd`
+**This release represents data from:** `2022, Sunday, October 23rd`
 
 > Changes:
 
@@ -1943,15 +1945,27 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 64</b></summary>
 
-**Version 64 (Coming soon)**
+**Version 64 (2022, Wednesday, October 26th at 8:53 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V64.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V64.md)
+
+**This release represents data from:** `2022, Monday, October 24th`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Added a miscalculation notice
+- - [x] Checked 5 new entries (old total: 343 | new total: 348)
+- - [x] Added 0 new entries to the list (old total: 415 | new total: 415)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 64
 - [ ] No other changes in version 64
 
 </details> <!-- Section end !-->
@@ -2883,6 +2897,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 126
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 127</b></summary>
+
+**Version 127 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 127
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 128</b></summary>
+
+**Version 128 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 128
 
 </details> <!-- Section end !-->
 
