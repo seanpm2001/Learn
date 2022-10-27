@@ -343,6 +343,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jython/"><img src="/Programming/Logos/J/Jython/Jython1.png" width="100px;" alt=""/><br /><sub><b>Learn Jython</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jasmin/"><img src="/Programming/Logos/J/Jasmine/JasmineLogo_128px.png" width="100px;" alt=""/><br /><sub><b>Learn Jasmin</b></sub></a></td>
   </tr>
+  <!-- Row 10B !-->
+  <!-- Letter J3 !-->
+  <tr>
+    <td align="center"><p>Section J3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON5/"><img src="/Programming/Logos/J/JSON5/JSON5_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JSON5</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 11A !-->
   <!-- Letter K !-->
   <tr>
@@ -384,7 +396,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section L3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LiveScript/"><img src="/Programming/Logos/L/LiveScript/LiveScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn LiveScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Latte/"><img src="/Programming/Logos/L/Latte/Latte-lang-logo-large.png" width="100px;" alt=""/><br /><sub><b>Learn Latte</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -521,7 +533,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QT-Script/"><img src="/Programming/Logos/Q/QT-Script/QT_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn QT Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-q/"><img src="/Programming/Logos/Q/q/Q_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn q</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-QMake/"><img src="/Programming/Logos/Q/QMake/QMake_QT.png" width="100px;" alt=""/><br /><sub><b>Learn QMake</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-QueryByExample/"><img src="/Programming/Logos/Q/QueryByExample/QBE_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Query By Example (QBE)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 18A !-->
@@ -631,6 +643,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TLA/"><img src="/Programming/Logos/T/TLA/TLA_Logo_1024px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn TLA</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TOML/"><img src="/Programming/Logos/T/TOML/toml-400.png" width="100px;" alt=""/><br /><sub><b>Learn TOML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TXL/"><img src="/Programming/Logos/T/TXL/TXL_Logo_Large_500x.png" width="100px;" alt=""/><br /><sub><b>Learn TXL</b></sub></a></td>
+  </tr>
+  <!-- Row 20B !-->
+  <!-- Letter T !-->
+  <tr>
+    <td align="center"><p>Section T2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Textile/"><img src="/Programming/Logos/T/Textile/TextileLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Textile</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-TSX/"><img src="/Programming/Logos/T/TSX/TSX_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn TSX</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 21A !-->
   <!-- Letter U !-->
@@ -1020,6 +1044,8 @@ Isabelle
 * X-Pixmap
 * OpenCL
 * CH
+* TSX
+* JSON5
 
 `//` & `/* */`
 
@@ -1086,6 +1112,7 @@ Isabelle
 * Chapel
 * OpenCL
 * CH
+* TSX
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1095,6 +1122,7 @@ Isabelle
 <!-- * ANTLR (unsure) !-->
 <!-- * CUDA (unsure) !-->
 <!-- * ABAP-CDS (unsure) !-->
+<!-- * JSON5 (unsure) !-->
 
 `/*` & `*/`
 
@@ -1160,6 +1188,7 @@ Isabelle
 * Chapel
 * OpenCL
 * CH
+* TSX
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1169,6 +1198,7 @@ Isabelle
 <!-- * ANTLR (unsure) !-->
 <!-- * CUDA (unsure) !-->
 <!-- * ABAP-CDS (unsure) !-->
+<!-- * JSON5 (unsure) !-->
 
 `<!-- !-->`
 
@@ -1248,6 +1278,7 @@ Isabelle
 * AutoHotKey
 * Hy
 * SRecode Template
+* Latte
 
 `C`
 
@@ -1446,6 +1477,8 @@ Isabelle
 * Befunge
 * Module Management System
 * Wierd
+* QueryByExample
+* Textile
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -2448,6 +2481,32 @@ let x = "String"
 
 * Augeas
 
+```tsx
+let message: string = 'String';
+console.log(message);
+```
+
+* TSX
+
+```json
+{"String"}
+```
+
+* JSON5
+
+```textile
+h1.Heading 1 String
+```
+
+* Textile
+
+```querybyexample
+.....Heading: String
+..Subheading: String
+```
+
+* QueryByExample (QBE)
+
 ```markdown
 string
 ```
@@ -2460,6 +2519,7 @@ string
 * Pod
 * RMarkdown
 * RDoc
+* Textile
 
 <!-- and more !-->
 
@@ -2511,6 +2571,7 @@ unknown
 * X-Pixmap
 * OpenCL
 * FP
+* Lucid
 
 ### Int
 
@@ -2692,6 +2753,14 @@ I might do a new system where I start the projects on day A, make as much progre
 
 Edit: I have postponed this until needed. My workflow resumed normally.
 
+#### 2022 October 19th/20th issues
+
+I fell too far behind with the core `learn` project, and had to take some time off creating new repositories to finish getting caught back up here. This is the second time this project has been delayed. It took me nearly 6 hours to get caught up with 6 days worth of entries.
+
+#### 2022 October 25th/26th issues
+
+Despite only being back from repairs for less than 8 full days, my laptops fan has come off the barring again. This was really upsetting tonight, and it prevented me from finishing my work properly. I was so far ahead of schedule, then this threw me off by about 4 hours. I held off some work for tomorrow (2022, Octber 26th) and made the following day another catchup day, as the `learn` repository fell several days behind. I feel like this is going to happen frequently until I get fully caught up on the entire project (which has an expected dead of 2022, November 6th, which unfortunately is still going up due to off days)
+
 #### Integration with SNU Programming Tools
 
 **2022 October 6th scope expansion for SNU Programming Tools**
@@ -2711,9 +2780,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `67 (2022, Friday, October 21st at 12:43 pm PST)`
+**File version:** `68 (2022, Wednesday, October 26th at 6:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,149`
+**Line count (including blank lines and compiler line):** `5,283`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4511,11 +4580,54 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details>
 
-<details><summary><b>Version 68 (Coming soon)</b></summary>
+<details><summary><b>Version 68 (2022, Wednesday, October 26th at 6:31 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V68.md)
+
+**This release uses/represents data from:** `2022, Saturday, October 22nd`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for JSON5, Latte, QueryByExample, Textile, and TSX 
+- [x] Updated the source code comments section
+- - [x] Updated the `;` comment section to include Latte
+- - [x] Updated the `unknown` comment section to include QueryByExample, and Textile
+- - [x] Updated the `//` comment section to include JSON5, and TSX
+- - [x] Updated the `//` & `/*` & `*/` comment section to TSX
+- - [x] Updated the `/*` & `*/` comment section to include TSX
+- [x] Updated the print statement section
+- - [x] Added the
+
+```tsx
+let message: string = 'String';
+console.log(message);
+```
+
+- - [ ] section to include TSX
+- - [x] Added the `{"String"}` section to include JSON5
+- - [x] Added the
+
+```querybyexample
+.....Heading: String
+..Subheading: String
+```
+
+- - [ ] section to include QueryByExample
+- - [x] Added the `h1.Heading 1 String` section to include Textile
+- - [x] Updated the `UNKNOWN` section to Latte
+- [x] Updated the `Issues` section
+- - [x] Added the `2022 October 19th/20th issues` subsection
+- - [x] Added the `2022 October 25th/26th issues` subsection
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 68
+- - [x] Fixed a dropdown bug
 - [ ] No other changes in version 68
 
 </details>
@@ -4923,6 +5035,8 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 - [ ] Coming soon
 - [ ] No other changes in version 112
 
+</details>
+
 <details><summary><b>Version 113 (Coming soon)</b></summary>
 
 **Changes:**
@@ -4956,6 +5070,8 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 116
+
+</details>
 
 <details><summary><b>Version 117 (Coming soon)</b></summary>
 
@@ -5116,6 +5232,24 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 - [ ] Coming soon
 - [ ] No other changes in version 134
+
+</details>
+
+<details><summary><b>Version 135 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 135
+
+</details>
+
+<details><summary><b>Version 136 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 136
 
 </details>
 
