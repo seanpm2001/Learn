@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `338`/`415` (as of 2022, Saturday, October 22nd at 11:59 pm PST)
+Current progress `343`/`415` (as of 2022, Sunday, October 23rd at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `81.44%` complete, `18.56%` incomplete.
+**Ratio:** `81.65%` complete, `18.35%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -52,7 +52,7 @@ This list covers the creation of the language repositories.
 - [x] ABNF
 - [x] ABAP
 - [x] ABAP-CDS
-- [ ] Amulet
+- [x] Amulet
 - [x] AspectJ
 - [x] Augeas
 - [x] AGS-Script
@@ -74,7 +74,7 @@ This list covers the creation of the language repositories.
 - [x] Boogie
 - [x] Befunge
 - [x] Blade
-- [ ] BlitzBasic
+- [x] BlitzBasic
 - [ ] Cadence
 - [x] C
 - [x] C-Plus-Plus
@@ -265,7 +265,7 @@ This list covers the creation of the language repositories.
 - [ ] MS-DOS Style
 - [x] Max
 - [ ] MLIR
-- [ ] mcFunction
+- [x] mcFunction
 - [x] MoonScript
 - [x] Maxima
 - [x] NASL
@@ -384,7 +384,7 @@ This list covers the creation of the language repositories.
 - [x] SXML
 - [x] SystemVerilog
 - [x] SRecode Template
-- [ ] SASL
+- [x] SASL
 - [ ] SQLPL
 - [x] Sublime Text
 - [x] SVG
@@ -416,7 +416,7 @@ This list covers the creation of the language repositories.
 - [x] VueJS
 - [x] VBA
 - [x] VCL
-- [ ] VisualLogic
+- [x] VisualLogic
 - [x] Vala
 - [x] VBScript
 - [x] Visual Basic Script (duplicate of VBScript)
@@ -462,9 +462,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `62 (2022, Wednesday, October 22nd at 6:52 pm PST)`
+**File version:** `63 (2022, Wednesday, October 22nd at 8:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,847`
+**Line count (including blank lines and compiler line):** `2,892`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -500,7 +500,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added a file timestamp
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 2</b></summary>
 
@@ -518,7 +518,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file timestamp
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 3</b></summary>
 
@@ -537,7 +537,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file timestamp
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 4</b></summary>
 
@@ -555,7 +555,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the file timestamp
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 5</b></summary>
 
@@ -576,7 +576,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Made all entries in this file collapsible/expandable through the use of the `<details>` tag
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 6</b></summary>
 
@@ -595,7 +595,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 7</b></summary>
 
@@ -615,7 +615,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 8</b></summary>
 
@@ -635,7 +635,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 9</b></summary>
 
@@ -654,7 +654,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 10</b></summary>
 
@@ -674,7 +674,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 11</b></summary>
 
@@ -694,7 +694,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 12</b></summary>
 
@@ -715,7 +715,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Compressed all checkbox entries within the file history section to reduce unnecessary whitespace
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 13</b></summary>
 
@@ -736,7 +736,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 14</b></summary>
 
@@ -757,7 +757,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 15</b></summary>
 
@@ -778,7 +778,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 15
 - [ ] No other changes in version 15
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 16</b></summary>
 
@@ -799,7 +799,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 17</b></summary>
 
@@ -820,7 +820,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 18</b></summary>
 
@@ -841,7 +841,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 19</b></summary>
 
@@ -862,7 +862,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 20</b></summary>
 
@@ -883,7 +883,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 21</b></summary>
 
@@ -904,7 +904,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 22</b></summary>
 
@@ -925,7 +925,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 22
 - [ ] No other changes in version 22
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 23</b></summary>
 
@@ -946,7 +946,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 23
 - [ ] No other changes in version 23
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 24</b></summary>
 
@@ -968,7 +968,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Fixed a typo, and uncommented some elements in the entry for V23
 - [ ] No other changes in version 24
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 25</b></summary>
 
@@ -989,7 +989,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 25
 - [ ] No other changes in version 25
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 26</b></summary>
 
@@ -1012,7 +1012,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 26
 - [ ] No other changes in version 26
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 27</b></summary>
 
@@ -1034,7 +1034,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 27
 - [ ] No other changes in version 27
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 28</b></summary>
 
@@ -1055,7 +1055,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 28
 - [ ] No other changes in version 28
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 29</b></summary>
 
@@ -1079,7 +1079,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 29
 - [ ] No other changes in version 29
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 30</b></summary>
 
@@ -1103,7 +1103,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 30
 - [ ] No other changes in version 30
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 31</b></summary>
 
@@ -1127,7 +1127,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 31
 - [ ] No other changes in version 31
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 32</b></summary>
 
@@ -1151,7 +1151,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 32
 - [ ] No other changes in version 32
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 33</b></summary>
 
@@ -1175,7 +1175,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 33
 - [ ] No other changes in version 33
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 34</b></summary>
 
@@ -1199,7 +1199,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 34
 - [ ] No other changes in version 34
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 35</b></summary>
 
@@ -1223,7 +1223,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 35
 - [ ] No other changes in version 35
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 36</b></summary>
 
@@ -1247,7 +1247,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 36
 - [ ] No other changes in version 36
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 37</b></summary>
 
@@ -1271,7 +1271,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 37
 - [ ] No other changes in version 37
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 38</b></summary>
 
@@ -1295,7 +1295,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 38
 - [ ] No other changes in version 38
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 39</b></summary>
 
@@ -1319,7 +1319,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 39
 - [ ] No other changes in version 39
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 40</b></summary>
 
@@ -1343,7 +1343,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 40
 - [ ] No other changes in version 40
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 41</b></summary>
 
@@ -1367,7 +1367,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 41
 - [ ] No other changes in version 41
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 42</b></summary>
 
@@ -1391,7 +1391,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 42
 - [ ] No other changes in version 42
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 43</b></summary>
 
@@ -1415,7 +1415,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 43
 - [ ] No other changes in version 43
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 44</b></summary>
 
@@ -1441,7 +1441,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 44
 - [ ] No other changes in version 44
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 45</b></summary>
 
@@ -1467,7 +1467,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 45
 - [ ] No other changes in version 45
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 46</b></summary>
 
@@ -1493,7 +1493,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 46
 - [ ] No other changes in version 46
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 47</b></summary>
 
@@ -1519,7 +1519,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 47
 - [ ] No other changes in version 47
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 48</b></summary>
 
@@ -1544,7 +1544,8 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [x] Updated the file history section
 - - [x] Added an entry for version 48
 - [ ] No other changes in version 48
-</details>
+
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 49</b></summary>
 
@@ -1570,7 +1571,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 49
 - [ ] No other changes in version 49
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 50</b></summary>
 
@@ -1596,7 +1597,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 50
 - [ ] No other changes in version 50
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 51</b></summary>
 
@@ -1622,7 +1623,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 51
 - [ ] No other changes in version 51
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 52</b></summary>
 
@@ -1648,7 +1649,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 52
 - [ ] No other changes in version 52
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 53</b></summary>
 
@@ -1674,7 +1675,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 53
 - [ ] No other changes in version 53
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 54</b></summary>
 
@@ -1700,7 +1701,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 54
 - [ ] No other changes in version 54
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 55</b></summary>
 
@@ -1726,7 +1727,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 55
 - [ ] No other changes in version 55
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 56</b></summary>
 
@@ -1752,7 +1753,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 56
 - [ ] No other changes in version 56
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 57</b></summary>
 
@@ -1778,7 +1779,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 57
 - [ ] No other changes in version 57
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 58</b></summary>
 
@@ -1805,7 +1806,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] No other changes in version 58
 
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 59</b></summary>
 
@@ -1831,7 +1832,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 59
 - [ ] No other changes in version 59
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 60</b></summary>
 
@@ -1857,7 +1858,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 60
 - [ ] No other changes in version 60
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 61</b></summary>
 
@@ -1883,7 +1884,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 61
 - [ ] No other changes in version 61
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 62</b></summary>
 
@@ -1909,22 +1910,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 62
 - [ ] No other changes in version 62
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 63</b></summary>
 
-**Version 63 (Coming soon)**
+**Version 63 (C2022, Wednesday, October 26th at 8:05 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V63.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V62.md)
+
+**This release represents data from:** `2022, Saturday, October 22nd`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 338 | new total: 343)
+- - [x] Added 0 new entries to the list (old total: 415 | new total: 415)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 63
+- [x] Technical changes
+- - [x] Added a comment to all 126 changelog entries to indicate section endings
+- - [x] Fixed changelog entry 48 (a `</details>` tag was too close to the start of the next section) 
 - [ ] No other changes in version 63
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 64</b></summary>
 
@@ -1939,7 +1954,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 64
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 65</b></summary>
 
@@ -1954,7 +1969,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 65
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 66</b></summary>
 
@@ -1969,7 +1984,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 66
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 67</b></summary>
 
@@ -1984,7 +1999,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 67
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 68</b></summary>
 
@@ -1999,7 +2014,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 68
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 69</b></summary>
 
@@ -2014,7 +2029,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 69
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 70</b></summary>
 
@@ -2029,7 +2044,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 70
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 71</b></summary>
 
@@ -2044,7 +2059,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 71
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 72</b></summary>
 
@@ -2059,7 +2074,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 72
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 73</b></summary>
 
@@ -2074,7 +2089,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 73
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 74</b></summary>
 
@@ -2089,7 +2104,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 74
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 75</b></summary>
 
@@ -2104,7 +2119,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 75
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 76</b></summary>
 
@@ -2119,7 +2134,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 76
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 77</b></summary>
 
@@ -2134,7 +2149,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 77
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 78</b></summary>
 
@@ -2149,7 +2164,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 78
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 79</b></summary>
 
@@ -2164,7 +2179,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 79
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 80</b></summary>
 
@@ -2179,7 +2194,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 80
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 81</b></summary>
 
@@ -2194,7 +2209,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 81
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 82</b></summary>
 
@@ -2209,7 +2224,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 82
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 83</b></summary>
 
@@ -2224,7 +2239,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 83
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 84</b></summary>
 
@@ -2239,7 +2254,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 84
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 85</b></summary>
 
@@ -2254,7 +2269,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 85
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 86</b></summary>
 
@@ -2269,7 +2284,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 86
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 87</b></summary>
 
@@ -2284,7 +2299,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 87
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 88</b></summary>
 
@@ -2299,7 +2314,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 88
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 89</b></summary>
 
@@ -2314,7 +2329,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 89
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 90</b></summary>
 
@@ -2329,7 +2344,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 90
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 91</b></summary>
 
@@ -2344,7 +2359,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 91
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 92</b></summary>
 
@@ -2359,7 +2374,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 92
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 93</b></summary>
 
@@ -2374,7 +2389,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 93
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 94</b></summary>
 
@@ -2389,7 +2404,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 94
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 95</b></summary>
 
@@ -2404,7 +2419,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 95
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 96</b></summary>
 
@@ -2419,7 +2434,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 96
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 97</b></summary>
 
@@ -2434,7 +2449,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 97
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 98</b></summary>
 
@@ -2449,7 +2464,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 98
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 99</b></summary>
 
@@ -2464,7 +2479,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 99
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 100</b></summary>
 
@@ -2479,7 +2494,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 100
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 101</b></summary>
 
@@ -2494,7 +2509,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 101
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 102</b></summary>
 
@@ -2509,7 +2524,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 102
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 103</b></summary>
 
@@ -2524,7 +2539,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 103
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 104</b></summary>
 
@@ -2539,7 +2554,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 104
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 105</b></summary>
 
@@ -2554,7 +2569,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 105
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 106</b></summary>
 
@@ -2569,7 +2584,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 106
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 107</b></summary>
 
@@ -2584,7 +2599,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 107
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 108</b></summary>
 
@@ -2599,7 +2614,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 108
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 109</b></summary>
 
@@ -2614,7 +2629,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 109
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 110</b></summary>
 
@@ -2629,7 +2644,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 110
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 111</b></summary>
 
@@ -2644,7 +2659,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 111
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 112</b></summary>
 
@@ -2659,7 +2674,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 112
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 113</b></summary>
 
@@ -2674,7 +2689,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 113
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 114</b></summary>
 
@@ -2689,7 +2704,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 114
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 115</b></summary>
 
@@ -2704,7 +2719,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 115
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 116</b></summary>
 
@@ -2719,7 +2734,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 116
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 117</b></summary>
 
@@ -2734,7 +2749,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 117
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 118</b></summary>
 
@@ -2749,7 +2764,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 118
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 119</b></summary>
 
@@ -2764,7 +2779,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 119
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 120</b></summary>
 
@@ -2779,7 +2794,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 120
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 121</b></summary>
 
@@ -2794,7 +2809,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 121
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 122</b></summary>
 
@@ -2809,7 +2824,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 122
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 123</b></summary>
 
@@ -2824,7 +2839,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 123
 
-</details>
+</details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 124</b></summary>
 
@@ -2839,7 +2854,37 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] Coming soon
 - [ ] No other changes in version 124
 
-</details>
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 125</b></summary>
+
+**Version 125 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 125
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 126</b></summary>
+
+**Version 126 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 126
+
+</details> <!-- Section end !-->
 
 </details> <!-- Changelog:main !-->
 
