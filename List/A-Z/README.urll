@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V62: 2022, Wednesday, October 26th at 6:37 pm PST
--- Representing data from 2022, Saturday, October 22nd at 11:59 pm PST
+-- V63: 2022, Wednesday, October 26th at 7:20 pm PST
+-- Representing data from 2022, Sunday, October 23rd at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -21,6 +21,7 @@ https://github.com/seanpm2001/Learn-ALGOL
 https://github.com/seanpm2001/Learn-Alloy
 https://github.com/seanpm2001/Learn-ALS
 https://github.com/seanpm2001/Learn-AMPL
+https://github.com/seanpm2001/Learn-Amulet
 https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-ANTLR
 https://github.com/seanpm2001/Learn-ApacheConf
@@ -46,6 +47,7 @@ https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
 https://github.com/seanpm2001/Learn-Blade
+https://github.com/seanpm2001/Learn-BlitzBasic
 https://github.com/seanpm2001/Learn-Boo
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
@@ -207,6 +209,7 @@ https://github.com/seanpm2001/Learn-Markdown
 https://github.com/seanpm2001/Learn-Mathematica
 https://github.com/seanpm2001/Learn-Max
 https://github.com/seanpm2001/Learn-Maxima
+https://github.com/seanpm2001/Learn-McFunction
 https://github.com/seanpm2001/Learn-MediaWiki
 https://github.com/seanpm2001/Learn-Mercury
 https://github.com/seanpm2001/Learn-Meson
@@ -296,6 +299,7 @@ https://github.com/seanpm2001/Learn-Rust
 https://github.com/seanpm2001/Learn-Sage
 https://github.com/seanpm2001/Learn-SaltStack
 https://github.com/seanpm2001/Learn-SAS
+https://github.com/seanpm2001/Learn-SASL
 https://github.com/seanpm2001/Learn-SASS
 https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
@@ -348,6 +352,7 @@ https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-VisualBasicScript
+https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
 -- W
 https://github.com/seanpm2001/Learn-WDL
@@ -372,10 +377,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 340 languages listed (as of 2022, Saturday, October 22nd at 11:59 pm PST)
+-- 345 languages listed (as of 2022, Sunday, October 23rd at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 62 (2022, Wednesday, October 26th at 6:37 pm PST)
--- Line count (including blank lines and compiler line): 382
+-- File version: 63 (2022, Wednesday, October 26th at 7:20 pm PST)
+-- Line count (including blank lines and compiler line): 387
 -- End of file
