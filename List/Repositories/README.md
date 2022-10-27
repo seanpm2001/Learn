@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `333`/`415` (as of 2022, Friday, October 21st at 1:10 pm PST)
+Current progress `338`/`415` (as of 2022, Saturday, October 22nd at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `80.24%` complete, `19.76%` incomplete.
+**Ratio:** `81.44%` complete, `18.56%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -206,7 +206,7 @@ This list covers the creation of the language repositories.
 - [x] JSSS
 - [x] JupyterNotebook
 - [x] Jython
-- [ ] JSON5
+- [x] JSON5
 - [x] Jsonnet
 - [x] Julia
 - [x] Jasmin
@@ -232,7 +232,7 @@ This list covers the creation of the language repositories.
 - [x] Logtalk
 - [x] LOLCODE
 - [x] LookML
-- [ ] Latte
+- [x] Latte
 - [ ] Lucid
 - [x] LiveScript
 - [x] LiveCode
@@ -325,7 +325,7 @@ This list covers the creation of the language repositories.
 - [x] QMake
 - [x] QSharp
 - [x] QTScript
-- [ ] QueryByExample
+- [x] QueryByExample
 - [x] q
 - [x] QML
 - [x] Raku
@@ -398,10 +398,10 @@ This list covers the creation of the language repositories.
 - [x] TOML
 - [ ] TSQL
 - [x] Twig
-- [ ] Textile
+- [x] Textile
 - [ ] Terra
 - [x] TXL
-- [ ] TSX
+- [x] TSX
 - [x] UnrealScript
 - [x] Uno
 - [ ] URLL (seanpm2001)
@@ -462,9 +462,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `61 (2022, Friday, October 21st at 1:10 pm PST)`
+**File version:** `62 (2022, Wednesday, October 22nd at 6:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `2,804`
+**Line count (including blank lines and compiler line):** `2,847`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -1887,15 +1887,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 62</b></summary>
 
-**Version 62 (Coming soon)**
+**Version 62 (2022, Wednesday, October 26th at 6:52 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V62.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V62.md)
+
+**This release represents data from:** `2022, Saturday, October 22nd`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 333 | new total: 338)
+- - [x] Added 0 new entries to the list (old total: 415 | new total: 415)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 62
 - [ ] No other changes in version 62
 
 </details>
@@ -2799,5 +2810,37 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - [ ] No other changes in version 122
 
 </details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 123</b></summary>
+
+**Version 123 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 123
+
+</details>
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 124</b></summary>
+
+**Version 124 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 124
+
+</details>
+
+</details> <!-- Changelog:main !-->
 
 ***
