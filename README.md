@@ -175,7 +175,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DIGITAL-Command-Language/"><img src="/Programming/Logos/D/DIGITAL_Command_Language/DIGITAL_Logo1000pxPNG.png" width="100px;" alt=""/><br /><sub><b>Learn DIGITAL Comand Language</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dhall/"><img src="/Programming/Logos/D/Dhall/Dhall1.png" width="100px;" alt=""/><br /><sub><b>Learn Dhall</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Diff/"><img src="/Programming/Logos/D/Diff/Diff.png" width="100px;" alt=""/><br /><sub><b>Learn Diff</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DCPU-16-ASM/"><img src="/Programming/Logos/D/DCPU-16-ASM/DCPU16ASM.jpeg" width="100px;" alt=""/><br /><sub><b>Learn DCPU-16 ASM (Assembly)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 5A !-->
@@ -253,7 +253,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section G3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gradle/"><img src="/Programming/Logos/G/Gradle/Gradlephant.png" width="100px;" alt=""/><br /><sub><b>Learn Gradle</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Grammatical-Framework/"><img src="/Programming/Logos/G/Grammatical-Framework/Grammatical_Framework_Logo1.svg" width="100px;" alt=""/><br /><sub><b>Learn Grammatical Framework</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -314,7 +314,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Isabelle/"><img src="/Programming/Logos/I/Isabelle/PYTHAGOREAN_THEOREM_5000x5000.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Isabelle</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-IronPython/"><img src="/Programming/Logos/I/IronPython/IronPython_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn IronPython</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-INTERCAL/"><img src="/Programming/Logos/I/INTERCAL/INTERCAL_LogoLQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn INTERCAL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ISWIM/"><img src="/Programming/Logos/I/ISWIM/ISWIM_PlaceholderLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ISWIM</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -397,7 +397,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section L3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LiveScript/"><img src="/Programming/Logos/L/LiveScript/LiveScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn LiveScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Latte/"><img src="/Programming/Logos/L/Latte/Latte-lang-logo-large.png" width="100px;" alt=""/><br /><sub><b>Learn Latte</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Lucid/"><img src="/Programming/Logos/L/Lucid/Lucid_Wordmark.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Lucid</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -570,7 +570,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RUNOFF/"><img src="/Programming/Logos/R/RUNOFF/RUNOFF_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn RUNOFF</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RDoc/"><img src="/Programming/Logos/R/RDoc/RDoc_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn RDoc</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RPC/"><img src="/Programming/Logos/R/RPC/RPC_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn RPC</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RPGLE/"><img src="/Programming/Logos/R/RGPLE/IBM_RPG_logo.png" width="100px;" alt=""/><br /><sub><b>Learn RPGLE</b></sub></a></td>
   </tr>
   <!-- Row 19A !-->
   <!-- Letter S !-->
@@ -846,6 +846,7 @@ Isabelle
 * Dhall
 * LiveCode
 * PLSQL
+* Grammatical Framework
 
 `---`
 
@@ -854,6 +855,7 @@ Isabelle
 `--` & `{- -}`
 
 * Elm
+* Grammatical Framework
 
 `#`
 
@@ -1048,6 +1050,7 @@ Isabelle
 * TSX
 * JSON5
 * VisualLogic
+* RPGLE
 
 `//` & `/* */`
 
@@ -1126,6 +1129,7 @@ Isabelle
 <!-- * ABAP-CDS (unsure) !-->
 <!-- * JSON5 (unsure) !-->
 <!-- * VisualLogic (unsure) !-->
+<!-- * RPGLE (unsure) !-->
 
 `/*` & `*/`
 
@@ -1203,6 +1207,7 @@ Isabelle
 <!-- * ABAP-CDS (unsure) !-->
 <!-- * JSON5 (unsure) !-->
 <!-- * VisualLogic (unsure) !-->
+<!-- * RPGLE (unsure) !-->
 
 `<!-- !-->`
 
@@ -1285,6 +1290,7 @@ Isabelle
 * SRecode Template
 * Latte
 * BlitzBasic
+* DCPU-16-ASM
 
 `C`
 
@@ -1486,6 +1492,8 @@ Isabelle
 * Wierd
 * QueryByExample
 * Textile
+* ISWIM
+* Lucid
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -2475,6 +2483,7 @@ Text    BYTE  "String",10,0
 ```
 
 * SRecode Template
+* ISWIM (guess)
 
 ```wierd
 gnirtS
@@ -2537,6 +2546,32 @@ put_line "String"
 ```
 
 * Amulet
+
+```dcpu-16-asm
+:text
+    dat "String", 0
+```
+
+* DCPU-16 ASM
+
+```rpgle
+dcl-s mytext char(25);
+mytext = 'String';
+```
+
+* RPGLE
+
+```grammatical-framework
+String => "String"
+```
+
+* Grammatical Framework
+
+```lucid
+S = "String";
+```
+
+* Lucid
 
 ```markdown
 string
@@ -2604,6 +2639,7 @@ unknown
 * FP
 * Lucid
 * VisualLogic
+* ISWIM
 
 ### Int
 
@@ -2812,9 +2848,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `69 (2022, Wednesday, October 26th at 7:15 pm PST)`
+**File version:** `70 (2022, Wednesday, October 26th at 8:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,361`
+**Line count (including blank lines and compiler line):** `5,454`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4666,10 +4702,9 @@ console.log(message);
 
 <details><summary><b>Version 69 (2022, Wednesday, October 26th at 7:15 pm PST)</b></summary>
 
-**Changes:**
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/OldVersions/README/English/1/README_V68.md)
+[View this version](/OldVersions/README/English/1/README_V69.md)
 
 **This release uses/represents data from:** `2022, Sunday, October 23rd`
 
@@ -4701,11 +4736,51 @@ console.log(message);
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 70 (Coming soon)</b></summary>
+<details><summary><b>Version 70 (2022, Wednesday, October 26th at 8:26 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V70.md)
+
+**This release uses/represents data from:** `2022, Monday, October 24th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for DCPU-16-ASM, RPGLE, Grammatical Framework, ISWIM, and Lucid
+- [x] Updated the source code comments section
+- - [x] Updated the `;` comment section to include DCPU-16 ASM
+- - [x] Updated the `--` & `{-` & `-}` comment section to include Grammatical Framework
+- - [x] Updated the `//` comment section to include RPGLE
+- - [x] Updated the `UNKNOWN` comment section to include ISWIM, and Lucid
+- [x] Updated the print statement section
+- - [x] Added the
+
+```dcpu-16-asm
+:text
+    dat "String", 0
+```
+
+- - [ ] Section to include DCPU-16 ASM
+- - [x] Added the
+
+```rpgle
+dcl-s mytext char(25);
+mytext = 'String';
+```
+
+- - [ ] Section to include RPGLE
+
+- - [x] Added the `String => "String"` string section to include Grammatical Framework
+- - [x] Added the `S = "String";` string section to include Lucid
+- - [x] Added the `"String"` section to include ISWIM
+- - [x] Updated the `UNKNOWN` section to ISWIM
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 70
 - [ ] No other changes in version 70
 
 </details> <!-- Section end !-->
@@ -5328,6 +5403,24 @@ console.log(message);
 
 - [ ] Coming soon
 - [ ] No other changes in version 138
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 139 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 139
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 140 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 140
 
 </details> <!-- Section end !-->
 
