@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Monday, October 24th
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Saturday, October 29th
 
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
 - [ ] Amulet
@@ -14,6 +14,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Blockly (basically just a JSON zip archive)
 - [ ] CAML
 - [ ] CH
+- [ ] Cobra
 - [ ] Cyclone
 - [ ] DCPU16-ASM (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with DCPU-16 ASM source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the DCPU-16 ASM language will just perform an `all repositories` search)
 - [ ] DroppedText (seanpm2001)
@@ -27,6 +28,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] ISWIM
 - [ ] Jade
 - [ ] JavaScript++
+- [ ] JFlex (recognizes as its own separate language, but shows up as Lex)
 - [ ] Joy
 - [ ] JScript (too similar to JavaScript)
 - [ ] JScript.NET (also too similar to JavaScript)
@@ -43,6 +45,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Mallard
 - [ ] Matrix (seanpm2001)
 - [ ] Maxima
+- [ ] MS-DOS Style
 - [ ] Oberon
 - [ ] Octave
 - [ ] OpenCL (recognizes as C)
@@ -67,7 +70,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `61`
+**Total:** `64`
 
 ***
 
@@ -77,9 +80,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2022, Monday, October 24th at 6:01 pm PST)`
+**File version:** `18 (2022, Saturday, October 29th at 4:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `414`
+**Line count (including blank lines and compiler line):** `435`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -405,6 +408,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p lang="en"><b>Version 18 (2022, Saturday, October 29th at 4:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added `Cobra`, `JFlex`, and `MS-DOS Style` to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
 
 </details>
 
