@@ -53,7 +53,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Octave
 - [ ] OpenCL (recognizes as C)
 - [ ] Orwell
-- [ ] Perl6 (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Perl6 source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Perl6 language will just perform an `all repositories` search) (side note: Perl6 was renamed to Raku, but Perl6 still is recognized as a separate language by the GitHub linguist)
+- [ ] Perl6 (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Perl6 source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Perl6 language will just perform an `all repositories` search) (side note: Perl6 was renamed to Raku, but Perl6 still is recognized as a separate language by the GitHub linguist), additionally, when in use on newer repositories, it recognizes as Raku, and does not have the old Perl 6 label. I don't know why this happens. Also, I added pod6 on the same day, I thought it wouldn't recognize, but it is fine
 - [ ] PostCSS (recognizes as CSS)
 - [ ] PowerFX (basically just a YAML format)
 - [ ] QueryByExample
@@ -85,9 +85,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Sunday, November 6th at 5:34 pm PST)`
+**File version:** `22 (2022, Monday, November 7th at 7:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `494`
+**Line count (including blank lines and compiler line):** `512`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -485,6 +485,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p lang="en"><b>Version 22 (2022, Monday, November 7th at 7:02 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added some comments on Perl 6 and Pod 6
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
 
 </details>
 
