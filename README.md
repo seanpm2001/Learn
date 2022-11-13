@@ -348,7 +348,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section J3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON5/"><img src="/Programming/Logos/J/JSON5/JSON5_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JSON5</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-J/"><img src="/Programming/Logos/J/J/Jlogo_hires.png" width="100px;" alt=""/><br /><sub><b>Learn J</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -422,7 +422,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Meson/"><img src="/Programming/Logos/M/Meson/MesonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Meson</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M/"><img src="/Programming/Logos/M/M/M-400.png" width="100px;" alt=""/><br /><sub><b>Learn M</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Metal/"><img src="/Programming/Logos/M/Metal/MetalLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Metal</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/Mallard_XML_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Malbolge/"><img src="/Programming/Logos/M/Malbolge/Malbolge_Caution_512px.png" width="100px;" alt=""/><br /><sub><b>Learn Malbolge</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mako/"><img src="/Programming/Logos/M/Mako/MakoLogo_Modified_600px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Mako</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-2/"><img src="/Programming/Logos/M/Modula-2/Modula2PNG.png" width="100px;" alt=""/><br /><sub><b>Learn Modula-2</b></sub></a></td>
@@ -432,7 +432,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section M3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Modula-3/"><img src="/Programming/Logos/M/Modula-3/Modula-3.svg" width="100px;" alt=""/><br /><sub><b>Learn Modula-3</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mallard/"><img src="/Programming/Logos/M/Mallard/Mallard_XML_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Mallard</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MLIR/"><img src="/Programming/Logos/M/MLIR/MLIR-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MLIR</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mustache/"><img src="/Programming/Logos/M/Mustache/MustacheLangLogoGitHub.png" width="100px;" alt=""/><br /><sub><b>Learn Mustache</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Maxima/"><img src="/Programming/Logos/M/Maxima/MaximaLogo750px.png" width="100px;" alt=""/><br /><sub><b>Learn Maxima</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Max/"><img src="/Programming/Logos/M/Max/Logo_Max_8_software.jpg" width="100px;" alt=""/><br /><sub><b>Learn Max</b></sub></a></td>
@@ -443,10 +443,9 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter M !--> 
   <tr>
     <td align="center"><p>Section M4</p></td>
-    <!-- TODO at a later date: move lang:m4 to Section_M4 as the first entry !-->
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-MLIR/"><img src="/Programming/Logos/M/MLIR/MLIR-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MLIR</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Motoko/"><img src="/Programming/Logos/M/Motoko/Motoko-Logo-Square.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Motoko</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -472,7 +471,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NASL/"><img src="/Programming/Logos/N/NASL/NessusLogo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NASL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-NSIS/"><img src="/Programming/Logos/N/NSIS/NSISDL1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn NSIS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Nunjucks/"><img src="/Programming/Logos/N/Nunjucks/nunjucks.png" width="100px;" alt=""/><br /><sub><b>Learn Nunjucks</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Nemerle/"><img src="/Programming/Logos/N/Nemerle/Nemerle_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Nemerle</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -701,7 +700,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualBasicScript/"><img src="/Programming/Logos/V/VisualBasicScript/VBSccript_file_format_icon.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic Script (duplicate of VBScript)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VBA/"><img src="/Programming/Logos/V/VBA/VBA_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn VBA</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualLogic/"><img src="/Programming/Logos/V/Visual-Logic/VisualLogic_LogoWide_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Logic</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Vim-Snippet"><img src="/Programming/Logos/V/Vim-Snippet/Vim-Logo-1022x1024.png" width="100px;" alt=""/><br /><sub><b>Learn Vim Snippet</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -741,7 +740,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
-  <!-- X should always have at least 1 full row of X's !-->
+  <!-- TODO X should always have at least 1 full row of X's !-->
   <!-- Row 25A !-->
   <!-- Letter Y !-->
   <tr>
@@ -860,6 +859,7 @@ Isabelle
 * LiveCode
 * PLSQL
 * Grammatical Framework
+* Macaulay2
 
 `---`
 
@@ -951,6 +951,7 @@ Isabelle
 * Smalli
 * Tera
 * KiCad Schematic
+* Vim Snippet
 
 `#` & `"""`
 
@@ -1068,6 +1069,8 @@ Isabelle
 * VisualLogic
 * RPGLE
 * MLIR
+* Motoko
+* Nemerle
 
 `//` & `/* */`
 
@@ -1135,6 +1138,7 @@ Isabelle
 * OpenCL
 * CH
 * TSX
+* Nemerle
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1214,6 +1218,7 @@ Isabelle
 * OpenCL
 * CH
 * TSX
+* Nemerle
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1269,6 +1274,7 @@ Isabelle
 * Modula-3
 * Augeas
 * Amulet
+* Nemerle
 
 `{# #}`
 
@@ -1367,6 +1373,7 @@ Isabelle
 
 * IDL
 * Apex
+* Nemerle
 
 `/*** ***/`
 
@@ -1483,6 +1490,10 @@ Isabelle
 
 * KRC (Kent Recursive Calculator)
 * SASL
+
+`NB.`
+
+* J
 
 `UNSUPPORTED`
 
@@ -1913,6 +1924,12 @@ w "String",!
 
 * XProc
 
+```macaulay2
+PARA { "String" },
+```
+
+* Macaulay2
+
 ```mako
 <note>String</note>
 ```
@@ -2323,6 +2340,12 @@ System.debug('String');
 
 * Apex
 
+```nemerle
+System.Console.WriteLine ("String");
+```
+
+* Nemerle
+
 ```verona
 '"
 String
@@ -2372,6 +2395,12 @@ Console.WriteLine("String");
 ```
 
 * SWIG
+
+```j
+echo 'String'
+```
+
+* J
 
 ```mustache
 {{String}}
@@ -2469,6 +2498,12 @@ Debug.Print "String "
 ```
 
 * VBA
+
+```nemerle
+Debug.print("String");
+```
+
+* Nemerle
 
 ```windows-registry-entries
 "Value"=String"
@@ -2612,6 +2647,13 @@ const-string	v1, "String"
 ```
 
 * Smali
+
+```vim-snippet
+snippet string
+    "String"
+```
+
+* Vim Snippet
 
 ```markdown
 string
@@ -2888,9 +2930,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `71 (2022, Wednesday, October 26th at 9:13 pm PST)`
+**File version:** `72 (2022, Saturday, November 12th at 8:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,536`
+**Line count (including blank lines and compiler line):** `5,627`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4858,11 +4900,42 @@ mytext = 'String';
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 72 (Coming soon)</b></summary>
+<details><summary><b>Version 72 (2022, Saturday, November 12th at 8:52 pm PAST)</b></summary>
+
+**This release uses/represents data from:** `2022, Thursday, October 27th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for J, Macaulay2, Motoko, Nemerle, and Vim Snippet
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Vim Snippet
+- - [x] Updated the `//` comment section to include Motoko and Nemerle
+- - [x] Updated the `//` & `/*` & `*/` comment section to include Nemerle
+- - [x] Updated the `/*` & `*/` comment section to include Nemerle
+- - [x] Updated the `/**` & `*/` comment section to include Nemerle
+- - [x] Updated the `(*` & `*)` comment section to include Nemerle
+- - [x] Updated the `--` comment section to include Macaulay2
+- - [x] Added the `NB.` section to include J
+- [x] Updated the print statement section
+- - [x] Added the `echo 'String'` string section to include J
+- - [x] Added the `PARA { "String" },` string section to include Macaulay2
+- - [x] Added the `Debug.print("String");` string section to include Motoko
+- - [x] Added the `System.Console.WriteLine ("String");` string section to include Nemerle
+- - [x] Added the:
+
+```
+snippet string
+    "String"
+```
+
+- - [ ] Section to include Vim Snippet
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 72
 - [ ] No other changes in version 72
 
 </details> <!-- Section end !-->
@@ -5503,6 +5576,24 @@ mytext = 'String';
 
 - [ ] Coming soon
 - [ ] No other changes in version 142
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 143 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 143
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 144 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 144
 
 </details> <!-- Section end !-->
 
