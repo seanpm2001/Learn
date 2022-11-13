@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `363`/`415` (as of 2022, Friday, October 28th at 11:59 pm PST)
+Current progress `370`/`418` (as of 2022, Saturday, October 29th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `87.46%` complete, `12.54%` incomplete.
+**Ratio:** `88.50%` complete, `11.50%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -65,6 +65,7 @@ This list covers the creation of the language repositories.
 - [x] Ballerina
 - [ ] Batchfile
 - [ ] BibTeX
+- [x] Blockly
 - [x] Bikeshed
 - [x] Bicep
 - [x] BitBake
@@ -77,7 +78,7 @@ This list covers the creation of the language repositories.
 - [x] Befunge
 - [x] Blade
 - [x] BlitzBasic
-- [ ] Cadence
+- [x] Cadence
 - [x] C
 - [x] C-Plus-Plus
 - [x] COBOL
@@ -96,6 +97,8 @@ This list covers the creation of the language repositories.
 - [x] CommonLisp
 - [x] CommonWorkflowLanguage
 - [x] Cool
+- [x] Cobra
+- [x] CPython
 - [ ] Coq
 - [x] Crystal
 - [ ] CSound
@@ -264,7 +267,7 @@ This list covers the creation of the language repositories.
 - [x] Modula-2
 - [x] Modula-3
 - [x] Motorola S-RECORD
-- [ ] MS-DOS Style
+- [x] MS-DOS Style
 - [x] Max
 - [x] MLIR
 - [x] mcFunction
@@ -316,7 +319,7 @@ This list covers the creation of the language repositories.
 - [x] PLSQL
 - [x] PlantUML
 - [x] Python Traceback
-- [ ] ProGuard
+- [x] ProGuard
 - [x] PicoLisp
 - [x] Pascal
 - [x] Perl
@@ -407,7 +410,7 @@ This list covers the creation of the language repositories.
 - [x] UnrealScript
 - [x] Uno
 - [x] URLL (seanpm2001)
-- [ ] Unity3D Asset
+- [x] Unity3D Asset
 - [x] V
 - [ ] Verilog AMS
 - [ ] Verilog
@@ -464,9 +467,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `67 (2022, Saturday, November 12th at 10:39 pm PST)`
+**File version:** `68 (2022, Saturday, November 12th at 11:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,060`
+**Line count (including blank lines and compiler line):** `3,104`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2036,7 +2039,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-- - [x] Checked 5 new entries (old total: 358 | new total: 353)
+- - [x] Checked 5 new entries (old total: 358 | new total: 363)
 - - [x] Added 0 new entries to the list (old total: 415 | new total: 415)
 - [x] Updated the ratio in the title section
 - [x] Updated the file info section
@@ -2051,15 +2054,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 68</b></summary>
 
-**Version 68 (Coming soon)**
+**Version 68 (2022, Saturday, November 12th at 11:22 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V68.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V68.md)
+
+**This release represents data from:** `2022, Saturday, October 29th at 11:59 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 7 new entries (old total: 363 | new total: 370)
+- - [x] Added 3 new entries to the list (old total: 415 | new total: 418)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 68
 - [ ] No other changes in version 68
 
 </details> <!-- Section end !-->
@@ -3051,6 +3065,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 134
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 135</b></summary>
+
+**Version 135 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 135
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 136</b></summary>
+
+**Version 136 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 136
 
 </details> <!-- Section end !-->
 
