@@ -176,7 +176,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Dhall/"><img src="/Programming/Logos/D/Dhall/Dhall1.png" width="100px;" alt=""/><br /><sub><b>Learn Dhall</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Diff/"><img src="/Programming/Logos/D/Diff/Diff.png" width="100px;" alt=""/><br /><sub><b>Learn Diff</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DCPU-16-ASM/"><img src="/Programming/Logos/D/DCPU-16-ASM/DCPU16ASM.jpeg" width="100px;" alt=""/><br /><sub><b>Learn DCPU-16 ASM (Assembly)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DroppedText/"><img src="/Programming/Logos/D/DroppedText/DROTEX.png" width="100px;" alt=""/><br /><sub><b>Learn DroppedText (seanpm2001)</b></sub></a></td>
   </tr>
   <!-- Row 5A !-->
   <!-- Letter E !-->
@@ -222,7 +222,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Fancy/"><img src="/Programming/Logos/F/Fancy/FancyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Fancy</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeMarker/"><img src="/Programming/Logos/F/FreeMarker/FreeMarker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn FreeMarker</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FP/"><img src="/Programming/Logos/F/FP/FP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn FP</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeBasic/"><img src="/Programming/Logos/F/FreeBasic/FreeBasicLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn FreeBasic</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 7A !-->
@@ -349,7 +349,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section J3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON5/"><img src="/Programming/Logos/J/JSON5/JSON5_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JSON5</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-J/"><img src="/Programming/Logos/J/J/Jlogo_hires.png" width="100px;" alt=""/><br /><sub><b>Learn J</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JFlex/"><img src="/Programming/Logos/J/JFlex/JFlexLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn JFlex</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -446,7 +446,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Motoko/"><img src="/Programming/Logos/M/Motoko/Motoko-Logo-Square.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Motoko</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Seanpm2001-Matrix/"><img src="/Programming/Logos/M/Matrix/Seanpm2001-Matrix_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Matrix (seanpm2001)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -674,7 +674,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section U1</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-UnrealScript/"><img src="/Programming/Logos/U/UnrealScript/UnrealScript_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn UnrealScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Uno/"><img src="/Programming/Logos/U/Uno/UnoIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Uno</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-URLL/"><img src="/Programming/Logos/U/URLL/URLL_NewLogo_2022.svg" width="100px;" alt=""/><br /><sub><b>Learn URLL (seanpm2001)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -860,6 +860,7 @@ Isabelle
 * PLSQL
 * Grammatical Framework
 * Macaulay2
+* URLL
 
 `---`
 
@@ -952,17 +953,20 @@ Isabelle
 * Tera
 * KiCad Schematic
 * Vim Snippet
+* Matrix (seanpm2001)
 
 `#` & `"""`
 
 * Python 3
 * Starlark
+* Matrix (seanpm2001)
 
 `#` & `"""` & `'''`
 
 * Python 3
 * Ren'Py
 * Starlark
+* Matrix (seanpm2001)
 
 `#` & `/*`
 
@@ -1071,6 +1075,8 @@ Isabelle
 * MLIR
 * Motoko
 * Nemerle
+* DroppedText (seanpm2001)
+* JFlex
 
 `//` & `/* */`
 
@@ -1139,6 +1145,7 @@ Isabelle
 * CH
 * TSX
 * Nemerle
+* JFlex
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1353,6 +1360,7 @@ Isabelle
 * Self
 * Visual Basic Script/VBScript
 * VBA
+* FreeBasic
 
 `''`
 
@@ -1668,6 +1676,7 @@ print("String")
 * GN
 * Starlark
 * Terra
+* Matrix (seanpm2001)
 
 ```perl
 print("String");
@@ -1687,6 +1696,7 @@ print "String"
 
 * NextFlow
 * Jython
+* FreeBasic
 
 ```sage
 print("String\n")
@@ -1700,6 +1710,7 @@ System.out.println("String");
 
 * Java
 * AspectJ
+* JFlex
 
 ```javascript
 console.log("String");
@@ -2655,6 +2666,13 @@ snippet string
 
 * Vim Snippet
 
+```droppedtext
+/:DroppedText:\
+/:Section1#String
+```
+
+* DroppedText (seanpm2001)
+
 ```markdown
 string
 ```
@@ -2722,6 +2740,12 @@ unknown
 * Lucid
 * VisualLogic
 * ISWIM
+
+```plain-text
+Unsupported
+```
+
+* URLL (seanpm2001)
 
 ### Int
 
@@ -2930,9 +2954,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `72 (2022, Saturday, November 12th at 8:52 pm PST)`
+**File version:** `73 (2022, Saturday, November 12th at 10:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,627`
+**Line count (including blank lines and compiler line):** `5,700`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4940,11 +4964,42 @@ snippet string
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 73 (Coming soon)</b></summary>
+<details><summary><b>Version 73 (2022, Saturday, November 12th at 10:06 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2022, Friday, October 28th`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for DroppedText (seanpm2001), FreeBasic, JFLex, Matrix (seanpm2001), and URLL (seanpm2001)
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Matrix (seanpm2001)
+- - [x] Updated the `#` & `"""` comment section to include Matrix (seanpm2001)
+- - [x] Updated the `#` & `'''` comment section to include Matrix (seanpm2001)
+- - [x] Updated the `#` & `'''` & `"""` comment section to include Matrix (seanpm2001)
+- - [x] Updated the `//` comment section to include JFLex and DroppedText (seanpm2001)
+- - [x] Updated the `/*` & `*/` comment section to include JFlex
+- - [x] Updated the `--` comment section to include URLL (seanpm2001)
+- - [x] Updated the `'` comment section to include FreeBasic
+- [x] Updated the print statement section
+- - [x] Updated the `print "String"` string section to include FreeBasic
+- - [x] Updated the `print("String")` string section to include Matrix (seanpm2001)
+- - [x] Updated the `System.out.println("String");` string section to include JFlex
+- - [x] Added the:
+
+```droppedtext
+/:DroppedText:\
+/:Section1#String
+```
+
+- - [ ] Section to include DroppedText (seanpm2001)
+- - [x] Added the `unsupported` section to include URLL (seanpm2001)
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 73
 - [ ] No other changes in version 73
 
 </details> <!-- Section end !-->
@@ -5594,6 +5649,24 @@ snippet string
 
 - [ ] Coming soon
 - [ ] No other changes in version 144
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 145 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 145
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 146 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 146
 
 </details> <!-- Section end !-->
 
