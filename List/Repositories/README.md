@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `358`/`415` (as of 2022, Tuesday, October 25th at 11:59 pm PST, also as of 2022, Wednesday, October 26th at 9:40 pm PST)
+Current progress `363`/`415` (as of 2022, Friday, October 28th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `86.26%` complete, `13.74%` incomplete.
+**Ratio:** `87.46%` complete, `12.54%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -107,7 +107,7 @@ This list covers the creation of the language repositories.
 - [ ] CSound score
 - [x] Ch
 - [x] Chapel
-- [ ] DroppedText (seanpm2001)
+- [x] DroppedText (seanpm2001)
 - [x] D
 - [x] Dafny
 - [x] Dart
@@ -145,7 +145,7 @@ This list covers the creation of the language repositories.
 - [x] Fantom
 - [ ] FLUX
 - [x] FP
-- [ ] FreeBasic
+- [x] FreeBasic
 - [x] G-CODE
 - [x] GnuPlot
 - [x] GAP
@@ -195,7 +195,7 @@ This list covers the creation of the language repositories.
 - [x] INTERCAL
 - [x] ISWIM
 - [x] J
-- [ ] JFlex
+- [x] JFlex
 - [x] Jade
 - [x] Java
 - [x] JavaScript
@@ -252,7 +252,7 @@ This list covers the creation of the language repositories.
 - [ ] Miranda
 - [ ] MATLAB
 - [x] Module Management System
-- [ ] Matrix (seanpm2001)
+- [x] Matrix (seanpm2001)
 - [x] Motoko
 - [x] MediaWiki
 - [x] Mercury
@@ -406,7 +406,7 @@ This list covers the creation of the language repositories.
 - [x] TSX
 - [x] UnrealScript
 - [x] Uno
-- [ ] URLL (seanpm2001)
+- [x] URLL (seanpm2001)
 - [ ] Unity3D Asset
 - [x] V
 - [ ] Verilog AMS
@@ -464,9 +464,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `66 (2022, Saturday, November 12th at 9:20 pm PST)`
+**File version:** `67 (2022, Saturday, November 12th at 10:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,020`
+**Line count (including blank lines and compiler line):** `3,060`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2021,20 +2021,30 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 66
 - [ ] No other changes in version 66
 
-
 </details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 67</b></summary>
 
-**Version 67 (Coming soon)**
+**Version 67 (2022, Saturday, November 12th at 10:39 pm PAT)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V67.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V67.md)
+
+**This release represents data from:** `2022, Friday, October 28th at 11:59 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 358 | new total: 353)
+- - [x] Added 0 new entries to the list (old total: 415 | new total: 415)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 67
 - [ ] No other changes in version 67
 
 </details> <!-- Section end !-->
@@ -3011,6 +3021,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 132
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 133</b></summary>
+
+**Version 133 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 133
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 134</b></summary>
+
+**Version 134 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 134
 
 </details> <!-- Section end !-->
 
