@@ -104,7 +104,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-B/"><img src="/Programming/Logos/B/B/Rain-B-ow-B-.jpeg" width="100px;" alt=""/><br /><sub><b>Learn B</b></sub></a></td> <!-- I know the logos may look off/crappy, I picked this one out a long time ago. B doesn't officially have a logo. Its free real estate !-->
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Befunge/"><img src="/Programming/Logos/B/Befunge/BefungeLogo_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Befunge</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzBasic/"><img src="/Programming/Logos/B/BlitzBasic/BlitzBasicLogoWide.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzBasic</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Blockly/"><img src="/Programming/Logos/B/Blockly/BlocklyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Blockly</b></sub></a></td>
   </tr>
   <!-- Row 3A !-->
   <!-- Letter C !-->
@@ -151,9 +151,21 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSON/"><img src="/Programming/Logos/C/CSON/CoffeeScriptObjectNotation.png" width="100px;" alt=""/><br /><sub><b>Learn CSON</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Chapel/"><img src="/Programming/Logos/C/Chapel/ChapelLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Chapel</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CH/"><img src="/Programming/Logos/C/CH/CH_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CH</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cadence/"><img src="/Programming/Logos/C/Cadence/CadenceLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Cadence</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cobra/"><img src="/Programming/Logos/C/Cobra/CobraLanguageLogo16px.png" width="100px;" alt=""/><br /><sub><b>Learn Cobra</b></sub></a></td>
   </tr>
+  <!-- Row 3E !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C5</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CPython/"><img src="/Programming/Logos/C/CPython/CPythonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CPython</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 4A !-->
   <!-- Letter D !-->
   <tr>
@@ -447,7 +459,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Motoko/"><img src="/Programming/Logos/M/Motoko/Motoko-Logo-Square.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Motoko</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Seanpm2001-Matrix/"><img src="/Programming/Logos/M/Matrix/Seanpm2001-Matrix_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Matrix (seanpm2001)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MS-DOS-Style"><img src="/Programming/Logos/M/MS-DOS_Style/MS-DOS-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MS-DOS Style</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -534,7 +546,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PostCSS/"><img src="/Programming/Logos/P/PostCSS/PostCSS_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostCSS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PlantUML/"><img src="/Programming/Logos/P/PlantUML/PlantUML_Logo_512px.png" width="100px;" alt=""/><br /><sub><b>Learn PlantUML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PLSQL/"><img src="/Programming/Logos/P/PLSQL/OraclePLSQL_LogoLQ.png" width="100px;" alt=""/><br /><sub><b>Learn PLSQL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ProGuard/"><img src="/Programming/Logos/P/Proguard/ProGuard_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Proguard</b></sub></a></td>
   </tr>
   <!-- Row 17A !-->
   <!-- Letter Q !-->
@@ -675,7 +687,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-UnrealScript/"><img src="/Programming/Logos/U/UnrealScript/UnrealScript_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn UnrealScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Uno/"><img src="/Programming/Logos/U/Uno/UnoIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Uno</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-URLL/"><img src="/Programming/Logos/U/URLL/URLL_NewLogo_2022.svg" width="100px;" alt=""/><br /><sub><b>Learn URLL (seanpm2001)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Unity3DAsset/"><img src="/Programming/Logos/U/Unity3DAsset/Unity3DAsset.png" width="100px;" alt=""/><br /><sub><b>Learn Unity3DAsset</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -954,12 +966,16 @@ Isabelle
 * KiCad Schematic
 * Vim Snippet
 * Matrix (seanpm2001)
+* CPython
+* Cobra
+* Proguard
 
 `#` & `"""`
 
 * Python 3
 * Starlark
 * Matrix (seanpm2001)
+* CPython
 
 `#` & `"""` & `'''`
 
@@ -967,6 +983,7 @@ Isabelle
 * Ren'Py
 * Starlark
 * Matrix (seanpm2001)
+* CPython
 
 `#` & `/*`
 
@@ -1077,6 +1094,7 @@ Isabelle
 * Nemerle
 * DroppedText (seanpm2001)
 * JFlex
+* Cadence
 
 `//` & `/* */`
 
@@ -1503,11 +1521,16 @@ Isabelle
 
 * J
 
+`Comment`
+
+* MS-DOS Style
+
 `UNSUPPORTED`
 
 * JSON
 * CSV
 * KiCad Layout
+* Blockly
 
 `Unknown`
 
@@ -1533,6 +1556,8 @@ Isabelle
 * Textile
 * ISWIM
 * Lucid
+* Proguard
+* Unity3DAsset
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1677,6 +1702,7 @@ print("String")
 * Starlark
 * Terra
 * Matrix (seanpm2001)
+* CPython
 
 ```perl
 print("String");
@@ -2589,6 +2615,7 @@ console.log(message);
 ```
 
 * JSON5
+* Blockly
 
 ```textile
 h1.Heading 1 String
@@ -2673,6 +2700,26 @@ snippet string
 
 * DroppedText (seanpm2001)
 
+```cobra
+class PRTSTR
+    def main
+        print 'String'
+```
+
+* Cobra
+
+```cadence
+self.message = "String"
+```
+
+* Cadence
+
+```unity3dasset
+externalObjects: {"String"}
+```
+
+* Unity3DAsset
+
 ```markdown
 string
 ```
@@ -2686,6 +2733,7 @@ string
 * RMarkdown
 * RDoc
 * Textile
+* MS-DOS Style
 
 <!-- and more !-->
 
@@ -2740,6 +2788,7 @@ unknown
 * Lucid
 * VisualLogic
 * ISWIM
+* Proguard
 
 ```plain-text
 Unsupported
@@ -2954,9 +3003,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `73 (2022, Saturday, November 12th at 10:06 pm PST)`
+**File version:** `74 (2022, Saturday, November 12th at 11:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,700`
+**Line count (including blank lines and compiler line):** `5,801`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4926,7 +4975,7 @@ mytext = 'String';
 
 <details><summary><b>Version 72 (2022, Saturday, November 12th at 8:52 pm PAST)</b></summary>
 
-**This release uses/represents data from:** `2022, Thursday, October 27th`
+**This release uses/represents data from:** `2022, Thursday, October 27th at 11:59 pm PST`
 
 **Changes:**
 
@@ -4966,12 +5015,12 @@ snippet string
 
 <details><summary><b>Version 73 (2022, Saturday, November 12th at 10:06 pm PST)</b></summary>
 
-**This release uses/represents data from:** `2022, Friday, October 28th`
+**This release uses/represents data from:** `2022, Friday, October 28th at 11:59 pm PST`
 
 **Changes:**
 
 - [x] Updated the `Learn` table
-- - [x] Added support for DroppedText (seanpm2001), FreeBasic, JFLex, Matrix (seanpm2001), and URLL (seanpm2001)
+- - [x] Added support for DroppedText (seanpm2001), FreeBasic, JFlex, Matrix (seanpm2001), and URLL (seanpm2001)
 - [x] Updated the source code comments section
 - - [x] Updated the `#` comment section to include Matrix (seanpm2001)
 - - [x] Updated the `#` & `"""` comment section to include Matrix (seanpm2001)
@@ -5004,11 +5053,45 @@ snippet string
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 74 (Coming soon)</b></summary>
+<details><summary><b>Version 74 (2022, Saturday, November 12th at 101:00 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2022, Saturday, October 29th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Blockly, Cobra, CPython, Cadence, MS-DOS Style, Proguard, and Unity3DAsset
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include CPython, Cobra, and Proguard
+- - [x] Updated the `#` & `"""` comment section to include CPython
+- - [x] Updated the `#` & `'''` comment section to include CPython
+- - [x] Updated the `#` & `'''` & `"""` comment section to include CPython
+- - [x] Updated the `//` comment section to include Cadence
+- - [x] Updated the `String` comment section to include MS-DOS Style
+- - [x] Updated the `unsupported` comment section to include JSON
+- - [x] Updated the `unknown` comment section to include Unity3DAsset
+- [x] Updated the print statement section
+- - [x] Updated the `{"String"}` string section to include Blockly
+- - [x] Updated the `print("String")` string section to include CPython
+- - [x] Added the `self.message = "String"` string section to include Cadence
+- - [x] Added the `externalObjects: {"String"}` string section to include Unity3DAsset
+- - [x] Updated the `string` string section to include MS-DOS Style
+- - [x] Added the:
+
+```cobra
+class PRTSTR
+    def main
+        print 'String'
+```
+
+- - [ ] Section to include Cobra
+- - [x] Added the `unknown` section to include Proguard
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 74
 - [ ] No other changes in version 74
 
 </details> <!-- Section end !-->
@@ -5667,6 +5750,24 @@ snippet string
 
 - [ ] Coming soon
 - [ ] No other changes in version 146
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 147 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 147
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 148 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 148
 
 </details> <!-- Section end !-->
 
