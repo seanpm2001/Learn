@@ -1,0 +1,53 @@
+TSX
+
+*.tsx
+
+// Comment
+
+/* Comment */
+
+let message: string = 'String';
+console.log(message);
+
+Textile
+
+*.textile
+
+String
+
+h1.Heading 1
+
+JSON5
+
+*.json
+
+// Comment
+
+{"String"}
+
+Latte (EXPIRED)
+
+*.lt
+
+// Comment
+
+/* Comment */
+
+input(typ='text', value='String')
+
+Latte
+
+*.latte
+
+; Comment
+
+? String
+
+QueryByExample
+
+*.qbe (guess)
+
+? Comment
+
+.....Heading: String
+..Subheading: String

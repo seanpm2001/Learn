@@ -1,0 +1,41 @@
+Ragel
+
+*.rl
+/* Comment */
+printf( "String\n" value );
+
+Verilog
+*.v *.vh
+// Comment
+module main;
+  initial
+    begin
+      $display("String");
+      $finish;
+    end
+endmodule
+
+Refal
+*.ref
+$ENTRY Go { = <StrTest>;}
+StrTest {
+   = <Prout 'String'>;
+}
+(Comment)
+
+SCSS
+*.scss
+// Comment
+/* Comment */
+body::before {
+    content: "String";
+}
+
+Sed
+*.sed
+#!/bin/sed -f
+# Comment
+c\
+String
+q
+

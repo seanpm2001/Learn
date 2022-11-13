@@ -1,0 +1,26 @@
+Miranda
+
+*.m
+|| Comment
+lay ["String","Char"] = "String\Char\n"
+
+ML
+*.ml
+(* Comment *)
+print "String\n"
+
+Piglatin
+*.pig
+-- Comment
+output "String"
+quit
+
+REBOL
+*.r *.reb
+view layout [text "String" button "Quit" [quit]]
+? Comment
+
+PureBasic
+*.pb *.pbi *.pbf *.pbp
+MessageRequester("Message Box", "String")
+; Comment

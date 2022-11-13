@@ -1,0 +1,46 @@
+S-RECODE Template
+
+*.srt
+
+"String"
+
+; Comment
+
+TXL
+
+*.txl
+
+% Comment
+
+? String
+
+Module Management System
+
+*.mmo
+*.mms
+
+Text    BYTE  "String",10,0
+
+LiveScript
+
+*.ls
+
+# Comment
+
+console.log "String"
+
+Wierd
+
+*.w
+
+-*******************           gnirtS
+ *
+ R*   *    *     *
+ E*  **    **   *
+ T*  **    **  *
+ U ***   ***  ****
+ R   *  *  *      *
+ N  *    *  ********
+    *  ****
+ 0   **
+

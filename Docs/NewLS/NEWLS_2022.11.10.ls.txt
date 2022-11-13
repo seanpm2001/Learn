@@ -1,0 +1,35 @@
+EBNF
+*.ebnf
+/* Comment */
+<?xqlint
+::= 'String'
+<?xqlint
+});
+?>
+
+PureScript
+*.purs
+-- Comment
+module Main where
+
+import Debug.Trace
+
+main = trace "String"
+
+PLpgSQL
+*.sql *.psql
+-- Comment
+SELECT 'String' AS title_message;
+
+SQLPL
+*.pkb *.pks *.sql
+-- Comment
+BEGIN
+  dbms_output.put_line('String');
+END;
+/
+
+RenderScript
+*.rs
+// Comment
+? String

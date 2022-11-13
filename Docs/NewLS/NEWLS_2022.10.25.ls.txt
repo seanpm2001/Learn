@@ -1,0 +1,41 @@
+Smali
+
+*.smali
+
+# Comment
+
+const-string	v1, "String"
+
+Terra
+
+*.t
+
+print("String")
+
+# Comment
+
+KiCad Layout
+
+*.pcb
+
+("String")
+
+Comments not supported
+
+KiCad Schematic
+
+EESchema Schematic File Version 2
+
+*.sch
+
+# Comment
+
+string "String"
+
+MLIR
+
+*.mlir
+
+// Comment
+
+string = "String"

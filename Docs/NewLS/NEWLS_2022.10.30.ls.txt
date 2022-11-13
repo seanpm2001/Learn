@@ -1,0 +1,35 @@
+Batch
+
+*.bat
+:: Comment
+echo 'String'
+
+MATLAB
+
+*.m
+% Comment
+disp('String')
+
+Scratch
+
+Squeak
+
+Wavefront Material
+
+*.mtl
+# Comment
+? String
+
+CAP-CDS
+
+*.cap (guess)
+I don't know where the data went, so I will guess
+; Comment
+? String
+
+JetBrains MPS
+
+*.xml
+<!-- Comment !-->
+<para>String</para>
+

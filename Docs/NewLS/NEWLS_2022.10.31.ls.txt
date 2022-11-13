@@ -1,0 +1,34 @@
+ASP
+
+*.asp
+<!-- Comment !-->
+' Comment
+<%
+Response.write "String"
+%>
+
+ASP.NET
+
+*.aspx
+<!-- Comment !-->
+<p>String</p>
+
+BSDL
+
+*.ebnf
+(* Comment *)
+"String"
+
+FLUX
+
+*.fx
+// Comment
+? Comment
+
+BibTeX
+
+*.bib
+Comment
+@string(example,
+    title=String,
+}

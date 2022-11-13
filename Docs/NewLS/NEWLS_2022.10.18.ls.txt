@@ -1,0 +1,30 @@
+Befunge
+*.be
+>"gnirtS",,,,,,,,,,,@
+? Comment
+
+PLSQL
+*.pkb
+BEGIN
+  dbms_output.put_line('String');
+END;
+/
+-- Comment
+
+AGS-Script
+*.asc
+*.ash
+// Comment
+this.Text = "String";
+
+Chapel
+*.chpl
+/* Comment */
+// Comment
+writeln("String");
+
+PlantUML
+*.puml
+'' Comment
+? String
+

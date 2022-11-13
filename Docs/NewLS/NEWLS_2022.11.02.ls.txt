@@ -1,0 +1,27 @@
+Gerber Image
+*.gbr *.GBR *.GB *.geb *.gerber *.sol
+// Comment
+? String
+
+JSON
+*.json
+{"String"}
+x comment
+
+CSound Score
+*.sco
+; Comment
+? String
+
+GetText
+*.Po
+#, comment
+str ""
+#, Message must be defined by type before declaration
+str "Hello World"
+printf(_("String"), str1);
+
+GraphViz DOT
+*.gv *.dot
+/* Comment */
+"Str" -> "String"

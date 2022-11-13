@@ -1,0 +1,38 @@
+SQL
+
+*.sql
+-- Comment
+SELECT 'String';
+
+StandardML
+
+*.sml
+(* Comment *)
+fun string1() = print("String\n");
+string1()
+
+TeX
+
+*.tex
+% Comment
+\documentclass{article} % Starts an article
+\begin{document} % Begins a document
+\a String
+
+TSQL
+*.sql *.tsql
+-- Comment
+DECLARE @message varchar(128)
+SELECT  @message = 'String'
+PRINT   @message
+
+Verilog-AMS
+*.v *.vh
+// Comment
+module main;
+  initial
+    begin
+      $display("String");
+      $finish;
+    end
+endmodule

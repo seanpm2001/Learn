@@ -1,0 +1,45 @@
+IntelHexBinary
+
+*.hex
+:co Comment (guess)
+? String
+
+PostScript
+
+*.ps
+
+% Comment
+(String\n) print quit
+
+Less
+
+*.less
+/* Comment */
+// Comment
+body::before {
+    content: "String"
+}
+
+Limbo
+
+*.b
+# Comment
+implement Command;
+ 
+include "sys.m";
+    sys: Sys;
+ 
+include "draw.m";
+
+include "sh.m";
+ 
+init(nil: ref Draw->Context, nil: list of string)
+{
+    sys = load Sys Sys->PATH;
+    sys->print("String\n");
+}
+
+LISP
+*.lsp *.lisp
+; Comment
+(print "String")

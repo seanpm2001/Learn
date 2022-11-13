@@ -1,0 +1,34 @@
+Batchfile
+*.bat *.cmd *.btm
+:: Comment
+@echo off
+echo String
+
+PowerShell
+*.ps1 (Script)
+*.ps1xml (XML Document)
+*.psc1 (Console File)
+*.psd1 (Data File)
+*.psm1 (Script Module)
+*.pssc (Session Configuration File)
+*.psrc (Role Capability File)
+*.cdxml (Cmdlet Definition XML Document)
+# Comment
+'String'
+
+Groovy
+*.groovy, *.gvy, *.gy, *.gsh
+// Comment
+/* Comment */
+println "String"
+
+Visual Basic .NET
+*.vb
+' Comment
+Console.WriteLine("String")
+
+Roff
+*.1 *.roff
+//String
+? Comment
+

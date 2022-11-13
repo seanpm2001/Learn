@@ -1,0 +1,31 @@
+Linker  Script
+
+*.x *.ld *.lds
+/* Comment */
+.text : { *(.String) }
+
+Monkey-C
+
+*.m
+# Comment
+puts("Hello World")
+
+Pod6
+
+*.pm6
+#| Comment
+use v6
+String
+
+Perl6
+
+*.p6
+# Comment
+say "String"
+print "String"
+#!/usr/bin/env perl6
+
+Wavefront Object
+*.obj
+# Comment
+? String

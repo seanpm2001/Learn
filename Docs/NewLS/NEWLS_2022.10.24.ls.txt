@@ -1,0 +1,55 @@
+DCPU-16 ASM
+
+*.dasm16
+
+:text
+    dat "String", 0
+
+; Comment
+
+RGPLE
+
+*.sqlrpgle
+*.rpgle
+
+// Comment
+
+**free
+
+dcl-s mytext char(25);
+
+mytext = 'String';
+
+dsply mytext;
+
+return;
+
+Grammatical Framework
+
+*.gf
+
+-- Comment
+
+{- Comment -}
+
+String => "String"
+
+Lucid
+
+*.l
+
+? Comment
+
+S = "String";
+
+ISWIM
+
+*.i
+
+? Comment
+
+? String
+
+guess: 
+
+"String"

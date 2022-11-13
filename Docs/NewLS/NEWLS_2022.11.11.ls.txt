@@ -1,0 +1,17 @@
+Monkey
+*.monkey
+#REM
+Comment
+#END
+puts("String")
+
+Stata
+*.do
+// Comment
+* Comment
+? String
+
+BlitzMax
+*.bmx
+' Comment
+? String 

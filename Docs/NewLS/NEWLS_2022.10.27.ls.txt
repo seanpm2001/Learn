@@ -1,0 +1,26 @@
+===
+J
+*.ijs
+NB. Comment
+echo 'String'
+Macaulay2
+*.m2
+-- Comment
+PARA { "String" },
+Motoko
+*.mo
+// Comment
+Debug.print("String");
+Nemerle
+*.n
+/* Comment */
+(* Comment *)
+// Comment
+/** Comment */
+System.Console.WriteLine ("String");
+Vim Snippet
+*.snippets
+# Comment
+snippet string
+    "String"
+===

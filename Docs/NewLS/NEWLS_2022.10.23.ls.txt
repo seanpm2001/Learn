@@ -1,0 +1,39 @@
+SASL
+
+*.s
+
+|| Comment
+
+%s: 'tring''
+
+BlitzBasic
+
+*.bb
+
+; Comment
+
+Print "String"
+
+McFunction
+
+*.mcfunction
+
+# Comment
+
+tellraw @p "String"
+
+Visual Logic 
+
+*.vl
+
+// Comment
+
+? String
+
+Amulet
+
+*.ml
+
+put_line "String"
+
+(* Comment *)

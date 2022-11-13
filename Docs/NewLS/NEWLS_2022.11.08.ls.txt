@@ -1,0 +1,19 @@
+Berry
+
+*.be
+#! ./berry
+# Comment
+print('String')
+
+Stan
+*.stan
+// Comment
+str1 = "String"
+
+Scratch
+*.sb *.sb2 *.sb3
+For now: *.json
+
+{"String"}
+? Comment
+

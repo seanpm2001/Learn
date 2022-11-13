@@ -1,0 +1,51 @@
+Cobra
+
+*.cobra
+
+class PRTSTR
+    def main
+        print 'String'
+
+# String
+
+Blockly
+
+*.json
+
+{"String"}
+
+Comments not supported
+
+CPython
+
+*.py
+
+print("String")
+# Comment
+
+MS-DOS Style
+
+*.nfo
+
+String
+Comment
+
+Cadence
+
+*.cdc
+// Comment
+self.message = "String"
+
+Unity3D Asset
+
+*.unity
+*.meta
+
+externalObjects: {"String"}
+? Comments
+
+ProGuard
+
+*.pro
+# Comment
+Unknown string format

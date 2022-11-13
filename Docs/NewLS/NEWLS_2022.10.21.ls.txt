@@ -1,0 +1,41 @@
+Augeas
+
+*.aug
+
+(* Comment *)
+
+let x = "String"
+
+X Pixmap
+
+*.xpm
+
+// Comment
+
+? String
+
+OpenCL
+
+*.cl
+*.clcpp
+
+// Comment
+
+? String
+
+FP
+
+*.fp (guess)
+
+(comment)
+
+? String
+
+CH
+
+*.ch (guess)
+
+// Comment
+/* Comment */
+
+printf("String\n");

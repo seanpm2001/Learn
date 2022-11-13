@@ -1,0 +1,38 @@
+FreeBasic
+
+*.bas
+print "String"
+sleep
+' Comment
+
+JFlex
+
+*.flex
+// Comment
+/* Comment */
+System.out.println("String");
+
+Matrix
+
+*.scmatrix
+# Comment
+""" Comment """
+''' Comment '''
+print("String")
+
+URLL
+
+*.urll
+--URLL-version=2;
+-- Comment
+-- Strings not supported
+
+DroppedText
+
+*.dropt *.droptex *.droptxt *.drotex *.drotxt *.drtxt *.dtxt *.droppedtext * .droppedtxt *.droppedtex
+/:DroppedText:\
+/:Section1#String
+// Comment
+
+MAKE A NOTE OF THIS:
+https://github.com/seanpm2001/dropped-text-lang

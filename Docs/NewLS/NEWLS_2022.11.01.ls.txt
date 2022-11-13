@@ -1,0 +1,26 @@
+Genie
+*.gs
+init
+    print "Hello, world!"
+/* Comment */
+// Comment
+
+Cap'n Proto
+*.capnp
+# Comment
+string @1 () -> (str "String");
+
+Coq
+*.v
+(* Comment *)
+System.log (LString.s "String")
+
+CSound
+*.orc
+; Comment
+? String
+
+CSound Document
+*.csd
+; Comment
+? String
