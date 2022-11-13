@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Friday, October 28th at 11:59 pm PST
+-- As of 2022, Saturday, October 29th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -38,21 +38,25 @@ https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
 https://github.com/seanpm2001/Learn-Blade
 https://github.com/seanpm2001/Learn-BlitzBasic
+https://github.com/seanpm2001/Learn-Blockly
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
+https://github.com/seanpm2001/Learn-Cadence
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
 https://github.com/seanpm2001/Learn-CLIPS
+https://github.com/seanpm2001/Learn-Clojure
+https://github.com/seanpm2001/Learn-CMake
+https://github.com/seanpm2001/Learn-Cobra
 https://github.com/seanpm2001/Learn-CodeQL
 https://github.com/seanpm2001/Learn-CoffeeScript
 https://github.com/seanpm2001/Learn-CommonLisp
 https://github.com/seanpm2001/Learn-CommonWorkflowLanguage
 https://github.com/seanpm2001/Learn-Cool
-https://github.com/seanpm2001/Learn-Clojure
-https://github.com/seanpm2001/Learn-CMake
+https://github.com/seanpm2001/Learn-CPython
 https://github.com/seanpm2001/Learn-Creole
 https://github.com/seanpm2001/Learn-CSON
 https://github.com/seanpm2001/Learn-CSV
@@ -182,6 +186,7 @@ https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
 https://github.com/seanpm2001/Learn-Motoko
+https://github.com/seanpm2001/Learn-MS-DOS-Style
 https://github.com/seanpm2001/Learn-Mustache
 https://github.com/seanpm2001/Learn-NASL
 https://github.com/seanpm2001/Learn-Nemerle
@@ -217,6 +222,7 @@ https://github.com/seanpm2001/Learn-PostGreSQL
 https://github.com/seanpm2001/Learn-POV-Ray-SDL
 https://github.com/seanpm2001/Learn-PowerFX
 https://github.com/seanpm2001/Learn-Procfile
+https://github.com/seanpm2001/Learn-Proguard
 https://github.com/seanpm2001/Learn-Pug
 https://github.com/seanpm2001/Learn-Puppet
 https://github.com/seanpm2001/Learn-PureData
@@ -280,6 +286,7 @@ https://github.com/seanpm2001/Learn-TSX
 https://github.com/seanpm2001/Learn-Twig
 https://github.com/seanpm2001/Learn-TXL
 https://github.com/seanpm2001/Learn-Uno
+https://github.com/seanpm2001/Learn-Unity3DAsset
 https://github.com/seanpm2001/Learn-UnrealScript
 https://github.com/seanpm2001/Learn-URLL
 https://github.com/seanpm2001/Learn_V
@@ -307,7 +314,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 303/363
+-- Count: 310/370
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -453,13 +460,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V69 date: 2022, Saturday, November 12th at 9:14 pm PST, representing data from 2022, Thursday, October 27th at 11:59 pm PST
 -- V70: 5 entries added, 303 entries remain (ratio: 303/363 (83.47% incomplete, 16.53% complete))
 -- V70 date: 2022, Saturday, November 12th at 10:33 pm PST, representing data from 2022, Friday, October 28th at 11:59 pm PST
+-- V71: 7 entries added, 310 entries remain (ratio: 310/370 (83.78% incomplete, 16.22% complete))
+-- V71 date: 2022, Saturday, November 12th at 11:15 pm PST, representing data from 2022, Saturday, October 29th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 303/363 (83.47% incomplete, 16.53% complete)
+-- Ratio (incomplete/complete): 310/370 (83.78% incomplete, 16.22% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 70 (2022, Saturday, November 12th at 10:33 pm PST)
--- Line count (including blank lines and compiler line): 466
+-- File version: 71 (2022, Saturday, November 12th at 11:15 pm PST)
+-- Line count (including blank lines and compiler line): 475
 
 -- End of script
