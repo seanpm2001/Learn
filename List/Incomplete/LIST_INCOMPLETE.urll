@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Sunday, October 30th at 11:59 pm PST
+-- As of 2022, Monday, October 31st at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -23,6 +23,8 @@ https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-Apex
 https://github.com/seanpm2001/Learn-Arduino
 https://github.com/seanpm2001/Learn-ASCIIDoc
+https://github.com/seanpm2001/Learn-ASP
+https://github.com/seanpm2001/Learn-ASP.NET
 https://github.com/seanpm2001/Learn-AspectJ
 https://github.com/seanpm2001/Learn-AssemblyScript
 https://github.com/seanpm2001/Learn-Astro
@@ -34,6 +36,7 @@ https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Befunge
+https://github.com/seanpm2001/Learn-BibTeX
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
@@ -42,6 +45,7 @@ https://github.com/seanpm2001/Learn-BlitzBasic
 https://github.com/seanpm2001/Learn-Blockly
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
+https://github.com/seanpm2001/Learn-BSDL
 https://github.com/seanpm2001/Learn-Cadence
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-CAML
@@ -89,6 +93,7 @@ https://github.com/seanpm2001/Learn-Fantom
 https://github.com/seanpm2001/Learn-FCL
 https://github.com/seanpm2001/Learn-Fish
 https://github.com/seanpm2001/Learn-Fluent
+https://github.com/seanpm2001/Learn-FLUX
 https://github.com/seanpm2001/Learn-Forth
 https://github.com/seanpm2001/Learn-FP
 https://github.com/seanpm2001/Learn-FreeBasic
@@ -321,7 +326,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 317/377
+-- Count: 322/382
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -471,13 +476,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V71 date: 2022, Saturday, November 12th at 11:15 pm PST, representing data from 2022, Saturday, October 29th at 11:59 pm PST
 -- V72: 7 entries added, 317 entries remain (ratio: 317/377 (84.08% incomplete, 15.92% complete))
 -- V72 date: 2022, Monday, November 14th at 7:44 pm PST, representing data from 2022, Sunday, October 30th at 11:59 pm PST
+-- V73: 5 entries added, 322 entries remain (ratio: 322/382 (84.29% incomplete, 15.71% complete))
+-- V73 date: 2022, Monday, November 14th at 8:21 pm PST, representing data from 2022, Monday, October 31st at 11:59 pm PST
 
--- Ratio (incomplete/complete): 317/377 (84.08% incomplete, 15.92% complete)
+-- Ratio (incomplete/complete): 322/382 (84.29% incomplete, 15.71% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 72 (2022, Monday, November 14th at 7:44 pm PST)
--- Line count (including blank lines and compiler line): 484
+-- File version: 73 (2022, Monday, November 14th at 8:21 pm PST)
+-- Line count (including blank lines and compiler line): 491
 
 -- End of script
