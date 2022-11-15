@@ -76,8 +76,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section A5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Augeas/"><img src="/Programming/Logos/A/Augeas/Augueas_Logo400px.png" width="100px;" alt=""/><br /><sub><b>Learn Augueas</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Amulet/"><img src="/Programming/Logos/A/Amulet/AmuletML_LogoPlaceholder.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Amulet</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP/"><img src="/Programming/Logos/A/ASP/MS_ASP.png" width="100px;" alt=""/><br /><sub><b>Learn ASP</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP.NET/"><img src="/Programming/Logos/A/ASP.NET/MS_ASPDOTNET.png" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -111,8 +111,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section B3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Batch/"><img src="/Programming/Logos/B/Batch/BatchLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn BATCH (Batchfile legacy)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BibTeX/"><img src="/Programming/Logos/B/BibTeX/Kbibtex-icon.png" width="100px;" alt=""/><br /><sub><b>Learn BibTeX</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BSDL/"><img src="/Programming/Logos/B/BSDL/BSDL_Logo325px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn BSDL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -247,7 +247,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeMarker/"><img src="/Programming/Logos/F/FreeMarker/FreeMarker.jpeg" width="100px;" alt=""/><br /><sub><b>Learn FreeMarker</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FP/"><img src="/Programming/Logos/F/FP/FP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn FP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeBasic/"><img src="/Programming/Logos/F/FreeBasic/FreeBasicLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn FreeBasic</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FLUX/"><img src="/Programming/Logos/F/FLUX/FLUX_Logo_500pxOpaque.png" width="100px;" alt=""/><br /><sub><b>Learn FLUX</b></sub></a></td>
   </tr>
   <!-- Row 7A !-->
   <!-- Letter G !-->
@@ -1120,6 +1120,7 @@ Isabelle
 * DroppedText (seanpm2001)
 * JFlex
 * Cadence
+* FLUX
 
 `//` & `/* */`
 
@@ -1307,6 +1308,8 @@ Isabelle
 * EJS
 * LabVIEW
 * JetBrains MPS
+* ASP
+* ASP.NET
 
 `(* *)`
 
@@ -1326,6 +1329,7 @@ Isabelle
 * Augeas
 * Amulet
 * Nemerle
+* BSDL
 
 `{# #}`
 
@@ -1555,6 +1559,7 @@ Isabelle
 `Comment`
 
 * MS-DOS Style
+* BibTeX
 
 `UNSUPPORTED`
 
@@ -1994,6 +1999,7 @@ w "String",!
 * FreeMarker
 * XSLT
 * EJS
+* ASP.NET
 
 ```xproc
 <para>String</para>
@@ -2084,6 +2090,14 @@ WRITE "String".
 ```
 
 * ABAP
+
+```classic-asp
+<%
+Response.write "String"
+%>
+```
+
+* ASP
 
 ```algol
 BEGIN DISPLAY("String") END.
@@ -2400,6 +2414,14 @@ Stringy::{ stringy = "String" }
 
 * Dhall
 
+```bibtex
+@string(example,
+    title=String,
+}
+```
+
+* BibTeX
+
 ```slim
 title: string
 ```
@@ -2632,6 +2654,7 @@ Text    BYTE  "String",10,0
 
 * SRecode Template
 * ISWIM (guess)
+* BSDL
 
 ```wierd
 gnirtS
@@ -3045,9 +3068,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `75 (2022, Monday, November 24th at 7:28 pm PST)`
+**File version:** `76 (2022, Monday, November 14th at 8:08 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,882`
+**Line count (including blank lines and compiler line):** `5,960`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5150,7 +5173,7 @@ class PRTSTR
 - - [x] Updated the `#` comment section to include WaveFront Material
 - - [ ] Did not update the `%` comment section to include MATLAB (already done)
 - - [x] Updated the `;` comment section to include CAP-CDS
-- - [x] Updated the `<!--` % `!-->` comment section to include JetBrains PMPS
+- - [x] Updated the `<!--` & `!-->` comment section to include JetBrains MPS
 - - [x] Added the `::` comment section to include Batch
 - - [x] Updated the `unknown` comment section to include Scratch and Squeak!
 - [x] Updated the print statement section
@@ -5168,12 +5191,49 @@ class PRTSTR
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 76 (Coming soon)</b></summary>
+<details><summary><b>Version 76 (2022, Monday, November 14th at 8:08 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2022, Monday, October 31st at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
-- [ ] No other changes in version 76
+- [x] Updated the `Learn` table
+- - [x] Added support for ASP, ASP.NET, BSDL, BibTeX, and FLUX
+- [x] Updated the source code comments section
+- - [x] Updated the `(*` & `*)` comment section to include BSDL
+- - [x] Updated the `//` comment section to include FLUX
+- - [x] Updated the `<!--` &`!-->` comment section to include ASP and ASP.NET
+- - [x] Updated the `String` comment section to include BibTeX
+- - [x] Updated the `unknown` comment section to include Scratch and Squeak!
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```classic-asp
+<%
+Response.write "String"
+%>
+```
+
+- - [ ] String section to include ASP
+- - [x] Updated the `<p>String</p>` string section to include ASP.NET
+- - [x] Updated the `"String"` string section to include BSDL
+- - [x] Updated the `Unknown` string section to include FLUX
+- - [x] Added the:
+
+```bibtex
+@string(example,
+    title=String,
+}
+```
+
+- - [ ] String section to include BibTeX
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 75
+- [ ] No other changes in version 75
 
 </details> <!-- Section end !-->
 
@@ -5849,6 +5909,24 @@ class PRTSTR
 
 - [ ] Coming soon
 - [ ] No other changes in version 150
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 151 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 151
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 152 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 152
 
 </details> <!-- Section end !-->
 
