@@ -176,7 +176,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Coq/"><img src="/Programming/Logos/C/Coq/Coq_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Coq</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound/"><img src="/Programming/Logos/C/CSound/CSoundLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CSound</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound-Document/"><img src="/Programming/Logos/C/CSound-Document/EmblemSound.png" width="100px;" alt=""/><br /><sub><b>Learn CSound Document</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound-Score/"><img src="/Programming/Logos/C/CSound-Score/CSound_Android.png" width="100px;" alt=""/><br /><sub><b>Learn CSound Score</b></sub></a></td>
   </tr> 
   <!-- Row 4A !-->
   <!-- Letter D !-->
@@ -213,6 +213,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Earthly/"><img src="/Programming/Logos/E/Earthly/EarthlyLogo.png" width="100px;" alt=""/><br /><sub><b>Learn-Earthly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EmacsLisp/"><img src="/Programming/Logos/E/Emacs_Lisp/EmacsLispIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Emacs Lisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Eagle/"><img src="/Programming/Logos/E/Eagle/AutoDesk_EAGLE_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Eagle (AutoDesk)</b></sub></a></td>
+  </tr>
   <!-- Row 5B !-->
   <!-- Letter E !-->
   <tr>
@@ -279,9 +280,9 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gradle/"><img src="/Programming/Logos/G/Gradle/Gradlephant.png" width="100px;" alt=""/><br /><sub><b>Learn Gradle</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Grammatical-Framework/"><img src="/Programming/Logos/G/Grammatical-Framework/Grammatical_Framework_Logo1.svg" width="100px;" alt=""/><br /><sub><b>Learn Grammatical Framework</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Genie/"><img src="/Programming/Logos/G/Genie/Genie1.png" width="100px;" alt=""/><br /><sub><b>Learn Genie</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Gerber-Image/"><img src="/Programming/Logos/G/Gerber-Image/GbrX2_128x128_white_bg.png" width="100px;" alt=""/><br /><sub><b>Learn Gerber Image</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GetText/"><img src="/Programming/Logos/G/GetText/gettext_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn GetText</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Graphviz-DOT/"><img src="/Programming/Logos/G/Graphviz-DOT/GraphvizLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Graphviz DOT</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 8A !-->
@@ -297,7 +298,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Handlebars/"><img src="/Programming/Logos/H/Handlebars/handlebars_logo.png" width="100px;" alt=""/><br /><sub><b>Learn Handlebars</b></sub></a></td>
   </tr>
   <!-- Row 8B !-->
-  <!-- Letter H !-->  
+  <!-- Letter H !-->
   <tr>
     <td align="center"><p>Section H2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HCL/"><img src="/Programming/Logos/H/HCL/HCL_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HCL</b></sub></a></td>
@@ -375,7 +376,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-J/"><img src="/Programming/Logos/J/J/Jlogo_hires.png" width="100px;" alt=""/><br /><sub><b>Learn J</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JFlex/"><img src="/Programming/Logos/J/JFlex/JFlexLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn JFlex</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JetBrains-MPS/"><img src="/Programming/Logos/J/JetBrains-MPS/JetBrains-MPS_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn JetBrains MPS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON/"><img src="/Programming/Logos/J/JSON/JSON_vector_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn JSON</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -1123,6 +1124,7 @@ Isabelle
 * Cadence
 * FLUX
 * Genie
+* Gerber Image
 
 `//` & `/* */`
 
@@ -1274,6 +1276,7 @@ Isabelle
 * TSX
 * Nemerle
 * Genie
+* GraphViz (DOT)
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1379,6 +1382,7 @@ Isabelle
 * CAP-CDS
 * CSound
 * CSound Document
+* CSound Score
 
 `C`
 
@@ -1558,6 +1562,10 @@ Isabelle
 
 * KRC (Kent Recursive Calculator)
 * SASL
+
+`#,`
+
+* GetText
 
 `NB.`
 
@@ -2811,6 +2819,19 @@ externalObjects: {"String"}
 
 * Unity3DAsset
 
+```gettext-catalog
+str "Hello World"
+printf(_("String"), str1);
+```
+
+* GetText
+
+```graphviz-dot
+"Str" -> "String"
+```
+
+* GraphViz (DOT)
+
 ```markdown
 string
 ```
@@ -2882,6 +2903,8 @@ unknown
 * Proguard
 * CSound
 * CSound Document
+* CSound Score
+* Gerber Image
 
 ```plain-text
 Unsupported
@@ -3096,9 +3119,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `77 (2022, Monday, November 14th at 8:46 pm PST)`
+**File version:** `78 (2022, Monday, November 14th at 9:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,024`
+**Line count (including blank lines and compiler line):** `6,093`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5301,11 +5324,39 @@ init
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 78 (Coming soon)</b></summary>
+<details><summary><b>Version 78 (2022, Monday, November 14th at 9:43 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2022, Wednesday, November 2nd at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for CSound Score, Gerber Image, GetText, GraphViz (DOT). and JSON
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Gerber Image
+- - [x] Updated the `/*` & `*/` comment section to include Graphviz (DOT)
+- - [x] Updated the `;` comment section to include CSound Score
+- - [x] Added the `#,` comment section to include GetText
+- - [ ] Did NOT update the `unknown` comment section to include JSON, as it has already been included
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```gettext-catalog
+str "Hello World"
+printf(_("String"), str1);
+```
+
+- - [ ] String section to include Genie
+- - [ ] Did NOT update the `{"String"}` string section to include JSON, as it has already been included
+- - [x] Added the `"Str" -> "String"` string section to include GraphViz (DOT)
+- - [x] Added the `System.log (LString.s "String")` string section to include Coq
+- - [x] Updated the `Unknown` string section to include Gerber Image and CSound Score*
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 78
 - [ ] No other changes in version 78
 
 </details> <!-- Section end !-->
@@ -5991,6 +6042,24 @@ init
 
 - [ ] Coming soon
 - [ ] No other changes in version 154
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 155 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 155
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 156 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 156
 
 </details> <!-- Section end !-->
 
