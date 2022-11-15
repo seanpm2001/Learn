@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Monday, October 31st at 11:59 pm PST
+-- As of 2022, Tuesday, November 1st at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -50,6 +50,7 @@ https://github.com/seanpm2001/Learn-Cadence
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-CAP-CDS
+https://github.com/seanpm2001/Learn-Cap-n-Proto
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
@@ -62,10 +63,13 @@ https://github.com/seanpm2001/Learn-CoffeeScript
 https://github.com/seanpm2001/Learn-CommonLisp
 https://github.com/seanpm2001/Learn-CommonWorkflowLanguage
 https://github.com/seanpm2001/Learn-Cool
+https://github.com/seanpm2001/Learn-Coq
 https://github.com/seanpm2001/Learn-CPython
 https://github.com/seanpm2001/Learn-Creole
 https://github.com/seanpm2001/Learn-CSON
 https://github.com/seanpm2001/Learn-CSV
+https://github.com/seanpm2001/Learn-CSound
+https://github.com/seanpm2001/Learn-CSound-Document
 https://github.com/seanpm2001/Learn-CUDA
 https://github.com/seanpm2001/Learn-Cyclone
 https://github.com/seanpm2001/Learn-Cython
@@ -105,6 +109,7 @@ https://github.com/seanpm2001/Learn-GCC-Machine-Description
 https://github.com/seanpm2001/Learn-G-CODE
 https://github.com/seanpm2001/Learn-GDB
 https://github.com/seanpm2001/Learn-GDScript
+https://github.com/seanpm2001/Learn-Genie
 https://github.com/seanpm2001/Learn-Gherkin
 https://github.com/seanpm2001/Learn-GLSL
 https://github.com/seanpm2001/Learn-GN
@@ -326,7 +331,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 322/382
+-- Count: 327/387
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -478,13 +483,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V72 date: 2022, Monday, November 14th at 7:44 pm PST, representing data from 2022, Sunday, October 30th at 11:59 pm PST
 -- V73: 5 entries added, 322 entries remain (ratio: 322/382 (84.29% incomplete, 15.71% complete))
 -- V73 date: 2022, Monday, November 14th at 8:21 pm PST, representing data from 2022, Monday, October 31st at 11:59 pm PST
+-- V74: 5 entries added, 327 entries remain (ratio: 327/387 (84.49% incomplete, 15.51% complete))
+-- V74 date: 2022, Monday, November 14th at 9:01 pm PST, representing data from 2022, Tuesday, November 1st at 11:59 pm PST
 
--- Ratio (incomplete/complete): 322/382 (84.29% incomplete, 15.71% complete)
+-- Ratio (incomplete/complete): 327/387 (84.49% incomplete, 15.51% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 73 (2022, Monday, November 14th at 8:21 pm PST)
--- Line count (including blank lines and compiler line): 491
+-- File version: 74 (2022, Monday, November 14th at 9:01 pm PST)
+-- Line count (including blank lines and compiler line): 498
 
 -- End of script
