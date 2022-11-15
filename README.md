@@ -172,10 +172,10 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section C5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CPython/"><img src="/Programming/Logos/C/CPython/CPythonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CPython</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CAP-CDS/"><img src="/Programming/Logos/C/CAP-CDS/SAP-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CAP-CDS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cap-n-Proto/"><img src="/Programming/Logos/C/Cap'n_Proto/CapnProto_Logo_280px.png" width="100px;" alt=""/><br /><sub><b>Learn Cap'n Proto</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Coq/"><img src="/Programming/Logos/C/Coq/Coq_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Coq</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound/"><img src="/Programming/Logos/C/CSound/CSoundLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CSound</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound-Document/"><img src="/Programming/Logos/C/CSound-Document/EmblemSound.png" width="100px;" alt=""/><br /><sub><b>Learn CSound Document</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 4A !-->
@@ -278,7 +278,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section G3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gradle/"><img src="/Programming/Logos/G/Gradle/Gradlephant.png" width="100px;" alt=""/><br /><sub><b>Learn Gradle</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Grammatical-Framework/"><img src="/Programming/Logos/G/Grammatical-Framework/Grammatical_Framework_Logo1.svg" width="100px;" alt=""/><br /><sub><b>Learn Grammatical Framework</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Genie/"><img src="/Programming/Logos/G/Genie/Genie1.png" width="100px;" alt=""/><br /><sub><b>Learn Genie</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -994,6 +994,7 @@ Isabelle
 * Cobra
 * Proguard
 * WaveFront Material
+* Cap'n Proto
 
 `#` & `"""`
 
@@ -1121,6 +1122,7 @@ Isabelle
 * JFlex
 * Cadence
 * FLUX
+* Genie
 
 `//` & `/* */`
 
@@ -1190,6 +1192,7 @@ Isabelle
 * TSX
 * Nemerle
 * JFlex
+* Genie
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1270,6 +1273,7 @@ Isabelle
 * CH
 * TSX
 * Nemerle
+* Genie
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1330,6 +1334,7 @@ Isabelle
 * Amulet
 * Nemerle
 * BSDL
+* Coq
 
 `{# #}`
 
@@ -1372,6 +1377,8 @@ Isabelle
 * BlitzBasic
 * DCPU-16-ASM
 * CAP-CDS
+* CSound
+* CSound Document
 
 `C`
 
@@ -1729,6 +1736,13 @@ End of line:
 :question: = Unknown/not tested
 
 ### Print statement
+
+```genie
+init
+    print "Hello, world!"
+```
+
+* Genie
 
 ```python
 print("String")
@@ -2274,6 +2288,18 @@ string S1 = "String"
 ```
 
 * SystenVerilog
+
+```cap'n-proto
+string @1 () -> (str "String");
+```
+
+* Cap'n Proto
+
+```coq
+System.log (LString.s "String")
+```
+
+* Coq
 
 ```clips
 (printout t "String" crlf)
@@ -2854,6 +2880,8 @@ unknown
 * VisualLogic
 * ISWIM
 * Proguard
+* CSound
+* CSound Document
 
 ```plain-text
 Unsupported
@@ -3068,9 +3096,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `76 (2022, Monday, November 14th at 8:08 pm PST)`
+**File version:** `77 (2022, Monday, November 14th at 8:46 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,960`
+**Line count (including blank lines and compiler line):** `6,024`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5204,7 +5232,6 @@ class PRTSTR
 - - [x] Updated the `//` comment section to include FLUX
 - - [x] Updated the `<!--` &`!-->` comment section to include ASP and ASP.NET
 - - [x] Updated the `String` comment section to include BibTeX
-- - [x] Updated the `unknown` comment section to include Scratch and Squeak!
 - [x] Updated the print statement section
 - - [x] Added the:
 
@@ -5232,25 +5259,44 @@ Response.write "String"
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the file history section
-- - [x] Added a log entry for version 75
-- [ ] No other changes in version 75
+- - [x] Added a log entry for version 76
+- [ ] No other changes in version 76
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 74 (Coming soon)</b></summary>
+<details><summary><b>Version 77 (2022, Monday, November 14th at 8:46 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2022, Tuesday, November 1st at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
-- [ ] No other changes in version 74
+- [x] Updated the `Learn` table
+- - [x] Added support for Cap'n Proto, Coq, CSound, CSound Document, and Genie
+- [x] Updated the source code comments section
+- - [x] Updated the `(*` & `*)` comment section to include Coq
+- - [x] Updated the `//` comment section to include Genie
+- - [x] Updated the `//` & `/*` comment section to include Genie
+- - [x] Updated the `/*` & `*/` comment section to include Genie
+- - [x] Updated the `#` comment section to include Cap'n Proto
+- - [x] Updated the `;` comment section to include CSound and CSound Document
+- [x] Updated the print statement section
+- - [x] Added the:
 
-</details> <!-- Section end !-->
+```classic-asp
+init
+    print "Hello, world!"
+```
 
-<details><summary><b>Version 77 (Coming soon)</b></summary>
-
-**Changes:**
-
-- [ ] Coming soon
+- - [ ] String section to include Genie
+- - [x] Added the `string @1 () -> (str "String");` string section to include Cap'n proto
+- - [x] Added the `System.log (LString.s "String")` string section to include Coq
+- - [x] Updated the `Unknown` string section to include CSound and CSound Document
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 77
 - [ ] No other changes in version 77
 
 </details> <!-- Section end !-->
@@ -5927,6 +5973,24 @@ Response.write "String"
 
 - [ ] Coming soon
 - [ ] No other changes in version 152
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 153 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 153
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 154 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 154
 
 </details> <!-- Section end !-->
 
