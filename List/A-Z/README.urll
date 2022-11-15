@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V68: 2022, Saturday, November 12th at 11:05 pm PST
--- Representing data from 2022, Saturday, October 29th at 11:59 pm PST
+-- V69: 2022, Monday, November 14th at 7:34 pm PST
+-- Representing data from 2022, Sunday, October 30th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -42,6 +42,7 @@ https://github.com/seanpm2001/Learn-Awk
 https://github.com/seanpm2001/Learn-B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
+https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Befunge
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
@@ -57,6 +58,7 @@ https://github.com/seanpm2001/Learn-BrightScript
 https://github.com/seanpm2001/Learn-C
 https://github.com/seanpm2001/Learn-Cadence
 https://github.com/seanpm2001/Learn-CAML
+https://github.com/seanpm2001/Learn-Cap-CDS
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-CH
@@ -175,6 +177,7 @@ https://github.com/seanpm2001/Learn-Jasmin
 https://github.com/seanpm2001/Learn-Java
 https://github.com/seanpm2001/Learn-JavaScript
 https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
+https://github.com/seanpm2001/Learn-JetBrains-MPS
 https://github.com/seanpm2001/Learn-JFlex
 https://github.com/seanpm2001/Learn-Jinja
 https://github.com/seanpm2001/Learn-Joy
@@ -222,6 +225,7 @@ https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Mallard
 https://github.com/seanpm2001/Learn-Markdown
 https://github.com/seanpm2001/Learn-Mathematica
+https://github.com/seanpm2001/Learn-MATLAB
 https://github.com/seanpm2001/Learn-Seanpm2001-Matrix
 https://github.com/seanpm2001/Learn-Max
 https://github.com/seanpm2001/Learn-Maxima
@@ -325,6 +329,7 @@ https://github.com/seanpm2001/Learn-SASL
 https://github.com/seanpm2001/Learn-SASS
 https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
+https://github.com/seanpm2001/Learn-Scratch
 https://github.com/seanpm2001/Learn-Seed7
 https://github.com/seanpm2001/Learn-Self
 https://github.com/seanpm2001/Learn-SGML
@@ -338,6 +343,7 @@ https://github.com/seanpm2001/Learn-Smarty
 https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-Solidity
 https://github.com/seanpm2001/Learn-SourcePawn
+https://github.com/seanpm2001/Learn-Squeak
 https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-S-RECORD
 https://github.com/seanpm2001/Learn-SRecode-Template
@@ -382,6 +388,7 @@ https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
 -- W
+https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WDL
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
@@ -404,10 +411,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 372 languages listed (as of 2022, Saturday, October 29th at 11:59 pm PST)
+-- 379 languages listed (as of 2022, Sunday, October 30th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 68 (2022, Saturday, November 12th at 11:05 pm PST)
--- Line count (including blank lines and compiler line): 414
+-- File version: 69 (2022, Monday, November 14th at 7:34 pm PST)
+-- Line count (including blank lines and compiler line): 421
 -- End of filea
