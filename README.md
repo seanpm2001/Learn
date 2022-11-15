@@ -106,6 +106,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzBasic/"><img src="/Programming/Logos/B/BlitzBasic/BlitzBasicLogoWide.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzBasic</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Blockly/"><img src="/Programming/Logos/B/Blockly/BlocklyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Blockly</b></sub></a></td>
   </tr>
+  <!-- Row 24C !-->
+  <!-- Letter B !-->
+  <tr>
+    <td align="center"><p>Section B3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Batch/"><img src="/Programming/Logos/B/Batch/BatchLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn BATCH (Batchfile legacy)</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 3A !-->
   <!-- Letter C !-->
   <tr>
@@ -159,7 +171,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section C5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CPython/"><img src="/Programming/Logos/C/CPython/CPythonLogo.png" width="100px;" alt=""/><br /><sub><b>Learn CPython</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CAP-CDS/"><img src="/Programming/Logos/C/CAP-CDS/SAP-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CAP-CDS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -362,7 +374,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON5/"><img src="/Programming/Logos/J/JSON5/JSON5_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn JSON5</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-J/"><img src="/Programming/Logos/J/J/Jlogo_hires.png" width="100px;" alt=""/><br /><sub><b>Learn J</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JFlex/"><img src="/Programming/Logos/J/JFlex/JFlexLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn JFlex</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-JetBrains-MPS/"><img src="/Programming/Logos/J/JetBrains-MPS/JetBrains-MPS_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn JetBrains MPS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -460,7 +472,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Motoko/"><img src="/Programming/Logos/M/Motoko/Motoko-Logo-Square.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Motoko</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Seanpm2001-Matrix/"><img src="/Programming/Logos/M/Matrix/Seanpm2001-Matrix_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Matrix (seanpm2001)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MS-DOS-Style"><img src="/Programming/Logos/M/MS-DOS_Style/MS-DOS-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MS-DOS Style</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MATLAB/"><img src="/Programming/Logos/M/MATLAB/MATLAB_200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MATLAB</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
@@ -654,8 +666,20 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-S-RECODE-Template/"><img src="/Programming/Logos/S/S-RECODE-Template/S-RECODE_Template_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn SRecode Template</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SASL/"><img src="/Programming/Logos/S/SASL/SASL_PlaceholderLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn SASL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Smali/"><img src="/Programming/Logos/S/Smali/SmaliLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Smali</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Scratch/"><img src="/Programming/Logos/S/Scratch/Scratch2HEAD.png" width="100px;" alt=""/><br /><sub><b>Learn Scratch</b></sub></a></td>
   </tr>
+  <!-- Row 19F !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><p>Section S6</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Squeak/"><img src="/Programming/Logos/S/Squeak/Squeak_Logo1_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn Squeak!</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 20A !-->
   <!-- Letter T !-->
   <tr>
@@ -725,7 +749,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WikiText/"><img src="/Programming/Logos/W/WikiText/MediaWiki_Sunflower.png" width="100px;" alt=""/><br /><sub><b>Learn WikiText</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WindowsRegistry/"><img src="/Programming/Logos/W/WindowsRegistry/WindowsRegistryLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn Windows Registry (Windows Registry Entries)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Wierd/"><img src="/Programming/Logos/W/Wierd/Wierd_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Wierd</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Material/"><img src="/Programming/Logos/W/WaveFront-Material/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Material</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 24A !-->
@@ -969,6 +993,7 @@ Isabelle
 * CPython
 * Cobra
 * Proguard
+* WaveFront Material
 
 `#` & `"""`
 
@@ -1057,7 +1082,7 @@ Isabelle
 * AL
 * Thrift
 * NextFlow
-* HolyC
+* HolyC-
 * JADE
 * ANTLR
 * AIDL
@@ -1281,6 +1306,7 @@ Isabelle
 * XSLT
 * EJS
 * LabVIEW
+* JetBrains MPS
 
 `(* *)`
 
@@ -1341,6 +1367,7 @@ Isabelle
 * Latte
 * BlitzBasic
 * DCPU-16-ASM
+* CAP-CDS
 
 `C`
 
@@ -1394,6 +1421,10 @@ Isabelle
 * Racket
 * Emacs Lisp
 * NewLisp
+
+`::`
+
+* Batchfile
 
 `/** **/`
 
@@ -1558,6 +1589,8 @@ Isabelle
 * Lucid
 * Proguard
 * Unity3DAsset
+* Scratch
+* Squeak
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1779,6 +1812,13 @@ disp('String');
 * MATLAB
 * Octave
 
+```octave
+disp('String')
+```
+
+* MATLAB
+* Octave
+
 ```raku
 say "String"
 ```
@@ -1960,6 +2000,7 @@ w "String",!
 ```
 
 * XProc
+* JetBrains MPS
 
 ```macaulay2
 PARA { "String" },
@@ -2438,6 +2479,7 @@ echo 'String'
 ```
 
 * J
+* Batchfile
 
 ```mustache
 {{String}}
@@ -3003,9 +3045,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `74 (2022, Saturday, November 12th at 11:00 pm PST)`
+**File version:** `75 (2022, Monday, November 24th at 7:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,801`
+**Line count (including blank lines and compiler line):** `5,882`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5096,11 +5138,32 @@ class PRTSTR
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 75 (Coming soon)</b></summary>
+<details><summary><b>Version 75 (2022, Monday, November 14th at 7:28 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2022, Sunday, October 30th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Batch, CAP-CDS, JetBrains MPS, MATLAB, Scratch, Squeak!, and WaveFront Material
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include WaveFront Material
+- - [ ] Did not update the `%` comment section to include MATLAB (already done)
+- - [x] Updated the `;` comment section to include CAP-CDS
+- - [x] Updated the `<!--` % `!-->` comment section to include JetBrains PMPS
+- - [x] Added the `::` comment section to include Batch
+- - [x] Updated the `unknown` comment section to include Scratch and Squeak!
+- [x] Updated the print statement section
+- - [x] Updated the `echo 'String'` string section to include Batchfile
+- - [x] Added the `disp('String')` string section to include MATLAB and Octave
+- - [x] Updated the `<para>String</para>` string section to include JetBrains MPS
+- - [x] Updated the `unknown` section to include Scratch, Squeak!, WaveFront-Material, and CAP-CDS
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 75
 - [ ] No other changes in version 75
 
 </details> <!-- Section end !-->
@@ -5768,6 +5831,24 @@ class PRTSTR
 
 - [ ] Coming soon
 - [ ] No other changes in version 148
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 149 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 149
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 150 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 150
 
 </details> <!-- Section end !-->
 
