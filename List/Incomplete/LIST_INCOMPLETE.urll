@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Saturday, October 29th at 11:59 pm PST
+-- As of 2022, Sunday, October 30th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -32,6 +32,7 @@ https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
+https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Befunge
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
@@ -44,6 +45,7 @@ https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-Cadence
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-CAML
+https://github.com/seanpm2001/Learn-CAP-CDS
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
@@ -132,6 +134,7 @@ https://github.com/seanpm2001/Learn-ISWIM
 https://github.com/seanpm2001/Learn-J
 https://github.com/seanpm2001/Learn-Jade
 https://github.com/seanpm2001/Learn-Jasmin
+https://github.com/seanpm2001/Learn-JetBrains-MPS
 https://github.com/seanpm2001/Learn-JFlex
 https://github.com/seanpm2001/Learn-Jinja
 https://github.com/seanpm2001/Learn-Joy
@@ -174,6 +177,7 @@ https://github.com/seanpm2001/Learn-Mako
 https://github.com/seanpm2001/Learn-M4
 https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Mallard
+https://github.com/seanpm2001/Learn-MATLAB
 https://github.com/seanpm2001/Learn-Seanpm2001-Matrix
 https://github.com/seanpm2001/Learn-Max
 https://github.com/seanpm2001/Learn-Maxima
@@ -253,6 +257,7 @@ https://github.com/seanpm2001/Learn-SaltStack
 https://github.com/seanpm2001/Learn-SAS
 https://github.com/seanpm2001/Learn-SASL
 https://github.com/seanpm2001/Learn-SASS
+https://github.com/seanpm2001/Learn-Scratch
 https://github.com/seanpm2001/Learn-Seed7
 https://github.com/seanpm2001/Learn-Self
 https://github.com/seanpm2001/Learn-SGML
@@ -264,6 +269,7 @@ https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-Smali
 https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-SourcePawn
+https://github.com/seanpm2001/Learn-Squeak
 https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-S-RECORD
 https://github.com/seanpm2001/Learn-SRecode-Template
@@ -298,6 +304,7 @@ https://github.com/seanpm2001/Learn-Vim-Snippet
 https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
+https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
@@ -314,7 +321,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 310/370
+-- Count: 317/377
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -462,13 +469,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V70 date: 2022, Saturday, November 12th at 10:33 pm PST, representing data from 2022, Friday, October 28th at 11:59 pm PST
 -- V71: 7 entries added, 310 entries remain (ratio: 310/370 (83.78% incomplete, 16.22% complete))
 -- V71 date: 2022, Saturday, November 12th at 11:15 pm PST, representing data from 2022, Saturday, October 29th at 11:59 pm PST
+-- V72: 7 entries added, 317 entries remain (ratio: 317/377 (84.08% incomplete, 15.92% complete))
+-- V72 date: 2022, Monday, November 14th at 7:44 pm PST, representing data from 2022, Sunday, October 30th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 310/370 (83.78% incomplete, 16.22% complete)
+-- Ratio (incomplete/complete): 317/377 (84.08% incomplete, 15.92% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 71 (2022, Saturday, November 12th at 11:15 pm PST)
--- Line count (including blank lines and compiler line): 475
+-- File version: 72 (2022, Monday, November 14th at 7:44 pm PST)
+-- Line count (including blank lines and compiler line): 484
 
 -- End of script
