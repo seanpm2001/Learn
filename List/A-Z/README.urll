@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V74: 2022, Wednesday, November 16th at 9:37 pm PST
--- Representing data from 2022, Friday, November 4th at 11:59 pm PST
+-- V75: 2022, Wednesday, November 16th at 10:44 pm PST
+-- Representing data from 2022, Saturday, November 5th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -327,6 +327,7 @@ https://github.com/seanpm2001/Learn-QueryByExample
 -- R
 https://github.com/seanpm2001/Learn-R
 https://github.com/seanpm2001/Learn-Racket
+https://github.com/seanpm2001/Learn-Ragel
 https://github.com/seanpm2001/Learn-Raku
 https://github.com/seanpm2001/Learn-Rascal
 https://github.com/seanpm2001/Learn-RDoc
@@ -334,6 +335,7 @@ https://github.com/seanpm2001/Learn-Reason
 https://github.com/seanpm2001/Learn-ReasonML
 https://github.com/seanpm2001/Learn-REBOL
 https://github.com/seanpm2001/Learn-Red
+https://github.com/seanpm2001/Learn-Refal
 https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn-ReScript
 https://github.com/seanpm2001/Learn-ReStructuredText
@@ -355,6 +357,8 @@ https://github.com/seanpm2001/Learn-SASS
 https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
 https://github.com/seanpm2001/Learn-Scratch
+https://github.com/seanpm2001/Learn-SCSS
+https://github.com/seanpm2001/Learn-Sed
 https://github.com/seanpm2001/Learn-Seed7
 https://github.com/seanpm2001/Learn-Self
 https://github.com/seanpm2001/Learn-SGML
@@ -405,6 +409,7 @@ https://github.com/seanpm2001/Learn-Vala
 https://github.com/seanpm2001/Learn-VBA
 https://github.com/seanpm2001/Learn-VBScript
 https://github.com/seanpm2001/Learn-VCL
+https://github.com/seanpm2001/Learn-Verilog
 https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-VimScript
@@ -436,10 +441,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 404 languages listed (as of 2022, Friday, November 4th at 11:59 pm PST)
+-- 409 languages listed (as of 2022, Saturday, November 5th at 10:44 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 74 (2022, Wednesday, November 16th at 9:37 pm PST)
--- Line count (including blank lines and compiler line): 446
+-- File version: 75 (2022, Wednesday, November 16th at 10:44 pm PST)
+-- Line count (including blank lines and compiler line): 451
 -- End of file
