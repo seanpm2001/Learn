@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V77: 2022, Thursday, November 17th at 1:33 pm PST
--- Representing data from 2022, Monday, November 7th at 11:59 pm PST
+-- V78: 2022, Thursday, November 17th at 2:08 pm PST
+-- Representing data from 2022, Tuesday, November 8th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -12,7 +12,7 @@ https://github.com/seanpm2001/Learn-ABAP
 https://github.com/seanpm2001/Learn-ABAP-CDS
 https://github.com/seanpm2001/Learn-ABNF
 https://github.com/seanpm2001/Learn-ActionScript-3
-https://github.com/seanpm2001/Learn-Ada
+https://github.com/seanpm2001/Learn-AdaA
 https://github.com/seanpm2001/Learn-Agda
 https://github.com/seanpm2001/Learn-AGS-Script
 https://github.com/seanpm2001/Learn-AIDL
@@ -46,6 +46,7 @@ https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Befunge
+https://github.com/seanpm2001/Learn-Berry
 https://github.com/seanpm2001/Learn-BibTeX
 https://github.com/seanpm2001/Learn-Bicep
 https://github.com/seanpm2001/Learn-Bikeshed
@@ -361,6 +362,9 @@ https://github.com/seanpm2001/Learn-SASS
 https://github.com/seanpm2001/Learn-Scala
 https://github.com/seanpm2001/Learn-SciLab
 https://github.com/seanpm2001/Learn-Scratch
+https://github.com/seanpm2001/Learn-Scratch-1
+https://github.com/seanpm2001/Learn-Scratch-2
+https://github.com/seanpm2001/Learn-Scratch-3
 https://github.com/seanpm2001/Learn-SCSS
 https://github.com/seanpm2001/Learn-Sed
 https://github.com/seanpm2001/Learn-Seed7
@@ -381,6 +385,7 @@ https://github.com/seanpm2001/Learn-Squeak
 https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-S-RECORD
 https://github.com/seanpm2001/Learn-SRecode-Template
+https://github.com/seanpm2001/Learn-Stan
 https://github.com/seanpm2001/Learn-StandardML
 https://github.com/seanpm2001/Learn-Starlark
 https://github.com/seanpm2001/Learn-StringTemplate
@@ -451,10 +456,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 419 languages listed (as of 2022, Monday, November 7th at 11:59 pm PST)
+-- 426 languages listed (as of 2022, Tuesday, November 8th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 77 (2022, Thursday, November 17th at 1:33 pm PST)
--- Line count (including blank lines and compiler line): 461
+-- File version: 78 (2022, Thursday, November 17th at 2:08 pm PST)
+-- Line count (including blank lines and compiler line): 466
 -- End of file
