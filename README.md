@@ -712,8 +712,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Squeak/"><img src="/Programming/Logos/S/Squeak/Squeak_Logo1_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn Squeak!</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SCSS/SCSS_Variant1.png"><img src="/Programming/Logos/S/SCSS/SCSS_Variant1.png" width="100px;" alt=""/><br /><sub><b>Learn SCSS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Sed/"><img src="/Programming/Logos/S/Sed/Sed1Bubble.jpeg" width="100px;" alt=""/><br /><sub><b>Learn sed</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SQL/"><img src="/Programming/Logos/S/SQL/SQLIcon_Glossy_512x512.png" width="100px;" alt=""/><br /><sub><b>Learn SQL</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-StandardML/"><img src="/Programming/Logos/S/StandardML/ML-LOGO2.png" width="100px;" alt=""/><br /><sub><b>Learn StandardML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -736,8 +736,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Textile/"><img src="/Programming/Logos/T/Textile/TextileLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Textile</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TSX/"><img src="/Programming/Logos/T/TSX/TSX_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn TSX</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Terra/"><img src="/Programming/Logos/T/Terra/TerraLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Terra</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-TeX/"><img src="/Programming/Logos/T/TeX/LaTeX_2400x2400.jpeg" width="100px;" alt=""/><br /><sub><b>Learn TeX</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-TSQL/"><img src="/Programming/Logos/T/TSQL/TSQL_LOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn TSQL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -775,7 +775,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualLogic/"><img src="/Programming/Logos/V/Visual-Logic/VisualLogic_LogoWide_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Logic</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Vim-Snippet"><img src="/Programming/Logos/V/Vim-Snippet/Vim-Logo-1022x1024.png" width="100px;" alt=""/><br /><sub><b>Learn Vim Snippet</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Verilog/"><img src="/Programming/Logos/V/Verilog/VerilogSample.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Verilog</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Verilog-AMS/"><img src="/Programming/Logos/V/Verilog-AMS/VerilogCircuit.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Verilog-AMS</b></sub></a></td>
   </tr>
   <!-- Row 23A !-->
   <!-- Letter W !-->
@@ -1166,6 +1166,7 @@ Isabelle
 * Less
 * SCSS
 * Verilog
+* Verilog-AMS
 
 `//` & `/* */`
 
@@ -1239,6 +1240,7 @@ Isabelle
 * Less
 * SCSS
 * Verilog
+* Verilog-AMS
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1325,6 +1327,7 @@ Isabelle
 * SCSS
 * Verilog
 * Ragel
+* Verilog-AMS
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -2190,6 +2193,35 @@ WRITE "String".
 
 * ABAP
 
+```sql
+SELECT 'String';
+```
+
+* SQL
+
+```standard-ml
+fun string1() = print("String\n");
+string1()
+```
+
+* StandardML
+
+```tex
+\documentclass{article} % Starts an article
+\begin{document} % Begins a document
+\a String
+```
+
+* TeX
+
+```tsql
+DECLARE @message varchar(128)
+SELECT  @message = 'String'
+PRINT   @message
+```
+
+* TSQL
+
 ```classic-asp
 <%
 Response.write "String"
@@ -2991,6 +3023,7 @@ endmodule
 ```
 
 * Verilog
+* Verilog-AMS
 
 <!-- End of randomized string order !-->
 
@@ -3282,9 +3315,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `81 (2022, Wednesday, November 16th at 10:35 pm PST)`
+**File version:** `82 (2022, Wednesday, November 16th at 11:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,487`
+**Line count (including blank lines and compiler line):** `6,610`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5728,11 +5761,83 @@ q
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 82 (Coming soon)</b></summary>
+<details><summary><b>Version 82 (2022, Wednesday, November 16th at 11:15 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V82.md)
+
+**This release uses/represents data from:** `2022, Sunday, November 6th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for SQL, StandardML, TeX, TSQL, and Verilog-AMS
+- [x] Updated the source code comments section
+- - [ ] Did NOT update the `--` comment section to include SQL and TSQL, as it has already been done
+- - [ ] Did NOT update the `(* Comment *)` comment section to include StandardML, as it has already been done
+- - [ ] Did NOT update the `%` comment section to include TeX, as it has already been done
+- - [x] Updated the `//` comment section to include Verilog-AMS
+- - [x] Updated the `//` & `/*` & `*/` comment section to include Verilog-AMS
+- - [x] Updated the `/*` & `*/` comment section to include Verilog-AMS
+- [x] Updated the print statement section
+- - [x] Added the `printf( "String\n" value );` string section to include Ragel
+- - [x] Updated the:
+
+```verilog
+module main;
+  initial
+    begin
+      $display("String");
+      $finish;
+    end
+endmodule
+```
+
+- - [ ] String section to include Verilog-AMS
+- - [x] Added the:
+
+```tsql
+DECLARE @message varchar(128)
+SELECT  @message = 'String'
+PRINT   @message
+```
+
+- - [ ] String section to include TSQL
+- - [x] Added the:
+
+```tex
+\documentclass{article} % Starts an article
+\begin{document} % Begins a document
+\a String
+```
+
+- - [ ] String section to include SCSS
+- - [x] Added the:
+
+```sed
+#!/bin/sed -f
+c\
+String
+q
+```
+
+- - [ ] String section to include TeX
+- - [x] Added the:
+
+```standard-ml
+fun string1() = print("String\n");
+string1()
+```
+
+- - [ ] String section to include StandardML
+- - [x] Added the `SELECT 'String';` string section to include SQL
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 82
 - [ ] No other changes in version 82
 
 </details> <!-- Section end !-->
@@ -6454,6 +6559,24 @@ q
 
 - [ ] Coming soon
 - [ ] No other changes in version 162
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 163 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 163
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 164 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 164
 
 </details> <!-- Section end !-->
 
