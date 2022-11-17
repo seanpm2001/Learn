@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Saturday, November 5th at 11:59 pm PST
+-- As of 2022, Sunday, November 6th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -298,10 +298,12 @@ https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-Smali
 https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-SourcePawn
+https://github.com/seanpm2001/Learn-SQL
 https://github.com/seanpm2001/Learn-Squeak
 https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-S-RECORD
 https://github.com/seanpm2001/Learn-SRecode-Template
+https://github.com/seanpm2001/Learn-StandardML
 https://github.com/seanpm2001/Learn-Starlark
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
@@ -313,10 +315,12 @@ https://github.com/seanpm2001/Learn-SXML
 https://github.com/seanpm2001/Learn-SystemVerilog
 https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn-Terra
+https://github.com/seanpm2001/Learn-TeX
 https://github.com/seanpm2001/Learn-Textile
 https://github.com/seanpm2001/Learn-Thrift
 https://github.com/seanpm2001/Learn-TLA
 https://github.com/seanpm2001/Learn-TOML
+https://github.com/seanpm2001/Learn-TSQL
 https://github.com/seanpm2001/Learn-TSX
 https://github.com/seanpm2001/Learn-Twig
 https://github.com/seanpm2001/Learn-TXL
@@ -328,6 +332,7 @@ https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-VBA
 https://github.com/seanpm2001/Learn-VCL
 https://github.com/seanpm2001/Learn-Verilog
+https://github.com/seanpm2001/Learn-Verilog-AMS
 https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-Vim-Snippet
@@ -351,7 +356,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 347/407
+-- Count: 352/412
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -512,14 +517,16 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V77: 5 entries added, 342 entries remain (ratio: 342/402 (85.07% incomplete, 14.93% complete))
 -- V77 date: 2022, Wednesday, November 16th at 10:10 pm PST, representing data from 2022, Friday, November 4th at 11:59 pm PST
 -- V78: 5 entries added, 347 entries remain (ratio: 347/407 (85.25% incomplete, 14.75% complete))
--- V78 date: 2022, Wednesday, November 16th at 10:54 pm PST, representing data from 2022, Saturday, November 45th at 11:59 pm PST
+-- V78 date: 2022, Wednesday, November 16th at 10:54 pm PST, representing data from 2022, Saturday, November 5th at 11:59 pm PST
+-- V79: 5 entries added, 352 entries remain (ratio: 352/412 (85.43% incomplete, 14.57% complete))
+-- V79 date: 2022, Wednesday, November 16th at 11:30 pm PST, representing data from 2022, Sunday, November 6th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 347/407 (85.25% incomplete, 14.75% complete)
+-- Ratio (incomplete/complete): 352/412 (85.43% incomplete, 14.57% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 78 (2022, Wednesday, November 16th at 10:54 pm PST)
--- Line count (including blank lines and compiler line): 526
+-- File version: 79 (2022, Wednesday, November 16th at 11:30 pm PST)
+-- Line count (including blank lines and compiler line): 533
 
 -- End of script
