@@ -340,7 +340,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-IronPython/"><img src="/Programming/Logos/I/IronPython/IronPython_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn IronPython</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-INTERCAL/"><img src="/Programming/Logos/I/INTERCAL/INTERCAL_LogoLQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn INTERCAL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ISWIM/"><img src="/Programming/Logos/I/ISWIM/ISWIM_PlaceholderLogo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ISWIM</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-IntelHexBinary/"><img src="/Programming/Logos/I/IntelHexBinary/IntelHex_Icon1.png" width="100px;" alt=""/><br /><sub><b>Learn Intel Hex (Binary)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -423,9 +423,9 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-LiveScript/"><img src="/Programming/Logos/L/LiveScript/LiveScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn LiveScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Latte/"><img src="/Programming/Logos/L/Latte/Latte-lang-logo-large.png" width="100px;" alt=""/><br /><sub><b>Learn Latte</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lucid/"><img src="/Programming/Logos/L/Lucid/Lucid_Wordmark.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Lucid</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Less/"><img src="/Programming/Logos/L/Less/LessCSS.jpeg" width="100px;" alt=""/><br /><sub><b>Learn LESS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Limbo/"><img src="/Programming/Logos/L/Limbo/Limbo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Limbo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanp2001/Learn-LISP/"><img src="/Programming/Logos/L/LISP/LispLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Lisp</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 13A !-->
@@ -561,6 +561,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PLSQL/"><img src="/Programming/Logos/P/PLSQL/OraclePLSQL_LogoLQ.png" width="100px;" alt=""/><br /><sub><b>Learn PLSQL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ProGuard/"><img src="/Programming/Logos/P/Proguard/ProGuard_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Proguard</b></sub></a></td>
   </tr>
+  <!-- Row 16D !-->
+  <!-- Letter P !-->
+  <tr>
+    <td align="center"><p>Section P4</p></td>
+    <td align="center"><a href="https://github.com/seanpm201/Learn-PostScript/"><img src="/Programming/Logos/P/PostScript/PostScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostScript</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 17A !-->
   <!-- Letter Q !-->
   <tr>
@@ -996,6 +1008,7 @@ Isabelle
 * Proguard
 * WaveFront Material
 * Cap'n Proto
+* Limbo
 
 `#` & `"""`
 
@@ -1125,6 +1138,7 @@ Isabelle
 * FLUX
 * Genie
 * Gerber Image
+* Less
 
 `//` & `/* */`
 
@@ -1195,6 +1209,7 @@ Isabelle
 * Nemerle
 * JFlex
 * Genie
+* Less
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1277,6 +1292,7 @@ Isabelle
 * Nemerle
 * Genie
 * GraphViz (DOT)
+* Less
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1383,6 +1399,7 @@ Isabelle
 * CSound
 * CSound Document
 * CSound Score
+* Lisp
 
 `C`
 
@@ -1495,6 +1512,10 @@ Isabelle
 `#C`
 
 * PureData
+
+`:co`
+
+* Intel Hex (Binary)
 
 `(` & `)`
 
@@ -1991,6 +2012,13 @@ w "String",!
 ```
 
 * Hy
+* Lisp
+
+```postscript
+(String\n) print quit
+```
+
+* PostScript
 
 ```kicad-layout
 ("String")
@@ -2456,6 +2484,33 @@ Stringy::{ stringy = "String" }
 
 * BibTeX
 
+```less
+body::before {
+    content: "String"
+}
+```
+
+* Less
+
+```limbo
+implement Command;
+ 
+include "sys.m";
+    sys: Sys;
+ 
+include "draw.m";
+
+include "sh.m";
+ 
+init(nil: ref Draw->Context, nil: list of string)
+{
+    sys = load Sys Sys->PATH;
+    sys->print("String\n");
+}
+```
+
+* Limbo
+
 ```slim
 title: string
 ```
@@ -2905,6 +2960,7 @@ unknown
 * CSound Document
 * CSound Score
 * Gerber Image
+* Intel Hex (Binary)
 
 ```plain-text
 Unsupported
@@ -3119,9 +3175,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `78 (2022, Monday, November 14th at 9:43 pm PST)`
+**File version:** `79 (2022, Wednesday, November 16th at 8:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,093`
+**Line count (including blank lines and compiler line):** `6,249`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5091,6 +5147,10 @@ mytext = 'String';
 
 <details><summary><b>Version 72 (2022, Saturday, November 12th at 8:52 pm PAST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V72.md)
+
 **This release uses/represents data from:** `2022, Thursday, October 27th at 11:59 pm PST`
 
 **Changes:**
@@ -5131,6 +5191,10 @@ snippet string
 
 <details><summary><b>Version 73 (2022, Saturday, November 12th at 10:06 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V73.md)
+
 **This release uses/represents data from:** `2022, Friday, October 28th at 11:59 pm PST`
 
 **Changes:**
@@ -5170,6 +5234,10 @@ snippet string
 </details> <!-- Section end !-->
 
 <details><summary><b>Version 74 (2022, Saturday, November 12th at 101:00 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V74.md)
 
 **This release uses/represents data from:** `2022, Saturday, October 29th at 11:59 pm PST`
 
@@ -5214,6 +5282,10 @@ class PRTSTR
 
 <details><summary><b>Version 75 (2022, Monday, November 14th at 7:28 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V75.md)
+
 **This release uses/represents data from:** `2022, Sunday, October 30th at 11:59 pm PST`
 
 **Changes:**
@@ -5243,6 +5315,10 @@ class PRTSTR
 </details> <!-- Section end !-->
 
 <details><summary><b>Version 76 (2022, Monday, November 14th at 8:08 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V76.md)
 
 **This release uses/represents data from:** `2022, Monday, October 31st at 11:59 pm PST`
 
@@ -5289,6 +5365,10 @@ Response.write "String"
 
 <details><summary><b>Version 77 (2022, Monday, November 14th at 8:46 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V77.md)
+
 **This release uses/represents data from:** `2022, Tuesday, November 1st at 11:59 pm PST`
 
 **Changes:**
@@ -5326,6 +5406,10 @@ init
 
 <details><summary><b>Version 78 (2022, Monday, November 14th at 9:43 pm PST)</b></summary>
 
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V78.md)
+
 **This release uses/represents data from:** `2022, Wednesday, November 2nd at 11:59 pm PST`
 
 **Changes:**
@@ -5350,7 +5434,7 @@ printf(_("String"), str1);
 - - [ ] Did NOT update the `{"String"}` string section to include JSON, as it has already been included
 - - [x] Added the `"Str" -> "String"` string section to include GraphViz (DOT)
 - - [x] Added the `System.log (LString.s "String")` string section to include Coq
-- - [x] Updated the `Unknown` string section to include Gerber Image and CSound Score*
+- - [x] Updated the `Unknown` string section to include Gerber Image and CSound Score
 - [x] Updated the file info section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -5361,11 +5445,65 @@ printf(_("String"), str1);
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 79 (Coming soon)</b></summary>
+<details><summary><b>Version 79 (2022, Wednesday, November 16th at 8:24 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V79.md)
+
+**This release uses/represents data from:** `2022, Thursday, November 3rd at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Intel Hex (Binary), Less, Limbo, Lisp, and PostScript
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Less
+- - [x] Updated the `//` & `/*` & `*/` comment section to include Less
+- - [x] Updated the `/*` & `*/` comment section to include Less
+- - [x] Updated the `;` comment section to include Lisp
+- - [x] Updated the `#` comment section to include Limbo
+- - [x] Added the `:co` comment section to include Intel Hex (Binary)
+- - [ ] Did NOT update the `%` comment section to include PostScript, as it has already been included
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```less
+body::before {
+    content: "String"
+}
+```
+
+- - [ ] String section to include Less
+- - [x] Added the `(String\n) print quit` string section to include PostScript
+- - [x] Updated the `(print "String")` string section to include Lisp
+- - [x] Updated the `Unknown` string section to include Intel Hex (Binary)
+- - [x] Added the:
+
+```limbo
+implement Command;
+ 
+include "sys.m";
+    sys: Sys;
+ 
+include "draw.m";
+
+include "sh.m";
+ 
+init(nil: ref Draw->Context, nil: list of string)
+{
+    sys = load Sys Sys->PATH;
+    sys->print("String\n");
+}
+```
+
+- - [ ] String section to include Limbo
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 79
 - [ ] No other changes in version 79
 
 </details> <!-- Section end !-->
@@ -6060,6 +6198,24 @@ printf(_("String"), str1);
 
 - [ ] Coming soon
 - [ ] No other changes in version 156
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 157 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 157
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 158 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 158
 
 </details> <!-- Section end !-->
 
