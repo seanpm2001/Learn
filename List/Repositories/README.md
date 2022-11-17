@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `402`/`422` (as of 2022, Friday, November 4th at 11:59 pm PST)
+Current progress `407`/`422` (as of 2022, Saturday, November 5th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `95.26%` complete, `04.74%` incomplete.
+**Ratio:** `96.44%` complete, `03.56%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -341,7 +341,7 @@ This list covers the creation of the language repositories.
 - [x] Red
 - [x] Ruby
 - [x] Racket
-- [ ] Ragel
+- [x] Ragel
 - [x] Reason
 - [x] ReasonML
 - [x] REBOL
@@ -353,7 +353,7 @@ This list covers the creation of the language repositories.
 - [x] RDoc
 - [x] RPC
 - [x] RPGLE
-- [ ] Refal
+- [x] Refal
 - [x] Rascal
 - [x] RouterOS Script
 - [x] Ren'Py
@@ -369,8 +369,8 @@ This list covers the creation of the language repositories.
 - [x] Scala
 - [x] Scratch
 - [x] Squeak
-- [ ] SCSS
-- [ ] Sed
+- [x] SCSS
+- [x] Sed
 - [x] Seed7
 - [x] Self
 - [x] SGML
@@ -417,7 +417,7 @@ This list covers the creation of the language repositories.
 - [x] Unity3D Asset
 - [x] V
 - [ ] Verilog AMS
-- [ ] Verilog
+- [x] Verilog
 - [x] Verona
 - [x] Vim Script
 - [x] Vim Snippet
@@ -471,9 +471,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `74 (2022, Wednesday, November 16th at 10:18 pm PST)`
+**File version:** `75 (2022, Wednesday, November 16th at 10:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,354`
+**Line count (including blank lines and compiler line):** `3,395`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2240,15 +2240,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 75</b></summary>
 
-**Version 75 (Coming soon)**
+**Version 75 (2022, Wednesday, November 16th at 10:58 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V75.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V75.md)
+
+**This release represents data from:** `2022, Saturday, November 5th at 11:59 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 5 new entries (old total: 402 | new total: 407)
+- - [x] Added 0 new entries to the list (old total: 422 | new total: 422)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 75
 - [ ] No other changes in version 75
 
 </details> <!-- Section end !-->
@@ -3345,6 +3356,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 148
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 149</b></summary>
+
+**Version 149 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 149
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 150</b></summary>
+
+**Version 150 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 150
 
 </details> <!-- Section end !-->
 
