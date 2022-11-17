@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V76: 2022, Wednesday, November 16th at 11:19 pm PST
--- Representing data from 2022, Sunday, November 6th at 11:59 pm PST
+-- V77: 2022, Thursday, November 17th at 1:33 pm PST
+-- Representing data from 2022, Monday, November 7th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -221,6 +221,7 @@ https://github.com/seanpm2001/Learn-Less
 https://github.com/seanpm2001/Learn-Lex
 https://github.com/seanpm2001/Learn-Limbo
 https://github.com/seanpm2001/Learn-Lingo
+https://github.com/seanpm2001/Learn-Linker-Script
 https://github.com/seanpm2001/Learn-Liquid
 https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
@@ -260,6 +261,7 @@ https://github.com/seanpm2001/Learn-Modelica
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Monkey-C
 https://github.com/seanpm2001/Learn-MoonScript
 https://github.com/seanpm2001/Learn-Motoko
 https://github.com/seanpm2001/Learn-MS-DOS-Style
@@ -296,12 +298,14 @@ https://github.com/seanpm2001/Learn-OrgMode
 https://github.com/seanpm2001/Learn-Pascal
 https://github.com/seanpm2001/Learn-Pawn
 https://github.com/seanpm2001/Learn-Perl
+https://github.com/seanpm2001/Learn-Perl6
 https://github.com/seanpm2001/Learn-PHP
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-PigLatin
 https://github.com/seanpm2001/Learn-PlantUML
 https://github.com/seanpm2001/Learn-PLSQL
 https://github.com/seanpm2001/Learn-Pod
+https://github.com/seanpm2001/Learn-Pod6
 https://github.com/seanpm2001/Learn-Pony
 https://github.com/seanpm2001/Learn-PostCSS
 https://github.com/seanpm2001/Learn-PostGreSQL
@@ -423,6 +427,7 @@ https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
 -- W
+https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WDL
 https://github.com/seanpm2001/Learn-WebVTT
@@ -446,10 +451,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 414 languages listed (as of 2022, Sunday, November 6th at 11:59 pm PST)
+-- 419 languages listed (as of 2022, Monday, November 7th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 75 (2022, Wednesday, November 16th at 11:19 pm PST)
--- Line count (including blank lines and compiler line): 456
+-- File version: 77 (2022, Thursday, November 17th at 1:33 pm PST)
+-- Line count (including blank lines and compiler line): 461
 -- End of file
