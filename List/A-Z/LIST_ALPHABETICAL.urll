@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V73: 2022, Wednesday, November 16th at 8:28 pm PST
--- Representing data from 2022, Thursday, November 3rd at 11:59 pm PST
+-- V74: 2022, Wednesday, November 16th at 9:37 pm PST
+-- Representing data from 2022, Friday, November 4th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -253,6 +253,8 @@ https://github.com/seanpm2001/Learn-MediaWiki
 https://github.com/seanpm2001/Learn-Mercury
 https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
+https://github.com/seanpm2001/Learn-Miranda
+https://github.com/seanpm2001/Learn-ML
 https://github.com/seanpm2001/Learn-MLIR
 https://github.com/seanpm2001/Learn-Modelica
 https://github.com/seanpm2001/Learn-Modula-2
@@ -296,6 +298,7 @@ https://github.com/seanpm2001/Learn-Pawn
 https://github.com/seanpm2001/Learn-Perl
 https://github.com/seanpm2001/Learn-PHP
 https://github.com/seanpm2001/Learn-PicoLisp
+https://github.com/seanpm2001/Learn-PigLatin
 https://github.com/seanpm2001/Learn-PlantUML
 https://github.com/seanpm2001/Learn-PLSQL
 https://github.com/seanpm2001/Learn-Pod
@@ -310,6 +313,7 @@ https://github.com/seanpm2001/Learn-Proguard
 https://github.com/seanpm2001/Learn-Prolog
 https://github.com/seanpm2001/Learn-Pug
 https://github.com/seanpm2001/Learn-Puppet
+https://github.com/seanpm2001/Learn-PureBasic
 https://github.com/seanpm2001/Learn-PureData
 https://github.com/seanpm2001/Learn-Python
 https://github.com/seanpm2001/Learn-PythonTraceback
@@ -328,6 +332,7 @@ https://github.com/seanpm2001/Learn-Rascal
 https://github.com/seanpm2001/Learn-RDoc
 https://github.com/seanpm2001/Learn-Reason
 https://github.com/seanpm2001/Learn-ReasonML
+https://github.com/seanpm2001/Learn-REBOL
 https://github.com/seanpm2001/Learn-Red
 https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn-ReScript
@@ -431,10 +436,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 399 languages listed (as of 2022, Thursday, November 3rd at 11:59 pm PST)
+-- 404 languages listed (as of 2022, Friday, November 4th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 73 (2022, Wednesday, November 16th at 8:28 pm PST)
--- Line count (including blank lines and compiler line): 441
+-- File version: 74 (2022, Wednesday, November 16th at 9:37 pm PST)
+-- Line count (including blank lines and compiler line): 446
 -- End of file
