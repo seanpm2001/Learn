@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, November 2nd at 11:59 pm PST
+-- As of 2022, Thursday, November 3rd at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -139,6 +139,7 @@ https://github.com/seanpm2001/Learn-Idris
 https://github.com/seanpm2001/Learn-Inform
 https://github.com/seanpm2001/Learn-INI
 https://github.com/seanpm2001/Learn-Inno-Setup
+https://github.com/seanpm2001/Learn-IntelHexBinary
 https://github.com/seanpm2001/Learn-INTERCAL
 https://github.com/seanpm2001/Learn-ImageJ
 https://github.com/seanpm2001/Learn-Io
@@ -175,9 +176,12 @@ https://github.com/seanpm2001/Learn-LabVIEW
 https://github.com/seanpm2001/Learn-Lucid
 https://github.com/seanpm2001/Learn-Latte
 https://github.com/seanpm2001/Learn-Lean
+https://github.com/seanpm2001/Learn-Less
 https://github.com/seanpm2001/Learn-Lex
+https://github.com/seanpm2001/Learn-Limbo
 https://github.com/seanpm2001/Learn-Lingo
 https://github.com/seanpm2001/Learn-Liquid
+https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
 https://github.com/seanpm2001/Learn-LiveCode
 https://github.com/seanpm2001/Learn-LiveScript
@@ -238,6 +242,7 @@ https://github.com/seanpm2001/Learn-Pod
 https://github.com/seanpm2001/Learn-Pony
 https://github.com/seanpm2001/Learn-PostCSS
 https://github.com/seanpm2001/Learn-PostGreSQL
+https://github.com/seanpm2001/Learn-PostScript
 https://github.com/seanpm2001/Learn-POV-Ray-SDL
 https://github.com/seanpm2001/Learn-PowerFX
 https://github.com/seanpm2001/Learn-Procfile
@@ -336,7 +341,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 332/392
+-- Count: 337/397
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -492,13 +497,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V74 date: 2022, Monday, November 14th at 9:01 pm PST, representing data from 2022, Tuesday, November 1st at 11:59 pm PST
 -- V75: 5 entries added, 332 entries remain (ratio: 332/392 (84.69% incomplete, 15.31% complete))
 -- V75 date: 2022, Monday, November 14th at 11:28 pm PST, representing data from 2022, Wednesday, November 2nd at 11:59 pm PST
+-- V76: 5 entries added, 337 entries remain (ratio: 337/397 (84.88% incomplete, 15.12% complete))
+-- V76 date: 2022, Wednesday, November 16th at 8:37 pm PST, representing data from 2022, Thursday, November 3rd at 11:59 pm PST
 
--- Ratio (incomplete/complete): 332/392 (84.69% incomplete, 15.31% complete)
+-- Ratio (incomplete/complete): 337/397 (84.88% incomplete, 15.12% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 75 (2022, Monday, November 14th at 11:28 pm PST)
--- Line count (including blank lines and compiler line): 505
+-- File version: 76 (2022, Wednesday, November 16th at 8:37 pm PST)
+-- Line count (including blank lines and compiler line): 512
 
 -- End of script
