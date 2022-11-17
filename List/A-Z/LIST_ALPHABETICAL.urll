@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V72: 2022, Monday, November 14th at 11:17 pm PST
--- Representing data from 2022, Wednesday, November 2nd at 11:59 pm PST
+-- V73: 2022, Wednesday, November 16th at 8:28 pm PST
+-- Representing data from 2022, Thursday, November 3rd at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -178,6 +178,7 @@ https://github.com/seanpm2001/Learn-Idris
 https://github.com/seanpm2001/Learn-Inform
 https://github.com/seanpm2001/Learn-INI
 https://github.com/seanpm2001/Learn-Inno-Setup
+https://github.com/seanpm2001/Learn-IntelHexBinary
 https://github.com/seanpm2001/Learn-INTERCAL
 https://github.com/seanpm2001/Learn-ImageJ
 https://github.com/seanpm2001/Learn-Io
@@ -216,9 +217,12 @@ https://github.com/seanpm2001/Learn-kvlang
 https://github.com/seanpm2001/Learn-LabVIEW
 https://github.com/seanpm2001/Learn-Latte
 https://github.com/seanpm2001/Learn-Lean
+https://github.com/seanpm2001/Learn-Less
 https://github.com/seanpm2001/Learn-Lex
+https://github.com/seanpm2001/Learn-Limbo
 https://github.com/seanpm2001/Learn-Lingo
 https://github.com/seanpm2001/Learn-Liquid
+https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
 https://github.com/seanpm2001/Learn-LiveCode
 https://github.com/seanpm2001/Learn-LiveScript
@@ -298,6 +302,7 @@ https://github.com/seanpm2001/Learn-Pod
 https://github.com/seanpm2001/Learn-Pony
 https://github.com/seanpm2001/Learn-PostCSS
 https://github.com/seanpm2001/Learn-PostGreSQL
+https://github.com/seanpm2001/Learn-PostScript
 https://github.com/seanpm2001/Learn-POV-Ray-SDL
 https://github.com/seanpm2001/Learn-PowerFX
 https://github.com/seanpm2001/Learn-Procfile
@@ -426,10 +431,10 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 394 languages listed (as of 2022, Wednesday, November 2nd at 11:59 pm PST)
+-- 399 languages listed (as of 2022, Thursday, November 3rd at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 72 (2022, Monday, November 14th at 11:17 pm PST)
--- Line count (including blank lines and compiler line): 436
--- End of filea
+-- File version: 73 (2022, Wednesday, November 16th at 8:28 pm PST)
+-- Line count (including blank lines and compiler line): 441
+-- End of file
