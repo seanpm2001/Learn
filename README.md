@@ -474,8 +474,20 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Seanpm2001-Matrix/"><img src="/Programming/Logos/M/Matrix/Seanpm2001-Matrix_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Matrix (seanpm2001)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MS-DOS-Style"><img src="/Programming/Logos/M/MS-DOS_Style/MS-DOS-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MS-DOS Style</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MATLAB/"><img src="/Programming/Logos/M/MATLAB/MATLAB_200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MATLAB</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Miranda/"><img src="/Programming/Logos/M/Miranda/Miranda_logo_(programming_language).jpeg" width="100px;" alt=""/><br /><sub><b>Learn Miranda</b></sub></a></td>
   </tr>
+  <!-- Row 13E !-->
+  <!-- Letter M !--> 
+  <tr>
+    <td align="center"><p>Section M5</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ML/"><img src="/Programming/Logos/M/ML/ML_Logo_Fancy1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ML</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 14A !-->
   <!-- Letter N !-->
   <tr>
@@ -565,9 +577,9 @@ This repository is a reference to my learning experience on programming. Other s
   <!-- Letter P !-->
   <tr>
     <td align="center"><p>Section P4</p></td>
-    <td align="center"><a href="https://github.com/seanpm201/Learn-PostScript/"><img src="/Programming/Logos/P/PostScript/PostScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PostScript/"><img src="/Programming/Logos/P/PostScript/PostScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostScript</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Piglatin/"><img src="/Programming/Logos/P/Piglatin/ApachePig_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn Apache Piglatin/Apache Pig</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PureBasic/"><img src="/Programming/Logos/P/PureBasic/PureBasicPRO_CD-ROM.jpeg" width="100px;" alt=""/><br /><sub><b>Learn PureBasic</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -621,6 +633,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RPC/"><img src="/Programming/Logos/R/RPC/RPC_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn RPC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RPGLE/"><img src="/Programming/Logos/R/RGPLE/IBM_RPG_logo.png" width="100px;" alt=""/><br /><sub><b>Learn RPGLE</b></sub></a></td>
   </tr>
+  <!-- Row 18D !-->
+  <!-- Letter R !-->
+  <tr>
+    <td align="center"><p>Section R4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-REBOL/"><img src="/Programming/Logos/R/REBOL/REBOL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Rebol/REBOL</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 19A !-->
   <!-- Letter S !-->
   <tr>
@@ -1354,6 +1378,7 @@ Isabelle
 * Nemerle
 * BSDL
 * Coq
+* ML
 
 `{# #}`
 
@@ -1400,6 +1425,7 @@ Isabelle
 * CSound Document
 * CSound Score
 * Lisp
+* PureBasic
 
 `C`
 
@@ -1583,6 +1609,7 @@ Isabelle
 
 * KRC (Kent Recursive Calculator)
 * SASL
+* Miranda
 
 `#,`
 
@@ -1632,6 +1659,7 @@ Isabelle
 * Unity3DAsset
 * Scratch
 * Squeak
+* Rebol
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1796,6 +1824,12 @@ print 'String\n'
 ```
 
 * Blade
+
+```standard-ml
+print "String\n"
+```
+
+* ML
 
 ```nextflow
 print "String"
@@ -2037,6 +2071,12 @@ w "String",!
 ```
 
 * Lisp Flavored Erlang (LFE)
+
+```miranda
+lay ["String","Char"] = "String\Char\n"
+```
+
+* Miranda
 
 ```handlebars
 <p>String</p>
@@ -2511,6 +2551,13 @@ init(nil: ref Draw->Context, nil: list of string)
 
 * Limbo
 
+```piglatin
+output "String"
+quit
+```
+
+* PigLatin (Apache Pig/Piglatin)
+
 ```slim
 title: string
 ```
@@ -2634,11 +2681,23 @@ ldc "String"
 
 * Jasmin
 
-``sas
+```sas
 %putit(string=String)
 ```
 
 * SAS
+
+```rebol
+view layout [text "String" button "Quit" [quit]]
+```
+
+* Rebol
+
+```purebasic
+MessageRequester("Message Box", "String")
+```
+
+* PureBasic
 
 ```cson
 name: "String"
@@ -3175,9 +3234,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `79 (2022, Wednesday, November 16th at 8:25 pm PST)`
+**File version:** `80 (2022, Wednesday, November 16th at 9:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,249`
+**Line count (including blank lines and compiler line):** `6,358`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5508,11 +5567,43 @@ init(nil: ref Draw->Context, nil: list of string)
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 80 (Coming soon)</b></summary>
+<details><summary><b>Version 80 (2022, Wednesday, November 16th at 9:20 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V80.md)
+
+**This release uses/represents data from:** `2022, Friday, November 4th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Miranda, ML, Piglatin (Apache), PureBasic, and Rebol
+- [x] Updated the source code comments section
+- - [x] Updated the `||` comment section to include Miranda
+- - [x] Updated the `;` comment section to include PureBasic
+- - [x] Updated the `(*` & `*)` comment section to include ML
+- - [ ] Did NOT update the `--` comment section to include Piglatin (Apache), as it has already been included
+- - [x] Updated the `Unknown` comment section to include Rebol
+- [x] Updated the print statement section
+- - [x] Added the `lay ["String","Char"] = "String\Char\n"` string section to include Miranda
+- - [x] Added the `print "String\n"` string section to include ML
+- - [x] Added the `view layout [text "String" button "Quit" [quit]]` string section to include REBOL
+- - [x] Added the `MessageRequester("Message Box", "String")` string section to include PureBasic
+- - [x] Added the:
+
+```piglatin
+output "String"
+quit
+```
+
+- - [ ] String section to include Piglatin (Apache)
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 80
 - [ ] No other changes in version 80
 
 </details> <!-- Section end !-->
@@ -6216,6 +6307,24 @@ init(nil: ref Draw->Context, nil: list of string)
 
 - [ ] Coming soon
 - [ ] No other changes in version 158
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 159 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 159
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 160 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 160
 
 </details> <!-- Section end !-->
 
