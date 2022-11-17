@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `428`/`431` (as of 2022, Wednesday, November 9th at 11:59 pm PST)
+Current progress `433`/`433` (as of 2022, Thursday, November 10th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `99.30%` complete, `00.70%` incomplete.
+**Ratio:** `100.00%` complete, `00.00%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -137,6 +137,7 @@ This list covers the creation of the language repositories.
 - [x] Euphoria
 - [x] Eiffel
 - [x] Elm
+- [x] EBNF
 - [x] FORTRAN
 - [x] F#
 - [x] F*
@@ -195,7 +196,7 @@ This list covers the creation of the language repositories.
 - [x] Io
 - [x] IronPython
 - [x] Isabelle
-- [ ] HyPhy
+- [x] HyPhy
 - [x] INI
 - [x] INTERCAL
 - [x] ISWIM
@@ -306,7 +307,7 @@ This list covers the creation of the language repositories.
 - [x] Ooc
 - [x] Pawn
 - [x] Piglatin
-- [ ] PlPGSQL (might be the same as PostGreSQL)
+- [x] PlPGSQL (might be the same as PostGreSQL)
 - [x] PostGreSQL
 - [x] Procfile
 - [x] PostScript
@@ -316,7 +317,7 @@ This list covers the creation of the language repositories.
 - [x] Puppet
 - [x] PureBasic
 - [x] PureData
-- [ ] PureScript
+- [x] PureScript
 - [x] PostCSS
 - [x] Pod
 - [x] Pod6
@@ -363,6 +364,7 @@ This list covers the creation of the language repositories.
 - [x] Ren'Py
 - [x] RobotFramework
 - [x] RUNOFF
+- [x] RenderScript
 - [x] Smalli
 - [x] SciLab
 - [x] Shell
@@ -402,7 +404,7 @@ This list covers the creation of the language repositories.
 - [x] SystemVerilog
 - [x] SRecode Template
 - [x] SASL
-- [ ] SQLPL
+- [x] SQLPL
 - [x] Sublime Text
 - [x] SVG
 - [x] SAS
@@ -480,9 +482,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `79 (2022, Thursday, November 17th at 3:08 pm PST)`
+**File version:** `80 (2022, Thursday, November 17th at 3:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,568`
+**Line count (including blank lines and compiler line):** `3,611`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2379,15 +2381,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 80</b></summary>
 
-**Version 80 (Coming soon)**
+**Version 80 (2022, Thursday, November 17th at 3:47 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V80.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V80.md)
+
+**This release represents data from:** `2022, Thursday, November 10th at 11:59 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 6 new entries (old total: 427 | new total: 432)
+- - [x] Added 2 new entries to the list (old total: 431 | new total: 433)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 80
 - [ ] No other changes in version 80
 
 </details> <!-- Section end !-->
@@ -3559,6 +3572,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 158
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 159</b></summary>
+
+**Version 159 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 159
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 160</b></summary>
+
+**Version 160 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 160
 
 </details> <!-- Section end !-->
 
