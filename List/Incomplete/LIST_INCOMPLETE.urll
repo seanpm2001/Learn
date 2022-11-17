@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Tuesday, November 8th at 11:59 pm PST
+-- As of 2022, Wednesday, November 9th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -35,6 +35,7 @@ https://github.com/seanpm2001/Learn-B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Batch
+https://github.com/seanpm2001/Learn-Batchfile
 https://github.com/seanpm2001/Learn-Befunge
 https://github.com/seanpm2001/Learn-Berry
 https://github.com/seanpm2001/Learn-BibTeX
@@ -123,6 +124,7 @@ https://github.com/seanpm2001/Learn-Gradle
 https://github.com/seanpm2001/Learn-Grammatical-Framework
 https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-GraphViz-DOT
+https://github.com/seanpm2001/Learn-Groovy
 https://github.com/seanpm2001/Learn-HAML
 https://github.com/seanpm2001/Learn-Handlebars
 https://github.com/seanpm2001/Learn-Haxe
@@ -253,6 +255,7 @@ https://github.com/seanpm2001/Learn-PostGreSQL
 https://github.com/seanpm2001/Learn-PostScript
 https://github.com/seanpm2001/Learn-POV-Ray-SDL
 https://github.com/seanpm2001/Learn-PowerFX
+https://github.com/seanpm2001/Learn-PowerShell
 https://github.com/seanpm2001/Learn-Procfile
 https://github.com/seanpm2001/Learn-Proguard
 https://github.com/seanpm2001/Learn-Pug
@@ -279,6 +282,7 @@ https://github.com/seanpm2001/Learn-ReScript
 https://github.com/seanpm2001/Learn-REXX
 https://github.com/seanpm2001/Learn-RichTextFormat
 https://github.com/seanpm2001/Learn-RobotFramework
+https://github.com/seanpm2001/Learn-Roff
 https://github.com/seanpm2001/Learn-RouterOS-Script
 https://github.com/seanpm2001/Learn-RPC
 https://github.com/seanpm2001/Learn-RPGLE
@@ -345,6 +349,7 @@ https://github.com/seanpm2001/Learn-Verilog-AMS
 https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-Vim-Snippet
+https://github.com/seanpm2001/Learn-VisualBasicDOTNet
 https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
@@ -366,7 +371,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 362/422
+-- Count: 367/427
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -534,13 +539,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V80 date: 2022, Thursday, November 17th at 1:43 pm PST, representing data from 2022, Monday, November 7th at 11:59 pm PST
 -- V81: 5 entries added, 362 entries remain (ratio: 362/422 (85.78% incomplete, 14.22% complete))
 -- V81 date: 2022, Thursday, November 17th at 2:15 pm PST, representing data from 2022, Tuesday, November 8th at 11:59 pm PST
+-- V82: 5 entries added, 367 entries remain (ratio: 367/427 (85.94% incomplete, 14.06% complete))
+-- V82 date: 2022, Thursday, November 17th at 3:00 pm PST, representing data from 2022, Wednesday, November 9th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 362/422 (85.78% incomplete, 14.22% complete)
+-- Ratio (incomplete/complete): 367/427 (85.94% incomplete, 14.06% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 81 (2022, Thursday, November 17th at 2:15 pm PST)
--- Line count (including blank lines and compiler line): 547
+-- File version: 82 (2022, Thursday, November 17th at 3:00 pm PST)
+-- Line count (including blank lines and compiler line): 554
 
 -- End of script
