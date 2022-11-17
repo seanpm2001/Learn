@@ -426,7 +426,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Less/"><img src="/Programming/Logos/L/Less/LessCSS.jpeg" width="100px;" alt=""/><br /><sub><b>Learn LESS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Limbo/"><img src="/Programming/Logos/L/Limbo/Limbo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Limbo</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanp2001/Learn-LISP/"><img src="/Programming/Logos/L/LISP/LispLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Lisp</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Linker-Script/"><img src="/Programming/Logos/L/Linker-Script/LinkerScriptIcon_900pxOpaque.png" width="100px;" alt=""/><br /><sub><b>Learn Linker Script</b></sub></a></td>
   </tr>
   <!-- Row 13A !-->
   <!-- Letter M !-->
@@ -481,7 +481,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section M5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ML/"><img src="/Programming/Logos/M/ML/ML_Logo_Fancy1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey-C/"><img src="/Programming/Logos/M/Monkey-C/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey-C</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -580,8 +580,8 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PostScript/"><img src="/Programming/Logos/P/PostScript/PostScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn PostScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Piglatin/"><img src="/Programming/Logos/P/Piglatin/ApachePig_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn Apache Piglatin/Apache Pig</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PureBasic/"><img src="/Programming/Logos/P/PureBasic/PureBasicPRO_CD-ROM.jpeg" width="100px;" alt=""/><br /><sub><b>Learn PureBasic</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Perl6/"><img src="/Programming/Logos/P/Perl6/Perl6_1.png" width="100px;" alt=""/><br /><sub><b>Learn Perl6</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Pod6/"><img src="/Programming/Logos/P/Pod6/PodLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Pod6</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -787,7 +787,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WindowsRegistry/"><img src="/Programming/Logos/W/WindowsRegistry/WindowsRegistryLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn Windows Registry (Windows Registry Entries)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Wierd/"><img src="/Programming/Logos/W/Wierd/Wierd_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Wierd</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Material/"><img src="/Programming/Logos/W/WaveFront-Material/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Material</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Object/"><img src="/Programming/Logos/W/Wavefront-Object/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Object</b></sub></a></td>
   </tr>
   <!-- Row 24A !-->
   <!-- Letter X !-->
@@ -1034,6 +1034,10 @@ Isabelle
 * Cap'n Proto
 * Limbo
 * sed
+* Monkey-C
+* Perl6
+* Pod6
+* WaveFront Objct
 
 `#` & `"""`
 
@@ -1328,6 +1332,7 @@ Isabelle
 * Verilog
 * Ragel
 * Verilog-AMS
+* Linker Script
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1850,6 +1855,7 @@ print "String"
 * NextFlow
 * Jython
 * FreeBasic
+* Perl6
 
 ```sage
 print("String\n")
@@ -1931,6 +1937,7 @@ Say "String"
 ```
 
 * REXX
+* Perl6
 
 ```c
 printf("String\n");
@@ -2145,6 +2152,12 @@ puts (1, "String\n")
 ```
 
 * Euphoria
+
+```monkey-c
+puts("Hello World")
+```
+
+* Monkey-C
 
 ```livecode
 put "String"
@@ -3025,6 +3038,12 @@ endmodule
 * Verilog
 * Verilog-AMS
 
+```linker-script
+.text : { *(.String) }
+```
+
+* Linker Script
+
 <!-- End of randomized string order !-->
 
 ```markdown
@@ -3041,6 +3060,7 @@ string
 * RDoc
 * Textile
 * MS-DOS Style
+* Pod6
 
 <!-- and more !-->
 
@@ -3101,6 +3121,7 @@ unknown
 * CSound Score
 * Gerber Image
 * Intel Hex (Binary)
+* WaveFront Object
 
 ```plain-text
 Unsupported
@@ -3315,9 +3336,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `82 (2022, Wednesday, November 16th at 11:15 pm PST)`
+**File version:** `83 (2022, Thursday, November 17th at 1:29 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,610`
+**Line count (including blank lines and compiler line):** `6,673`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5842,11 +5863,34 @@ string1()
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 83 (Coming soon)</b></summary>
+<details><summary><b>Version 83 (2022, Thursday, November 17th at 1:28 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V83.md)
+
+**This release uses/represents data from:** `2022, Monday, November 7th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Linker-Script, Monkey-C, Perl6, Pod6, and WaveFront Object
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Monkey-C, Perl6, Pod6, and WaveFront Object
+- - [x] Updated the `/*` & `*/` comment section to include Linker Script
+- [x] Updated the print statement section
+- - [x] Added the `.text : { *(.String) }` string section to include Linker Script
+- - [x] Added the `puts("Hello World")` string section to include Monkey-C
+- - [x] Updated the `String` string section to include Pod6
+- - [x] Updated the `say "String"` string section to include Perl6
+- - [x] Updated the `print "String"` string section to include Perl6
+- - [x] Updated the `Unknown` string section to include WaveFront Object
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 83
 - [ ] No other changes in version 83
 
 </details> <!-- Section end !-->
@@ -5859,6 +5903,7 @@ string1()
 - [ ] No other changes in version 84
 
 </details> <!-- Section end !-->
+
 
 <details><summary><b>Version 85 (Coming soon)</b></summary>
 
@@ -6577,6 +6622,24 @@ string1()
 
 - [ ] Coming soon
 - [ ] No other changes in version 164
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 165 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 165
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 166 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 166
 
 </details> <!-- Section end !-->
 
