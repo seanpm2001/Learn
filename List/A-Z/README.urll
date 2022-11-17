@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V78: 2022, Thursday, November 17th at 2:08 pm PST
--- Representing data from 2022, Tuesday, November 8th at 11:59 pm PST
+-- V79: 2022, Thursday, November 17th at 2:50 pm PST
+-- Representing data from 2022, Wednesday, November 9th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -45,6 +45,7 @@ https://github.com/seanpm2001/Learn-B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Batch
+https://github.com/seanpm2001/Learn-Batchfile
 https://github.com/seanpm2001/Learn-Befunge
 https://github.com/seanpm2001/Learn-Berry
 https://github.com/seanpm2001/Learn-BibTeX
@@ -157,6 +158,7 @@ https://github.com/seanpm2001/Learn-Gradle
 https://github.com/seanpm2001/Learn-Grammatical-Framework
 https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-GraphViz-DOT
+https://github.com/seanpm2001/Learn-Groovy
 https://github.com/seanpm2001/Learn-GSC
 -- H
 https://github.com/seanpm2001/Learn-Hack
@@ -312,6 +314,7 @@ https://github.com/seanpm2001/Learn-PostCSS
 https://github.com/seanpm2001/Learn-PostGreSQL
 https://github.com/seanpm2001/Learn-PostScript
 https://github.com/seanpm2001/Learn-POV-Ray-SDL
+https://github.com/seanpm2001/Learn-PowerShell
 https://github.com/seanpm2001/Learn-PowerFX
 https://github.com/seanpm2001/Learn-Procfile
 https://github.com/seanpm2001/Learn-Proguard
@@ -347,6 +350,7 @@ https://github.com/seanpm2001/Learn-ReStructuredText
 https://github.com/seanpm2001/Learn-REXX
 https://github.com/seanpm2001/Learn-RichTextFormat
 https://github.com/seanpm2001/Learn-RobotFramework
+https://github.com/seanpm2001/Learn-Roff
 https://github.com/seanpm2001/Learn-RouterOS-Script
 https://github.com/seanpm2001/Learn-RPC
 https://github.com/seanpm2001/Learn-RPGLE
@@ -428,6 +432,7 @@ https://github.com/seanpm2001/Learn-Verona
 https://github.com/seanpm2001/Learn-VHDL
 https://github.com/seanpm2001/Learn-VimScript
 https://github.com/seanpm2001/Learn-Vim-Snippet
+https://github.com/seanpm2001/Learn-VisualBasicDOTNet
 https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
@@ -456,10 +461,11 @@ https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
--- 426 languages listed (as of 2022, Tuesday, November 8th at 11:59 pm PST)
+
+-- 431 languages listed (as of 2022, Wednesday, November 9th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 78 (2022, Thursday, November 17th at 2:08 pm PST)
--- Line count (including blank lines and compiler line): 466
+-- File version: 79 (2022, Thursday, November 17th at 2:50 pm PST)
+-- Line count (including blank lines and compiler line): 472
 -- End of file
