@@ -222,7 +222,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Epigram/"><img src="/Programming/Logos/E/Epigram/Epigram200px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Epigram</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-E/"><img src="/Programming/Logos/E/E/E-1.png" width="100px;" alt=""/><br /><sub><b>Learn E</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EJS/"><img src="/Programming/Logos/E/EJS/EJS.png" width="100px;" alt=""/><br /><sub><b>Learn EJS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-EBNF/"><img src="/Programming/Logos/E/EBNF/EBNF_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn EBNF</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -583,6 +583,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Perl6/"><img src="/Programming/Logos/P/Perl6/Perl6_1.png" width="100px;" alt=""/><br /><sub><b>Learn Perl6</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pod6/"><img src="/Programming/Logos/P/Pod6/PodLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Pod6</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PowerShell/"><img src="/Programming/Logos/P/PowerShell/PowerShell_Core_6.0_icon.png" width="100px;" alt=""/><br /><sub><b>Learn PowerShell</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PLpgSQL/"><img src="/Programming/Logos/P/PLpgSQL/PLpgSQL_LOGO.png" width="100px;" alt=""/><br /><sub><b>Learn PLpgSQL</b></sub></a></td>
+  </tr> 
+  <!-- Row 16E !-->
+  <!-- Letter P !-->
+  <tr>
+    <td align="center"><p>Section P5</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PureScript/"><img src="/Programming/Logos/P/PureScript/PureScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PureScript</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 17A !-->
@@ -641,7 +653,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ragel/"><img src="/Programming/Logos/R/Ragel/R_For_Ragel.png" width="100px;" alt=""/><br /><sub><b>Learn Ragel</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Refal/"><img src="/Programming/Logos/R/Refal/RefalLogo_512px_V1.svg" width="100px;" alt=""/><br /><sub><b>Learn Refal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Roff/"><img src="/Programming/Logos/R/Roff/R-for-ROFF.png" width="100px;" alt=""/><br /><sub><b>Learn Roff</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RenderScript/"><img src="/Programming/Logos/R/RenderScript/RenderScript_LogoSample1.png" width="100px;" alt=""/><br /><sub><b>Learn RenderScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -723,7 +735,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section S7 Edge</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Scratch-3/"><img src="/Programming/Logos/S/Scratch-3/Scratch3_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Scratch 3.x</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stan/"><img src="/Programming/Logos/S/Stan/StanLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Stan</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SQLPL/"><img src="/Programming/Logos/S/SQLPL/SQLPL_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQLPL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -958,6 +970,8 @@ Isabelle
 * Grammatical Framework
 * Macaulay2
 * URLL
+* PureScript
+* SQLPL
 
 `---`
 
@@ -1274,6 +1288,7 @@ Isabelle
 * SCSS
 * Verilog
 * Verilog-AMS
+* RenderScript
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1362,6 +1377,7 @@ Isabelle
 * Ragel
 * Verilog-AMS
 * Linker Script
+* EBNF
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -2647,6 +2663,35 @@ init(nil: ref Draw->Context, nil: list of string)
 
 * Limbo
 
+```ebnf
+<?xqlint
+::= 'String'
+<?xqlint
+});
+?>
+```
+
+* EBNF
+
+```purescript
+module Main where
+
+import Debug.Trace
+
+main = trace "String"
+```
+
+* PureScript
+
+```sqlpl
+BEGIN
+  dbms_output.put_line('String');
+END;
+/
+```
+
+* SQLPL
+
 ```refal
 $ENTRY Go { = <StrTest>;}
 StrTest {
@@ -2724,6 +2769,12 @@ Console.WriteLine("String")
 ```
 
 * Visual Basic .NET
+
+```plpgsql
+SELECT 'String' AS title_message;
+```
+
+* PLpgSQL
 
 ```batchfile
 @echo off
@@ -3187,6 +3238,7 @@ unknown
 * Intel Hex (Binary)
 * WaveFront Object
 * Roff
+* RenderScript
 
 ```plain-text
 Unsupported
@@ -3401,9 +3453,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `85 (2022, Thursday, November 17th at 2:45 pm PST)`
+**File version:** `86 (2022, Thursday, November 17th at 3:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,825`
+**Line count (including blank lines and compiler line):** `6,948`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6030,11 +6082,64 @@ echo String
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 86 (Coming soon)</b></summary>
+<details><summary><b>Version 86 (2022, Thursday, November 17th at 3:27 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V86.md)
+
+**This release uses/represents data from:** `2022, Thursday, November 10th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for EBNF, PLpgSQL, PureScript, RenderScript, and SQLPL
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include PureScript, PLpgSQL, and SQLPL
+- - [x] Updated the `/*` & `*/` comment section to include EBNF
+- - [x] Updated the `//` comment section to include Groovy and RenderScript
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```ebnf
+<?xqlint
+::= 'String'
+<?xqlint
+});
+?>
+```
+
+- - [ ] String section to include EBNF
+- - [x] Added the `SELECT 'String' AS title_message;` string section to include PLpgSQL
+- - [ ] Added the:
+
+```sqlpl
+BEGIN
+  dbms_output.put_line('String');
+END;
+/
+```
+
+- - [ ] String section to include SQLPL
+- - [x] Added the `Console.WriteLine("String")` string section to include Visual Basic .NET
+- - [x] Updated the `Unknown` string section to include RenderScrpt
+- - [x] Added the:
+
+```purescript
+module Main where
+
+import Debug.Trace
+
+main = trace "String"
+```
+
+- - [ ] String section to include PureScript
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 86
 - [ ] No other changes in version 86
 
 </details> <!-- Section end !-->
@@ -6792,6 +6897,24 @@ echo String
 
 - [ ] Coming soon
 - [ ] No other changes in version 170
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 171 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 171
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 172 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 172
 
 </details> <!-- Section end !-->
 
