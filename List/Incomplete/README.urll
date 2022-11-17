@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Sunday, November 6th at 11:59 pm PST
+-- As of 2022, Monday, November 7th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -180,6 +180,7 @@ https://github.com/seanpm2001/Learn-Less
 https://github.com/seanpm2001/Learn-Lex
 https://github.com/seanpm2001/Learn-Limbo
 https://github.com/seanpm2001/Learn-Lingo
+https://github.com/seanpm2001/Learn-Linker-Script
 https://github.com/seanpm2001/Learn-Liquid
 https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
@@ -210,6 +211,7 @@ https://github.com/seanpm2001/Learn-MLIR
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Monkey-C
 https://github.com/seanpm2001/Learn-Motoko
 https://github.com/seanpm2001/Learn-MS-DOS-Style
 https://github.com/seanpm2001/Learn-Mustache
@@ -237,11 +239,13 @@ https://github.com/seanpm2001/Learn-OpenSCAD
 https://github.com/seanpm2001/Learn-OrgMode
 https://github.com/seanpm2001/Learn-Orwell
 https://github.com/seanpm2001/Learn-Pawn
+https://github.com/seanpm2001/Learn-Perl6
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-PigLatin
 https://github.com/seanpm2001/Learn-PlantUML
 https://github.com/seanpm2001/Learn-PLSQL
 https://github.com/seanpm2001/Learn-Pod
+https://github.com/seanpm2001/Learn-Pod6
 https://github.com/seanpm2001/Learn-Pony
 https://github.com/seanpm2001/Learn-PostCSS
 https://github.com/seanpm2001/Learn-PostGreSQL
@@ -339,6 +343,7 @@ https://github.com/seanpm2001/Learn-Vim-Snippet
 https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
+https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
@@ -356,7 +361,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 352/412
+-- Count: 357/417
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -520,13 +525,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V78 date: 2022, Wednesday, November 16th at 10:54 pm PST, representing data from 2022, Saturday, November 5th at 11:59 pm PST
 -- V79: 5 entries added, 352 entries remain (ratio: 352/412 (85.43% incomplete, 14.57% complete))
 -- V79 date: 2022, Wednesday, November 16th at 11:30 pm PST, representing data from 2022, Sunday, November 6th at 11:59 pm PST
+-- V80: 5 entries added, 357 entries remain (ratio: 357/417 (85.61% incomplete, 14.39% complete))
+-- V80 date: 2022, Thursday, November 17th at 1:43 pm PST, representing data from 2022, Monday, November 7th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 352/412 (85.43% incomplete, 14.57% complete)
+-- Ratio (incomplete/complete): 357/417 (85.61% incomplete, 14.39% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 79 (2022, Wednesday, November 16th at 11:30 pm PST)
--- Line count (including blank lines and compiler line): 533
+-- File version: 80 (2022, Thursday, November 17th at 1:43 pm PST)
+-- Line count (including blank lines and compiler line): 540
 
 -- End of script
