@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V79: 2022, Thursday, November 17th at 2:50 pm PST
--- Representing data from 2022, Wednesday, November 9th at 11:59 pm PST
+-- V80: 2022, Thursday, November 17th at 3:31 pm PST
+-- Representing data from 2022, Thursday, November 10th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -115,6 +115,7 @@ https://github.com/seanpm2001/Learn-Dylan
 https://github.com/seanpm2001/Learn-E
 https://github.com/seanpm2001/Learn-Eagle
 https://github.com/seanpm2001/Learn-Earthly
+https://github.com/seanpm2001/Learn-EBNF
 https://github.com/seanpm2001/Learn-Eiffel
 https://github.com/seanpm2001/Learn-EJS
 https://github.com/seanpm2001/Learn-Elixir
@@ -306,6 +307,7 @@ https://github.com/seanpm2001/Learn-PHP
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-PigLatin
 https://github.com/seanpm2001/Learn-PlantUML
+https://github.com/seanpm2001/Learn-PLpgSQL
 https://github.com/seanpm2001/Learn-PLSQL
 https://github.com/seanpm2001/Learn-Pod
 https://github.com/seanpm2001/Learn-Pod6
@@ -323,6 +325,7 @@ https://github.com/seanpm2001/Learn-Pug
 https://github.com/seanpm2001/Learn-Puppet
 https://github.com/seanpm2001/Learn-PureBasic
 https://github.com/seanpm2001/Learn-PureData
+https://github.com/seanpm2001/Learn-PureScript
 https://github.com/seanpm2001/Learn-Python
 https://github.com/seanpm2001/Learn-PythonTraceback
 -- Q
@@ -344,6 +347,7 @@ https://github.com/seanpm2001/Learn-ReasonML
 https://github.com/seanpm2001/Learn-REBOL
 https://github.com/seanpm2001/Learn-Red
 https://github.com/seanpm2001/Learn-Refal
+https://github.com/seanpm2001/Learn-RenderScript
 https://github.com/seanpm2001/Learn-Ren-Py
 https://github.com/seanpm2001/Learn-ReScript
 https://github.com/seanpm2001/Learn-ReStructuredText
@@ -385,6 +389,7 @@ https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-Solidity
 https://github.com/seanpm2001/Learn-SourcePawn
 https://github.com/seanpm2001/Learn-SQL
+https://github.com/seanpm2001/Learn-SQLPL
 https://github.com/seanpm2001/Learn-Squeak
 https://github.com/seanpm2001/Learn-Squirrel
 https://github.com/seanpm2001/Learn-S-RECORD
@@ -462,10 +467,10 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- 431 languages listed (as of 2022, Wednesday, November 9th at 11:59 pm PST)
+-- 436 languages listed (as of 2022, Thursday, November 10th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 79 (2022, Thursday, November 17th at 2:50 pm PST)
--- Line count (including blank lines and compiler line): 472
+-- File version: 80 (2022, Thursday, November 17th at 3:31 pm PST)
+-- Line count (including blank lines and compiler line): 477
 -- End of file
