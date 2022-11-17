@@ -638,8 +638,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section R4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-REBOL/"><img src="/Programming/Logos/R/REBOL/REBOL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Rebol/REBOL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ragel/"><img src="/Programming/Logos/R/Ragel/R_For_Ragel.png" width="100px;" alt=""/><br /><sub><b>Learn Ragel</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Refal/"><img src="/Programming/Logos/R/Refal/RefalLogo_512px_V1.svg" width="100px;" alt=""/><br /><sub><b>Learn Refal</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -710,8 +710,8 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section S6</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Squeak/"><img src="/Programming/Logos/S/Squeak/Squeak_Logo1_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn Squeak!</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SCSS/SCSS_Variant1.png"><img src="/Programming/Logos/S/SCSS/SCSS_Variant1.png" width="100px;" alt=""/><br /><sub><b>Learn SCSS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Sed/"><img src="/Programming/Logos/S/Sed/Sed1Bubble.jpeg" width="100px;" alt=""/><br /><sub><b>Learn sed</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -774,7 +774,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VBA/"><img src="/Programming/Logos/V/VBA/VBA_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn VBA</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualLogic/"><img src="/Programming/Logos/V/Visual-Logic/VisualLogic_LogoWide_LQ.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Logic</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Vim-Snippet"><img src="/Programming/Logos/V/Vim-Snippet/Vim-Logo-1022x1024.png" width="100px;" alt=""/><br /><sub><b>Learn Vim Snippet</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Verilog/"><img src="/Programming/Logos/V/Verilog/VerilogSample.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Verilog</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 23A !-->
@@ -1033,6 +1033,7 @@ Isabelle
 * WaveFront Material
 * Cap'n Proto
 * Limbo
+* sed
 
 `#` & `"""`
 
@@ -1163,6 +1164,8 @@ Isabelle
 * Genie
 * Gerber Image
 * Less
+* SCSS
+* Verilog
 
 `//` & `/* */`
 
@@ -1234,6 +1237,8 @@ Isabelle
 * JFlex
 * Genie
 * Less
+* SCSS
+* Verilog
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1317,6 +1322,9 @@ Isabelle
 * Genie
 * GraphViz (DOT)
 * Less
+* SCSS
+* Verilog
+* Ragel
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1548,6 +1556,7 @@ Isabelle
 * G-CODE
 * Forth
 * FP
+* Refal
 
 `/`
 
@@ -2531,6 +2540,7 @@ body::before {
 ```
 
 * Less
+* SCSS
 
 ```limbo
 implement Command;
@@ -2550,6 +2560,15 @@ init(nil: ref Draw->Context, nil: list of string)
 ```
 
 * Limbo
+
+```refal
+$ENTRY Go { = <StrTest>;}
+StrTest {
+   = <Prout 'String'>;
+}
+```
+
+* Refal
 
 ```piglatin
 output "String"
@@ -2940,11 +2959,40 @@ printf(_("String"), str1);
 
 * GetText
 
+```ragel
+printf( "String\n" value );
+```
+
+* Ragel
+
 ```graphviz-dot
 "Str" -> "String"
 ```
 
 * GraphViz (DOT)
+
+```sed
+#!/bin/sed -f
+c\
+String
+q
+```
+
+* Sed
+
+```verilog
+module main;
+  initial
+    begin
+      $display("String");
+      $finish;
+    end
+endmodule
+```
+
+* Verilog
+
+<!-- End of randomized string order !-->
 
 ```markdown
 string
@@ -3234,9 +3282,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `80 (2022, Wednesday, November 16th at 9:20 pm PST)`
+**File version:** `81 (2022, Wednesday, November 16th at 10:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,358`
+**Line count (including blank lines and compiler line):** `6,487`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5608,11 +5656,74 @@ quit
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 81 (Coming soon)</b></summary>
+<details><summary><b>Version 81 (2022, Wednesday, November 16th at 10:35 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V81.md)
+
+**This release uses/represents data from:** `2022, Saturday, November 5th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Ragel, Refal, SCSS, sed, and Verilog
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include sed
+- - [x] Updated the `(` & `)` comment section to include Refal
+- - [x] Updated the `//` comment section to include Verilog and SCSS
+- - [x] Updated the `//` & `/*` & `*/` comment section to include Verilog and SCSS
+- - [x] Updated the `/*` & `*/` comment section to include Verilog, Ragel, and SCSS
+- [x] Updated the print statement section
+- - [x] Added the `printf( "String\n" value );` string section to include Ragel
+- - [x] Added the:
+
+```verilog
+module main;
+  initial
+    begin
+      $display("String");
+      $finish;
+    end
+endmodule
+```
+
+- - [ ] String section to include Verilog
+- - [x] Added the:
+
+```refal
+$ENTRY Go { = <StrTest>;}
+StrTest {
+   = <Prout 'String'>;
+}
+```
+
+- - [ ] String section to include Refal
+- - [x] Updated the:
+
+```scss
+body::before {
+    content: "String";
+}
+```
+
+- - [ ] String section to include SCSS
+- - [x] Added the:
+
+```sed
+#!/bin/sed -f
+c\
+String
+q
+```
+
+- - [ ] String section to include sed
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 81
 - [ ] No other changes in version 81
 
 </details> <!-- Section end !-->
@@ -6325,6 +6436,24 @@ quit
 
 - [ ] Coming soon
 - [ ] No other changes in version 160
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 161 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 161
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 162 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 162
 
 </details> <!-- Section end !-->
 
