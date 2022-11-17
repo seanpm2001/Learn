@@ -114,7 +114,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BibTeX/"><img src="/Programming/Logos/B/BibTeX/Kbibtex-icon.png" width="100px;" alt=""/><br /><sub><b>Learn BibTeX</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BSDL/"><img src="/Programming/Logos/B/BSDL/BSDL_Logo325px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn BSDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Berry/"><img src="/Programming/Logos/B/Berry/BerryLogo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Berry</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Batchfile/"><img src="/Programming/Logos/B/Batchfile/WindowsXP_BAT_LowQuality.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Batchfile</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -283,7 +283,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gerber-Image/"><img src="/Programming/Logos/G/Gerber-Image/GbrX2_128x128_white_bg.png" width="100px;" alt=""/><br /><sub><b>Learn Gerber Image</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GetText/"><img src="/Programming/Logos/G/GetText/gettext_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn GetText</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Graphviz-DOT/"><img src="/Programming/Logos/G/Graphviz-DOT/GraphvizLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Graphviz DOT</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Groovy/"><img src="/Programming/Logos/G/Groovy/Groovy-language-logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Groovy</b></sub></a></td>
   </tr>
   <!-- Row 8A !-->
   <!-- Letter H !-->
@@ -582,7 +582,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PureBasic/"><img src="/Programming/Logos/P/PureBasic/PureBasicPRO_CD-ROM.jpeg" width="100px;" alt=""/><br /><sub><b>Learn PureBasic</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Perl6/"><img src="/Programming/Logos/P/Perl6/Perl6_1.png" width="100px;" alt=""/><br /><sub><b>Learn Perl6</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Pod6/"><img src="/Programming/Logos/P/Pod6/PodLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Pod6</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PowerShell/"><img src="/Programming/Logos/P/PowerShell/PowerShell_Core_6.0_icon.png" width="100px;" alt=""/><br /><sub><b>Learn PowerShell</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 17A !-->
@@ -640,7 +640,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-REBOL/"><img src="/Programming/Logos/R/REBOL/REBOL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Rebol/REBOL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ragel/"><img src="/Programming/Logos/R/Ragel/R_For_Ragel.png" width="100px;" alt=""/><br /><sub><b>Learn Ragel</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Refal/"><img src="/Programming/Logos/R/Refal/RefalLogo_512px_V1.svg" width="100px;" alt=""/><br /><sub><b>Learn Refal</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Roff/"><img src="/Programming/Logos/R/Roff/R-for-ROFF.png" width="100px;" alt=""/><br /><sub><b>Learn Roff</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -789,6 +789,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Verilog/"><img src="/Programming/Logos/V/Verilog/VerilogSample.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Verilog</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Verilog-AMS/"><img src="/Programming/Logos/V/Verilog-AMS/VerilogCircuit.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Verilog-AMS</b></sub></a></td>
   </tr>
+  <!-- Row 22C !-->
+  <!-- Letter V !-->
+  <tr>
+    <td align="center"><p>Section V3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualBasicDOTNet/"><img src="/Programming/Logos/V/VisualBasic.NET/VBNET.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic .NET</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 23A !-->
   <!-- Letter W !-->
   <tr>
@@ -1058,6 +1070,7 @@ Isabelle
 * Starlark
 * Matrix (seanpm2001)
 * CPython
+* PowerShell
 
 `#` & `"""` & `'''`
 
@@ -1185,6 +1198,8 @@ Isabelle
 * Verilog
 * Verilog-AMS
 * Stan
+* Groovy
+* Roff
 
 `//` & `/* */`
 
@@ -1494,6 +1509,7 @@ Isabelle
 * Visual Basic Script/VBScript
 * VBA
 * FreeBasic
+* Visual Basic .NET
 
 `''`
 
@@ -1513,6 +1529,7 @@ Isabelle
 `::`
 
 * Batchfile
+* Batch
 
 `/** **/`
 
@@ -2702,6 +2719,20 @@ Console.WriteLine("String");
 
 * JScript.NET
 
+```visual-basic.net
+Console.WriteLine("String")
+```
+
+* Visual Basic .NET
+
+```batchfile
+@echo off
+echo String
+```
+
+* Batch
+* Batchfile
+
 ```supercollider
 "String".postln;
 ```
@@ -3073,6 +3104,12 @@ endmodule
 
 <!-- End of randomized string order !-->
 
+```powershell
+'String'
+```
+
+* PowerShell
+
 ```markdown
 string
 ```
@@ -3149,6 +3186,7 @@ unknown
 * Gerber Image
 * Intel Hex (Binary)
 * WaveFront Object
+* Roff
 
 ```plain-text
 Unsupported
@@ -3363,9 +3401,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `84 (2022, Thursday, November 17th at 2:04 pm PST)`
+**File version:** `85 (2022, Thursday, November 17th at 2:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,738`
+**Line count (including blank lines and compiler line):** `6,825`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5952,11 +5990,42 @@ string1()
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 85 (Coming soon)</b></summary>
+<details><summary><b>Version 85 (2022, Thursday, November 17th at 2:45 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V85.md)
+
+**This release uses/represents data from:** `2022, Wednesday, November 9th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Berry, Batchfile, Groovy, PowerShell, Roff, and Visual Basic .NET
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include PowerShell
+- - [x] Updated the `::` comment section to include Batch
+- - [x] Updated the `'` comment section to include Visual Basic .NET
+- - [x] Updated the `//` comment section to include Groovy and Roff
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```batchfile
+@echo off
+echo String
+```
+
+- - [ ] String section to include Batchfile and Batch
+- - [x] Added the `'String'` string section to include PowerShell
+- - [ ] Did NOT update the `println "String"` string section to include Groovy, as it has already been done
+- - [x] Added the `Console.WriteLine("String")` string section to include Visual Basic .NET
+- - [x] Updated the `Unknown` string section to include Roff
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 85
 - [ ] No other changes in version 85
 
 </details> <!-- Section end !-->
@@ -6705,6 +6774,24 @@ string1()
 
 - [ ] Coming soon
 - [ ] No other changes in version 168
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 169 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 169
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 170 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 170
 
 </details> <!-- Section end !-->
 
