@@ -113,7 +113,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Batch/"><img src="/Programming/Logos/B/Batch/BatchLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn BATCH (Batchfile legacy)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BibTeX/"><img src="/Programming/Logos/B/BibTeX/Kbibtex-icon.png" width="100px;" alt=""/><br /><sub><b>Learn BibTeX</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BSDL/"><img src="/Programming/Logos/B/BSDL/BSDL_Logo325px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn BSDL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Berry/"><img src="/Programming/Logos/B/Berry/BerryLogo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Berry</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -714,6 +714,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Sed/"><img src="/Programming/Logos/S/Sed/Sed1Bubble.jpeg" width="100px;" alt=""/><br /><sub><b>Learn sed</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SQL/"><img src="/Programming/Logos/S/SQL/SQLIcon_Glossy_512x512.png" width="100px;" alt=""/><br /><sub><b>Learn SQL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-StandardML/"><img src="/Programming/Logos/S/StandardML/ML-LOGO2.png" width="100px;" alt=""/><br /><sub><b>Learn StandardML</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Scratch-1/"><img src="/Programming/Logos/S/Scratch-1/ScratchLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Scratch 1.x</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Scratch-2/"><img src="/Programming/Logos/S/Scratch-2/Scratch2HEAD.png" width="100px;" alt=""/><br /><sub><b>Learn Scratch 2.x</b></sub></a></td>
+  </tr> 
+  <!-- Row 19G !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><p>Section S7 Edge</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Scratch-3/"><img src="/Programming/Logos/S/Scratch-3/Scratch3_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Scratch 3.x</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Stan/"><img src="/Programming/Logos/S/Stan/StanLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Stan</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -1037,7 +1049,8 @@ Isabelle
 * Monkey-C
 * Perl6
 * Pod6
-* WaveFront Objct
+* WaveFront Object
+* Berry
 
 `#` & `"""`
 
@@ -1171,6 +1184,7 @@ Isabelle
 * SCSS
 * Verilog
 * Verilog-AMS
+* Stan
 
 `//` & `/* */`
 
@@ -1677,6 +1691,9 @@ Isabelle
 * Scratch
 * Squeak
 * Rebol
+* Scratch 1.x
+* Scratch 2.x
+* Scratch 3.x
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -1862,6 +1879,12 @@ print("String\n")
 ```
 
 * Sage
+
+```berry
+print('String')
+```
+
+* Berry
 
 ```java
 System.out.println("String");
@@ -2467,6 +2490,7 @@ str1 = "String"
 
 * GN
 * MLIR
+* Stan
 
 ```b
 putchar('String');
@@ -2893,6 +2917,9 @@ console.log(message);
 
 * JSON5
 * Blockly
+- * Scratch 1.x
+- * Scratch 2.x
+- * Scratch 3.x
 
 ```textile
 h1.Heading 1 String
@@ -3336,9 +3363,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `83 (2022, Thursday, November 17th at 1:29 pm PST)`
+**File version:** `84 (2022, Thursday, November 17th at 2:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,673`
+**Line count (including blank lines and compiler line):** `6,738`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -5895,15 +5922,35 @@ string1()
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 84 (Coming soon)</b></summary>
+<details><summary><b>Version 84 (2022, Thursday, November 17th at 2:04 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V84.md)
+
+**This release uses/represents data from:** `2022, Tuesday, November 8th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Berry, Scratch 1.x, Scratch 2.x, Scratch 3.x, and Stan
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Berry
+- - [x] Updated the `//` comment section to include Stan
+- - [x] Updated the `Unknown` comment section to include Scratch 1.x, Scratch 2.x, and Scratch 3.x
+- [x] Updated the print statement section
+- - [x] Added the `print('String')` string section to include Berry
+- - [x] Updated the `str1 = "String"` string section to include Stan
+- - [x] Updated the `{"String"}` string section to include Scratch 1.x, Scratch 2.x, and Scratch 3.x
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 84
 - [ ] No other changes in version 84
 
 </details> <!-- Section end !-->
-
 
 <details><summary><b>Version 85 (Coming soon)</b></summary>
 
@@ -6640,6 +6687,24 @@ string1()
 
 - [ ] Coming soon
 - [ ] No other changes in version 166
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 167 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 167
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 168 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 168
 
 </details> <!-- Section end !-->
 
