@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V80: 2022, Thursday, November 17th at 3:31 pm PST
--- Representing data from 2022, Thursday, November 10th at 11:59 pm PST
+-- V81: 2022, Thursday, November 17th at 4:04 pm PST
+-- Representing data from 2022, Friday, November 11th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -54,6 +54,7 @@ https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
 https://github.com/seanpm2001/Learn-Blade
 https://github.com/seanpm2001/Learn-BlitzBasic
+https://github.com/seanpm2001/Learn-BlitzMax
 https://github.com/seanpm2001/Learn-Blockly
 https://github.com/seanpm2001/Learn-Boo
 https://github.com/seanpm2001/Learn-Boogie
@@ -265,6 +266,7 @@ https://github.com/seanpm2001/Learn-Modelica
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Monkey
 https://github.com/seanpm2001/Learn-Monkey-C
 https://github.com/seanpm2001/Learn-MoonScript
 https://github.com/seanpm2001/Learn-Motoko
@@ -397,6 +399,7 @@ https://github.com/seanpm2001/Learn-SRecode-Template
 https://github.com/seanpm2001/Learn-Stan
 https://github.com/seanpm2001/Learn-StandardML
 https://github.com/seanpm2001/Learn-Starlark
+https://github.com/seanpm2001/Learn-Stata
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
 https://github.com/seanpm2001/Learn-SublimeText
@@ -467,10 +470,10 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- 436 languages listed (as of 2022, Thursday, November 10th at 11:59 pm PST)
+-- 439 languages listed (as of 2022, Friday, November 11th at 4:04 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 80 (2022, Thursday, November 17th at 3:31 pm PST)
--- Line count (including blank lines and compiler line): 477
+-- File version: 81 (2022, Thursday, November 17th at 4:04 pm PST)
+-- Line count (including blank lines and compiler line): 480
 -- End of file
