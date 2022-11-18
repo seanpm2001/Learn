@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Thursday, November 10th at 11:59 pm PST
+-- As of 2022, Friday, November 11th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -44,6 +44,7 @@ https://github.com/seanpm2001/Learn-Bikeshed
 https://github.com/seanpm2001/Learn-BitBake
 https://github.com/seanpm2001/Learn-Blade
 https://github.com/seanpm2001/Learn-BlitzBasic
+https://github.com/seanpm2001/Learn-BlitzMax
 https://github.com/seanpm2001/Learn-Blockly
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
@@ -215,6 +216,7 @@ https://github.com/seanpm2001/Learn-MLIR
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Monkey
 https://github.com/seanpm2001/Learn-Monkey-C
 https://github.com/seanpm2001/Learn-Motoko
 https://github.com/seanpm2001/Learn-MS-DOS-Style
@@ -323,6 +325,7 @@ https://github.com/seanpm2001/Learn-SRecode-Template
 https://github.com/seanpm2001/Learn-Stan
 https://github.com/seanpm2001/Learn-StandardML
 https://github.com/seanpm2001/Learn-Starlark
+https://github.com/seanpm2001/Learn-Stata
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
 https://github.com/seanpm2001/Learn-SublimeText
@@ -376,7 +379,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 372/432
+-- Count: 375/435
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -548,13 +551,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V82 date: 2022, Thursday, November 17th at 3:00 pm PST, representing data from 2022, Wednesday, November 9th at 11:59 pm PST
 -- V83: 5 entries added, 372 entries remain (ratio: 372/432 (85.94% incomplete, 14.06% complete))
 -- V83 date: 2022, Thursday, November 17th at 3:39 pm PST, representing data from 2022, Thursday, November 10th at 11:59 pm PST
+-- V84: 3 entries added, 375 entries remain (ratio: 375/435 (86.20% incomplete, 13.80% complete))
+-- V84 date: 2022, Thursday, November 17th at 4:12 pm PST, representing data from 2022, Friday, November 11th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 373/432 (86.11% incomplete, 13.89% complete)
+-- Ratio (incomplete/complete): 375/435 (86.20% incomplete, 13.80% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 83 (2022, Thursday, November 17th at 3:39 pm PST)
--- Line count (including blank lines and compiler line): 561
+-- File version: 84 (2022, Thursday, November 17th at 4:12 pm PST)
+-- Line count (including blank lines and compiler line): 566
 
 -- End of script
