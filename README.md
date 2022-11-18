@@ -115,7 +115,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BSDL/"><img src="/Programming/Logos/B/BSDL/BSDL_Logo325px_PNG.png" width="100px;" alt=""/><br /><sub><b>Learn BSDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Berry/"><img src="/Programming/Logos/B/Berry/BerryLogo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Berry</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Batchfile/"><img src="/Programming/Logos/B/Batchfile/WindowsXP_BAT_LowQuality.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Batchfile</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzMax/"><img src="/Programming/Logos/B/BlitzMax/BlitzMax_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzMax</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 3A !-->
@@ -482,7 +482,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><p>Section M5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ML/"><img src="/Programming/Logos/M/ML/ML_Logo_Fancy1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey-C/"><img src="/Programming/Logos/M/Monkey-C/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey-C</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey/"><img src="/Programming/Logos/M/Monkey/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -736,7 +736,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Scratch-3/"><img src="/Programming/Logos/S/Scratch-3/Scratch3_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Scratch 3.x</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stan/"><img src="/Programming/Logos/S/Stan/StanLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Stan</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SQLPL/"><img src="/Programming/Logos/S/SQLPL/SQLPL_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQLPL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Stata/"><img src="/Programming/Logos/S/Stata/Stata_logo_med_blue.png" width="100px;" alt=""/><br /><sub><b>Learn Stata</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1214,6 +1214,7 @@ Isabelle
 * Stan
 * Groovy
 * Roff
+* Stata
 
 `//` & `/* */`
 
@@ -1526,6 +1527,7 @@ Isabelle
 * VBA
 * FreeBasic
 * Visual Basic .NET
+* BlitzMax
 
 `''`
 
@@ -1682,6 +1684,14 @@ Isabelle
 `NB.`
 
 * J
+
+```monkey
+#REM
+Comment
+#END
+```
+
+* Monkey
 
 `Comment`
 
@@ -2210,10 +2220,11 @@ puts (1, "String\n")
 * Euphoria
 
 ```monkey-c
-puts("Hello World")
+puts("String")
 ```
 
 * Monkey-C
+* Monkey
 
 ```livecode
 put "String"
@@ -3239,6 +3250,8 @@ unknown
 * WaveFront Object
 * Roff
 * RenderScript
+* Stata
+* BlitzMax
 
 ```plain-text
 Unsupported
@@ -3453,9 +3466,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `86 (2022, Thursday, November 17th at 3:27 pm PST)`
+**File version:** `87 (2022, Thursday, November 17th at 4:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `6,948`
+**Line count (including blank lines and compiler line):** `7,007`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6144,11 +6157,39 @@ main = trace "String"
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 87 (Coming soon)</b></summary>
+<details><summary><b>Version 87 (2022, Thursday, November 17th at 4:00 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V87.md)
+
+**This release uses/represents data from:** `2022, Friday, November 11th at 11:59 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for BlitzMax, Monkey, and Stata
+- [x] Updated the source code comments section
+- - [x] Updated the `'` comment section to include BlitzMax
+- - [x] Added the:
+
+```monkey
+#REM
+Comment
+#END
+```
+
+- - [ ] Comment section to include Monkey
+- - [x] Updated the `//` comment section to include Stata
+- [x] Updated the print statement section
+- - [x] Updated the `puts("String")` string section to include Monkey
+- - [x] Updated the `Unknown` string section to include BlitzMax, and Stata
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 87
 - [ ] No other changes in version 87
 
 </details> <!-- Section end !-->
@@ -6915,6 +6956,24 @@ main = trace "String"
 
 - [ ] Coming soon
 - [ ] No other changes in version 172
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 173 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 173
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 174 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 174
 
 </details> <!-- Section end !-->
 
