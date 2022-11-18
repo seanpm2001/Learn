@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `436`/`436` (as of 2022, Friday, November 11th at 11:59 pm PST)
+Current progress `436`/`449` (as of 2022, Thursday, November 17th at 4:27 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `100.00%` complete, `00.00%` incomplete.
+**Ratio:** `097.10%` complete, `2.90%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -28,6 +28,7 @@ This list covers the creation of the language repositories.
 **This list is 1 entry short, but I can't figure out where at the moment (if it is a `1` (`- [x]`) or a `0` (`- []`))**
 
 - [x] 1C Enterprise
+- [ ] ABC
 - [x] Agda
 - [x] ActionScript-3
 - [x] AppleScript
@@ -72,6 +73,7 @@ This list covers the creation of the language repositories.
 - [x] BitBake
 - [x] Brainfuck
 - [x] BrightScript
+- [ ] BrighterScript
 - [x] Boo
 - [x] Berry
 - [x] BSDL
@@ -85,6 +87,7 @@ This list covers the creation of the language repositories.
 - [x] C-Plus-Plus
 - [x] COBOL
 - [x] CSharp
+- [ ] CSharp HTML
 - [x] CSS
 - [x] CAML
 - [x] CLIPS
@@ -94,6 +97,7 @@ This list covers the creation of the language repositories.
 - [x] Ceylon
 - [x] Clean
 - [x] Clojure
+- [ ] Closure templates
 - [x] CMAKE
 - [x] CodeQL
 - [x] CoffeeScript
@@ -188,6 +192,8 @@ This list covers the creation of the language repositories.
 - [x] Hy
 - [x] HyPhy
 - [x] Haskell
+- [ ] HTML
+- [ ] HTTP
 - [x] IDL
 - [x] Idris
 - [x] ImageJ
@@ -244,6 +250,7 @@ This list covers the creation of the language repositories.
 - [x] Latte
 - [x] Lucid
 - [x] Linker Script
+- [ ] Linux Kernel Module
 - [x] LiveScript
 - [x] LiveCode
 - [x] LabVIEW
@@ -251,6 +258,7 @@ This list covers the creation of the language repositories.
 - [x] Lua
 - [x] M
 - [x] M4
+- [ ] M4Sugar
 - [x] Makefile
 - [x] Malbolge
 - [x] Mako
@@ -369,6 +377,7 @@ This list covers the creation of the language repositories.
 - [x] RenderScript
 - [x] Smalli
 - [x] SciLab
+- [ ] Scheme
 - [x] Shell
 - [x] Swift
 - [x] Sage
@@ -396,6 +405,7 @@ This list covers the creation of the language repositories.
 - [x] SQL
 - [x] Stan
 - [x] StandardML
+- [ ] STAR
 - [x] Starlark
 - [x] Stata
 - [x] StringTemplate
@@ -428,6 +438,7 @@ This list covers the creation of the language repositories.
 - [x] Uno
 - [x] URLL (seanpm2001)
 - [x] Unity3D Asset
+- [ ] Unix Assembly
 - [x] V
 - [x] Verilog AMS
 - [x] Verilog
@@ -436,6 +447,7 @@ This list covers the creation of the language repositories.
 - [x] Vim Snippet
 - [x] Visual Basic Dot Net
 - [x] VueJS
+- [ ] VBHTML
 - [x] VBA
 - [x] VCL
 - [x] VisualLogic
@@ -446,6 +458,7 @@ This list covers the creation of the language repositories.
 - [x] WaveFront Object
 - [x] Wavefront material
 - [x] WDL
+- [ ] WebAssembly
 - [x] WebVTT
 - [x] WikiText
 - [x] Wierd
@@ -471,7 +484,7 @@ This list covers the creation of the language repositories.
 
 ## How I discover languages
 
-I discover languages either by reading about them on an external site (commonly Wikipedia) or browsing source code on GitHub. Sometimes, I discover languages via Gedit, but I don't always add it to my list. Additionally, I discovered some languages via Notepad++.
+I discover languages either by reading about them on an external site (commonly Wikipedia) or browsing source code on GitHub. Sometimes, I discover languages via Gedit, but I don't always add it to my list. Additionally, I discovered some languages via Notepad++. Lately, as of 2022, November 12th, I have also begun to discover languages via Konqueror (web browser/file manager)
 
 ### Why not use the GitHub language list
 
@@ -485,9 +498,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `81 (2022, Thursday, November 17th at 4:19 pm PST)`
+**File version:** `82 (2022, Thursday, November 17th at 4:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,655`
+**Line count (including blank lines and compiler line):** `3,709`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2436,15 +2449,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 82</b></summary>
 
-**Version 82 (Coming soon)**
+**Version 82 (2022, Thursday, November 17th at 4:27 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V82.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V82.md)
+
+**This release represents data from:** `2022, Thursday, November 17th at 4:27 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 0 new entries (old total: 436 | new total: 436)
+- - [x] Added 13 new entries to the list (old total: 436 | new total: 449)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 82
 - [ ] No other changes in version 82
 
 </details> <!-- Section end !-->
@@ -3646,6 +3670,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 162
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 163</b></summary>
+
+**Version 163 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 163
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 164</b></summary>
+
+**Version 164 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 164
 
 </details> <!-- Section end !-->
 
