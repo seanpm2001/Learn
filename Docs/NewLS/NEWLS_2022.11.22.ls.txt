@@ -1,0 +1,28 @@
+Scheme
+
+;; Comment
+(let ((str1 (lambda() (display "String") (newline))))
+  (str1))
+
+HTTP
+
+HTTP/1.1 200 OK
+Date: Thursday, 1970, January 1st
+Content-Type: text/html; charset=UTF-8
+Content-Length: 512
+Last-Modified: Thursday, 1970, January 1st at 00:00 PST
+Server: Apache/2.4.54 (Unix) (Debian/Linux)
+ETag:
+Accept-Ranges: bytes
+Connection: close
+
+? Comment
+
+ABC
+
+HOW TO RETURN str1 document:
+   PUT {"String"} IN collection
+   RETURN collection
+END
+
+? Comment
