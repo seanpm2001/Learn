@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `436`/`449` (as of 2022, Thursday, November 17th at 4:27 pm PST)
+Current progress `439`/`450` (as of 2022, Tuesday, November 22nd at 7:57 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `097.10%` complete, `2.90%` incomplete.
+**Ratio:** `097.55%` complete, `2.45%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -28,7 +28,7 @@ This list covers the creation of the language repositories.
 **This list is 1 entry short, but I can't figure out where at the moment (if it is a `1` (`- [x]`) or a `0` (`- []`))**
 
 - [x] 1C Enterprise
-- [ ] ABC
+- [x] ABC
 - [x] Agda
 - [x] ActionScript-3
 - [x] AppleScript
@@ -193,7 +193,7 @@ This list covers the creation of the language repositories.
 - [x] HyPhy
 - [x] Haskell
 - [ ] HTML
-- [ ] HTTP
+- [x] HTTP
 - [x] IDL
 - [x] Idris
 - [x] ImageJ
@@ -343,6 +343,7 @@ This list covers the creation of the language repositories.
 - [x] PHP
 - [x] Prolog
 - [x] Python
+- [ ] Peg.js
 - [x] Pony
 - [x] QMake
 - [x] QSharp
@@ -377,7 +378,7 @@ This list covers the creation of the language repositories.
 - [x] RenderScript
 - [x] Smalli
 - [x] SciLab
-- [ ] Scheme
+- [x] Scheme
 - [x] Shell
 - [x] Swift
 - [x] Sage
@@ -498,9 +499,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `82 (2022, Thursday, November 17th at 4:27 pm PST)`
+**File version:** `83 (2022, Tuesday, November 22nd at 7:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,709`
+**Line count (including blank lines and compiler line):** `3,751`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2475,15 +2476,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 83</b></summary>
 
-**Version 83 (Coming soon)**
+**Version 83 (2022, Tuesday, November 22nd at 7:57 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V83.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V83.md)
+
+**This release represents data from:** `2022, Tuesday, November 22nd at 7:57 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 3 new entries (old total: 436 | new total: 439)
+- - [x] Added 1 new entry to the list (old total: 449 | new total: 450)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 83
 - [ ] No other changes in version 83
 
 </details> <!-- Section end !-->
@@ -3700,6 +3712,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 164
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 165</b></summary>
+
+**Version 165 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 165
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 166</b></summary>
+
+**Version 166 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 166
 
 </details> <!-- Section end !-->
 
