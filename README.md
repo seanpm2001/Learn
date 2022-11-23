@@ -78,7 +78,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Amulet/"><img src="/Programming/Logos/A/Amulet/AmuletML_LogoPlaceholder.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Amulet</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP/"><img src="/Programming/Logos/A/ASP/MS_ASP.png" width="100px;" alt=""/><br /><sub><b>Learn ASP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP.NET/"><img src="/Programming/Logos/A/ASP.NET/MS_ASPDOTNET.png" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ABC/"><img src="/Programming/Logos/A/ABC/ABC_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn ABC</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -308,6 +308,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Hope/"><img src="/Programming/Logos/H/Hope/HopeLogoPNG.png" width="100px;" alt=""/><br /><sub><b>Learn Hope</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HolyC/"><img src="/Programming/Logos/H/HolyC/TempleOS_600px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn HolyC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Hy/"><img src="/Programming/Logos/H/Hy/Hy_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Hy</b></sub></a></td>
+  </tr>
+  <!-- Row 8C !-->
+  <!-- Letter H !-->
+  <tr>
+    <td align="center"><p>Section H3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HTTP/"><img src="/Programming/Logos/H/HTTP/HTTP_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn HTTP</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 9A !-->
   <!-- Letter I !-->
@@ -737,7 +749,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stan/"><img src="/Programming/Logos/S/Stan/StanLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Stan</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SQLPL/"><img src="/Programming/Logos/S/SQLPL/SQLPL_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQLPL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stata/"><img src="/Programming/Logos/S/Stata/Stata_logo_med_blue.png" width="100px;" alt=""/><br /><sub><b>Learn Stata</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Scheme/"><img src="/Programming/Logos/S/Scheme/Scheme_Lambda.png" width="100px;" alt=""/><br /><sub><b>Learn Scheme</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -1737,6 +1749,8 @@ Comment
 * Scratch 1.x
 * Scratch 2.x
 * Scratch 3.x
+* HTTP
+* ABC
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -2133,6 +2147,13 @@ w "String",!
 * Hy
 * Lisp
 
+```scheme
+(let ((str1 (lambda() (display "String") (newline))))
+  (str1))
+```
+
+* Scheme
+
 ```postscript
 (String\n) print quit
 ```
@@ -2162,6 +2183,20 @@ lay ["String","Char"] = "String\Char\n"
 ```
 
 * Miranda
+
+```http
+HTTP/1.1 200 OK
+Date: Thursday, 1970, January 1st
+Content-Type: text/html; charset=UTF-8
+Content-Length: 512
+Last-Modified: Thursday, 1970, January 1st at 00:00 PST
+Server: Apache/2.4.54 (Unix) (Debian/Linux)
+ETag:
+Accept-Ranges: bytes
+Connection: close
+```
+
+* HTTP
 
 ```handlebars
 <p>String</p>
@@ -3164,6 +3199,15 @@ endmodule
 
 * Linker Script
 
+```abc
+HOW TO RETURN str1 document:
+   PUT {"String"} IN collection
+   RETURN collection
+END
+```
+
+* ABC
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -3466,9 +3510,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `87 (2022, Thursday, November 17th at 4:00 pm PST)`
+**File version:** `88 (2022, Tuesday, November 22nd at 7:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,007`
+**Line count (including blank lines and compiler line):** `7,119`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6194,11 +6238,61 @@ Comment
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 88 (Coming soon)</b></summary>
+<details><summary><b>Version 88 (2022, Tuesday, November 22nd at 7:32 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V88.md)
+
+**This release uses/represents data from:** `2022, Tuesday, November 22nd at 7:32 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ABC, HTTP, and Scheme
+- [x] Updated the source code comments section
+- - [x] Did NOT update the the `;;` comment section to include Scheme, as it had already been done
+- - [x] Updated the `Unknown` comment section to include ABC and HTTP
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```scheme
+(let ((str1 (lambda() (display "String") (newline))))
+  (str1))
+```
+
+- - [ ] String section to include Scheme
+- - [x] Added the:
+
+```http
+HTTP/1.1 200 OK
+Date: Thursday, 1970, January 1st
+Content-Type: text/html; charset=UTF-8
+Content-Length: 512
+Last-Modified: Thursday, 1970, January 1st at 00:00 PST
+Server: Apache/2.4.54 (Unix) (Debian/Linux)
+ETag:
+Accept-Ranges: bytes
+Connection: close
+```
+
+- - [ ] String section to include HTTP
+- - [x] Added the:
+
+```abc
+HOW TO RETURN str1 document:
+   PUT {"String"} IN collection
+   RETURN collection
+END
+```
+
+- - [ ] String section to include ABC
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 88
 - [ ] No other changes in version 88
 
 </details> <!-- Section end !-->
@@ -6974,6 +7068,24 @@ Comment
 
 - [ ] Coming soon
 - [ ] No other changes in version 174
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 175 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 175
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 176 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 176
 
 </details> <!-- Section end !-->
 
