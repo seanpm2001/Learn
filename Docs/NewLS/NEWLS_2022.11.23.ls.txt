@@ -1,0 +1,9 @@
+*.cshtml
+<%@ Page Language="C#" debug="true" trace="false"%>
+// Comment
+<p>String</p>
+
+*.vbhtml
+<%@ Page Language="VB" %>
+' Comment
+<p>String</p>
