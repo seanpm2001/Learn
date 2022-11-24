@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Tuesday, November 22nd
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Wednesday, November 23rd at 4:48 pm PST.
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -16,6 +16,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] CAML
 - [ ] CH
 - [ ] Cobra
+- [ ] CSHTML (recognizes as HTML)
 - [ ] Cyclone
 - [ ] DCPU16-ASM (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with DCPU-16 ASM source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the DCPU-16 ASM language will just perform an `all repositories` search)
 - [ ] DroppedText (seanpm2001)
@@ -71,12 +72,13 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] SXML
 - [ ] TSX (recognizes as TypeScript)
 - [ ] URLL (seanpm2001)
+- [ ] VBHTML (recognizes as Visual Basic .NET)
 - [ ] Verona
 - [ ] VisualLogic
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `70`
+**Total:** `72`
 
 ***
 
@@ -92,9 +94,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2022, Tuesday, November 22nd at 7:43 pm PST)`
+**File version:** `24 (2022, Wednesday, November 23rd at 4:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `538`
+**Line count (including blank lines and compiler line):** `558`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -529,6 +531,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 23
 - [ ] No other changes in version 23
+
+</details>
+
+<details><summary><p lang="en"><b>Version 24 (2022, Wednesday, November 23rd at 4:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added CSHTML and VBHTML to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
 
 </details>
 
