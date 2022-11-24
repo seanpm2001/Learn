@@ -178,6 +178,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound-Document/"><img src="/Programming/Logos/C/CSound-Document/EmblemSound.png" width="100px;" alt=""/><br /><sub><b>Learn CSound Document</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSound-Score/"><img src="/Programming/Logos/C/CSound-Score/CSound_Android.png" width="100px;" alt=""/><br /><sub><b>Learn CSound Score</b></sub></a></td>
   </tr> 
+  <!-- Row 3F !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C6</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CSHTML/"><img src="/Programming/Logos/C/CSharpHTML/CSharp_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn C# HTML (VB.NET)</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 4A !-->
   <!-- Letter D !-->
   <tr>
@@ -818,7 +830,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section V3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-VisualBasicDOTNet/"><img src="/Programming/Logos/V/VisualBasic.NET/VBNET.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic .NET</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-VBHTML/"><img src="/Programming/Logos/V/VBHTML/VB_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn Visual Basic HTML (ASP.NET)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -894,17 +906,35 @@ This repository is a reference to my learning experience on programming. Other s
 
 <details open><summary><b>Click/tap here to expand/collapse the extras section</b></summary>
 
-![/Programming/Logos/R/ReStructuredText/RST.png](/Programming/Logos/R/ReStructuredText/RST.png)
+### Extras/P
 
-[ReStructuredText Sandbox](https://github.com/seanpm2001/ReStructuredText_Sandbox)
-
-> A place for testing ReStructuredText
+#### Python Traceback Examples
 
 ![/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png](/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png)
 
 [Python Traceback Examples](https://github.com/seanpm2001/Python-Traceback-Examples/)
 
 > Predates the [`Learn-PythonTraceback`](https://github.com/seanpm2001/Learn-PythonTraceback/) repository (predecessor)
+
+#### PhD in PHP
+
+![/Programming/Logos/P/PHP/phd-icon-5.jpeg](/Programming/Logos/P/PHP/phd-icon-5.jpeg)
+
+[PhD In PHP](https://github.com/seanpm2001/https://github.com/seanpm2001/PhD_In_PHP/)
+
+> A PHP knowledge base with a punny name (note: no actual PhD can be earned here)
+
+> Yes, I know the current image has PNG transparency checkers but isn't transparent. A proper version is coming soon (if someone can link one)
+
+### Extras/R
+
+#### ReStructuredText Sandbox
+
+![/Programming/Logos/R/ReStructuredText/RST.png](/Programming/Logos/R/ReStructuredText/RST.png)
+
+[ReStructuredText Sandbox](https://github.com/seanpm2001/ReStructuredText_Sandbox)
+
+> A place for testing ReStructuredText
 
 </details>
 
@@ -1227,6 +1257,7 @@ Isabelle
 * Groovy
 * Roff
 * Stata
+* CSHTML
 
 `//` & `/* */`
 
@@ -1540,6 +1571,7 @@ Isabelle
 * FreeBasic
 * Visual Basic .NET
 * BlitzMax
+* VBHTML
 
 `''`
 
@@ -3208,6 +3240,20 @@ END
 
 * ABC
 
+```cshtml
+<%@ Page Language="C#" debug="true" trace="false"%>
+<p>String</p>
+```
+
+* CSHTML
+
+```vbhtml
+<%@ Page Language="VB" %>
+<p>String</p>
+```
+
+* VBHTML
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -3510,9 +3556,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `88 (2022, Tuesday, November 22nd at 7:32 pm PST)`
+**File version:** `89 (2022, Wednesday, November 23rd at 4:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,119`
+**Line count (including blank lines and compiler line):** `7,223`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6297,11 +6343,51 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 89 (Coming soon)</b></summary>
+<details><summary><b>Version 89 (2022, Wednesday, November 23rd at 4:40 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V89.md)
+
+**This release uses/represents data from:** `2022, Wednesday, November 23rd at 4:40 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for CSHTML and VBHTML
+- [x] Updated the `Extras` section
+- - [x] Reorganization of the section
+- - [x] Added a P category section
+- - - [x] Added an entry for `PhD in PHP`
+- - - [x] Moved `Python Traceback Samples` to the P section
+- - [x] Added an R category section
+- - - [x] Moved `ReStructuredText Sandbox` to the R section
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include CSHTML
+- - [x] Updated the `'` comment section to include VBHTML
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```cshtml
+<%@ Page Language="C#" debug="true" trace="false"%>
+<p>String</p>
+```
+
+- - [ ] String section to include CSHTML
+- - [x] Added the:
+
+```vbhtml
+<%@ Page Language="VB" %>
+<p>String</p>
+```
+
+- - [ ] String section to include VBHTML
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 89
 - [ ] No other changes in version 89
 
 </details> <!-- Section end !-->
@@ -7086,6 +7172,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 176
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 177 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 177
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 178 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 178
 
 </details> <!-- Section end !-->
 
