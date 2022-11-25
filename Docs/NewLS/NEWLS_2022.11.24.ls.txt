@@ -1,0 +1,15 @@
+Classic ASP
+
+' Comment
+<!-- Comment !-->
+Response.write "String"
+
+ASP.NET
+
+<!-- Comment !-->
+<p>String</p>
+
+M4Sugar
+
+# Comment
+? String
