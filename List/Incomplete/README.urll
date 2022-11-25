@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Wednesday, November 23rd at 4:56 pm PST
+-- As of 2022, Thursday, November 24th at 10:48 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -10,6 +10,7 @@ https://github.com/seanpm2001/Learn-ABC
 https://github.com/seanpm2001/Learn-ABNF
 https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-ActionServerPages.NET
 https://github.com/seanpm2001/Learn-AGS-Script
 https://github.com/seanpm2001/Learn-AIDL
 https://github.com/seanpm2001/Learn-AL
@@ -58,6 +59,7 @@ https://github.com/seanpm2001/Learn-Cap-n-Proto
 https://github.com/seanpm2001/Learn-Ceylon
 https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
+https://github.com/seanpm2001/Learn-Classic-ASP
 https://github.com/seanpm2001/Learn-CLIPS
 https://github.com/seanpm2001/Learn-Clojure
 https://github.com/seanpm2001/Learn-CMake
@@ -203,6 +205,7 @@ https://github.com/seanpm2001/Learn-M
 https://github.com/seanpm2001/Learn-Macaulay2
 https://github.com/seanpm2001/Learn-Mako
 https://github.com/seanpm2001/Learn-M4
+https://github.com/seanpm2001/Learn-M4Sugar
 https://github.com/seanpm2001/Learn-Malbolge
 https://github.com/seanpm2001/Learn-Mallard
 https://github.com/seanpm2001/Learn-MATLAB
@@ -562,13 +565,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V85 date: 2022, Tuesday, November 22nd at 7:51 pm PST, representing data from 2022, Tuesday, November 22nd at 11:59 pm PST
 -- V86: 2 entries added, 380 entries remain (ratio: 380/440 (86.36% incomplete, 13.64% complete))
 -- V86 date: 2022, Wednesday, November 23rd at 4:56 pm PST, representing data from 2022, Wednesday, November 23rd at 11:59 pm PST
+-- V87: 3 entries added, 383 entries remain (ratio: 383/443 (86.45% incomplete, 13.55% complete))
+-- V87 date: 2022, Thursday, November 24th at 10:48 pm PST, representing data from 2022, Thursday, November 24th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 380/440 (86.36% incomplete, 13.64% complete)
+-- Ratio (incomplete/complete): 383/443 (86.45% incomplete, 13.45% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 86 (2022, Wednesday, November 23rd at 4:56 pm PST)
--- Line count (including blank lines and compiler line): 575
+-- File version: 87 (2022, Thursday, November 24th at 10:48 pm PST)
+-- Line count (including blank lines and compiler line): 580
 
 -- End of script
