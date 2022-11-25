@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `441`/`450` (as of 2022, Wednesday, November 23rd at 5:02 pm PST)
+Current progress `444`/`454` (as of 2022, Thursday, November 24th at 10:56 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.00%` complete, `2.00%` incomplete.
+**Ratio:** `097.79%` complete, `002.21%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -42,6 +42,7 @@ This list covers the creation of the language repositories.
 - [x] ANTLR
 - [x] ASP
 - [x] ASP.NET
+- [x] ActionServerPages.NET (ASP.NET Core)
 - [x] AIDL
 - [x] ASL
 - [x] AMPL
@@ -97,6 +98,7 @@ This list covers the creation of the language repositories.
 - [x] Ceylon
 - [x] Clean
 - [x] Clojure
+- [x] Classic ASP
 - [ ] Closure templates
 - [x] CMAKE
 - [x] CodeQL
@@ -211,8 +213,10 @@ This list covers the creation of the language repositories.
 - [x] JFlex
 - [x] Jade
 - [x] Java
+- [ ] Java Server Pages (JSP)
 - [x] JavaScript
 - [x] JavaScriptPlusPlus
+- [ ] Jakarta Server Pages (JSP)
 - [x] Jinja
 - [x] Joy
 - [x] JScript
@@ -258,7 +262,7 @@ This list covers the creation of the language repositories.
 - [x] Lua
 - [x] M
 - [x] M4
-- [ ] M4Sugar
+- [x] M4Sugar
 - [x] Makefile
 - [x] Malbolge
 - [x] Mako
@@ -499,9 +503,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `84 (2022, Wednesday, November 23rd at 5:02 pm PST)`
+**File version:** `85 (2022, Thursday, November 24th at 10:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,792`
+**Line count (including blank lines and compiler line):** `3,837`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2528,15 +2532,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 85</b></summary>
 
-**Version 85 (Coming soon)**
+**Version 85 (2022, Thursday, November 24th at 10:56 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V85.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V845.md)
+
+**This release represents data from:** `2022, Thursday, November 24th at 10:56 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 3 new entries (old total: 441 | new total: 444)
+- - [x] Added 4 new entries to the list (old total: 450 | new total: 454)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 85
 - [ ] No other changes in version 85
 
 </details> <!-- Section end !-->
@@ -3783,6 +3798,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 168
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 169</b></summary>
+
+**Version 169 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 169
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 170</b></summary>
+
+**Version 170 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 170
 
 </details> <!-- Section end !-->
 
