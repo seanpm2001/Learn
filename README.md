@@ -79,7 +79,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP/"><img src="/Programming/Logos/A/ASP/MS_ASP.png" width="100px;" alt=""/><br /><sub><b>Learn ASP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP.NET/"><img src="/Programming/Logos/A/ASP.NET/MS_ASPDOTNET.png" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ABC/"><img src="/Programming/Logos/A/ABC/ABC_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn ABC</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ActionServerPages.NET"><img src="/Programming/Logos/A/ActionServerPages.NET/ASP.NET_2.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET Core</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
@@ -183,7 +183,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section C6</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSHTML/"><img src="/Programming/Logos/C/CSharpHTML/CSharp_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn C# HTML (VB.NET)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Classic-ASP/"><img src="/Programming/Logos/C/Classic-ASP/Classic-ASP.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Classic ASP</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -493,7 +493,7 @@ This repository is a reference to my learning experience on programming. Other s
   <tr>
     <td align="center"><p>Section M4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-M4/"><img src="/Programming/Logos/M/M4/1024px-Milano_M4.svg.png" width="100px;" alt=""/><br /><sub><b>Learn M4</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-M4Sugar/"><img src="/Programming/Logos/M/M4Sugar/Sugar1.png" width="100px;" alt=""/><br /><sub><b>Learn M4Sugar</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Motoko/"><img src="/Programming/Logos/M/Motoko/Motoko-Logo-Square.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Motoko</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Seanpm2001-Matrix/"><img src="/Programming/Logos/M/Matrix/Seanpm2001-Matrix_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Matrix (seanpm2001)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MS-DOS-Style"><img src="/Programming/Logos/M/MS-DOS_Style/MS-DOS-Logo.png" width="100px;" alt=""/><br /><sub><b>Learn MS-DOS Style</b></sub></a></td>
@@ -507,7 +507,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ML/"><img src="/Programming/Logos/M/ML/ML_Logo_Fancy1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey-C/"><img src="/Programming/Logos/M/Monkey-C/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey-C</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey/"><img src="/Programming/Logos/M/Monkey/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1119,6 +1119,7 @@ Isabelle
 * Pod6
 * WaveFront Object
 * Berry
+* M4Sugar
 
 `#` & `"""`
 
@@ -1462,6 +1463,8 @@ Isabelle
 * JetBrains MPS
 * ASP
 * ASP.NET
+* ASP.NET Core
+* Classic ASP
 
 `(* *)`
 
@@ -1572,6 +1575,7 @@ Isabelle
 * Visual Basic .NET
 * BlitzMax
 * VBHTML
+* Classic ASP
 
 `''`
 
@@ -2242,6 +2246,7 @@ Connection: close
 * XSLT
 * EJS
 * ASP.NET
+* ASP.NET Core
 
 ```xproc
 <para>String</para>
@@ -2376,6 +2381,7 @@ Response.write "String"
 ```
 
 * ASP
+* Classic ASP
 
 ```algol
 BEGIN DISPLAY("String") END.
@@ -3342,6 +3348,7 @@ unknown
 * RenderScript
 * Stata
 * BlitzMax
+* M4Sugar
 
 ```plain-text
 Unsupported
@@ -3556,9 +3563,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `89 (2022, Wednesday, November 23rd at 4:40 pm PST)`
+**File version:** `90 (2022, Thursday, November 24th at 10:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,223`
+**Line count (including blank lines and compiler line):** `7,269`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6392,11 +6399,32 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 90 (Coming soon)</b></summary>
+<details><summary><b>Version 90 (2022, Thursday, November 24th at 10:16 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V90.md)
+
+**This release uses/represents data from:** `2022, Thursday, November 24th at 10:16 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ASP.NET Core, Classic ASP, and M4Sugar
+- [x] Updated the source code comments section
+- - [x] Updated the `<!--` & `!-->` comment section to include ASP.NET Core and Cassic ASP
+- - [x] Updated the `'` comment section to include Classic ASP
+- - [x] Updated the `#` comment section to include M4Sugar
+- [x] Updated the print statement section
+- - [x] Updated the `Response.write "String"` string section to include Classic ASP
+- - [x] Updated the `<p>String</p>` string section to include ASP.NET Core
+- - [x] Updated the `Unknown` string section to include M4Sugar
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 90
 - [ ] No other changes in version 90
 
 </details> <!-- Section end !-->
@@ -7190,6 +7218,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 178
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 179 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 179
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 180 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 180
 
 </details> <!-- Section end !-->
 
