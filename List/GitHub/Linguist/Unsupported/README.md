@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Wednesday, November 23rd at 4:48 pm PST.
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Thursday, November 24th at 10:39 pm PST.
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -45,6 +45,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Lingo
 - [ ] Lucid
 - [ ] NetREXX
+- [ ] M4Sugar (commonly seen in the inner-linguist, but cannot get it to show as anything other than M4 on the outer Linguist)
 - [ ] Mallard
 - [ ] Matrix (seanpm2001)
 - [ ] Maxima
@@ -78,7 +79,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `72`
+**Total:** `73`
 
 ***
 
@@ -94,9 +95,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Wednesday, November 23rd at 4:48 pm PST)`
+**File version:** `25 (2022, Thursday, November 24th at 10:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `558`
+**Line count (including blank lines and compiler line):** `577`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -549,6 +550,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 24
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><p lang="en"><b>Version 25 (2022, Thursday, November 24th at 10:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added M4Sugar to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
 
 </details>
 
