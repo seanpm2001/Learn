@@ -5,6 +5,30 @@
 
 This repository is a reference to my learning experience on programming. Other subjects will be added in the future.
 
+**Notes:**
+
+***Viewing the table***
+
+The table on this page was intended to function normally, but on GitHub, the 7 column table becomes scrollable unless you visit the individual README file. To prevent unnecessary scrolling, try widening the margins via inspect element/other change, or [view the README.md file separately](/README.md)
+
+***Optimization***
+
+This page is not designed/optimized for:
+
+* (Windows 7) computers with less than 10 gigabytes of RAM
+* (Windows 8/8.1) computers with less than 13 gigabytes of RAM
+* (Windows 10) computers with less than 14 gigabytes of RAM
+* (Windows 11) computers with less than 16 gigabytes of RAM
+* (MacOS 11-13) computers with less than 15.5 gigabytes of RAM
+* (MacOS 10.12-10.15) computers with less than 13.5 gigabytes of RAM
+* (Ubuntu Linux) computers with less than 10 gigabytes of RAM
+* (Fedora Linux) computers with less than 9.5 gigabytes of RAM
+* (ChromeOS/ChromiumOS) not optimized at all
+
+Users in these ranges may experience tab/system crashes. Lag will be guaranteed
+
+**As of V91**
+
 ## By language
 
 <details open><summary><b>Click/tap here to expand/collapse the by language section table</b></summary>
@@ -452,6 +476,18 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanp2001/Learn-LISP/"><img src="/Programming/Logos/L/LISP/LispLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Lisp</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Linker-Script/"><img src="/Programming/Logos/L/Linker-Script/LinkerScriptIcon_900pxOpaque.png" width="100px;" alt=""/><br /><sub><b>Learn Linker Script</b></sub></a></td>
   </tr>
+  <!-- Row 12D !-->
+  <!-- Letter L !-->  
+  <tr>
+    <td align="center"><p>Section L4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Linux-Kernel-Module/"><img src="/Programming/Logos/L/Linux-Kernel-Module/Linux_WithHDD.png" width="100px;" alt=""/><br /><sub><b>Learn Linux Kernel Module</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 13A !-->
   <!-- Letter M !-->
   <tr>
@@ -797,7 +833,7 @@ This repository is a reference to my learning experience on programming. Other s
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Uno/"><img src="/Programming/Logos/U/Uno/UnoIcon.png" width="100px;" alt=""/><br /><sub><b>Learn Uno</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-URLL/"><img src="/Programming/Logos/U/URLL/URLL_NewLogo_2022.svg" width="100px;" alt=""/><br /><sub><b>Learn URLL (seanpm2001)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Unity3DAsset/"><img src="/Programming/Logos/U/Unity3DAsset/Unity3DAsset.png" width="100px;" alt=""/><br /><sub><b>Learn Unity3DAsset</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-UNIX-Assembly/"><img src="/Programming/Logos/U/UnixAssembly/Unix-mini-logo.png" width="100px;" alt=""/><br /><sub><b>Learn UNIX Assembly</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -1534,6 +1570,7 @@ Isabelle
 * CSound Score
 * Lisp
 * PureBasic
+* UNIX Assembly
 
 `C`
 
@@ -1787,6 +1824,7 @@ Comment
 * Scratch 3.x
 * HTTP
 * ABC
+* Linux Kernel Module
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -3260,6 +3298,20 @@ END
 
 * VBHTML
 
+```unix-assembly
+#include "macros.inc"
+.macro MacroOne start
+    "String"
+```
+
+* UNIX Assembly
+
+```linux-kernel-module
+module string
+```
+
+* Linux Kernel Module
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -3563,9 +3615,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `90 (2022, Thursday, November 24th at 10:16 pm PST)`
+**File version:** `91 (2022, Friday, November 25th at 11:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,269`
+**Line count (including blank lines and compiler line):** `7,2372`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6412,7 +6464,7 @@ END
 - [x] Updated the `Learn` table
 - - [x] Added support for ASP.NET Core, Classic ASP, and M4Sugar
 - [x] Updated the source code comments section
-- - [x] Updated the `<!--` & `!-->` comment section to include ASP.NET Core and Cassic ASP
+- - [x] Updated the `<!--` & `!-->` comment section to include ASP.NET Core and Classic ASP
 - - [x] Updated the `'` comment section to include Classic ASP
 - - [x] Updated the `#` comment section to include M4Sugar
 - [x] Updated the print statement section
@@ -6429,11 +6481,44 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 91 (Coming soon)</b></summary>
+<details><summary><b>Version 91 (2022, Friday, November 25th at 11:36 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V91.md)
+
+**This release uses/represents data from:** `2022, Friday, November 25th at 11:36 pm PST`
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Linux Kernel Module and UNIX Assembly
+- [x] Updated the source code comments section
+- - [x] Updated the `;` comment section to include UNIX Assembly
+- - [x] Updated the `unknown` comment section to include Linux Kernel Module
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```unix-assembly
+#include "macros.inc"
+.macro MacroOne start
+    "String"
+```
+
+- - [ ] String section to include UNIX Assembly
+- - [x] Added the:
+
+```linux-kernel-module
+module string
+```
+
+- - [ ] String section to include Linux Kernel Module
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 91
 - [ ] No other changes in version 91
 
 </details> <!-- Section end !-->
@@ -7236,6 +7321,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 180
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 181 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 181
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 182 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 182
 
 </details> <!-- Section end !-->
 
