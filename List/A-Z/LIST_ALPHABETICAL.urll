@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V84: 2022, Thursday, November 24th at 10:35 pm PST
--- Representing data from 2022, Thursday, November 24th at 10:34 pm PST
+-- V85: 2022, Friday, November 25th at 11:41 pm PST
+-- Representing data from 2022, Friday, November 25th at 11:41 pm PST
 
 -- Programming
 -- 1
@@ -232,6 +232,7 @@ https://github.com/seanpm2001/Learn-Lex
 https://github.com/seanpm2001/Learn-Limbo
 https://github.com/seanpm2001/Learn-Lingo
 https://github.com/seanpm2001/Learn-Linker-Script
+https://github.com/seanpm2001/Learn-Linux-Kernel-Module
 https://github.com/seanpm2001/Learn-Liquid
 https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
@@ -433,6 +434,7 @@ https://github.com/seanpm2001/Learn-TypeScript
 -- U
 https://github.com/seanpm2001/Learn-UnrealScript
 https://github.com/seanpm2001/Learn-Unity3DAsset
+https://github.com/seanpm2001/Learn-Unix-Assembly
 https://github.com/seanpm2001/Learn-Uno
 https://github.com/seanpm2001/Learn-URLL
 -- V
@@ -478,11 +480,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- 447 languages listed (as of 2022, Thursday, November 24th at 10:34 pm PST)
+-- 449 languages listed (as of 2022, Friday, November 25th at 11:41 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 84 (2022, Thursday, November 24th at 10:34 pm PST)
--- Line count (including blank lines and compiler line): 489
+-- File version: 85 (2022, Friday, November 25th at 11:41 pm PST)
+-- Line count (including blank lines and compiler line): 491
 
 -- End of file
