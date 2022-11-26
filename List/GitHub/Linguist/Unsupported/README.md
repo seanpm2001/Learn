@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Thursday, November 24th at 10:39 pm PST.
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Friday, November 25th at 10:44 pm PST.
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -72,6 +72,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Sublime Text (justification for adding to Linguist: it is clearly a JSON language. Many more obscure XML and JSON languages are listed, why can't this one be?)
 - [ ] SXML
 - [ ] TSX (recognizes as TypeScript)
+- [ ] Unix Assmembly (recognizes as a language in the inner Linguist, but recognizes as Assembly in the outer Linguist)
 - [ ] URLL (seanpm2001)
 - [ ] VBHTML (recognizes as Visual Basic .NET)
 - [ ] Verona
@@ -79,7 +80,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `73`
+**Total:** `74`
 
 ***
 
@@ -95,9 +96,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Thursday, November 24th at 10:39 pm PST)`
+**File version:** `26 (2022, Friday, November 25th at 11:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `577`
+**Line count (including blank lines and compiler line):** `596`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -568,6 +569,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 25
 - [ ] No other changes in version 25
+
+</details>
+
+<details><summary><p lang="en"><b>Version 26 (2022, Friday, November 25th at 11:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added UNIX Assembly to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 26
+- [ ] No other changes in version 26
 
 </details>
 
