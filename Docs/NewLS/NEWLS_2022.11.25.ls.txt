@@ -1,0 +1,11 @@
+Unix Assembly
+*.S
+#include "macros.inc"
+.macro MacroOne start
+    "String"
+; Comment
+
+Linux Kernel Module
+*.mod
+module string
+? Comment
