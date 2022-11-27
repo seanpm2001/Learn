@@ -5,31 +5,159 @@
 
 This repository is a reference to my learning experience on programming. Other subjects will be added in the future.
 
-**Notes:**
+***
+
+## Important overview notes
 
 ***Viewing the table***
 
 The table on this page was intended to function normally, but on GitHub, the 7 column table becomes scrollable unless you visit the individual README file. To prevent unnecessary scrolling, try widening the margins via inspect element/other change, or [view the README.md file separately](/README.md)
 
-***Optimization***
+The table consists of hundreds of image files, an image for every programming language is listed on a table. This may cause your system to lag/crash. Unfortunately, I couldn't put this notice any higher. If you are still reading this, your system has not crashed yet (unless it softlocked) for reference, here are the page viewing requirements (all estimates)
 
-This page is not designed/optimized for:
+<details><summary><p><b>Minimum requirements (with intense lag)</b></p></summary>
 
-* (Windows 7) computers with less than 10 gigabytes of RAM
-* (Windows 8/8.1) computers with less than 13 gigabytes of RAM
-* (Windows 10) computers with less than 14 gigabytes of RAM
-* (Windows 11) computers with less than 16 gigabytes of RAM
-* (MacOS 11-13) computers with less than 15.5 gigabytes of RAM
-* (MacOS 10.12-10.15) computers with less than 13.5 gigabytes of RAM
-* (Ubuntu Linux) computers with less than 10 gigabytes of RAM
-* (Fedora Linux) computers with less than 9.5 gigabytes of RAM
-* (ChromeOS/ChromiumOS) not optimized at all
+* **Bandwidth:** `728 Megabits/download (91 Megabyte download) ?/upload`
+* **Available RAM:** `1 gigabyte/tab (0.931 GiB)`
+* **Available CPU:** `Unknown`
+* **Available GPU:** `Unknown`
+
+</details>
+
+<details open><summary><p><b>Minimum requirements (without intense lag)</b></p></summary>
+
+* **Bandwidth:** `1.456 Gigabits/download (182 Megabyte download) ?/upload`
+* **Available RAM:** `2 gigabytes/tab (1.86 GiB)`
+* **Available CPU:** `Unknown`
+* **Available GPU:** `Unknown`
+
+</details>
+
+<details open><summary><p><b>This page is not designed for the following configurations</b></p></summary>
+
+* **(Windows 7)** `computers with less than 10 gigabytes of RAM`
+* **(Windows 8/8.1)** `computers with less than 13 gigabytes of RAM`
+* **(Windows 10)** `computers with less than 14 gigabytes of RAM`
+* **(Windows 11)** `computers with less than 16 gigabytes of RAM`
+* **(MacOS 11-13)** `computers with less than 15.5 gigabytes of RAM`
+* **(MacOS 10.12-10.15)** `computers with less than 13.5 gigabytes of RAM`
+* **(Ubuntu Linux)** `computers with less than 10 gigabytes of RAM`
+* **(Fedora Linux)** `computers with less than 9.5 gigabytes of RAM`
+* **(ChromeOS/ChromiumOS)** `not optimized at all`
 
 Users in these ranges may experience tab/system crashes. Lag will be guaranteed
 
-**As of V91**
+</details>
 
-## By language
+**As of Version 92 (2022, Saturday, November 26th)**
+
+***
+
+## Things to take note of
+
+This page is merely a giant hallway. Every link leads to another room.
+
+This page, along with all of its subpages, took over `800` hours of development time
+
+The icons on this page are a work in progress. SVG themes are planned for the future.
+
+The language switcher requires more volunteers. No version is available in a language other than English at the moment.
+
+***
+
+<details open><summary><p><b>Click/tap here to expand/collapse the language switcher list</b></p></H3></summary>
+
+_🌐 List of human spoken languages_
+
+<!-- TODO DEVNOTE: The following section should NOT be translated !-->
+
+( [af Afrikaans](/.github/README_AF.md) Afrikaans 🇿🇦️ | [sq Shqiptare](/.github/README_SQ.md) Albanian 🇦🇱️ | [am አማርኛ](/.github/README_AM.md) Amharic 🇪🇹️ | [ar عربى](/.github/README_AR.md) Arabic 🇸🇦️🇦🇪️🇺🇳️ | [hy հայերեն](/.github/README_HY.md) Armenian 🇦🇲️ | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani 🇦🇿️ | [eu Euskara](/.github/README_EU.md) Basque 🇪🇸️🇫🇷️ | [be Беларуская](/.github/README_BE.md) Belarusian 🇧🇾️ | [bn বাংলা](/.github/README_BN.md) Bengali 🇧🇩️🇮🇳️ | [bs Bosanski](/.github/README_BS.md) Bosnian 🇧🇦️ | [bg български](/.github/README_BG.md) Bulgarian 🇧🇬️🇪🇺️ | [ca Català](/.github/README_CA.md) Catalan 🇪🇸️🇦🇩️🇫🇷️🇮🇹️ | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano 🇵🇭️ | [ny Chichewa](/.github/README_NY.md) Chichewa 🇲🇼️🇿🇲️🇲🇿️🇿🇼️ | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) 🇨🇳️🇭🇰️🇲🇴️🇹🇼️🇺🇳️ | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) 🇨🇳️🇭🇰️🇲🇴️🇹🇼️🇺🇳️ | [co Corsu](/.github/README_CO.md) Corsican 🇫🇷️🇮🇹️ | [hr Hrvatski](/.github/README_HR.md) Croatian 🇭🇷️🇪🇺️ | [cs čeština](/.github/README_CS.md) Czech 🇨🇿️🇪🇺️ | [da dansk](README_DA.md) Danish 🇩🇰️🇪🇺️ | [nl Nederlands](/.github/README_NL.md) Dutch 🇳🇱️🇪🇺️ | [**en-us English**](/.github/README.md) English 🇺🇸️🇬🇧️🇺🇳️🇪🇺️ | [EO Esperanto](/.github/README_EO.md) Esperanto 🌐️ | [et Eestlane](/.github/README_ET.md) Estonian 🇪🇪️🇪🇺️ | [tl Pilipino](/.github/README_TL.md) Filipino 🇵🇭️ | [fi Suomalainen](/.github/README_FI.md) Finnish 🇫🇮️🇪🇺️ | [fr français](/.github/README_FR.md) French 🇫🇷️🇺🇳️🇪🇺️ | [fy Frysk](/.github/README_FY.md) Frisian 🇳🇱️🇩🇪️ | [gl Galego](/.github/README_GL.md) Galician 🇪🇸️ | [ka ქართველი](/.github/README_KA) Georgian 🇬🇪️ | [de Deutsch](/.github/README_DE.md) German 🇩🇪️🇪🇺️ | [el Ελληνικά](/.github/README_EL.md) Greek 🇬🇷️🇪🇺️ | [gu ગુજરાતી](/.github/README_GU.md) Gujarati 🇮🇳️ | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole 🇭🇹️ | [ha Hausa](/.github/README_HA.md) Hausa 🇳🇬️🇳🇪️🇨🇲️🇧🇯️🇹🇩️ | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian 🇺🇸️ | [he עִברִית](/.github/README_HE.md) Hebrew 🇮🇱️ | [hi हिन्दी](/.github/README_HI.md) Hindi 🇮🇳️ | [hmn Hmong](/.github/README_HMN.md) Hmong 🇨🇳️🇭🇰️🇲🇴️🇹🇼️🇻🇳️🇱🇦️🇲🇲️🇹🇭️ | [hu Magyar](/.github/README_HU.md) Hungarian 🇭🇺️🇪🇺️ | [is Íslenska](/.github/README_IS.md) Icelandic 🇮🇸️ | [ig Igbo](/.github/README_IG.md) Igbo 🇳🇬️ | [id bahasa Indonesia](/.github/README_ID.md) Indonesian 🇮🇩️ | [ga Gaeilge](/.github/README_GA.md) Irish 🇮🇪️🇪🇺️ | [it Italiana/Italiano](/.github/README_IT.md) Italian 🇮🇹️🇪🇺️ | [ja 日本語](/.github/README_JA.md) Japanese 🇯🇵️ | [jw Wong jawa](/.github/README_JW.md) Javanese 🇮🇩️ | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada 🇮🇳️ | [kk Қазақ](/.github/README_KK.md) Kazakh 🇰🇿️ | [km ខ្មែរ](/.github/README_KM.md) Khmer 🇰🇭️🇹🇭️🇻🇳️ | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda 🇷🇼️🇺🇬️🇨🇩️🇹🇿️| [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) 🇰🇷️ | [ko-north 문화어](README_KO_NORTH.md) Korean (North) 🇰🇵️ (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) 🇹🇷️🇮🇷️🇮🇶️🇸🇾️🇦🇲️🇦🇿️ | [ky Кыргызча](/.github/README_KY.md) Kyrgyz 🇰🇬️ | [lo ລາວ](/.github/README_LO.md) Lao 🇱🇦️🇰🇭️🇹🇭️ | [la Latine](/.github/README_LA.md) Latin 🇮🇹️🇻🇦️ | [lt Lietuvis](/.github/README_LT.md) Lithuanian 🇱🇹️🇪🇺️ | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish 🇱🇺️🇩🇪️🇧🇪️🇫🇷️ | [mk Македонски](/.github/README_MK.md) Macedonian 🇲🇰️🇦🇱️🇧🇬️🇬🇷️🇷🇴️🇷🇸️ | [mg Malagasy](/.github/README_MG.md) Malagasy 🇲🇬️🇫🇷️ | [ms Bahasa Melayu](/.github/README_MS.md) Malay 🇧🇳️🇹🇱️🇮🇩️🇲🇾️🇸🇬️🇦🇺️🇹🇭️ | [ml മലയാളം](/.github/README_ML.md) Malayalam 🇮🇳️ | [mt Malti](/.github/README_MT.md) Maltese 🇲🇹️🇪🇺️ | [mi Maori](/.github/README_MI.md) Maori 🇳🇿️ | [mr मराठी](/.github/README_MR.md) Marathi 🇮🇳️ | [mn Монгол](/.github/README_MN.md) Mongolian 🇲🇳️ | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) 🇲🇲️ | [ne नेपाली](/.github/README_NE.md) Nepali 🇳🇵️ | [no norsk](/.github/README_NO.md) Norwegian 🇳🇴️ | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) 🇮🇳️ | [ps پښتو](/.github/README_PS.md) Pashto 🇦🇫️🇵🇰️ | [fa فارسی](/.github/README_FA.md) | Persian 🇮🇷️ | [pl polski](/.github/README_PL.md) Polish 🇵🇱️🇪🇺️ | [pt português](/.github/README_PT.md) Portuguese 🇵🇹️🇧🇷️🇪🇺️ | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi 🇮🇳️ | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian 🇷🇴️🇪🇺️ | [ru русский](/.github/README_RU.md) Russian 🇷🇺️🇺🇳️ | [sm Faasamoa](/.github/README_SM.md) Samoan 🇼🇸️ | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic 🇬🇧️🇨🇦️🏴󠁧󠁢󠁳󠁣󠁴󠁿️ | [sr Српски](/.github/README_SR.md) Serbian 🇷🇸️ | [st Sesotho](/.github/README_ST.md) Sesotho 🇱🇸️🇿🇦️🇿🇼️ | [sn Shona](/.github/README_SN.md) Shona 🇿🇼️🇲🇿️ | [sd سنڌي](/.github/README_SD.md) Sindhi 🇵🇰️🇮🇳️ | [si සිංහල](/.github/README_SI.md) Sinhala 🇱🇰️ | [sk Slovák](/.github/README_SK.md) Slovak 🇸🇮️🇪🇺️ | [sl Slovenščina](/.github/README_SL.md) Slovenian 🇸🇮️🇮🇹️🇦🇹️🇪🇺️ | [so Soomaali](/.github/README_SO.md) Somali 🇸🇴️ | [[es en español](/.github/README_ES.md) Spanish 🇪🇸️🇲🇽️🇺🇳️🇪🇺️ | [su Sundanis](/.github/README_SU.md) Sundanese 🇮🇩️ | [sw Kiswahili](/.github/README_SW.md) Swahili 🇹🇿️🇰🇪️🇰🇲️🇫🇷️🇺🇬️🇷🇼️🇧🇮️🇨🇩️🇸🇴️🇿🇲️🇲🇼️🇲🇬️ | [sv Svenska](/.github/README_SV.md) Swedish 🇸🇪️🇪🇺️ | [tg Тоҷикӣ](/.github/README_TG.md) Tajik 🇹🇯️🇦🇫️🇺🇿️ | [ta தமிழ்](/.github/README_TA.md) Tamil 🇮🇳️🇱🇰️ | [tt Татар](/.github/README_TT.md) Tatar 🇷🇺️ | [te తెలుగు](/.github/README_TE.md) Telugu 🇮🇳️ | [th ไทย](/.github/README_TH.md) Thai 🇹🇭️🇰🇭️ | [tr Türk](/.github/README_TR.md) Turkish 🇹🇷️ | [tk Türkmenler](/.github/README_TK.md) Turkmen 🇹🇲️ | [uk Український](/.github/README_UK.md) 🇺🇦️ Ukrainian | [ur اردو](/.github/README_UR.md) Urdu 🇵🇰️🇮🇳️ | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur 🇨🇳️🇭🇰️🇲🇴️🇹🇼️ | [uz O'zbek](/.github/README_UZ.md) Uzbek 🇺🇿️🇦🇫️🇰🇿️🇰🇬️🇹🇲️🇷🇺️🇨🇳️🇭🇰️🇲🇴️🇹🇼️ | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese 🇻🇳️ | [cy Cymraeg](/.github/README_CY.md) Welsh 🇬🇧️🏴󠁧󠁢󠁷󠁬󠁳󠁿️🇦🇷️ | [xh isiXhosa](/.github/README_XH.md) Xhosa 🇿🇦️ | [yi יידיש](/.github/README_YI.md) Yiddish 🇮🇱️🇩🇪️ | [yo Yoruba](/.github/README_YO.md) Yoruba 🇧🇯️🇳🇬️🇹🇬️ | [zu Zulu](/.github/README_ZU.md) Zulu 🇿🇦️ ) <!-- TODO DEVNOTE: Everything above this and below the previous comment should NOT be translated !--> Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
+
+</details>
+
+---
+
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org/) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+
+Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
+
+Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
+
+Due to maintenance issues, over 25 translations are out of date and are using Version 8 or Version 9 of this README file. A translator is needed. Also, as of April 1st 2021, it is going to take me a while to get all the new links working.
+
+***
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse the flag guide section</p></summary>
+
+🎌️ **Flag guide** 🎌️
+
+🚩️🏴️🏳️ Flags were beginning to get added in version 2 of this document. I was originally just going to add the Ukraine 🇺🇦️ flag, but decided to add more, until every language had at least 1 flag. They were done purely with the existing knowledge of the developer. In version 3, flags were added for every language. There are some notes that go with this:
+
+🌐️ **[Unions `🇪🇺️` and Nations `🇺🇳️`]** 🌐️
+
+Languages listed here that are official languages of the European Union have a European Union flag `🇪🇺️` next to them. As of 2022 March 14th, there are currently 27 languages recognized by the European Union, from 27 different member states.
+
+Languages listed here that are official languages of the United Nations have a United Nations flag `🇺🇳️` next to them. As of 2022 March 14th, there are currently 6 languages recognized by the European Union (Arabic, Chinese, English, French, Russian, and Spanish) alongside 193 different member states and 2 observer states.
+
+🌏️ **[One China (PRC) `🇨🇳️` Two China (Taiwan) `🇹🇼️` Hong Kong `🇭🇰️` and Macau `🇲🇴️`]** 🌏️
+
+For neutrality reasons, languages listed here that have an official majority in Chinese speakers will receive all 4 of these flags, even if the language isn't Chinese or in the Sino family of languages.
+
+🌐️ **[Global languages `🌐️`]** 🌐️
+
+Currently, 1 global language is listed, and that is Esperanto. Esperanto is not native to any countries, its goal is to be a universal _lingua franca_ (Latin translation: _bridge language_) it is represented with a `globe with meridians` or `🌐️`
+
+💞️ **[Regarding sexuality 🏳️‍🌈️]** 💞️
+
+Sexuality is not measured here, I feel it would be unnecessary, as you are picking out a language, not a sexuality.
+
+💠️ **[Location of flag 🚩️]** 💠️
+
+Flags are located at the end of each language name (after the Romanization) with one space before, to the right.
+
+Like this:
+
+**[Pl Polski Polish 🇵🇱️]**
+
+But not like this:
+
+**[Pl Polski 🇵🇱️ Polish]**
+
+And also not like this:
+
+**[Pl 🇵🇱️ Polski Polish]**
+
+🏁️ **End of flag guide** 🏁️
+
+</details>
+
+***
+
+<details><summary><p lang="en">Click/tap here to expand/collapse the developer notes section</p></summary>
+
+**2022.03.12**
+
+I was so angry and frustrated. I didn't save the file, and my computer randomly froze up twice, then crashed. I had to re-add all the flags, it took an hour to do so originally, and I was just seconds away from finishing. I couldn't save the file quick enough. Luckily, all the research was still in my head, and there was no data that wasn't easily replacable (identically) so it is a type of important work that was the best thing to lose, since it was the easiest to recreate, taking me less than 20 minutes
+
+**Other notes:**
+
+⚠️ A language is missing: `Latvian`
+
+ℹ️ Possibly supporting the next 126 languages that are going to be added to Google Translate
+
+🗜️ Plans to automate this process with the [`@AUTOMATE2001`](https://github.com/AUTOMATE-2001) bot
+
+⛔️ Need to find a way to work with these languages on services other than Google Translate.
+
+⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
+
+**Languages segment version:** `4 (2022, Monday, March 14th at 1:59 pm)`
+
+</details>
+
+***
+
+## By computing language
 
 <details open><summary><b>Click/tap here to expand/collapse the by language section table</b></summary>
 
@@ -140,7 +268,7 @@ Users in these ranges may experience tab/system crashes. Lag will be guaranteed
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Berry/"><img src="/Programming/Logos/B/Berry/BerryLogo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Berry</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Batchfile/"><img src="/Programming/Logos/B/Batchfile/WindowsXP_BAT_LowQuality.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Batchfile</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzMax/"><img src="/Programming/Logos/B/BlitzMax/BlitzMax_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzMax</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BrighterScript/"><img src="/Programming/Logos/B/BrighterScript/BRS_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn BrighterScript</b></sub></a></td>
   </tr> 
   <!-- Row 3A !-->
   <!-- Letter C !-->
@@ -798,7 +926,7 @@ Users in these ranges may experience tab/system crashes. Lag will be guaranteed
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SQLPL/"><img src="/Programming/Logos/S/SQLPL/SQLPL_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQLPL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stata/"><img src="/Programming/Logos/S/Stata/Stata_logo_med_blue.png" width="100px;" alt=""/><br /><sub><b>Learn Stata</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Scheme/"><img src="/Programming/Logos/S/Scheme/Scheme_Lambda.png" width="100px;" alt=""/><br /><sub><b>Learn Scheme</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-STAR/"><img src="/Programming/Logos/S/STAR/STAR1.png" width="100px;" alt=""/><br /><sub><b>Learn STAR</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 20A !-->
@@ -1156,6 +1284,7 @@ Isabelle
 * WaveFront Object
 * Berry
 * M4Sugar
+* STAR
 
 `#` & `"""`
 
@@ -1613,6 +1742,7 @@ Isabelle
 * BlitzMax
 * VBHTML
 * Classic ASP
+* BrighterScript
 
 `''`
 
@@ -2016,6 +2146,14 @@ print('String')
 ```
 
 * Berry
+
+```brighterscript
+Function string(msgPort As Object, userVariables As Object, bsp as Object)
+	print "String"
+End Function
+```
+
+* BrigherScript
 
 ```java
 System.out.println("String");
@@ -3401,6 +3539,7 @@ unknown
 * Stata
 * BlitzMax
 * M4Sugar
+* STAR
 
 ```plain-text
 Unsupported
@@ -3615,9 +3754,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `91 (2022, Friday, November 25th at 11:36 pm PST)`
+**File version:** `92 (2022, Saturday, November 26th at 8:53 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,2372`
+**Line count (including blank lines and compiler line):** `7,561`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6523,11 +6662,43 @@ module string
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 92 (Coming soon)</b></summary>
+<details><summary><b>Version 92 (2022, Saturday, November 26th at 8:53 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V92.md)
+
+**This release uses/represents data from:** `2022, Saturday, November 26th at 8:53 pm PST`
+
+**Note:** _I accidentally used data from 2022 November 27th today, instead of what I had assigned for 2022 November 26th_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Important overview notes` section
+- [x] Added the `Things to take note of` section
+- [x] Added the `Language switcher` section
+- [x] Updated the `Learn` table
+- - [x] Added support for BrighterScript and STAR
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include STAR
+- - [x] Updated the `'` comment section to include BrighterScript
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```brighterscript
+Function string(msgPort As Object, userVariables As Object, bsp as Object)
+	print "String"
+End Function
+```
+
+- - [ ] String section to include BrighterScript
+- - [x] Updated the `Unknown` string section to include STAR
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 92
 - [ ] No other changes in version 92
 
 </details> <!-- Section end !-->
@@ -7339,6 +7510,24 @@ module string
 
 - [ ] Coming soon
 - [ ] No other changes in version 182
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 183 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 183
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 184 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 184
 
 </details> <!-- Section end !-->
 
