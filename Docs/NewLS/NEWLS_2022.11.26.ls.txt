@@ -1,0 +1,12 @@
+STAR
+*.star
+# comment 
+? String
+
+BrighterScript
+
+*.brs
+' Comment
+Function string(msgPort As Object, userVariables As Object, bsp as Object)
+	print "String"
+End Function
