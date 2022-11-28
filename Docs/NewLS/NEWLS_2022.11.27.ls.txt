@@ -1,0 +1,26 @@
+Closure Templates
+
+*.soy
+
+{namespace planepage}
+/** Comment */
+
+{template .start}
+  <p>
+    {msg meaning="Plane.instructions" desc="page text - String.{/msg}
+  </p>
+{/template}
+
+HTML5
+
+*.htm *.html *.mhtm *.mhtml *.xhtm *.xhtml
+
+<!-- Comment !-->
+<p>String</p>
+
+WebAssembly
+
+*.wat *.wasm
+
+;; Comment
+? String
