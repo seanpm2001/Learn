@@ -1,0 +1,21 @@
+PEG.js
+*.pegjs
+
+/* Comment */
+// Comment
+String "String"
+
+Jakarta Server Pages
+*.jsp *.jspx *.jspf
+
+<% <p>String</p> %>
+<!-- Comment !-->
+
+Alternatively:
+
+out.print("String\n");
+// Comment
+/* Comment */
+
+Nevermind on the following note:
+~~~This (alternative) syntax will be used for tomorrows Java Server Pages data~~~
