@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `451`/`454` (as of 2022, Sunday, November 27th at 10:35 pm PST)
+Current progress `453`/`454` (as of 2022, Monday, November 28th at 11:06 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `099.33%` complete, `000.67%` incomplete.
+**Ratio:** `099.77%` complete, `000.23%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -216,7 +216,7 @@ This list covers the creation of the language repositories.
 - [ ] Java Server Pages (JSP)
 - [x] JavaScript
 - [x] JavaScriptPlusPlus
-- [ ] Jakarta Server Pages (JSP)
+- [x] Jakarta Server Pages (JSP)
 - [x] Jinja
 - [x] Joy
 - [x] JScript
@@ -347,7 +347,7 @@ This list covers the creation of the language repositories.
 - [x] PHP
 - [x] Prolog
 - [x] Python
-- [ ] PEG.js
+- [x] PEG.js
 - [x] Pony
 - [x] QMake
 - [x] QSharp
@@ -503,9 +503,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `88 (2022, Wednesday, November 30th at 10:35 pm PST)`
+**File version:** `89 (2022, Wednesday, November 30th at 11:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,960`
+**Line count (including blank lines and compiler line):** `4,001`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2614,9 +2614,9 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V87.md)
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V88.md)
 
-**This release represents data from:** `2022, Saturday, November 26th at 11:58 pm PST`
+**This release represents data from:** `2022, Sunday, November 27th at 11:58 pm PST`
 
 > Changes:
 
@@ -2636,15 +2636,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 89</b></summary>
 
-**Version 89 (Coming soon)**
+**Version 89 (2022, Wednesday, November 30th at 11:06 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V89.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V89.md)
+
+**This release represents data from:** `2022, Monday, November 28th at 11:59 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 451 | new total: 453)
+- - [x] Added 0 new entries to the list (old total: 454 | new total: 454)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 89
 - [ ] No other changes in version 89
 
 </details> <!-- Section end !-->
@@ -3951,6 +3962,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 176
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 177</b></summary>
+
+**Version 177 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 177
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 178</b></summary>
+
+**Version 178 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 178
 
 </details> <!-- Section end !-->
 
