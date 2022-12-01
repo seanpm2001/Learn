@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V88: 2022, Wednesday, November 30th at 10:56 pm PST
--- Representing data from 2022, Monday, November 28th at 10:56 pm PST
+-- V89: 2022, Wednesday, November 30th at 11:25 pm PST
+-- Representing data from 2022, Tuesday, November 29th at 11:59 pm PST
 
 -- Programming
 -- 1
@@ -206,6 +206,7 @@ https://github.com/seanpm2001/Learn-Jakarta-Server-Pages
 https://github.com/seanpm2001/Learn-Java
 https://github.com/seanpm2001/Learn-JavaScript
 https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
+https://github.com/seanpm2001/Learn-Java-Server-Pages
 https://github.com/seanpm2001/Learn-JetBrains-MPS
 https://github.com/seanpm2001/Learn-JFlex
 https://github.com/seanpm2001/Learn-Jinja
@@ -487,11 +488,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- 456 languages listed (as of 2022, Monday, November 28th at 11:59 pm PST)
+-- 457 languages listed (as of 2022, Tuesday, November 29th at 11:59 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 88 (2022, Wednesday, November 30th at 10:56 pm PST)
--- Line count (including blank lines and compiler line): 498
+-- File version: 89 (2022, Wednesday, November 30th at 11:25 pm PST)
+-- Line count (including blank lines and compiler line): 499
 
 -- End of file
