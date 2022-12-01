@@ -1,0 +1,11 @@
+Java Server Pages (same as yesterdays Jakarta Server Pages entry)
+*.jsp *.jspx *.jspf
+
+<% <p>String</p> %>
+<!-- Comment !-->
+
+Alternatively:
+
+out.print("String\n");
+// Comment
+/* Comment */
