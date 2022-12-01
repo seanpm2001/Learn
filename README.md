@@ -555,7 +555,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JFlex/"><img src="/Programming/Logos/J/JFlex/JFlexLogo_900px.jpeg" width="100px;" alt=""/><br /><sub><b>Learn JFlex</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JetBrains-MPS/"><img src="/Programming/Logos/J/JetBrains-MPS/JetBrains-MPS_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn JetBrains MPS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON/"><img src="/Programming/Logos/J/JSON/JSON_vector_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn JSON</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Jakarta-Server-Pages/"><img src="/Programming/Logos/J/Jakarta-Server-Pages/JSP_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Jakarta Server Pages</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 11A !-->
@@ -780,7 +780,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
   <tr>
     <td align="center"><p>Section P5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PureScript/"><img src="/Programming/Logos/P/PureScript/PureScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PureScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-PEG.js/"><img src="/Programming/Logos/P/PEG.js/PEG.js_OrgLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PEG.js</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1438,6 +1438,7 @@ Isabelle
 * Roff
 * Stata
 * CSHTML
+* PEG.js
 
 `//` & `/* */`
 
@@ -1513,6 +1514,8 @@ Isabelle
 * Verilog
 * Verilog-AMS
 * RenderScript
+* PEG.js
+* Jakarta Sever Pages
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1602,6 +1605,8 @@ Isabelle
 * Verilog-AMS
 * Linker Script
 * EBNF
+* PEG.js
+* Jakarta Server Pages
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1645,6 +1650,7 @@ Isabelle
 * ASP.NET Core
 * Classic ASP
 * HTML
+* Jakarta Server Pages
 
 `(* *)`
 
@@ -2657,6 +2663,12 @@ STRING "String";
 
 * RPC
 
+```peg.js
+String "String"
+```
+
+* PEG.js
+
 ```fstar
 let main = FStar.IO.print_string "String\n"
 ```
@@ -2667,7 +2679,6 @@ let main = FStar.IO.print_string "String\n"
 output msg string = 'String`
 ```
 
-* Bicep
 
 ```lookml
 label "String"
@@ -3479,6 +3490,18 @@ module string
 
 * Linux Kernel Module
 
+```java-server-pages
+<% <p>String</p> %>
+```
+
+* Jakarta Server Pages
+
+```java-server-pages
+out.print("String\n");
+```
+
+* Jakarta Server Pages
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -3784,9 +3807,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `93 (2022, Wednesday, November 30th at 9:35 pm PST)`
+**File version:** `94 (2022, Wednesday, November 30th at 10:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,646`
+**Line count (including blank lines and compiler line):** `7,709`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6778,11 +6801,34 @@ End Function
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 94 (Coming soon)</b></summary>
+<details><summary><b>Version 94 (2022, Wednesday, November 30th at 10:50 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V94.md)
+
+**This release uses/represents data from:** `2022, Monday, November 28th at 11:59 pm PST`
+
+**Note:** _No new notes for this entry._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for PEG.js and Jakarta Server Pages
+- [x] Updated the source code comments section
+- - [x] Updated the `/*` & `*/` comment section to include PEG.js and Jakarta Server Pages
+- - [x] Updated the `<!--` & `!-->` comment section to include Jakarta Server Pages
+- - [x] Updated the `//` comment section to include PEG.js and Jakarta Server Pages
+- [x] Updated the print statement section
+- - [x] Added the `String "String"` string section to include PEG.js
+- - [x] Added the `<% <p>String</p> %>` string section to include Jakarta Server Pages
+- - [x] Added the `out.print("String\n");` string section to include Jakarta Server Pages
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 94
 - [ ] No other changes in version 94
 
 </details> <!-- Section end !-->
@@ -7597,7 +7643,6 @@ End Function
 
 </details> <!-- Section end !-->
 
-
 <details><summary><b>Version 185 (Coming soon)</b></summary>
 
 **Changes:**
@@ -7613,6 +7658,24 @@ End Function
 
 - [ ] Coming soon
 - [ ] No other changes in version 186
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 187 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 187
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 188 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 188
 
 </details> <!-- Section end !-->
 
