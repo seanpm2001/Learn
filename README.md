@@ -556,7 +556,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JetBrains-MPS/"><img src="/Programming/Logos/J/JetBrains-MPS/JetBrains-MPS_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn JetBrains MPS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-JSON/"><img src="/Programming/Logos/J/JSON/JSON_vector_logo.svg" width="100px;" alt=""/><br /><sub><b>Learn JSON</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jakarta-Server-Pages/"><img src="/Programming/Logos/J/Jakarta-Server-Pages/JSP_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Jakarta Server Pages</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Java-Server-Pages/"><img src="/Programming/Logos/J/Java-Server-Pages/JSP_JavaServerPages_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Java Server Pages</b></sub></a></td>
   </tr>
   <!-- Row 11A !-->
   <!-- Letter K !-->
@@ -1516,6 +1516,7 @@ Isabelle
 * RenderScript
 * PEG.js
 * Jakarta Sever Pages
+* Java Server Pages
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1607,6 +1608,7 @@ Isabelle
 * EBNF
 * PEG.js
 * Jakarta Server Pages
+* Java Server Pages
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1651,6 +1653,7 @@ Isabelle
 * Classic ASP
 * HTML
 * Jakarta Server Pages
+* Java Server Pages
 
 `(* *)`
 
@@ -3495,12 +3498,14 @@ module string
 ```
 
 * Jakarta Server Pages
+* Java Server Pages
 
 ```java-server-pages
 out.print("String\n");
 ```
 
 * Jakarta Server Pages
+* Java Server Pages
 
 <!-- End of randomized string order !-->
 
@@ -3807,9 +3812,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `94 (2022, Wednesday, November 30th at 10:50 pm PST)`
+**File version:** `95 (2022, Wednesday, November 30th at 11:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,709`
+**Line count (including blank lines and compiler line):** `7,754`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6833,11 +6838,33 @@ End Function
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 95 (Coming soon)</b></summary>
+<details><summary><b>Version 95 (2022, Wednesday, November 30th at 11:20 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V95.md)
+
+**This release uses/represents data from:** `2022, Tuesday, November 29th at 11:59 pm PST`
+
+**Note:** _All caught up again (for now)_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Java Server Pages
+- [x] Updated the source code comments section
+- - [x] Updated the `/*` & `*/` comment section to include Java Server Pages
+- - [x] Updated the `<!--` & `!-->` comment section to include Java Server Pages
+- - [x] Updated the `//` comment section to include PEG.js and Java Server Pages
+- [x] Updated the print statement section
+- - [x] Updated the `<% <p>String</p> %>` string section to include Java Server Pages
+- - [x] Updated the `out.print("String\n");` string section to include Java Server Pages
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 95
 - [ ] No other changes in version 95
 
 </details> <!-- Section end !-->
@@ -7676,6 +7703,24 @@ End Function
 
 - [ ] Coming soon
 - [ ] No other changes in version 188
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 189 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 189
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 190 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 190
 
 </details> <!-- Section end !-->
 
