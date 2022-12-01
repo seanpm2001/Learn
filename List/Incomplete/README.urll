@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Saturday, November 26th at 9:07 pm PST
+-- As of 2022, Sunday, November 27th at 10:24 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -62,6 +62,7 @@ https://github.com/seanpm2001/Learn-CH
 https://github.com/seanpm2001/Learn-Chapel
 https://github.com/seanpm2001/Learn-Classic-ASP
 https://github.com/seanpm2001/Learn-CLIPS
+https://github.com/seanpm2001/Learn-Closure-Templates
 https://github.com/seanpm2001/Learn-Clojure
 https://github.com/seanpm2001/Learn-CMake
 https://github.com/seanpm2001/Learn-Cobra
@@ -141,6 +142,7 @@ https://github.com/seanpm2001/Learn-HiveQL
 https://github.com/seanpm2001/Learn-Hope
 https://github.com/seanpm2001/Learn-HolyC
 https://github.com/seanpm2001/Learn-HLSL
+https://github.com/seanpm2001/Learn-HTML
 https://github.com/seanpm2001/Learn-HTTP
 https://github.com/seanpm2001/Learn-HXML
 https://github.com/seanpm2001/Learn-Hy
@@ -375,6 +377,7 @@ https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WaveFront-Material
+https://github.com/seanpm2001/Learn-WebAssembly
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
@@ -391,7 +394,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 387/447
+-- Count: 390/450
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -575,13 +578,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V88 date: 2022, Friday, November 25th at 11:51 pm PST, representing data from 2022, Friday, November 25th at 11:59 pm PST
 -- V89: 2 entries added, 387 entries remain (ratio: 387/447 (86.57% incomplete, 13.43% complete))
 -- V89 date: 2022, Saturday, November 26th at 9:07 pm PST, representing data from 2022, Saturday, November 26th at 9:07 pm PST
+-- V90: 3 entries added, 390 entries remain (ratio: 390/450 (86.66% incomplete, 13.34% complete))
+-- V90 date: 2022, Wednesday, November 30th at 10:24 pm PST, representing data from 2022, Sunday, November 27th at 10:24 pm PST
 
--- Ratio (incomplete/complete): 387/447 (86.57% incomplete, 13.43% complete)
+-- Ratio (incomplete/complete): 390/450 (86.66% incomplete, 13.34% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 89 (2022, Saturday, November 26th at 9:07 pm PST)
--- Line count (including blank lines and compiler line): 588
+-- File version: 90 (2022, Wednesday, November 30th at 10:24 pm PST)
+-- Line count (including blank lines and compiler line): 593
 
 -- End of script
