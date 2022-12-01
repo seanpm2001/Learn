@@ -1,8 +1,8 @@
 --URLL-version=2;
 -- LIST_ALPHABETICAL.urll
 -- An alphabet list of the repository links for the seanpm2001 learn project
--- V86: 2022, Saturday, November 26th at 8:58 pm PST
--- Representing data from 2022, Saturday, November 26th at 8:58 pm PST
+-- V87: 2022, Wednesday, November 30th at 10:10 pm PST
+-- Representing data from 2022, Sunday, November 27th at 10:10 pm PST
 
 -- Programming
 -- 1
@@ -81,6 +81,7 @@ https://github.com/seanpm2001/Learn-Crystal
 https://github.com/seanpm2001/Learn-Clojure
 https://github.com/seanpm2001/Learn-CMake
 https://github.com/seanpm2001/Learn-CLIPS
+https://github.com/seanpm2001/Learn-Closure-Templates
 https://github.com/seanpm2001/Learn-Cobra
 https://github.com/seanpm2001/Learn-CodeQL
 https://github.com/seanpm2001/Learn-CoffeeScript
@@ -179,6 +180,7 @@ https://github.com/seanpm2001/Learn-HiveQL
 https://github.com/seanpm2001/Learn-HLSL
 https://github.com/seanpm2001/Learn-HolyC
 https://github.com/seanpm2001/Learn-Hope
+https://github.com/seanpm2001/Learn-HTML
 https://github.com/seanpm2001/Learn-HTTP
 https://github.com/seanpm2001/Learn-HXML
 https://github.com/seanpm2001/Learn-Hy
@@ -460,6 +462,7 @@ https://github.com/seanpm2001/Learn-VueJS
 https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WDL
+https://github.com/seanpm2001/Learn-WebAssembly
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
@@ -482,11 +485,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- 451 languages listed (as of 2022, Saturday, November 26th at 8:58 pm PST)
+-- 454 languages listed (as of 2022, Sunday, November 27th at 10:10 pm PST)
 
 -- File info
 -- File type: URLL list file (*.urll)
--- File version: 86 (2022, Saturday, November 26th at 8:58 pm PST)
--- Line count (including blank lines and compiler line): 493
+-- File version: 87 (2022, Wednesday, November 30th at 10:10 pm PST)
+-- Line count (including blank lines and compiler line): 496
 
 -- End of file
