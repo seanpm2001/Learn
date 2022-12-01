@@ -15,6 +15,8 @@ The table on this page was intended to function normally, but on GitHub, the 7 c
 
 The table consists of hundreds of image files, an image for every programming language is listed on a table. This may cause your system to lag/crash. Unfortunately, I couldn't put this notice any higher. If you are still reading this, your system has not crashed yet (unless it softlocked) for reference, here are the page viewing requirements (all estimates)
 
+As of version 92 and later, 100+ emojis are included into this count.
+
 <details><summary><p><b>Minimum requirements (with intense lag)</b></p></summary>
 
 * **Bandwidth:** `728 Megabits/download (91 Megabyte download) ?/upload`
@@ -336,7 +338,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><p>Section C6</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSHTML/"><img src="/Programming/Logos/C/CSharpHTML/CSharp_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn C# HTML (VB.NET)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Classic-ASP/"><img src="/Programming/Logos/C/Classic-ASP/Classic-ASP.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Classic ASP</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Closure-Templates/"><img src="/Programming/Logos/C/Closure-Templates/Noia_64_mimetypes_template_source.png" width="100px;" alt=""/><br /><sub><b>Learn Closure Templates</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -478,7 +480,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
   <tr>
     <td align="center"><p>Section H3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HTTP/"><img src="/Programming/Logos/H/HTTP/HTTP_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn HTTP</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-HTML/"><img src="/Programming/Logos/H/HTML/HTML5_logo_and_wordmark.svg" width="100px;" alt=""/><br /><sub><b>Learn HTML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1013,6 +1015,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Material/"><img src="/Programming/Logos/W/WaveFront-Material/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Material</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Object/"><img src="/Programming/Logos/W/Wavefront-Object/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Object</b></sub></a></td>
   </tr>
+  <!-- Row 25B !-->
+  <!-- Letter X !-->
+  <tr>
+    <td align="center"><p>Section W2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WebAssembly/"><img src="/Programming/Logos/W/WebAssembly/WebAssembly_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn WebAssembly</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 24A !-->
   <!-- Letter X !-->
   <tr>
@@ -1630,6 +1644,7 @@ Isabelle
 * ASP.NET
 * ASP.NET Core
 * Classic ASP
+* HTML
 
 `(* *)`
 
@@ -1758,6 +1773,7 @@ Isabelle
 * Racket
 * Emacs Lisp
 * NewLisp
+* WebAssembly
 
 `::`
 
@@ -1777,6 +1793,7 @@ Isabelle
 `/** */`
 
 * HyPhy
+* Closure Templates
 
 `//` & `/** */`
 
@@ -2410,6 +2427,17 @@ Connection: close
 
 * HTTP
 
+```closure-templates
+{namespace planepage}
+{template .start}
+  <p>
+    {msg meaning="Plane.instructions" desc="String"{/msg}
+  </p>
+{/template}
+```
+
+* Closure Templates
+
 ```handlebars
 <p>String</p>
 ```
@@ -2423,6 +2451,7 @@ Connection: close
 * EJS
 * ASP.NET
 * ASP.NET Core
+* HTML
 
 ```xproc
 <para>String</para>
@@ -3540,6 +3569,7 @@ unknown
 * BlitzMax
 * M4Sugar
 * STAR
+* WebAssembly
 
 ```plain-text
 Unsupported
@@ -3754,9 +3784,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `92 (2022, Saturday, November 26th at 8:53 pm PST)`
+**File version:** `93 (2022, Wednesday, November 30th at 9:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,561`
+**Line count (including blank lines and compiler line):** `7,646`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6703,11 +6733,47 @@ End Function
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 93 (Coming soon)</b></summary>
+<details><summary><b>Version 93 (2022, Wednesday, November 30th at 9:35 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V93.md)
+
+**This release uses/represents data from:** `2022, Sunday, November 27th at 9:32 pm PST`
+
+**Note:** _I accidentally used data from 2022 November 27th yesterday, instead of what I had assigned for 2022 November 26th_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Important overview notes` section
+- [x] Updated the `Things to take note of` section
+- [x] Updated the `Learn` table
+- - [x] Added support for Closure Templates, HTML, and WebAssembly
+- [x] Updated the source code comments section
+- - [x] Updated the `/**` & `*/` comment section to include Closure Templates
+- - [x] Updated the `<!--` & `!-->` comment section to include HTML
+- - [x] Updated the `;;` comment section to include WebAssembly
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```closure-templates
+{namespace planepage}
+{template .start}
+  <p>
+    {msg meaning="Plane.instructions" desc="String"{/msg}
+  </p>
+{/template}
+```
+
+- - [ ] String section to include Closure Templates
+- - [x] Updated the `<p>String</p>` string section to include HTML
+- - [x] Updated the `Unknown` string section to include WebAssembly
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 93
 - [ ] No other changes in version 93
 
 </details> <!-- Section end !-->
@@ -7528,6 +7594,25 @@ End Function
 
 - [ ] Coming soon
 - [ ] No other changes in version 184
+
+</details> <!-- Section end !-->
+
+
+<details><summary><b>Version 185 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 185
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 186 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 186
 
 </details> <!-- Section end !-->
 
