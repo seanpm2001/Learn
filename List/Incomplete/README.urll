@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Monday, November 28th at 11:59 pm PST
+-- As of 2022, Tuesday, November 29th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -177,6 +177,7 @@ https://github.com/seanpm2001/Learn-Jakarta-Server-Pages
 https://github.com/seanpm2001/Learn-Java -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included 
 https://github.com/seanpm2001/Learn-JavaScript -- Note: entries from late 2021/early 2022 were added on 2022, April 20th, but this will not be listed complete until all planned source code entries are included. 
 https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
+https://github.com/seanpm2001/Learn-Java-Server-Pages
 https://github.com/seanpm2001/Learn-JupyterNotebook
 https://github.com/seanpm2001/Learn-Jython
 https://github.com/seanpm2001/Learn-KiCad
@@ -396,7 +397,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 392/452
+-- Count: 393/453
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -584,13 +585,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V90 date: 2022, Wednesday, November 30th at 10:24 pm PST, representing data from 2022, Sunday, November 27th at 10:24 pm PST
 -- V91: 2 entries added, 392 entries remain (ratio: 392/452 (86.66% incomplete, 13.34% complete))
 -- V91 date: 2022, Wednesday, November 30th at 11:35 pm PST, representing data from 2022, Monday, November 28th at 11:59 pm PST
+-- V92: 1 entry added, 393 entries remain (ratio: 393/453 (86.75% incomplete, 13.25% complete))
+-- V92 date: 2022, Wednesday, November 30th at 11:39 pm PST, representing data from 2022, Tuesday, November 29th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 392/4502 (86.72% incomplete, 13.28% complete)
+-- Ratio (incomplete/complete): 393/453 (86.75% incomplete, 13.28% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 91 (2022, Wednesday, November 30th at 11:35 pm PST)
--- Line count (including blank lines and compiler line): 597
+-- File version: 92 (2022, Wednesday, November 30th at 11:39 pm PST)
+-- Line count (including blank lines and compiler line): 600
 
 -- End of script
