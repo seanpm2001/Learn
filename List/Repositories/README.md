@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `448`/`454` (as of 2022, Saturday, November 26th at 9:12 pm PST)
+Current progress `451`/`454` (as of 2022, Sunday, November 27th at 10:35 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.67%` complete, `001.33%` incomplete.
+**Ratio:** `099.33%` complete, `000.67%` incomplete.
 
 _I occassionally learn of new languages, so this number will keep going up._
 
@@ -99,7 +99,7 @@ This list covers the creation of the language repositories.
 - [x] Clean
 - [x] Clojure
 - [x] Classic ASP
-- [ ] Closure templates
+- [x] Closure templates
 - [x] CMAKE
 - [x] CodeQL
 - [x] CoffeeScript
@@ -194,7 +194,7 @@ This list covers the creation of the language repositories.
 - [x] Hy
 - [x] HyPhy
 - [x] Haskell
-- [ ] HTML
+- [x] HTML
 - [x] HTTP
 - [x] IDL
 - [x] Idris
@@ -463,7 +463,7 @@ This list covers the creation of the language repositories.
 - [x] WaveFront Object
 - [x] Wavefront material
 - [x] WDL
-- [ ] WebAssembly
+- [x] WebAssembly
 - [x] WebVTT
 - [x] WikiText
 - [x] Wierd
@@ -503,9 +503,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `87 (2022, Saturday, November 26th at 9:12 pm PST)`
+**File version:** `88 (2022, Wednesday, November 30th at 10:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,919`
+**Line count (including blank lines and compiler line):** `3,960`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2610,15 +2610,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 88</b></summary>
 
-**Version 88 (Coming soon)**
+**Version 88 (2022, Wednesday, November 30th at 10:35 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V88.md) !-->
+[View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V87.md)
+
+**This release represents data from:** `2022, Saturday, November 26th at 11:58 pm PST`
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 3 new entries (old total: 448 | new total: 451)
+- - [x] Added 0 new entries to the list (old total: 454 | new total: 454)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 88
 - [ ] No other changes in version 88
 
 </details> <!-- Section end !-->
@@ -3910,6 +3921,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 174
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 175</b></summary>
+
+**Version 175 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 175
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 176</b></summary>
+
+**Version 176 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 176
 
 </details> <!-- Section end !-->
 
