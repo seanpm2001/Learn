@@ -1043,6 +1043,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
   <!-- Letter X !-->
   <tr>
     <td align="center"><p>Section X2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-XTend/"><img src="/Programming/Logos/X/XTend/XTend_Logo_400px.png" width="100px;" alt=""/><br /><sub><b>Learn XTend</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
+  <!-- Row 24C !-->
+  <!-- Letter X !-->
+  <tr>
+    <td align="center"><p>Section X3</p></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1083,6 +1095,16 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 ## Extras
 
 <details open><summary><b>Click/tap here to expand/collapse the extras section</b></summary>
+
+### Extras/M
+
+#### Makefile testing
+
+![/Programming/Logos/M/Makefile/Makefile.png](/Programming/Logos/M/Makefile/Makefile.png)
+
+[Makefile testing](https://github.com/seanpm2001/Makefile_Testing/)
+
+> A repository for experimenting with Make 
 
 ### Extras/P
 
@@ -1439,6 +1461,7 @@ Isabelle
 * Stata
 * CSHTML
 * PEG.js
+* XTend
 
 `//` & `/* */`
 
@@ -1517,6 +1540,7 @@ Isabelle
 * PEG.js
 * Jakarta Sever Pages
 * Java Server Pages
+* XTend
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1609,6 +1633,7 @@ Isabelle
 * PEG.js
 * Jakarta Server Pages
 * Java Server Pages
+* XTend
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -3507,6 +3532,33 @@ out.print("String\n");
 * Jakarta Server Pages
 * Java Server Pages
 
+```xtend
+body = '''
+String
+'''
+```
+
+* XTend
+
+```xtend
+@FXApp class HelloWorldXtend {
+  override void start(Stage it) {
+    title = "String"
+    scene = new Scene(new StackPane => [
+      children += new Button => [
+        text = "Say 'String'"
+        onAction = [
+          println("String")
+        ]
+      ]
+    ], 300, 250)
+    show
+  }
+}
+```
+
+* XTend
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -3812,9 +3864,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `95 (2022, Wednesday, November 30th at 11:20 pm PST)`
+**File version:** `96 (2022, Thursday, December 16th at 10:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,754`
+**Line count (including blank lines and compiler line):** `7,878`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -6869,11 +6921,65 @@ End Function
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 96 (Coming soon)</b></summary>
+<details><summary><b>Version 96 (2022, Thursday, December 15th at 10:22 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V96.md)
+
+**This release uses/represents data from:** `2022, Friday, December 9th at 11:59 pm PST`
+
+**Note:** _All caught up again (for now) after a 6 day delay_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for XTend
+- [x] Updated the source code comments section
+- - [x] Updated the `/*` & `*/` comment section to include XTend
+- - [x] Updated the `//` comment section to include XTend
+- - [x] Updated the `//` & `/*` comment section to include XTend
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```xtend
+// Comment
+/** Comment */
+body = '''
+String
+'''
+```
+
+- - [ ] string section to include XTend
+- - [x] Added the:
+
+```xtend
+@FXApp class HelloWorldXtend {
+  override void start(Stage it) {
+    title = "String"
+    scene = new Scene(new StackPane => [
+      children += new Button => [
+        text = "Say 'String'"
+        onAction = [
+          println("String")
+        ]
+      ]
+    ], 300, 250)
+    show
+  }
+}
+```
+
+- - [ ] string section to include XTend
+- [x] Updated the `Extras` section
+- - [x] Added the `Extras/M` section
+- - [x] Added a reference to my makefile testing repository
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 96
 - [ ] No other changes in version 96
 
 </details> <!-- Section end !-->
@@ -7721,6 +7827,24 @@ End Function
 
 - [ ] Coming soon
 - [ ] No other changes in version 190
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 191 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 191
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 192 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 192
 
 </details> <!-- Section end !-->
 
