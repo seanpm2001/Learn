@@ -1,0 +1,25 @@
+XTend
+
+*.xtend
+
+// Comment
+/** Comment */
+body = '''
+String
+'''
+
+@FXApp class HelloWorldXtend {
+  override void start(Stage it) {
+    title = "String"
+    scene = new Scene(new StackPane => [
+      children += new Button => [
+        text = "Say 'String'"
+        onAction = [
+          println("String")
+        ]
+      ]
+    ], 300, 250)
+    show
+  }
+}
+
