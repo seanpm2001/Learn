@@ -1,7 +1,7 @@
 --URLL-version=2;
 -- Start of script
 -- Incomplete projects list
--- As of 2022, Tuesday, November 29th at 11:59 pm PST
+-- As of 2022, Thursday, December 15th at 11:59 pm PST
 
 -- These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -390,6 +390,7 @@ https://github.com/seanpm2001/Learn-X-Pixmap
 https://github.com/seanpm2001/Learn-XQuery
 https://github.com/seanpm2001/Learn-XS
 https://github.com/seanpm2001/Learn-XSLT
+https://github.com/seanpm2001/Learn-XTend
 https://github.com/seanpm2001/Learn-YAML
 https://github.com/seanpm2001/Learn-YARA
 https://github.com/seanpm2001/Learn-ZAP
@@ -397,7 +398,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- Count: 393/453
+-- Count: 394/454
 -- These repositories have already been created, but proper documentation and examples have yet to be provided
 
 -- File history
@@ -587,13 +588,15 @@ https://github.com/seanpm2001/Learn-ZIL
 -- V91 date: 2022, Wednesday, November 30th at 11:35 pm PST, representing data from 2022, Monday, November 28th at 11:59 pm PST
 -- V92: 1 entry added, 393 entries remain (ratio: 393/453 (86.75% incomplete, 13.25% complete))
 -- V92 date: 2022, Wednesday, November 30th at 11:39 pm PST, representing data from 2022, Tuesday, November 29th at 11:59 pm PST
+-- V93: 1 entry added, 394 entries remain (ratio: 394/454 (86.78% incomplete, 13.22% complete))
+-- V93 date: 2022, Thursday, December 15th at 10:32 pm PST, representing data from 2022, Friday, December 9th at 11:59 pm PST
 
--- Ratio (incomplete/complete): 393/453 (86.75% incomplete, 13.28% complete)
+-- Ratio (incomplete/complete): 394/454 (86.78% incomplete, 13.22% complete)
 -- Calculation source: Mental math, GNOME Calculator
 
 -- File info
 -- File type: URLL shortcut file (*.urll)
--- File version: 92 (2022, Wednesday, November 30th at 11:39 pm PST)
--- Line count (including blank lines and compiler line): 600
+-- File version: 93 (2022, Thursday, December 15th at 10:32 pm PST)
+-- Line count (including blank lines and compiler line): 603
 
 -- End of script
