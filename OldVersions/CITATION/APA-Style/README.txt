@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). A homepage repository for the seanpm2001 Learn project, a programming language polyglot knowledge reference database, portal page, and programming resource project with the goal of documenting every single programming, markup, and other computing language in a unique fashion. [Data set]. https://doi.org/10.0000/00000
