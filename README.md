@@ -929,7 +929,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Stata/"><img src="/Programming/Logos/S/Stata/Stata_logo_med_blue.png" width="100px;" alt=""/><br /><sub><b>Learn Stata</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Scheme/"><img src="/Programming/Logos/S/Scheme/Scheme_Lambda.png" width="100px;" alt=""/><br /><sub><b>Learn Scheme</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-STAR/"><img src="/Programming/Logos/S/STAR/STAR1.png" width="100px;" alt=""/><br /><sub><b>Learn STAR</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SDLang/"><img src="/Programming/Logos/S/SDLang/SDLangLogo_1910px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn SDLang</b></sub></a></td>
   </tr> 
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -1214,6 +1214,7 @@ Isabelle
 * URLL
 * PureScript
 * SQLPL
+* SDLang
 
 `---`
 
@@ -1321,6 +1322,7 @@ Isabelle
 * Berry
 * M4Sugar
 * STAR
+* SDLang
 
 `#` & `"""`
 
@@ -1462,6 +1464,7 @@ Isabelle
 * CSHTML
 * PEG.js
 * XTend
+* SDLang
 
 `//` & `/* */`
 
@@ -1541,6 +1544,7 @@ Isabelle
 * Jakarta Sever Pages
 * Java Server Pages
 * XTend
+* SDLang
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1634,6 +1638,7 @@ Isabelle
 * Jakarta Server Pages
 * Java Server Pages
 * XTend
+* SDLang
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -3042,6 +3047,12 @@ title: string
 
 * Slim
 
+```sdlang
+title "string"
+```
+
+* SDLang
+
 ```toml
 title = "String"
 ```
@@ -3864,17 +3875,17 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `96 (2022, Thursday, December 16th at 10:22 pm PST)`
+**File version:** `97 (2023, Thursday, January 12th at 10:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,878`
+**Line count (including blank lines and compiler line):** `7,934`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-**You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -6984,12 +6995,39 @@ String
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 97 (Coming soon)</b></summary>
+<details><summary><b>Version 97 (2023, Thursday, January 12th at 10:23 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V97.md)
+
+**This release uses/represents data from:** `2022, Thursday, December 22nd at 11:59 pm PST`
+
+> **Note:** _It may take me a while to get caught back up._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for SDLang
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include SDLang
+- - [x] Updated the `#` comment section to include SDLang
+- - [x] Updated the `/*` & `*/` comment section to include SDLang
+- - [x] Updated the `//` comment section to include SDLang
+- [x] Updated the print statement section
+- - [x] Added the `Title "String"` string section to include SDLang
+- [x] Updated the `Extras` section
+- - [x] Added the `Extras/M` section
+- - [x] Added a reference to my makefile testing repository
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 97
 - [ ] No other changes in version 97
+
+</details> <!-- Section end !-->
 
 </details> <!-- Section end !-->
 
@@ -7845,6 +7883,24 @@ String
 
 - [ ] Coming soon
 - [ ] No other changes in version 192
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 193 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 193
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 194 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 194
 
 </details> <!-- Section end !-->
 
