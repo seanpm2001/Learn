@@ -1,13 +1,13 @@
---URLL-version=2;
--- LIST_ALPHABETICAL.urll
--- An alphabet list of the repository links for the seanpm2001 learn project
--- V90: 2022, Thursday, December 15th at 10:27 pm PST
--- Representing data from 2022, Friday, December 9th at 11:59 pm PST
+////URLL-version=3;
+//// LIST_ALPHABETICAL.urll
+//// An alphabet list of the repository links for the seanpm2001 learn project
+//// V91: 2023, Thursday, January 12th at 10:33 pm PST
+//// Representing data from 2022, Thursday, December 22nd at 11:59 pm PST
 
--- Programming
--- 1
+//// Programming
+//// 1
 https://github.com/seanpm2001/Learn-1C-Enterprise
--- A
+//// A
 https://github.com/seanpm2001/Learn-ABAP
 https://github.com/seanpm2001/Learn-ABAP-CDS
 https://github.com/seanpm2001/Learn-ABC
@@ -42,7 +42,7 @@ https://github.com/seanpm2001/Learn-Augeas
 https://github.com/seanpm2001/Learn-AutoHotKey
 https://github.com/seanpm2001/Learn-AutoIt
 https://github.com/seanpm2001/Learn-Awk
--- B
+//// B
 https://github.com/seanpm2001/Learn-B
 https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
@@ -64,7 +64,7 @@ https://github.com/seanpm2001/Learn-Brainfuck
 https://github.com/seanpm2001/Learn-BrightScript
 https://github.com/seanpm2001/Learn-BrighterScript
 https://github.com/seanpm2001/Learn-BSDL
--- C
+//// C
 https://github.com/seanpm2001/Learn-C
 https://github.com/seanpm2001/Learn-Cadence
 https://github.com/seanpm2001/Learn-CAML
@@ -103,7 +103,7 @@ https://github.com/seanpm2001/Learn-CSV
 https://github.com/seanpm2001/Learn-CUDA
 https://github.com/seanpm2001/Learn-Cyclone
 https://github.com/seanpm2001/Learn-Cython
--- D
+//// D
 https://github.com/seanpm2001/Learn-D
 https://github.com/seanpm2001/Learn-Dafny
 https://github.com/seanpm2001/Learn-Dart
@@ -118,7 +118,7 @@ https://github.com/seanpm2001/Learn-DogeScript
 https://github.com/seanpm2001/Learn-DroppedText
 https://github.com/seanpm2001/Learn-DTrace
 https://github.com/seanpm2001/Learn-Dylan
--- E
+//// E
 https://github.com/seanpm2001/Learn-E
 https://github.com/seanpm2001/Learn-Eagle
 https://github.com/seanpm2001/Learn-Earthly
@@ -131,7 +131,7 @@ https://github.com/seanpm2001/Learn-EmacsLisp
 https://github.com/seanpm2001/Learn-Epigram
 https://github.com/seanpm2001/Learn-Erlang
 https://github.com/seanpm2001/Learn-Euphoria
--- F
+//// F
 https://github.com/seanpm2001/Learn-Factor
 https://github.com/seanpm2001/Learn-Fancy
 https://github.com/seanpm2001/Learn-Fantom
@@ -146,7 +146,7 @@ https://github.com/seanpm2001/Learn-FreeBasic
 https://github.com/seanpm2001/Learn-FreeMarker
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
--- G
+//// G
 https://github.com/seanpm2001/Learn-GAP
 https://github.com/seanpm2001/Learn-GCC-Machine-Description
 https://github.com/seanpm2001/Learn-G-CODE
@@ -168,7 +168,7 @@ https://github.com/seanpm2001/Learn-GraphQL
 https://github.com/seanpm2001/Learn-GraphViz-DOT
 https://github.com/seanpm2001/Learn-Groovy
 https://github.com/seanpm2001/Learn-GSC
--- H
+//// H
 https://github.com/seanpm2001/Learn-Hack
 https://github.com/seanpm2001/Learn-Handlebars
 https://github.com/seanpm2001/Learn-HAML
@@ -185,7 +185,7 @@ https://github.com/seanpm2001/Learn-HTTP
 https://github.com/seanpm2001/Learn-HXML
 https://github.com/seanpm2001/Learn-Hy
 https://github.com/seanpm2001/Learn-HyPhy
--- I
+//// I
 https://github.com/seanpm2001/Learn-IDL
 https://github.com/seanpm2001/Learn-Idris
 https://github.com/seanpm2001/Learn-Inform
@@ -198,7 +198,7 @@ https://github.com/seanpm2001/Learn-Io
 https://github.com/seanpm2001/Learn-IronPython
 https://github.com/seanpm2001/Learn-Isabelle
 https://github.com/seanpm2001/Learn-ISWIM
--- J
+//// J
 https://github.com/seanpm2001/Learn-J
 https://github.com/seanpm2001/Learn-Jade
 https://github.com/seanpm2001/Learn-Jasmin
@@ -220,15 +220,15 @@ https://github.com/seanpm2001/Learn-JSSS
 https://github.com/seanpm2001/Learn-Julia
 https://github.com/seanpm2001/Learn-JupyterNotebook
 https://github.com/seanpm2001/Learn-Jython
--- K
-https://github.com/seanpm2001/Learn-KiCad -- Layout and Schematic (both included as one)
+//// K
+https://github.com/seanpm2001/Learn-KiCad //// Layout and Schematic (both included as one)
 https://github.com/seanpm2001/Learn-KiCad-Layout
 https://github.com/seanpm2001/Learn-KiCad-Schematic
 https://github.com/seanpm2001/Learn-KiXTart
 https://github.com/seanpm2001/Learn-Kotlin
 https://github.com/seanpm2001/Learn-KRC
 https://github.com/seanpm2001/Learn-kvlang
--- L
+//// L
 https://github.com/seanpm2001/Learn-LabVIEW
 https://github.com/seanpm2001/Learn-Latte
 https://github.com/seanpm2001/Learn-Lean
@@ -251,7 +251,7 @@ https://github.com/seanpm2001/Learn-Lua
 https://github.com/seanpm2001/Learn-Lucid
 https://github.com/seanpm2001/Learn-Logos
 https://github.com/seanpm2001/Learn-LookML
--- M
+//// M
 https://github.com/seanpm2001/Learn-M
 https://github.com/seanpm2001/Learn-M4
 https://github.com/seanpm2001/Learn-M4Sugar
@@ -284,7 +284,7 @@ https://github.com/seanpm2001/Learn-MoonScript
 https://github.com/seanpm2001/Learn-Motoko
 https://github.com/seanpm2001/Learn-MS-DOS-Style
 https://github.com/seanpm2001/Learn-Mustache
--- N
+//// N
 https://github.com/seanpm2001/Learn-NASL
 https://github.com/seanpm2001/Learn-Nemerle
 https://github.com/seanpm2001/Learn-nesC
@@ -297,7 +297,7 @@ https://github.com/seanpm2001/Learn-Nix
 https://github.com/seanpm2001/Learn-NSIS
 https://github.com/seanpm2001/Learn-Nu
 https://github.com/seanpm2001/Learn-Nunjucks
--- O
+//// O
 https://github.com/seanpm2001/Learn-Oberon
 https://github.com/seanpm2001/Learn-Objective-C
 https://github.com/seanpm2001/Learn-Objective-CPP
@@ -312,7 +312,7 @@ https://github.com/seanpm2001/Learn-OpenQASM
 https://github.com/seanpm2001/Learn-OpenSCAD
 https://github.com/seanpm2001/Learn-Orwell
 https://github.com/seanpm2001/Learn-OrgMode
--- P
+//// P
 https://github.com/seanpm2001/Learn-Pascal
 https://github.com/seanpm2001/Learn-Pawn
 https://github.com/seanpm2001/Learn-PEG.js
@@ -343,14 +343,14 @@ https://github.com/seanpm2001/Learn-PureData
 https://github.com/seanpm2001/Learn-PureScript
 https://github.com/seanpm2001/Learn-Python
 https://github.com/seanpm2001/Learn-PythonTraceback
--- Q
+//// Q
 https://github.com/seanpm2001/Learn-q
 https://github.com/seanpm2001/Learn-QMake
 https://github.com/seanpm2001/Learn-QML
 https://github.com/seanpm2001/Learn-QSharp
 https://github.com/seanpm2001/Learn-QT-Script
 https://github.com/seanpm2001/Learn-QueryByExample
--- R
+//// R
 https://github.com/seanpm2001/Learn-R
 https://github.com/seanpm2001/Learn-Racket
 https://github.com/seanpm2001/Learn-Ragel
@@ -376,7 +376,7 @@ https://github.com/seanpm2001/Learn-RPGLE
 https://github.com/seanpm2001/Learn-Ruby
 https://github.com/seanpm2001/Learn-RUNOFF
 https://github.com/seanpm2001/Learn-Rust
--- S
+//// S
 https://github.com/seanpm2001/Learn-Sage
 https://github.com/seanpm2001/Learn-SaltStack
 https://github.com/seanpm2001/Learn-SAS
@@ -390,6 +390,7 @@ https://github.com/seanpm2001/Learn-Scratch-1
 https://github.com/seanpm2001/Learn-Scratch-2
 https://github.com/seanpm2001/Learn-Scratch-3
 https://github.com/seanpm2001/Learn-SCSS
+https://github.com/seanpm2001/Learn-SDLang
 https://github.com/seanpm2001/Learn-Sed
 https://github.com/seanpm2001/Learn-Seed7
 https://github.com/seanpm2001/Learn-Self
@@ -425,7 +426,7 @@ https://github.com/seanpm2001/Learn-Swift
 https://github.com/seanpm2001/Learn-SWIG
 https://github.com/seanpm2001/Learn-SXML
 https://github.com/seanpm2001/Learn-SystemVerilog
--- T
+//// T
 https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn-Terra
 https://github.com/seanpm2001/Learn-TeX
@@ -438,13 +439,13 @@ https://github.com/seanpm2001/Learn-TSQL
 https://github.com/seanpm2001/Learn-TSX
 https://github.com/seanpm2001/Learn-TXL
 https://github.com/seanpm2001/Learn-TypeScript
--- U
+//// U
 https://github.com/seanpm2001/Learn-UnrealScript
 https://github.com/seanpm2001/Learn-Unity3DAsset
 https://github.com/seanpm2001/Learn-Unix-Assembly
 https://github.com/seanpm2001/Learn-Uno
 https://github.com/seanpm2001/Learn-URLL
--- V
+//// V
 https://github.com/seanpm2001/Learn_V
 https://github.com/seanpm2001/Learn-Vala
 https://github.com/seanpm2001/Learn-VBA
@@ -461,7 +462,7 @@ https://github.com/seanpm2001/Learn-VisualBasicDOTNet
 https://github.com/seanpm2001/Learn-VisualBasicScript
 https://github.com/seanpm2001/Learn-VisualLogic
 https://github.com/seanpm2001/Learn-VueJS
--- W
+//// W
 https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WDL
@@ -470,7 +471,7 @@ https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
 https://github.com/seanpm2001/Learn-WindowsRegistry
--- X
+//// X
 https://github.com/seanpm2001/Learn-XBase
 https://github.com/seanpm2001/Learn-XML
 https://github.com/seanpm2001/Learn-X-Pixmap
@@ -479,21 +480,21 @@ https://github.com/seanpm2001/Learn-XQuery
 https://github.com/seanpm2001/Learn-XS
 https://github.com/seanpm2001/Learn-XSLT
 https://github.com/seanpm2001/Learn-XTend
--- Y
+//// Y
 https://github.com/seanpm2001/Learn-Yacc
 https://github.com/seanpm2001/Learn-YAML
 https://github.com/seanpm2001/Learn-YARA
--- Z
+//// Z
 https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
--- 458 languages listed (as of 2022, Thursday, December 15th at 11:59 pm PST)
+//// 459 languages listed (as of 2023, Thursday, January 12th at 10:33 pm PST)
 
--- File info
--- File type: URLL list file (*.urll)
--- File version: 90 (2022, Thursday, December 15th at 10:27 pm PST)
--- Line count (including blank lines and compiler line): 500
+//// File info
+//// File type: URLL list file (*.urll)
+//// File version: 91 (2023, Thursday, January 12th at 10:33 pm PST)
+//// Line count (including blank lines and compiler line): 501
 
--- End of file
+//// End of file
