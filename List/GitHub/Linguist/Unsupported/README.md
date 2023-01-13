@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2022, Wednesday, November 30th at 10:17 pm PST.
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Thursday, January 12th at 10:40 pm PST.
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -69,6 +69,8 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Scratch 1.x (basically just a JSON zip archive)
 - [ ] Scratch 2 (basically just a JSON zip archive)
 - [ ] Scratch 3 (basically just a JSON zip archive)
+- [ ] SDLang
+- [ ] StrictYAML
 - [ ] Seed7
 - [ ] Starlark
 - [ ] Sublime Text (justification for adding to Linguist: it is clearly a JSON language. Many more obscure XML and JSON languages are listed, why can't this one be?)
@@ -82,7 +84,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Wierd
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `76`
+**Total:** `78`
 
 ***
 
@@ -98,9 +100,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2022, Wednesday, November 30th at 10:17 pm PST)`
+**File version:** `28 (2023, Thursday, January 12th at 10:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `617`
+**Line count (including blank lines and compiler line):** `637`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -108,9 +110,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-**You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -608,6 +610,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 27
 - [ ] No other changes in version 27
+
+</details>
+
+<details><summary><p lang="en"><b>Version 28 (2023, Thursday, January 12th at 10:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added SDLang and StrictYAML to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 28
+- [ ] No other changes in version 28
 
 </details>
 
