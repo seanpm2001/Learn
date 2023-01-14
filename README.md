@@ -37,6 +37,8 @@ As of version 92 and later, 100+ emojis are included into this count.
 
 <details open><summary><p><b>This page is not designed for the following configurations</b></p></summary>
 
+> **Note** These are all guestimates, although the lag is still guaranteed.
+
 * **(Windows 7)** `computers with less than 10 gigabytes of RAM`
 * **(Windows 8/8.1)** `computers with less than 13 gigabytes of RAM`
 * **(Windows 10)** `computers with less than 14 gigabytes of RAM`
@@ -931,6 +933,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-STAR/"><img src="/Programming/Logos/S/STAR/STAR1.png" width="100px;" alt=""/><br /><sub><b>Learn STAR</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SDLang/"><img src="/Programming/Logos/S/SDLang/SDLangLogo_1910px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn SDLang</b></sub></a></td>
   </tr> 
+  <!-- Row 19H !-->
+  <!-- Letter S !-->
+  <tr>
+    <td align="center"><p>Section S8</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-StrictYAML"><img src="/Programming/Logos/S/StrictYAML/StrictYAML_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn StrictYAML</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 20A !-->
   <!-- Letter T !-->
   <tr>
@@ -1323,6 +1337,7 @@ Isabelle
 * M4Sugar
 * STAR
 * SDLang
+* StrictYAML
 
 `#` & `"""`
 
@@ -2689,6 +2704,7 @@ string: "String"
 * YAML
 * INI
 * TOML
+* StrictYAML
 
 ```rpc
 STRING "String";
@@ -3875,9 +3891,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `97 (2023, Thursday, January 12th at 10:23 pm PST)`
+**File version:** `98 (2023, Friday, January 13th at 9:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,934`
+**Line count (including blank lines and compiler line):** `7,986`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7016,9 +7032,6 @@ String
 - - [x] Updated the `//` comment section to include SDLang
 - [x] Updated the print statement section
 - - [x] Added the `Title "String"` string section to include SDLang
-- [x] Updated the `Extras` section
-- - [x] Added the `Extras/M` section
-- - [x] Added a reference to my makefile testing repository
 - [x] Updated the file info section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -7031,11 +7044,32 @@ String
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 98 (Coming soon)</b></summary>
+<details><summary><b>Version 98 (2023, Friday, January 13th at 9:16 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V98.md)
+
+**This release uses/represents data from:** `2022, Sunday, December 24th at 11:59 pm PST`
+
+> **Note:** _I plan to start making new language repositories again soon, as I am caught back up._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for StrictYAML
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include StrictYAML
+- [x] Updated the print statement section
+- - [x] Updated the `string: "String"` string section to include StrictYAML
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 98
+- - [x] Removed duplicate data entries from the version 96 entry
+- - [x] Removed duplicate data entries from the version 97 entry
 - [ ] No other changes in version 98
 
 </details> <!-- Section end !-->
@@ -7901,6 +7935,24 @@ String
 
 - [ ] Coming soon
 - [ ] No other changes in version 194
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 195 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 195
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 196 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 196
 
 </details> <!-- Section end !-->
 
