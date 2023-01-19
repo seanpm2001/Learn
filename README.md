@@ -453,6 +453,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Graphviz-DOT/"><img src="/Programming/Logos/G/Graphviz-DOT/GraphvizLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Graphviz DOT</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Groovy/"><img src="/Programming/Logos/G/Groovy/Groovy-language-logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Groovy</b></sub></a></td>
   </tr>
+  <!-- Row 7D !-->
+  <!-- Letter G !-->
+  <tr>
+    <td align="center"><p>Section G4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Gleam/"><img src="/Programming/Logos/G/Gleam/Gleam_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Gleam</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 8A !-->
   <!-- Letter H !-->
   <tr>
@@ -1085,7 +1097,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Yacc/"><img src="/Programming/Logos/Y/Yacc/GCC.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Yacc</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Yara/"><img src="/Programming/Logos/Y/YARA/YARA_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn YARA</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-YAML/"><img src="/Programming/Logos/Y/YAML/Official_YAML_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn YAML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-YASnippet/"><img src="/Programming/Logos/Y/YASnippet/emacs-logo-2456771830.png" width="100px;" alt=""/><br /><sub><b>Learn YASnippet</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1481,6 +1493,18 @@ Isabelle
 * XTend
 * SDLang
 
+`///`
+
+* Gleam
+
+`////`
+
+* URLL (v3)
+
+`////*` & `\\\\`
+
+* URLL (v3)
+
 `//` & `/* */`
 
 * ActionScript
@@ -1721,6 +1745,10 @@ Isabelle
 * BSDL
 * Coq
 * ML
+
+`#-*-`
+
+* YASnippet
 
 `{# #}`
 
@@ -2460,6 +2488,21 @@ w "String",!
 ```
 
 * Lisp Flavored Erlang (LFE)
+
+```gleam
+io.println("String")
+```
+
+* Gleam
+
+```yasnippet
+# -*- mode: snippet -*-
+fn main() {
+    "String"
+}
+```
+
+* YASnippet
 
 ```miranda
 lay ["String","Char"] = "String\Char\n"
@@ -3891,9 +3934,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `98 (2023, Friday, January 13th at 9:16 pm PST)`
+**File version:** `99 (2023, Wednesday, January 18th at 5:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `7,986`
+**Line count (including blank lines and compiler line):** `8,079`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7074,11 +7117,43 @@ String
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 99 (Coming soon)</b></summary>
+<details><summary><b>Version 99 (2023, Wednesday, January 18th at 5:11 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+
+[View this version](/OldVersions/README/English/1/README_V99.md)
+
+**This release uses/represents data from:** `2023, Wednesday, January 18th at 5:11 pm PST`
+
+> **Note:** _This was my first day back to creating new learn repos this year_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Gleam and YASnippet
+- [x] Updated the source code comments section
+- - [x] Added the `///` comment section to include Gleam
+- - [x] Added the `////` comment section to include URLL v3
+- - [x] Added the `////*` & `\\\\` comment section to include URLL v3
+- - [x] Added the `#-*-` comment section to include YASnippet
+- [x] Updated the print statement section
+- - [x] Added the `io.println("String")` string section to support Gleam
+- - [x] Added the:
+
+```yasnippet
+# -*- mode: snippet -*-
+fn main() {
+    "String"
+}
+```
+
+- [ ] String section to support YASnippet
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 99
 - [ ] No other changes in version 99
 
 </details> <!-- Section end !-->
@@ -7953,6 +8028,24 @@ String
 
 - [ ] Coming soon
 - [ ] No other changes in version 196
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 197 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 197
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 198 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 198
 
 </details> <!-- Section end !-->
 
