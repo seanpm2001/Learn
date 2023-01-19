@@ -1,7 +1,7 @@
 ////URLL-version=3;
 //// Start of script
 //// Incomplete projects list
-//// As of 2022, Saturday, December 24th at 11:59 pm PST
+//// As of 2023, Wednesday, January 18th at 5:25 pm PST
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -124,6 +124,7 @@ https://github.com/seanpm2001/Learn-Genie
 https://github.com/seanpm2001/Learn-Gerber-Image
 https://github.com/seanpm2001/Learn-GetText
 https://github.com/seanpm2001/Learn-Gherkin
+https://github.com/seanpm2001/Learn-Gleam
 https://github.com/seanpm2001/Learn-GLSL
 https://github.com/seanpm2001/Learn-GN
 https://github.com/seanpm2001/Learn-GnuPlot
@@ -395,12 +396,13 @@ https://github.com/seanpm2001/Learn-XSLT
 https://github.com/seanpm2001/Learn-XTend
 https://github.com/seanpm2001/Learn-YAML
 https://github.com/seanpm2001/Learn-YARA
+https://github.com/seanpm2001/Learn-YASnippet
 https://github.com/seanpm2001/Learn-ZAP
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 396/456
+//// Count: 398/458
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -594,15 +596,17 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V93 date: 2022, Thursday, December 15th at 10:32 pm PST, representing data from 2022, Friday, December 9th at 11:59 pm PST
 //// V94: 1 entry added, 395 entries remain (ratio: 395/455 (86.81% incomplete, 13.19% complete))
 //// V94 date: 2023, Thursday, January 12th at 10:44 pm PST, representing data from 2022, Thursday, December 22nd at 11:59 pm PST
-//// V95: 1 entry added, 396 entries remain (ratio: 395/455 (86.84% incomplete, 13.16% complete))
+//// V95: 1 entry added, 396 entries remain (ratio: 396/456 (86.84% incomplete, 13.16% complete))
 //// V95 date: 2023, Friday, January 13th at 10:02 pm PST, representing data from 2022, Saturday, December 24th at 11:59 pm PST
+//// V96: 2 entries added, 398 entries remain (ratio: 398/458 (86.89% incomplete, 13.11% complete))
+//// V96 date: 2023, Wednesday, January 18th at 5:25 pm PST, representing data from 2023, Wednesday, January 18th at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 396/456 (86.78% incomplete, 13.22% complete)
+//// Ratio (incomplete/complete): 398/458 (86.89% incomplete, 13.11% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 95 (2023, Friday, January 13th at 10:02 pm PST)
-//// Line count (including blank lines and compiler line): 609
+//// File version: 96 (2023, Wednesday, January 18th at 5:25 pm PST)
+//// Line count (including blank lines and compiler line): 613
 
 //// End of script
