@@ -1,0 +1,18 @@
+Gleam
+*.gleam
+/// Comment
+import gleam/io
+
+pub fn main() {
+  io.println("String")
+}
+
+YASnippet
+No official file extension, so I will use .yasnip
+# -*- mode: snippet -*-
+
+#-*- Comment
+
+fn main() {
+    "String"
+}
