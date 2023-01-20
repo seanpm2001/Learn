@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `459`/`465` (as of 2023, Wednesday, January 18th at 11:59 pm PST)
+Current progress `461`/`465` (as of 2023, Thursday, January 19th at 11:59 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.70%` complete, `001.30%` incomplete.
+**Ratio:** `099.13%` complete, `000.87%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -84,7 +84,7 @@ This list covers the creation of the language repositories.
 - [x] BlitzBasic
 - [x] BlitzMax
 - [ ] ColdFusion
-- [ ] Component Pascal
+- [x] Component Pascal
 - [x] Cadence
 - [x] C
 - [x] C-Plus-Plus
@@ -468,7 +468,7 @@ This list covers the creation of the language repositories.
 - [x] Visual Basic Script (duplicate of VBScript)
 - [x] VHDL
 - [ ] WebIDL
-- [ ] Wren
+- [x] Wren
 - [x] WaveFront Object
 - [x] Wavefront material
 - [x] WDL
@@ -514,9 +514,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `95 (2023, Wednesday, January 18th at 5:31 pm PST)`
+**File version:** `96 (2023, Thursday, January 19th at 7:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,263`
+**Line count (including blank lines and compiler line):** `4,299`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -2825,24 +2825,30 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 - - [x] Added an entry for version 95
 - [ ] No other changes in version 95
 
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 95
-
 </details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 96</b></summary>
 
-**Version 96 (Coming soon)**
+**Version 96 (2023, Thursday, January 19th at 7:37 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V96.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/1-100/README_V96.md)
+
+> **Note** This release represents data from 2023, Thursday, January 19th.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 459 | new total: 461)
+- - [x] Added 0 new entries to the list (old total: 465 | new total: 465)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 96
 - [ ] No other changes in version 96
 
 </details> <!-- Section end !-->
@@ -4254,6 +4260,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 190
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 191</b></summary>
+
+**Version 191 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 191
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 192</b></summary>
+
+**Version 192 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 192
 
 </details> <!-- Section end !-->
 
