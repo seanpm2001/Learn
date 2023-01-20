@@ -1,0 +1,13 @@
+Wren
+
+*.wren
+
+System.print("String")
+// Comment
+
+Component Pascal
+
+*.cp
+Console.WriteString("String");
+// Comment
+(* Comment *)
