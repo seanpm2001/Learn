@@ -341,7 +341,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CSHTML/"><img src="/Programming/Logos/C/CSharpHTML/CSharp_Logo2.png" width="100px;" alt=""/><br /><sub><b>Learn C# HTML (VB.NET)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Classic-ASP/"><img src="/Programming/Logos/C/Classic-ASP/Classic-ASP.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Classic ASP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Closure-Templates/"><img src="/Programming/Logos/C/Closure-Templates/Noia_64_mimetypes_template_source.png" width="100px;" alt=""/><br /><sub><b>Learn Closure Templates</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Component-Pascal/"><img src="/Programming/Logos/C/Component_Pascal/Component_Pascal_Logo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Component Pascal</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1046,7 +1046,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
   <tr>
     <td align="center"><p>Section W2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebAssembly/"><img src="/Programming/Logos/W/WebAssembly/WebAssembly_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn WebAssembly</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Wren/"><img src="/Programming/Logos/W/Wren/Wren_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Wren</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1492,6 +1492,8 @@ Isabelle
 * PEG.js
 * XTend
 * SDLang
+* Component Pascal
+* Wren
 
 `///`
 
@@ -1745,6 +1747,7 @@ Isabelle
 * BSDL
 * Coq
 * ML
+* Component Pascal
 
 `#-*-`
 
@@ -2879,6 +2882,12 @@ System.log (LString.s "String")
 
 * Coq
 
+```wren
+System.print("String")
+```
+
+* Wren
+
 ```clips
 (printout t "String" crlf)
 ```
@@ -3167,6 +3176,12 @@ Console.WriteLine("String")
 ```
 
 * Visual Basic .NET
+
+```component-pascal
+Console.WriteString("String");
+```
+
+* Component Pascal
 
 ```plpgsql
 SELECT 'String' AS title_message;
@@ -3934,9 +3949,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `99 (2023, Wednesday, January 18th at 5:11 pm PST)`
+**File version:** `100 (2023, Thursday, January 19th at 7:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,079`
+**Line count (including blank lines and compiler line):** `8,131`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7085,8 +7100,6 @@ String
 
 </details> <!-- Section end !-->
 
-</details> <!-- Section end !-->
-
 <details><summary><b>Version 98 (2023, Friday, January 13th at 9:16 pm PST)</b></summary>
 
 ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
@@ -7158,11 +7171,30 @@ fn main() {
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 100 (Coming soon)</b></summary>
+<details><summary><b>Version 100 (2023, Thursday, January 19th at 7:20 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/1/README_V100.md)
+
+**This release uses/represents data from:** `2023, Thursday, January 19th at 7:20 pm PST`
+
+> **Note:** _This was my second day back to creating new learn repos this year_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Component Pascal and Wren
+- [x] Updated the source code comments section
+- - [x] Added the `//` comment section to include Component Pascal and Wren
+- - [x] Added the `(*` & `*)` comment section to include Component Pascal
+- [x] Updated the print statement section
+- - [x] Added the `System.print("String")` string section to include Wren
+- - [x] Added the `Console.WriteString("String");` string section to include Component Pascal
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 100
 - [ ] No other changes in version 100
 
 </details> <!-- Section end !-->
@@ -8046,6 +8078,26 @@ fn main() {
 
 - [ ] Coming soon
 - [ ] No other changes in version 198
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 199 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 1979
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 200 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 200
+
+</details> <!-- Section end !-->
 
 </details> <!-- Section end !-->
 
