@@ -1,0 +1,20 @@
+ColdFusion
+*.cfm
+<cfset message = "String">
+<cfoutput> #message#</cfoutput>
+
+<!--- Comment !--->
+
+Oxygene
+*.pas *.oxygene
+
+implementation
+
+class method ConsoleApp.Main;
+begin
+  Console.WriteLine('String');
+end;
+
+end.
+
+/// Comment
