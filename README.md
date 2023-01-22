@@ -342,7 +342,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Classic-ASP/"><img src="/Programming/Logos/C/Classic-ASP/Classic-ASP.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Classic ASP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Closure-Templates/"><img src="/Programming/Logos/C/Closure-Templates/Noia_64_mimetypes_template_source.png" width="100px;" alt=""/><br /><sub><b>Learn Closure Templates</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Component-Pascal/"><img src="/Programming/Logos/C/Component_Pascal/Component_Pascal_Logo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Component Pascal</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion/"><img src="/Programming/Logos/C/ColdFusion/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
@@ -741,6 +741,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ORGMode"><img src="/Programming/Logos/O/ORGMode/Org-mode-unicorn.svg" width="100px;" alt=""/><br /><sub><b>Learn ORG(mode)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-OpenCL/"><img src="/Programming/Logos/O/OpenCL/OpenCL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn OpenCL</b></sub></a></td>
   </tr>
+  <!-- Row 15C !-->
+  <!-- Letter O !-->
+  <tr>
+    <td align="center"><p>Section O3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Oxygene/"><img src="/Programming/Logos/O/Oxygene/Oxygene_256px.png" width="100px;" alt=""/><br /><sub><b>Learn Oxygene</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 16A !-->
   <!-- Letter P !-->
   <tr>
@@ -1494,6 +1506,7 @@ Isabelle
 * SDLang
 * Component Pascal
 * Wren
+* Oxygene
 
 `///`
 
@@ -1725,6 +1738,7 @@ Isabelle
 * HTML
 * Jakarta Server Pages
 * Java Server Pages
+* ColdFusion
 
 `(* *)`
 
@@ -3258,6 +3272,26 @@ description = "String"
 
 * LabVIEW
 
+```coldfusion
+<cfset message = "String">
+<cfoutput> #message#</cfoutput>
+```
+
+* ColdFusion
+
+```oxygene
+implementation
+
+class method ConsoleApp.Main;
+begin
+  Console.WriteLine('String');
+end;
+
+end.
+```
+
+* Oxygene
+
 ```jasmin
 ldc "String"
 ```
@@ -3949,9 +3983,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `100 (2023, Thursday, January 19th at 7:20 pm PST)`
+**File version:** `101 (2023, Saturday, January 21st at 8:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,131`
+**Line count (including blank lines and compiler line):** `8,216`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7199,11 +7233,44 @@ fn main() {
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 101 (Coming soon)</b></summary>
+<details><summary><b>Version 101 (2023, Saturday, January 21st at 8:42 pm PST)</b></summary>
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ColdFusion and Oxygene
+- [x] Updated the source code comments section
+- - [x] Added the `//` comment section to include Oxygene
+- - [x] Added the `<!--` & `!-->` comment section to include ColdFusion
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```coldfusion
+<cfset message = "String">
+<cfoutput> #message#</cfoutput>
+```
+
+- - [ ] String section to include ColdFusion
+- - [x] Added the:
+
+```oxygene
+implementation
+
+class method ConsoleApp.Main;
+begin
+  Console.WriteLine('String');
+end;
+
+end.
+```
+
+- - [x] String section to include Oxygene
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 101
 - [ ] No other changes in version 101
 
 </details> <!-- Section end !-->
@@ -8086,7 +8153,7 @@ fn main() {
 **Changes:**
 
 - [ ] Coming soon
-- [ ] No other changes in version 1979
+- [ ] No other changes in version 199
 
 </details> <!-- Section end !-->
 
@@ -8096,6 +8163,24 @@ fn main() {
 
 - [ ] Coming soon
 - [ ] No other changes in version 200
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 201 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 201
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 202 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 202
 
 </details> <!-- Section end !-->
 
