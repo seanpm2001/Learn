@@ -1,0 +1,12 @@
+SugarSS
+
+*.sss
+/*! !*/
+? String
+
+WebIDL
+
+*.webidl
+
+// Comment
+string = "String";
