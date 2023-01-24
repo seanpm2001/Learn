@@ -1,7 +1,7 @@
 ////URLL-version=3;
 //// Start of script
 //// Incomplete projects list
-//// As of 2023, Saturday, January 21st at 9:00 pm PST
+//// As of 2023, Monday, January 23rd at 9:05 pm PST
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -350,6 +350,7 @@ https://github.com/seanpm2001/Learn-StrictYAML
 https://github.com/seanpm2001/Learn-StringTemplate
 https://github.com/seanpm2001/Learn-Stylus
 https://github.com/seanpm2001/Learn-SublimeText
+https://github.com/seanpm2001/Learn-SugarSS
 https://github.com/seanpm2001/Learn-SuperCollider
 https://github.com/seanpm2001/Learn-SVG
 https://github.com/seanpm2001/Learn-SWIG
@@ -387,6 +388,7 @@ https://github.com/seanpm2001/Learn-VueJS
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WebAssembly
+https://github.com/seanpm2001/Learn-WebIDL
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
@@ -406,7 +408,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 402/462
+//// Count: 404/464
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -608,13 +610,15 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V97 date: 2023, Thursday, January 19th at 7:32 pm PST, representing data from 2023, Thursday, January 19th at 11:59 pm PST
 //// V98: 2 entries added, 402 entries remain (ratio: 402/462 (87.01% incomplete, 12.99% complete))
 //// V98 date: 2023, Saturday, January 21st at 9:00 pm PST, representing data from 2023, Saturday, January 21st at 11:59 pm PST
+//// V99: 2 entries added, 404 entries remain (ratio: 404/464 (87.06% incomplete, 12.94% complete))
+//// V99 date: 2023, Monday, January 23rd at 9:05 pm PST, representing data from 2023, Monday, January 23rd at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 402/462 (87.01% incomplete, 12.99% complete)
+//// Ratio (incomplete/complete): 404/464 (87.01% incomplete, 12.99% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 98 (2023, Saturday, January 21st at 9:00 pm PST)
-//// Line count (including blank lines and compiler line): 621
+//// File version: 99 (2023, Monday, January 23rd at 9:05 pm PST)
+//// Line count (including blank lines and compiler line): 625
 
 //// End of script
