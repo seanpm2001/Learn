@@ -962,7 +962,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
   <tr>
     <td align="center"><p>Section S8</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-StrictYAML"><img src="/Programming/Logos/S/StrictYAML/StrictYAML_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn StrictYAML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SugarSS/"><img src="/Programming/Logos/S/SugarSS/sugarcss-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SugarSS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1059,7 +1059,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><p>Section W2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebAssembly/"><img src="/Programming/Logos/W/WebAssembly/WebAssembly_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn WebAssembly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Wren/"><img src="/Programming/Logos/W/Wren/Wren_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Wren</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WebIDL/"><img src="/Programming/Logos/W/WebIDL/WebIDL.png" width="100px;" alt=""/><br /><sub><b>Learn WebIDL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1507,6 +1507,7 @@ Isabelle
 * Component Pascal
 * Wren
 * Oxygene
+* WebIDL
 
 `///`
 
@@ -1902,6 +1903,10 @@ Isabelle
 `/*! */`
 
 * Objective-J
+
+`/*!` & `!*/`
+
+* SugarSS
 
 `##`
 
@@ -3512,6 +3517,7 @@ S = "String";
 ```
 
 * Lucid
+* WebIDL
 
 ```smali
 const-string	v1, "String"
@@ -3769,6 +3775,7 @@ unknown
 * M4Sugar
 * STAR
 * WebAssembly
+* SugarSS
 
 ```plain-text
 Unsupported
@@ -3983,9 +3990,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `101 (2023, Saturday, January 21st at 8:42 pm PST)`
+**File version:** `102 (2023, Monday, January 23rd at 8:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,216`
+**Line count (including blank lines and compiler line):** `8,266`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7235,6 +7242,12 @@ fn main() {
 
 <details><summary><b>Version 101 (2023, Saturday, January 21st at 8:42 pm PST)</b></summary>
 
+[View this version](/OldVersions/README/English/2/README_V101.md)
+
+**This release uses/represents data from:** `2023, Saturday, January 21st at 8:42 pm PST`
+
+> **Note:** _No additional notes available._
+
 **Changes:**
 
 - [x] Updated the `Learn` table
@@ -7275,11 +7288,30 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 102 (Coming soon)</b></summary>
+<details><summary><b>Version 102 (2023, Monday, January 23rd at 8:47 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V102.md)
+
+**This release uses/represents data from:** `2023, Monday, January 23rd at 8:47 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for SugarSS and WebIDL
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include WebIDL
+- - [x] Added the `/*!` & `!*/` comment section to include SugarSS
+- [x] Updated the print statement section
+- - [x] Updated the `S = "String";` section to include WebIDL
+- - [x] Updated the `Unknown` section to include SugarSS
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 102
 - [ ] No other changes in version 102
 
 </details> <!-- Section end !-->
@@ -8181,6 +8213,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 202
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 203 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 203
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 204 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 204
 
 </details> <!-- Section end !-->
 
