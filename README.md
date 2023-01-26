@@ -343,7 +343,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Closure-Templates/"><img src="/Programming/Logos/C/Closure-Templates/Noia_64_mimetypes_template_source.png" width="100px;" alt=""/><br /><sub><b>Learn Closure Templates</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Component-Pascal/"><img src="/Programming/Logos/C/Component_Pascal/Component_Pascal_Logo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Component Pascal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion/"><img src="/Programming/Logos/C/ColdFusion/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion-CFC/"><img src="/Programming/Logos/c/ColdFusion-CFC/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion (CFC)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 4A !-->
@@ -807,7 +807,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><p>Section P5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PureScript/"><img src="/Programming/Logos/P/PureScript/PureScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PureScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PEG.js/"><img src="/Programming/Logos/P/PEG.js/PEG.js_OrgLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PEG.js</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Protocol-Buffer/"><img src="/Programming/Logos/P/ProtoBuf/ProtoBuf_2.png" width="100px;" alt=""/><br /><sub><b>Learn Protocol Buffer</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1508,6 +1508,8 @@ Isabelle
 * Wren
 * Oxygene
 * WebIDL
+* ColdFusion CFC
+* Protocol Buffer
 
 `///`
 
@@ -1694,6 +1696,8 @@ Isabelle
 * Java Server Pages
 * XTend
 * SDLang
+* ColdFusion CFC
+* Protocol Buffer
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -3518,6 +3522,7 @@ S = "String";
 
 * Lucid
 * WebIDL
+* ColdFusion CFC
 
 ```smali
 const-string	v1, "String"
@@ -3776,6 +3781,7 @@ unknown
 * STAR
 * WebAssembly
 * SugarSS
+* Protocol Buffer
 
 ```plain-text
 Unsupported
@@ -3990,9 +3996,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `102 (2023, Monday, January 23rd at 8:47 pm PST)`
+**File version:** `103 (2023, Wednesday, January 25th at 8:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,266`
+**Line count (including blank lines and compiler line):** `8,309`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7316,11 +7322,30 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 103 (Coming soon)</b></summary>
+<details><summary><b>Version 103 (2023, Wednesday, January 25th at 8:10 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V103.md)
+
+**This release uses/represents data from:** `2023, Wednesday, January 25th at 8:10 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for ColdFusion CFC and Protocol Buffer
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include ColdFusion CFC and Protocol Buffer
+- - [x] Updated the `/*` & `*/` comment section to include ColdFusion CFC and Protocol Buffer
+- [x] Updated the print statement section
+- - [x] Updated the `S = "String";` section to include ColdFusion CFC
+- - [x] Updated the `Unknown` section to include Protocol Buffer
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 103
 - [ ] No other changes in version 103
 
 </details> <!-- Section end !-->
@@ -8231,6 +8256,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 204
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 205 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 205
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 206 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 206
 
 </details> <!-- Section end !-->
 
