@@ -1,0 +1,13 @@
+ColdFusion CFC
+
+*.cfc
+
+/* Multi-line comment */
+// Comment
+string = "String"
+
+Protocol Buffer
+*.proto
+/* Multi-line comment */
+// Comment
+? String
