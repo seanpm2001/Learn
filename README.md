@@ -1,4 +1,4 @@
-
+-
 ***
 
 # Learn
@@ -1060,7 +1060,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebAssembly/"><img src="/Programming/Logos/W/WebAssembly/WebAssembly_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn WebAssembly</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Wren/"><img src="/Programming/Logos/W/Wren/Wren_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Wren</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebIDL/"><img src="/Programming/Logos/W/WebIDL/WebIDL.png" width="100px;" alt=""/><br /><sub><b>Learn WebIDL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-While/"><img src="/Programming/Logos/W/While/WhileLanguage_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn While</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -2080,6 +2080,7 @@ Comment
 * HTTP
 * ABC
 * Linux Kernel Module
+* While
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -3782,6 +3783,7 @@ unknown
 * WebAssembly
 * SugarSS
 * Protocol Buffer
+* While
 
 ```plain-text
 Unsupported
@@ -3996,9 +3998,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `103 (2023, Wednesday, January 25th at 8:10 pm PST)`
+**File version:** `104 (2023, Thursday, January 26th at 4:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,309`
+**Line count (including blank lines and compiler line):** `8,346`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7350,11 +7352,28 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 104 (Coming soon)</b></summary>
+<details><summary><b>Version 104 (2023, Thursday, January 26th at 4:06 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V104.md)
+
+**This release uses/represents data from:** `2023, Thursday, January 26th at 4:06 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for While
+- [x] Updated the source code comments section
+- - [x] Updated the `Unknown` section to include While
+- [x] Updated the print statement section
+- - [x] Updated the `Unknown` section to include While
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 104
 - [ ] No other changes in version 104
 
 </details> <!-- Section end !-->
@@ -8274,6 +8293,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 206
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 207 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 207
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 208 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 208
 
 </details> <!-- Section end !-->
 
