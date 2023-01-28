@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Wednesday, January 25th at 8:19 pm PST.
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Friday, January 27th at 6:27 pm PST.
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -44,6 +44,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] KiXTart
 - [ ] KRC (Kent Recursive Calculator)
 - [ ] LiveCode (recently switched to being proprietary, older versions are still open source)
+- [ ] Lobster
 - [ ] Logcat
 - [ ] Lingo
 - [ ] Lucid
@@ -86,7 +87,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `80`
+**Total:** `81`
 
 ***
 
@@ -102,9 +103,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `30 (2023, Wednesday, January 25th at 8:19 pm PST)`
+**File version:** `31 (2023, Friday, January 27th at 6:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `675`
+**Line count (including blank lines and compiler line):** `694`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -666,6 +667,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 30
 - [ ] No other changes in version 30
+
+</details>
+
+<details><summary><p lang="en"><b>Version 31 (2023, Friday, January 27th at 6:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Lobster to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 31
+- [ ] No other changes in version 31
 
 </details>
 
