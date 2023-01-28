@@ -1,0 +1,5 @@
+Zeek
+
+*.zeek
+# Comment
+const str1` = "String" &redef;
