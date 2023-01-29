@@ -624,8 +624,8 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
   <!-- Letter L !-->  
   <tr>
     <td align="center"><p>Section L4</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Linux-Kernel-Module/"><img src="/Programming/Logos/L/Linux-Kernel-Module/Linux_WithHDD.png" width="100px;" alt=""/><br /><sub><b>Learn Linux Kernel Module</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Linux-Kernel-Module/"><img src="/Programming/Logos/L/Linux-Kernel-Module/Linux_WithHDD.png" width="100px;" alt=""/><br /><sub><b>Learn Linux Kernel Module</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Lobster/"><img src="/Programming/Logos/L/Lobster/lobster.svg" width="100px;" alt=""/><br /><sub><b>Learn Lobster</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1363,6 +1363,7 @@ Isabelle
 * SDLang
 * StrictYAML
 * Zeek
+* Lobster
 
 `#` & `"""`
 
@@ -2261,6 +2262,7 @@ print "String"
 * Jython
 * FreeBasic
 * Perl6
+* Lobster
 
 ```sage
 print("String\n")
@@ -4005,9 +4007,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `105 (2023, Friday, January 27th at 6:20 pm PST)`
+**File version:** `106 (2023, Saturday, January 28th at 10:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,388`
+**Line count (including blank lines and compiler line):** `8,425`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7411,11 +7413,28 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 106 (Coming soon)</b></summary>
+<details><summary><b>Version 106 (2023, Saturday, January 28th at 10:12 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V106.md)
+
+**This release uses/represents data from:** `2023, Saturday, January 28th at 10:12 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Lobster
+- [x] Updated the source code comments section
+- - [x] Updated the `#` section to include Lobster
+- [x] Updated the print statement section
+- - [x] Updated the `print "String"` section to include Zeek
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 106
 - [ ] No other changes in version 106
 
 </details> <!-- Section end !-->
@@ -8353,6 +8372,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 210
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 211 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 211
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 212 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 212
 
 </details> <!-- Section end !-->
 
