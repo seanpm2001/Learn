@@ -688,7 +688,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey-C/"><img src="/Programming/Logos/M/Monkey-C/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey-C</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey/"><img src="/Programming/Logos/M/Monkey/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MAXScript/"><img src="/Programming/Logos/M/MAXScript/AutoDesk_3DS_Max_LogoHQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MAXScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -1253,6 +1253,7 @@ Isabelle
 * PureScript
 * SQLPL
 * SDLang
+* MAXScript
 
 `---`
 
@@ -2468,6 +2469,12 @@ w "String",!
 ```
 
 * M
+
+```MAXScript
+rollout string "String"
+```
+
+* MAXScript
 
 ```emacs-lisp
 (message "String")
@@ -4007,9 +4014,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `106 (2023, Saturday, January 28th at 10:12 pm PST)`
+**File version:** `107 (2023, Sunday, January 29th at 10:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,425`
+**Line count (including blank lines and compiler line):** `8,467`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7428,7 +7435,7 @@ end.
 - [x] Updated the source code comments section
 - - [x] Updated the `#` section to include Lobster
 - [x] Updated the print statement section
-- - [x] Updated the `print "String"` section to include Zeek
+- - [x] Updated the `print "String"` section to include Lobster
 - [x] Updated the file info section
 - - [x] Updated the version number
 - - [x] Updated the version date
@@ -7439,11 +7446,28 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 107 (Coming soon)</b></summary>
+<details><summary><b>Version 107 (2023, Sunday, January 29th at 10:25 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V107.md)
+
+**This release uses/represents data from:** `2023, Sunday, January 29th at 10:25 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for MAXScript
+- [x] Updated the source code comments section
+- - [x] Updated the `--` section to include MAXScript
+- [x] Updated the print statement section
+- - [x] Added the `rollout string "String"` section to include MAXScript
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 107
 - [ ] No other changes in version 107
 
 </details> <!-- Section end !-->
@@ -8390,6 +8414,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 212
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 213 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 213
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 214 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 214
 
 </details> <!-- Section end !-->
 
