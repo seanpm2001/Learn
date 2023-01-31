@@ -1,0 +1,30 @@
+Little
+mIRC-Script
+Antlers
+Slash
+
+Antlers
+*.antlers.html
+<nav>
+<p>String</p>
+<!-- Comment !-->
+
+Slash
+*.sl
+# Comment
+<%
+print("String\n");
+
+mIRC Script
+*.mrc
+; Comment
+echo -a String
+
+Little
+*.l
+
+#!/usr/bin/bk tclsh
+
+/* Comment */
+// Commment
+string str1 = "String";
