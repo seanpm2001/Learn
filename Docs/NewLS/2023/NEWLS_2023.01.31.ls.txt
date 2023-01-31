@@ -1,0 +1,11 @@
+jq
+
+*.jq
+def str1: "String";
+# Comment
+
+Bro
+
+*.bro
+# Comment
+print "String";
