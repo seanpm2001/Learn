@@ -103,7 +103,9 @@ Languages listed here that are official languages of the European Union have a E
 
 Languages listed here that are official languages of the United Nations have a United Nations flag `🇺🇳️` next to them. As of 2022 March 14th, there are currently 6 languages recognized by the European Union (Arabic, Chinese, English, French, Russian, and Spanish) alongside 193 different member states and 2 observer states.
 
-🌏️ **[One China (PRC) `🇨🇳️` Two China (Taiwan) `🇹🇼️` Hong Kong `🇭🇰️` and Macau `🇲🇴️`]** 🌏️
+<!-- 🌏️ **[One China (PRC) `🇨🇳️` Two China (Taiwan) `🇹🇼️` Hong Kong `🇭🇰️` and Macau `🇲🇴️`]** 🌏️ !-->
+
+🌏️ **[China (PRC) `🇨🇳️` Republic of China (Taiwan) `🇹🇼️` Hong Kong `🇭🇰️` and Macau `🇲🇴️`]** 🌏️
 
 For neutrality reasons, languages listed here that have an official majority in Chinese speakers will receive all 4 of these flags, even if the language isn't Chinese or in the Sino family of languages.
 
@@ -262,7 +264,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzBasic/"><img src="/Programming/Logos/B/BlitzBasic/BlitzBasicLogoWide.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzBasic</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Blockly/"><img src="/Programming/Logos/B/Blockly/BlocklyLogo1.png" width="100px;" alt=""/><br /><sub><b>Learn Blockly</b></sub></a></td>
   </tr>
-  <!-- Row 24C !-->
+  <!-- Row 2C !-->
   <!-- Letter B !-->
   <tr>
     <td align="center"><p>Section B3</p></td>
@@ -273,6 +275,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Batchfile/"><img src="/Programming/Logos/B/Batchfile/WindowsXP_BAT_LowQuality.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Batchfile</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlitzMax/"><img src="/Programming/Logos/B/BlitzMax/BlitzMax_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BlitzMax</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BrighterScript/"><img src="/Programming/Logos/B/BrighterScript/BRS_Icon.png" width="100px;" alt=""/><br /><sub><b>Learn BrighterScript</b></sub></a></td>
+  </tr> 
+  <!-- Row 2D !-->
+  <!-- Letter B !-->
+  <tr>
+    <td align="center"><p>Section B4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Bro/"><img src="/Programming/Logos/B/Bro/BroLang_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Bro</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 3A !-->
   <!-- Letter C !-->
@@ -572,6 +586,18 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Jakarta-Server-Pages/"><img src="/Programming/Logos/J/Jakarta-Server-Pages/JSP_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Jakarta Server Pages</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Java-Server-Pages/"><img src="/Programming/Logos/J/Java-Server-Pages/JSP_JavaServerPages_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Java Server Pages</b></sub></a></td>
   </tr>
+  <!-- Row 10D !-->
+  <!-- Letter J4 !-->
+  <tr>
+    <td align="center"><p>Section J4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-jq/"><img src="/Programming/Logos/J/jq/jq_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn jq</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 11A !-->
   <!-- Letter K !-->
   <tr>
@@ -1366,6 +1392,8 @@ Isabelle
 * Zeek
 * Lobster
 * Slash
+* Bro
+* jq
 
 `#` & `"""`
 
@@ -2281,6 +2309,12 @@ print('String')
 ```
 
 * Berry
+
+```bro
+print "String";
+```
+
+* Bro
 
 ```brighterscript
 Function string(msgPort As Object, userVariables As Object, bsp as Object)
@@ -3572,6 +3606,12 @@ const str1` = "String" &redef;
 
 * Zeek
 
+```jq
+def str1: "String";
+```
+
+* jq
+
 ```vim-snippet
 snippet string
     "String"
@@ -4039,9 +4079,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `108 (2023, Monday, January 30th at 5:31 pm PST)`
+**File version:** `109 (2023, Tuesday, January 31st at 2:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,534`
+**Line count (including blank lines and compiler line):** `8,611`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7508,7 +7548,7 @@ end.
 **Changes:**
 
 - [x] Updated the `Learn` table
-- - [x] Added support for Antlers, Little, mIRC-Script, and SLash
+- - [x] Added support for Antlers, Little, mIRC-Script, and Slash
 - [x] Updated the source code comments section
 - - [x] Updated the `<!-- Comment !-->` comment section to include Antlers
 - - [x] Updated the `# Comment` comment section to include Slash
@@ -7530,11 +7570,30 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 109 (Coming soon)</b></summary>
+<details><summary><b>Version 109 (2023, Tuesday, January 31st at 2:32 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V109.md)
+
+**This release uses/represents data from:** `2023, Tuesday, January 31st at 2:32 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the language section to fix a Chinese problem
+- [x] Updated the `Learn` table
+- - [x] Added support for Bro, and jq
+- [x] Updated the source code comments section
+- - [x] Updated the `# Comment` comment section to include Bro and jq
+- [x] Updated the print statement section
+- - [x] Added the `def str1: "String";` string section to include jq
+- - [x] Added the `print "String";` string section to include Bro
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 109
 - [ ] No other changes in version 109
 
 </details> <!-- Section end !-->
@@ -8499,6 +8558,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 216
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 217 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 217
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 218 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 218
 
 </details> <!-- Section end !-->
 
