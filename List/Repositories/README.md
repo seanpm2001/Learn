@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `472`/`478` (as of 2023, Sunday, January 29th at 10:44 pm PST)
+Current progress `476`/`478` (as of 2023, Monday, January 30th at 6:04 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.74%` complete, `001.26%` incomplete.
+**Ratio:** `099.58%` complete, `000.42%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -62,7 +62,7 @@ This list covers the creation of the language repositories.
 - [x] AGS-Script
 - [x] AutoHotKey
 - [x] API Blueprint
-- [ ] Antlers
+- [x] Antlers
 - [ ] Bro
 - [x] B
 - [x] BASIC
@@ -268,8 +268,8 @@ This list covers the creation of the language repositories.
 - [x] Mustache
 - [x] Lua
 - [x] Lobster
-- [ ] Little
-- [ ] mIRC Script
+- [x] Little
+- [x] mIRC Script
 - [x] M
 - [x] M4
 - [x] M4Sugar
@@ -443,7 +443,7 @@ This list covers the creation of the language repositories.
 - [x] SVG
 - [x] SAS
 - [x] SMT
-- [ ] Slash
+- [x] Slash
 - [x] TypeScript
 - [x] TCL
 - [x] TeX
@@ -526,9 +526,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `103 (2023, Sunday, January 29th at 10:44 pm PST)`
+**File version:** `104 (2023, Monday, January 30th at 6:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,600`
+**Line count (including blank lines and compiler line):** `4,641`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3049,15 +3049,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 104</b></summary>
 
-**Version 104 (Coming soon)**
+**Version 104 (2023, Monday, January 30th at 6:04 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V104.md)
+
+> **Note** This release represents data from 2023, Monday, January 30th.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 4 new entries (old total: 472 | new total: 476)
+- - [x] Added 0 new entries to the list (old total: 478 | new total: 478)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 104
 - [ ] No other changes in version 104
 
 </details> <!-- Section end !-->
@@ -4589,6 +4600,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 206
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 207</b></summary>
+
+**Version 207 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 207
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 208</b></summary>
+
+**Version 208 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 208
 
 </details> <!-- Section end !-->
 
