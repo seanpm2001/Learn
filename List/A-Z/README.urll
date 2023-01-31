@@ -2,8 +2,8 @@
 //// LIST_ALPHABETICAL.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// An alphabet list of the repository links for the seanpm2001 learn project
-//// V101: 2023, Sunday, January 29th at 10:30 pm PST
-//// Representing data from 2023, Saturday, January 28th at 10:30 pm PST
+//// V102: 2023, Monday, January 30th at 5:37 pm PST
+//// Representing data from 2023, Monday, January 30th at 5:37 pm PST
 
 //// Programming
 //// 1
@@ -27,6 +27,7 @@ https://github.com/seanpm2001/Learn-AMPL
 https://github.com/seanpm2001/Learn-Amulet
 https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-ANTLR
+https://github.com/seanpm2001/Learn-Antlers
 https://github.com/seanpm2001/Learn-ApacheConf
 https://github.com/seanpm2001/Learn-Apex
 https://github.com/seanpm2001/Learn-API-Blueprint
@@ -246,6 +247,7 @@ https://github.com/seanpm2001/Learn-Linux-Kernel-Module
 https://github.com/seanpm2001/Learn-Liquid
 https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
+https://github.com/seanpm2001/Learn-Little
 https://github.com/seanpm2001/Learn-LiveCode
 https://github.com/seanpm2001/Learn-LiveScript
 https://github.com/seanpm2001/LFearn-LLVM
@@ -279,6 +281,7 @@ https://github.com/seanpm2001/Learn-Mercury
 https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Miranda
+https://github.com/seanpm2001/Learn-mIRC-Script
 https://github.com/seanpm2001/Learn-ML
 https://github.com/seanpm2001/Learn-MLIR
 https://github.com/seanpm2001/Learn-Modelica
@@ -407,6 +410,7 @@ https://github.com/seanpm2001/Learn-SGML
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-ShaderLab
 https://github.com/seanpm2001/Learn-Shell
+https://github.com/seanpm2001/Learn-Slash
 https://github.com/seanpm2001/Learn-Slim
 https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-Smali
@@ -506,11 +510,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// 474 languages listed (as of 2023, Sunday, January 29th at 10:30 pm PST)
+//// 478 languages listed (as of 2023, Monday, January 30th at 5:37 pm PST)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 101 (2023, Sunday, January 29th at 10:30 pm PST)
-//// Line count (including blank lines and compiler line): 517
+//// File version: 102 (2023, Monday, January 30th at 5:37 pm PST)
+//// Line count (including blank lines and compiler line): 521
 
 //// End of file
