@@ -236,7 +236,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ASP.NET/"><img src="/Programming/Logos/A/ASP.NET/MS_ASPDOTNET.png" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ABC/"><img src="/Programming/Logos/A/ABC/ABC_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn ABC</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ActionServerPages.NET"><img src="/Programming/Logos/A/ActionServerPages.NET/ASP.NET_2.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET Core</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Antlers/"><img src="/Programming/Logos/A/Antlers/Antlers_Language_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Antlers</b></sub></a></td>
   </tr>
   <!-- Row 2A !-->
   <!-- Letter B !-->
@@ -343,7 +343,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Closure-Templates/"><img src="/Programming/Logos/C/Closure-Templates/Noia_64_mimetypes_template_source.png" width="100px;" alt=""/><br /><sub><b>Learn Closure Templates</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Component-Pascal/"><img src="/Programming/Logos/C/Component_Pascal/Component_Pascal_Logo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Component Pascal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion/"><img src="/Programming/Logos/C/ColdFusion/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion-CFC/"><img src="/Programming/Logos/c/ColdFusion-CFC/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion (CFC)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion-CFC/"><img src="/Programming/Logos/C/ColdFusion-CFC/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion (CFC)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 4A !-->
@@ -626,7 +626,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><p>Section L4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Linux-Kernel-Module/"><img src="/Programming/Logos/L/Linux-Kernel-Module/Linux_WithHDD.png" width="100px;" alt=""/><br /><sub><b>Learn Linux Kernel Module</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Lobster/"><img src="/Programming/Logos/L/Lobster/lobster.svg" width="100px;" alt=""/><br /><sub><b>Learn Lobster</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Little/"><img src="/Programming/Logos/L/Little/LittleLanguageLogo_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Little</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -689,7 +689,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Monkey/"><img src="/Programming/Logos/M/Monkey/monkey_logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Monkey</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MAXScript/"><img src="/Programming/Logos/M/MAXScript/AutoDesk_3DS_Max_LogoHQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MAXScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-mIRC-Script/"><img src="/Programming/Logos/M/mIRC-Script/mIRC-Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn mIRC-Script</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 14A !-->
@@ -963,7 +963,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><p>Section S8</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-StrictYAML"><img src="/Programming/Logos/S/StrictYAML/StrictYAML_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn StrictYAML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SugarSS/"><img src="/Programming/Logos/S/SugarSS/sugarcss-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SugarSS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Slash/"><img src="/Programming/Logos/S/Slash/Slash1Fat.png" width="100px;" alt=""/><br /><sub><b>Learn Slash</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1365,6 +1365,7 @@ Isabelle
 * StrictYAML
 * Zeek
 * Lobster
+* Slash
 
 `#` & `"""`
 
@@ -1513,6 +1514,7 @@ Isabelle
 * WebIDL
 * ColdFusion CFC
 * Protocol Buffer
+* Little
 
 `///`
 
@@ -1701,6 +1703,7 @@ Isabelle
 * SDLang
 * ColdFusion CFC
 * Protocol Buffer
+* Little
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1747,6 +1750,7 @@ Isabelle
 * Jakarta Server Pages
 * Java Server Pages
 * ColdFusion
+* Antlers
 
 `(* *)`
 
@@ -1822,6 +1826,7 @@ Isabelle
 * Lisp
 * PureBasic
 * UNIX Assembly
+* mIRC Script
 
 `C`
 
@@ -2434,6 +2439,12 @@ printfn "String"
 
 * Lean
 
+```slash
+print("String\n");
+```
+
+* Slash
+
 ```ocaml
 print_endline "String"
 ```
@@ -2586,6 +2597,7 @@ Connection: close
 * ASP.NET
 * ASP.NET Core
 * HTML
+* Antlers
 
 ```xproc
 <para>String</para>
@@ -3256,6 +3268,12 @@ echo 'String'
 * J
 * Batchfile
 
+```mirc-script
+echo -a String
+```
+
+* mIRC-Script
+
 ```mustache
 {{String}}
 ```
@@ -3446,6 +3464,13 @@ gnirtS
 ```
 
 * Wierd
+
+```little
+#!/usr/bin/bk tclsh
+string str1 = "String";
+```
+
+* Little
 
 ```augeas
 let x = "String"
@@ -4014,9 +4039,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `107 (2023, Sunday, January 29th at 10:25 pm PST)`
+**File version:** `108 (2023, Monday, January 30th at 5:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,467`
+**Line count (including blank lines and compiler line):** `8,534`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7472,11 +7497,35 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 108 (Coming soon)</b></summary>
+<details><summary><b>Version 108 (2023, Monday, January 30th at 5:31 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V108.md)
+
+**This release uses/represents data from:** `2023, Monday, January 30th at 5:31 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Antlers, Little, mIRC-Script, and SLash
+- [x] Updated the source code comments section
+- - [x] Updated the `<!-- Comment !-->` comment section to include Antlers
+- - [x] Updated the `# Comment` comment section to include Slash
+- - [x] Updated the `// Comment` comment section to include Little
+- - [x] Updated the `/*` & `*/` comment section to include Little
+- - [x] Updated the `; Comment` comment section to include mIRC-Script
+- [x] Updated the print statement section
+- - [x] Updated the `<p>String</p>` string section to include Antlers
+- - [x] Added the `print("String\n");` string section to include Slash
+- - [x] Added the `echo -a String` string section to include mIRC-Script
+- - [x] Added the `string str1 = "String";` section to include Little
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 108
 - [ ] No other changes in version 108
 
 </details> <!-- Section end !-->
@@ -8432,6 +8481,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 214
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 215 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 215
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 216 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 216
 
 </details> <!-- Section end !-->
 
