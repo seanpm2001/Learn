@@ -7,9 +7,10 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
-- [ ] Amulet
 - [ ] ALGOL
 - [ ] ALS
+- [ ] Amulet
+- [ ] Antlers (recognized as a language, but returns 404 during source code search, commonly attributed as an HTML variant/template language)
 - [ ] AssemblyScript
 - [ ] B
 - [ ] Blockly (basically just a JSON zip archive)
@@ -47,6 +48,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Lobster
 - [ ] Logcat
 - [ ] Lingo
+- [ ] Little
 - [ ] Lucid
 - [ ] NetREXX
 - [ ] M4Sugar (commonly seen in the inner-linguist, but cannot get it to show as anything other than M4 on the outer Linguist)
@@ -87,7 +89,18 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `81`
+**Total:** `83` (as of 2023, Monday, January 30th)
+
+New definitions legend (WIP)
+
+- {]%[Not recognized as a language}
+- {]%[Not recognized as a language, but is a JSON format}
+- {]%[Not recognized as a language, but is a YAML format}
+- {]%[Not recognized as a language, but is similar to JavaScript}
+- {]%[Recognized as a language}
+- {]%[Recognized as a language, but not the correct one (example: TSX)}
+- {]%[Recognized as a language, but cannot be detected in source code search (example: Antlers)}
+- {]%[Recognized as a language, but detects as `other` in source code search}
 
 ***
 
@@ -103,9 +116,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2023, Friday, January 27th at 6:27 pm PST)`
+**File version:** `32 (2023, Monday, January 30th at 5:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `694`
+**Line count (including blank lines and compiler line):** `726`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -685,6 +698,25 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 31
 - [ ] No other changes in version 31
+
+</details>
+
+<details><summary><p lang="en"><b>Version 32 (2023, Monday, January 30th at 5:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Antlers and Little to the list
+- [x] Added the WIP definitions legend section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
 
 </details>
 
