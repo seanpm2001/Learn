@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// Start of script
 //// Incomplete projects list
-//// As of 2023, Sunday, January 29th at 10:37 pm PST
+//// As of 2023, Monday, January 30th at 5:57 pm PST
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -21,6 +21,7 @@ https://github.com/seanpm2001/Learn-Alloy
 https://github.com/seanpm2001/Learn-ALS
 https://github.com/seanpm2001/Learn-AngelScript
 https://github.com/seanpm2001/Learn-ANTLR
+https://github.com/seanpm2001/Learn-Antlers
 https://github.com/seanpm2001/Learn-AMPL
 https://github.com/seanpm2001/Learn-Amulet
 https://github.com/seanpm2001/Learn-ApacheConf
@@ -206,6 +207,7 @@ https://github.com/seanpm2001/Learn-Linux-Kernel-Module
 https://github.com/seanpm2001/Learn-Liquid
 https://github.com/seanpm2001/Learn-Lisp
 https://github.com/seanpm2001/Learn-LispFlavoredErlang
+https://github.com/seanpm2001/Learn-Little
 https://github.com/seanpm2001/Learn-LiveCode
 https://github.com/seanpm2001/Learn-LiveScript
 https://github.com/seanpm2001/Learn-LLVM
@@ -231,6 +233,7 @@ https://github.com/seanpm2001/Learn-Meson
 https://github.com/seanpm2001/Learn-Metal
 https://github.com/seanpm2001/Learn-Mercury
 https://github.com/seanpm2001/Learn-Miranda
+https://github.com/seanpm2001/Learn-mIRC-Script
 https://github.com/seanpm2001/Learn-ML
 https://github.com/seanpm2001/Learn-MLIR
 https://github.com/seanpm2001/Learn-Modula-2
@@ -336,6 +339,7 @@ https://github.com/seanpm2001/Learn-SGML
 https://github.com/seanpm2001/Learn-ShaderLab
 https://github.com/seanpm2001/Learn-Singularity
 https://github.com/seanpm2001/Learn-Slim
+https://github.com/seanpm2001/Learn-Slash
 https://github.com/seanpm2001/Learn-Smarty
 https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-Smali
@@ -416,7 +420,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 410/470
+//// Count: 414/474
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -630,13 +634,15 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V103 date: 2023, Saturday, January 28th at 10:24 pm PST, representing data from 2023, Saturday, January 28th at 11:59 pm PST
 //// V104: 1 entry added, 410 entries remain (ratio: 410/470 (87.23% incomplete, 12.77% complete))
 //// V104 date: 2023, Sunday, January 29th at 10:37 pm PST, representing data from 2023, Sunday, January 29th at 11:59 pm PST
+//// V105: 4 entries added, 414 entries remain (ratio: 414/474 (87.34% incomplete, 12.66% complete))
+//// V105 date: 2023, Monday, January 30th at 5:57 pm PST, representing data from 2023, Monday, January 30th at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 410/470 (87.23% incomplete, 12.77% complete)
+//// Ratio (incomplete/complete): 414/474 (87.34% incomplete, 12.66% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 104 (2023, Sunday, January 19th at 10:37 pm PST)
-//// Line count (including blank lines and compiler line): 643
+//// File version: 105 (2023, Monday, January 30th at 5:57 pm PST)
+//// Line count (including blank lines and compiler line): 649
 
 //// End of script
