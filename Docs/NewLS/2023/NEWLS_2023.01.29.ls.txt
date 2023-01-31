@@ -1,0 +1,4 @@
+MAXScript
+*.ms
+-- Comment
+rollout string "String" width:120 height:30
