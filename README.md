@@ -163,6 +163,16 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 ***
 
+## Knowledge of languages
+
+> ... also, I highly doubt anyone can learn more than 10 languages per year.
+
+- [:octocat: `@KaibutsuSama`](https://github.com/KaibutsuSama/)
+
+I prioritize a few dozen programming languages for learning. The mass majority of languages displayed on this page are languages in which I only know the very, very basics of (Hello World, Comments, file extension, and basic general info) for the languages I prioritize, [read here](/Docs/Priority-languages/)
+
+***
+
 ## By computing language
 
 <details open><summary><b>Click/tap here to expand/collapse the by language section table</b></summary>
@@ -358,7 +368,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Component-Pascal/"><img src="/Programming/Logos/C/Component_Pascal/Component_Pascal_Logo_Opaque.png" width="100px;" alt=""/><br /><sub><b>Learn Component Pascal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion/"><img src="/Programming/Logos/C/ColdFusion/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion-CFC/"><img src="/Programming/Logos/C/ColdFusion-CFC/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion (CFC)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-CUE/"><img src="/Programming/Logos/C/CUE/CUE_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CUE</b></sub></a></td>
   </tr>
   <!-- Row 4A !-->
   <!-- Letter D !-->
@@ -1543,6 +1553,7 @@ Isabelle
 * ColdFusion CFC
 * Protocol Buffer
 * Little
+* CUE
 
 `///`
 
@@ -3512,6 +3523,13 @@ let x = "String"
 
 * Augeas
 
+```cue
+str: string
+string: "String"
+```
+
+* CUE
+
 ```tsx
 let message: string = 'String';
 console.log(message);
@@ -4079,9 +4097,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `109 (2023, Tuesday, January 31st at 2:32 pm PST)`
+**File version:** `110 (2023, Friday, February 10th at 6:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,611`
+**Line count (including blank lines and compiler line):** `8,672`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7598,11 +7616,36 @@ end.
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 110 (Coming soon)</b></summary>
+<details><summary><b>Version 110 (2023, Friday, February 10th at 6:30 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V110.md)
+
+**This release uses/represents data from:** `2023, Friday, February 10th at 6:30 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added a language knowledge clarification section
+- [x] Updated the `Learn` table
+- - [x] Added support for CUE
+- [x] Updated the source code comments section
+- - [x] Updated the `// Comment` comment section to include CUE
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```cue
+str: string
+string: "String"
+```
+
+- - [ ] String section to include CUE
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 110
 - [ ] No other changes in version 110
 
 </details> <!-- Section end !-->
@@ -8576,6 +8619,24 @@ end.
 
 - [ ] Coming soon
 - [ ] No other changes in version 218
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 219 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 219
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 220 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 220
 
 </details> <!-- Section end !-->
 
