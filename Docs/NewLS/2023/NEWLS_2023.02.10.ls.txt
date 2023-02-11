@@ -1,0 +1,7 @@
+CUE
+
+*.cue
+
+// Comment
+str: string
+string: "String"
