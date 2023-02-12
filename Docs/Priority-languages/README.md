@@ -7,30 +7,40 @@ I prioritize the following languages:
 
 ## Separation categories
 
-- [Absolute top 50](#Absolute-Top-50-overall)
-- [Analytics](#Analytics)
-- [Audio](#Audio)
-- [Bootstrapping](#Bootstrapping)
-- [Compiling](#Compiling)
-- [Configuration](#Configuration)
-- [Data](#Data)
-- [Database](#Database)
-- [Documentation](#Documentation)
-- [Embedded](#Embedded)
-- [Esotorec](#Esoteric)
-- [Functional](#Functional)
-- [Gaming](#Gaming)
-- [Images](#Images)
-- [Legacy](#Legacy)
-- [Markup](#Markup)
-- [Platform specific](#Platform-specific)
-- [Quantum computing](#Quantum-computing)
-- [Raspberry Pi](#Raspberry-Pi)
-- [Robotics](#Robotics)
-- [Stylesheets and graphics](#Stylesheets-and-graphics)
-- [Web development](#Web-development)
+- [`Absolute top 50`](#Absolute-Top-50-overall)
+- [`Analytics`](#Analytics)
+- [`Artificial Intelligence`](#Artificial-Intelligence)
+- [`Audio`](#Audio)
+- [`Automation`](#Automation)
+- [`Bootstrapping`](#Bootstrapping)
+- [`Compiling`](#Compiling)
+- [`Configuration`](#Configuration)
+- [`Data`](#Data)
+- [`Database`](#Database)
+- [`Documents`](#Documents)
+- [`Documentation`](#Documentation)
+- [`Embedded`](#Embedded)
+- [`Esotorec`](#Esoteric)
+- [`Functional`](#Functional)
+- [`Gaming`](#Gaming)
+- [`Images`](#Images)
+- [`Legacy`](#Legacy)
+- [`Markup`](#Markup)
+- [`Platform specific`](#Platform-specific)
+- [`Programming applications`](#Programming-applications)
+- [`Quantum computing`](#Quantum-computing)
+- [`Raspberry Pi`](#Raspberry-Pi)
+- [`Robotics`](#Robotics)
+- [`Stylesheets and graphics`](#Stylesheets-and-graphics)
+- [`Statistics`](#Statistics)
+- [`Subtitles`](#Subtitles)
+- [`Unusable`](#Unusable)
+- [`Web development`](#Web-development)
+- [`Rarely used`](#Rarely-used)
 
 > **Note** Several categories duplicate languages. A language can be in multiple categories. The current most common languages are C and Python
+
+> **Warning** The scope outside the top 50 may be too broad. It is still being narrowed down and re-prioritized
 
 ## Absolute Top 50 (overall)
 
@@ -289,6 +299,26 @@ The rest of the languages listed are lower priority.
 
 - None listed
 
+## Artificial Intelligence
+
+- Prolog
+
+### Rarely used
+
+- None listed
+
+## Automation
+
+- Makefile
+- Python
+- TypeScript
+
+### Rarely used
+
+- Dockerfile
+- Julia
+- Objective-J
+
 ## Audio
 
 > **Note** These languages are only used when necessary.
@@ -315,7 +345,9 @@ The rest of the languages listed are lower priority.
 
 > **Note** These languages are only used when necessary.
 
+- Desktop
 - INI
+- Latte
 - TOML
 - XML
 - YAML
@@ -343,10 +375,18 @@ The rest of the languages listed are lower priority.
 - Pod
 - reStructuredText
 
-### Rarely sued
+### Rarely used
 
 - Inform7
 - Ren'Py
+
+## Documents
+
+- PostScript
+
+### Rarely used
+
+- XSLT
 
 ## Data
 
@@ -412,6 +452,8 @@ The rest of the languages listed are lower priority.
 - Elm
 - Genie
 - Haskell
+- Lua
+- Pascal
 - Raku
 - REBOL
 - Tcl
@@ -490,6 +532,36 @@ The rest of the languages listed are lower priority.
 
 - F# (Windows)
 
+## Programming applications
+
+- Java
+- Pascal
+
+### Rarely used
+
+- Ada
+- D
+- Erlang
+- FORTRAN
+- Gosu
+- Go!
+- LFE (Lisp Flavored Erlang)
+- Logos
+- Nim
+- OCAML
+- REBOL
+- Scala
+- Scheme
+- Zig
+
+## Conversion
+
+- MoonScript
+
+### Rarely used
+
+- PureScript
+
 ## Quantum computing
 
 > **Note** These languages are only used when necessary.
@@ -527,18 +599,47 @@ The rest of the languages listed are lower priority.
 
 - Assembly
 
+## Statistics
+
+- R
+
+### Rarely used
+
+- Stan
+
 ## Stylesheets and graphics
 
 > **Note** These languages are only used when necessary.
 
 - CSS
 - Less
+- QML
 
 ### Rarely used
 
 - GLSL
 - HLSL
 - SugarSS
+
+## Subtitles
+
+- WebVTT
+
+### Rarely used
+
+- None listed
+
+## Unusable
+
+These languages can't be used as of 2023, Saturday, February 11th (main reason: blockchain, bad owners)
+
+- Cadence
+- Dart
+- Google Go
+- Hack
+- Jsonnet
+- Solidity
+
 
 ## Web development
 
@@ -555,11 +656,43 @@ The rest of the languages listed are lower priority.
 
 ### Rarely used
 
+- ActionScript
 - BrightScript
 - BrigherScript
+- CoffeeScript
+- HAML
 - SugarSS
 - Twig
 - WebAssembly
+
+### Rarely used
+
+> **Note** Equivalent to [not prioritized](#Not-prioritized-incomplete) although this is more incomplete than the former
+
+- Agda
+- ALGOL
+- BlitzBasic
+- Ceylon
+- CMake
+- COBOL
+- Common Lisp
+- Dart
+- E
+- J
+- Lean
+- M
+- Max
+- Monkey
+- Monkey-C
+- Pawn
+- Racket
+- ReScript
+- SourcePawn
+- Thrift
+- WDL
+- Wren
+- WaveFront Object
+- XTend
 
 ***
 
@@ -569,9 +702,9 @@ The rest of the languages listed are lower priority.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Saturday, February 11th at 2:30 pm PST)`
+**File version:** `3 (2023, Saturday, February 11th at 7:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `692`
+**Line count (including blank lines and compiler line):** `862`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -677,6 +810,43 @@ The rest of the languages listed are lower priority.
 - - [x] Added an entry for version 2
 - [x] Added the footer 
 - [ ] No other changes in version 2
+
+</details>
+
+
+<details><summary><p><b>Version 3 (2023, Saturday, February 11th at 7:32 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Fixed a comical spelling error that stayed for 1 version (`rarely sued` -> `rarely used`) (I kept it on purpose for 1 version, just so it appears in the history)
+- [x] Added the `Artificial Intelligence` section
+- - [x] Added the `Rarely used` subsection
+- [x] Added the `Automation` section
+- - [x] Added the `Rarely used` subsection
+- [x] Updated the `Configuration` section
+- [x] Added the `Documents` section
+- - [x] Added the `Rarely used` subsection
+- [x] Updated the `Functional` section
+- [x] Added the `Programming applications` section
+- - [x] Added the `Rarely used` subsection
+- [x] Updated the `Stylesheets and graphics` section
+- [x] Added the `Statistics` section
+- - [x] Added the `Rarely used` subsection
+- [x] Added the `Subtitles` section
+- - [x] Added the `Rarely used` subsection
+- [x] Added the `Unusable` section
+- - [x] Added the `Rarely used` subsection
+- [x] Updated the `Web development` seciton
+- [x] Added the `Rarely used` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
