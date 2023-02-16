@@ -2,8 +2,8 @@
 //// LIST_ALPHABETICAL.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// An alphabet list of the repository links for the seanpm2001 learn project
-//// V104: 2023, Friday, February 10th at 6:42 pm PST
-//// Representing data from 2023, Friday, February 10th at 6:40 pm PST
+//// V105: 2023, Wednesday, February 15th at 6:24 pm PST
+//// Representing data from 2023, Wednesday, February 15th at 6:24 pm PST
 
 //// Programming
 //// 1
@@ -348,6 +348,7 @@ https://github.com/seanpm2001/Learn-POV-Ray-SDL
 https://github.com/seanpm2001/Learn-PowerShell
 https://github.com/seanpm2001/Learn-PowerFX
 https://github.com/seanpm2001/Learn-Procfile
+https://github.com/seanpm2001/Learn-Processing.js
 https://github.com/seanpm2001/Learn-Proguard
 https://github.com/seanpm2001/Learn-Prolog
 https://github.com/seanpm2001/Learn-Protocol-Buffer
@@ -421,6 +422,7 @@ https://github.com/seanpm2001/Learn-Smarty
 https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-Solidity
 https://github.com/seanpm2001/Learn-SourcePawn
+https://github.com/seanpm2001/Learn-SQF
 https://github.com/seanpm2001/Learn-SQL
 https://github.com/seanpm2001/Learn-SQLPL
 https://github.com/seanpm2001/Learn-Squeak
@@ -513,11 +515,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// 481 languages listed (as of 2023, Friday, February 10th at 6:40 pm PST)
+//// 483 languages listed (as of 2023, Wednesday, February 15th at 6:24 pm PST)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 104 (2023, Friday, February 10th at 6:40 pm PST)
-//// Line count (including blank lines and compiler line): 524
+//// File version: 105 (2023, Wednesday, February 15th at 6:24 pm PST)
+//// Line count (including blank lines and compiler line): 526
 
 //// End of file
