@@ -5,21 +5,19 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `479`/`483` (as of 2023, Friday, February 10th at 7:22 pm PST)
+Current progress `481`/`489` (as of 2023, Wednesday, February 15th at 6:45 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `099.17%` complete, `000.83%` incomplete.
+**Ratio:** `098.36%` complete, `000.36%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
 This list covers the creation of the language repositories.
 
 (It might be cheating, but I am including 3 of my computing languages on this list (DroppedText, Matrix, and URLL) if I am to be documenting all languages, I should at least document my own)
-
-**Currently being decided on for inclusion:** `Commenter (seanpm2001 language)`
 
 </details>
 
@@ -96,6 +94,7 @@ This list covers the creation of the language repositories.
 - [x] C
 - [x] C-Plus-Plus
 - [x] COBOL
+- [ ] Commenter (seanpm2001)
 - [x] CSharp
 - [x] CSharp HTML
 - [x] CSS
@@ -143,6 +142,7 @@ This list covers the creation of the language repositories.
 - [x] DCPU-16-ASM
 - [x] DogeScript
 - [x] Dylan
+- [ ] Ermine
 - [x] E
 - [x] EAGLE
 - [x] Earthly
@@ -368,6 +368,8 @@ This list covers the creation of the language repositories.
 - [x] Python
 - [x] PEG.js
 - [x] Pony
+- [x] Processing.js
+- [ ] Processing
 - [x] QMake
 - [x] QSharp
 - [x] QTScript
@@ -376,6 +378,7 @@ This list covers the creation of the language repositories.
 - [x] QML
 - [x] Raku
 - [x] Rust
+- [ ] RAML
 - [x] R
 - [x] Red
 - [x] Ruby
@@ -450,7 +453,8 @@ This list covers the creation of the language repositories.
 - [x] SAS
 - [x] SMT
 - [x] Slash
-- [ ] SQF
+- [x] SQF
+- [ ] SNOBOL
 - [x] TypeScript
 - [x] TCL
 - [x] TeX
@@ -533,9 +537,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `106 (2023, Friday, February 10th at 7:22 pm PST)`
+**File version:** `107 (2023, Wednesday, February 15th at 6:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,730`
+**Line count (including blank lines and compiler line):** `4,775`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3134,15 +3138,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 107</b></summary>
 
-**Version 107 (Coming soon)**
+**Version 107 (2023, Wednesday, February 15th at 6:45 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V107.md)
+
+> **Note** This release represents data from 2023, Wednesday, February 15th.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 479 | new total: 481)
+- - [x] Added 6 new entries to the list (old total: 483 | new total: 489)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 107
 - [ ] No other changes in version 107
 
 </details> <!-- Section end !-->
@@ -4719,6 +4734,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 212
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 213</b></summary>
+
+**Version 213 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 213
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 214</b></summary>
+
+**Version 214 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 214
 
 </details> <!-- Section end !-->
 
