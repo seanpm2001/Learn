@@ -844,7 +844,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PureScript/"><img src="/Programming/Logos/P/PureScript/PureScriptLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PureScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PEG.js/"><img src="/Programming/Logos/P/PEG.js/PEG.js_OrgLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PEG.js</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Protocol-Buffer/"><img src="/Programming/Logos/P/ProtoBuf/ProtoBuf_2.png" width="100px;" alt=""/><br /><sub><b>Learn Protocol Buffer</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Processing.js/"><img src="/Programming/Logos/P/Processing.js/ProcessingJS_Logo_Opaque.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Processing.js</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1555,6 +1555,7 @@ Isabelle
 * Little
 * CUE
 * SQF
+* Processing.js
 
 `///`
 
@@ -1648,6 +1649,7 @@ Isabelle
 * XTend
 * SDLang
 * SQF
+* Processing.js
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1746,6 +1748,7 @@ Isabelle
 * Protocol Buffer
 * Little
 * SQF
+* Processing.js
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -3026,6 +3029,12 @@ str1 = "String"
 * MLIR
 * Stan
 
+```processing
+str1 = "String";
+```
+
+* Processing.js
+
 ```b
 putchar('String');
 ```
@@ -4106,9 +4115,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `111 (2023, Wednesday, February 15th at 6:19 pm PST)`
+**File version:** `112 (2023, Wednesday, February 15th at 6:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,719`
+**Line count (including blank lines and compiler line):** `8,764`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7687,11 +7696,30 @@ string: "String"
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 112 (Coming soon)</b></summary>
+<details><summary><b>Version 112 (2023, Wednesday, February 15th at 6:55 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V112.md)
+
+**This release uses/represents data from:** `2023, Wednesday, February 15th at 6:55 pm PST`
+
+> **Note:** _Came back for the second update today, as processing.js was never included, I somehow completely skipped over it until today._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Processing.js
+- [x] Updated the source code comments section
+- - [x] Updated the `// Comment` comment section to include Processing.js
+- - [x] Updated the `/* Comment */` comment section to include Processing.js
+- - [x] Updated the `//` & `/*` `Comment` comment section to include Processing.js
+- [x] Updated the print statement section
+- - [x] Added the `str1 = "String";` string section to include Processing.js
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 112
 - [ ] No other changes in version 112
 
 </details> <!-- Section end !-->
@@ -8668,7 +8696,6 @@ string: "String"
 
 </details> <!-- Section end !-->
 
-
 <details><summary><b>Version 221 (Coming soon)</b></summary>
 
 **Changes:**
@@ -8684,6 +8711,24 @@ string: "String"
 
 - [ ] Coming soon
 - [ ] No other changes in version 222
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 223 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 223
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 224 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 224
 
 </details> <!-- Section end !-->
 
