@@ -1000,7 +1000,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-StrictYAML"><img src="/Programming/Logos/S/StrictYAML/StrictYAML_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn StrictYAML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SugarSS/"><img src="/Programming/Logos/S/SugarSS/sugarcss-logo.svg" width="100px;" alt=""/><br /><sub><b>Learn SugarSS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Slash/"><img src="/Programming/Logos/S/Slash/Slash1Fat.png" width="100px;" alt=""/><br /><sub><b>Learn Slash</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SQF/"><img src="/Programming/Logos/S/SQF/SQF_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQF</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1554,6 +1554,7 @@ Isabelle
 * Protocol Buffer
 * Little
 * CUE
+* SQF
 
 `///`
 
@@ -1646,6 +1647,7 @@ Isabelle
 * Java Server Pages
 * XTend
 * SDLang
+* SQF
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1743,6 +1745,7 @@ Isabelle
 * ColdFusion CFC
 * Protocol Buffer
 * Little
+* SQF
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -2499,6 +2502,12 @@ print_endline "String"
 ```caml
 print_endline "String";;
 ```
+
+```sqf
+diag_log "String";
+```
+
+* SQF
 
 * CAML
 
@@ -4097,9 +4106,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `110 (2023, Friday, February 10th at 6:30 pm PST)`
+**File version:** `111 (2023, Wednesday, February 15th at 6:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,672`
+**Line count (including blank lines and compiler line):** `8,719`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7650,11 +7659,30 @@ string: "String"
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 111 (Coming soon)</b></summary>
+<details><summary><b>Version 111 (2023, Wednesday, February 15th at 6:19 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V111.md)
+
+**This release uses/represents data from:** `2023, Wednesday, February 15th at 6:19 pm PST`
+
+> **Note:** _No additional notes available._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for SQF
+- [x] Updated the source code comments section
+- - [x] Updated the `// Comment` comment section to include SQF
+- - [x] Updated the `/* Comment */` comment section to include SQF
+- - [x] Updated the `//` & `/*` `Comment` comment section to include SQF
+- [x] Updated the print statement section
+- - [x] Added the `diag_log "String";` string section to include SQF
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 111
 - [ ] No other changes in version 111
 
 </details> <!-- Section end !-->
@@ -8637,6 +8665,25 @@ string: "String"
 
 - [ ] Coming soon
 - [ ] No other changes in version 220
+
+</details> <!-- Section end !-->
+
+
+<details><summary><b>Version 221 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 221
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 222 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 222
 
 </details> <!-- Section end !-->
 
