@@ -1,0 +1,7 @@
+SQF
+
+*.sqf
+
+// Comment
+/* Comment */
+diag_log "String";
