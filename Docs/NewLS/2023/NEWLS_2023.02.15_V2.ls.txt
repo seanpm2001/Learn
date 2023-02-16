@@ -1,0 +1,15 @@
+SQF
+
+*.sqf
+
+// Comment
+/* Comment */
+diag_log "String";
+
+Processing.js
+
+*.pde
+
+// Comment
+/* Comment */
+str1 = "String";
