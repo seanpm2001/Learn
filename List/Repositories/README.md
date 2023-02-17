@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `481`/`489` (as of 2023, Wednesday, February 15th at 6:45 pm PST)
+Current progress `483`/`489` (as of 2023, Thursday, February 16th at 8:58 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.36%` complete, `000.36%` incomplete.
+**Ratio:** `098.77%` complete, `001.23%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -85,7 +85,7 @@ This list covers the creation of the language repositories.
 - [x] Blade
 - [x] BlitzBasic
 - [x] BlitzMax
-- [ ] BlooP
+- [x] BlooP
 - [ ] BLISS
 - [x] ColdFusion
 - [x] ColdFusion CFC
@@ -169,7 +169,7 @@ This list covers the creation of the language repositories.
 - [x] FLUX
 - [x] FP
 - [x] FreeBasic
-- [ ] FlooP
+- [x] FlooP
 - [x] Gleam
 - [x] G-CODE
 - [x] GnuPlot
@@ -537,9 +537,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `107 (2023, Wednesday, February 15th at 6:45 pm PST)`
+**File version:** `108 (2023, Thursday, February 16th at 8:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,775`
+**Line count (including blank lines and compiler line):** `4,816`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3164,15 +3164,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 108</b></summary>
 
-**Version 108 (Coming soon)**
+**Version 108 (2023, Thursday, February 16th at 8:58 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V108.md)
+
+> **Note** This release represents data from 2023, Thursday, February 16th.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 481 | new total: 483)
+- - [x] Added 0 new entries to the list (old total: 489 | new total: 489)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 108
 - [ ] No other changes in version 108
 
 </details> <!-- Section end !-->
@@ -4764,6 +4775,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 214
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 215</b></summary>
+
+**Version 215 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 215
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 216</b></summary>
+
+**Version 216 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 216
 
 </details> <!-- Section end !-->
 
