@@ -291,7 +291,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section B4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Bro/"><img src="/Programming/Logos/B/Bro/BroLang_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Bro</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BlooP/"><img src="/Programming/Logos/B/BlooP/BlooP_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlooP</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -441,6 +441,18 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FP/"><img src="/Programming/Logos/F/FP/FP_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn FP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FreeBasic/"><img src="/Programming/Logos/F/FreeBasic/FreeBasicLogo_200px.png" width="100px;" alt=""/><br /><sub><b>Learn FreeBasic</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FLUX/"><img src="/Programming/Logos/F/FLUX/FLUX_Logo_500pxOpaque.png" width="100px;" alt=""/><br /><sub><b>Learn FLUX</b></sub></a></td>
+  </tr>
+  <!-- Row 6C !-->
+  <!-- Letter F !-->
+  <tr>
+    <td align="center"><p>Section F3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-FlooP/"><img src="/Programming/Logos/F/FlooP/FlooP_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn FlooP</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 7A !-->
   <!-- Letter G !-->
@@ -2134,6 +2146,8 @@ Comment
 * ABC
 * Linux Kernel Module
 * While
+* BlooP
+* FlooP
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -2639,6 +2653,17 @@ Connection: close
 ```
 
 * Closure Templates
+
+```bloop
+DEFINE PROCEDURE ''STRING'' [N]:
+BLOCK 0: BEGIN
+     PRINT['String']
+BLOCK 0: END.
+STRING[1];
+```
+
+* BlooP
+* FlooP
 
 ```handlebars
 <p>String</p>
@@ -4115,9 +4140,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `112 (2023, Wednesday, February 15th at 6:55 pm PST)`
+**File version:** `113 (2023, Thursday, February 16th at 8:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,764`
+**Line count (including blank lines and compiler line):** `8,834`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7724,11 +7749,38 @@ string: "String"
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 113 (Coming soon)</b></summary>
+<details><summary><b>Version 113 (2023, Thursday, Februayr 16th at 8:30 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V113.md)
+
+**This release uses/represents data from:** `2023, Thursday, February 16th at 8:30 pm PST`
+
+> **Note:** _I only added obscure languages today. That doesn't mean they are bad._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for BlooP and FlooP
+- [x] Updated the source code comments section
+- - [x] Updated the `UNKNOWN` comment section to include BlooP and FlooP
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```bloop
+DEFINE PROCEDURE ''STRING'' [N]:
+BLOCK 0: BEGIN
+     PRINT['String']
+BLOCK 0: END.
+STRING[1];
+```
+
+- - [ ] string section to include BlooP and FlooP
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 113
 - [ ] No other changes in version 113
 
 </details> <!-- Section end !-->
@@ -8729,6 +8781,24 @@ string: "String"
 
 - [ ] Coming soon
 - [ ] No other changes in version 224
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 225 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 225
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 226 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 226
 
 </details> <!-- Section end !-->
 
