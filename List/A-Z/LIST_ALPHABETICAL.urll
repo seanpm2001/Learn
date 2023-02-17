@@ -2,8 +2,8 @@
 //// LIST_ALPHABETICAL.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// An alphabet list of the repository links for the seanpm2001 learn project
-//// V105: 2023, Wednesday, February 15th at 6:24 pm PST
-//// Representing data from 2023, Wednesday, February 15th at 6:24 pm PST
+//// V106: 2023, Thursday, February 16th at 8:37 pm PST
+//// Representing data from 2023, Thursday, February 16th at 8:37 pm PST
 
 //// Programming
 //// 1
@@ -60,6 +60,7 @@ https://github.com/seanpm2001/Learn-Blade
 https://github.com/seanpm2001/Learn-BlitzBasic
 https://github.com/seanpm2001/Learn-BlitzMax
 https://github.com/seanpm2001/Learn-Blockly
+https://github.com/seanpm2001/Learn-BlooP
 https://github.com/seanpm2001/Learn-Boo
 https://github.com/seanpm2001/Learn-Boogie
 https://github.com/seanpm2001/Learn-Brainfuck
@@ -145,6 +146,7 @@ https://github.com/seanpm2001/Learn-Fantom
 https://github.com/seanpm2001/Learn-FP
 https://github.com/seanpm2001/Learn-FCL
 https://github.com/seanpm2001/Learn-Fish
+https://github.com/seanpm2001/Learn-FlooP
 https://github.com/seanpm2001/Learn-Fluent
 https://github.com/seanpm2001/Learn-FLUX
 https://github.com/seanpm2001/Learn-Forth
@@ -515,11 +517,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// 483 languages listed (as of 2023, Wednesday, February 15th at 6:24 pm PST)
+//// 485 languages listed (as of 2023, Thursday, February 16th at 8:37 pm PST)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 105 (2023, Wednesday, February 15th at 6:24 pm PST)
-//// Line count (including blank lines and compiler line): 526
+//// File version: 106 (2023, Thursday, February 16th at 8:37 pm PST)
+//// Line count (including blank lines and compiler line): 528
 
 //// End of file
