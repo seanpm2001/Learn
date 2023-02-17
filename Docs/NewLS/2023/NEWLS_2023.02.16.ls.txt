@@ -1,0 +1,25 @@
+BlooP
+
+*.bloop
+
+DEFINE PROCEDURE ''STRING'' [N]:
+BLOCK 0: BEGIN
+     PRINT['String']
+BLOCK 0: END.
+STRING[1];
+
+? Comment
+
+Floop
+
+*.floop
+
+|Same as above|
+
+DEFINE PROCEDURE ''STRING'' [N]:
+BLOCK 0: BEGIN
+     PRINT['String']
+BLOCK 0: END.
+STRING[1];
+
+? Comment
