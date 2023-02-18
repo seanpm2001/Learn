@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Thursday, February 16th at 8:41 pm PST.
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Friday, February 17th at 9:49 pm PST.
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -14,6 +14,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] AssemblyScript
 - [ ] B
 - [ ] Blockly (basically just a JSON zip archive)
+- [ ] BLISS
 - [ ] BlooP
 - [ ] Bro (originally was partially recognized up until 2023, January 27th, at the same level as `Arduino` but now it is completely unrecognized, and works like `Fish` does and just redirects the inferred language to `Zeek`)
 - [ ] CAML
@@ -93,7 +94,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `87` (as of 2023, Thursday, February 16th)
+**Total:** `88` (as of 2023, Friday, February 17th)
 
 New definitions legend (WIP)
 
@@ -120,9 +121,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `34 (2023, Thursday, February 16th at 8:42 pm PST)`
+**File version:** `35 (2023, Friday, February 17th at 9:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `766`
+**Line count (including blank lines and compiler line):** `785`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -757,6 +758,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 34
 - [ ] No other changes in version 34
+
+</details>
+
+<details><summary><p lang="en"><b>Version 35 (2023, Friday, February 17th at 9:49 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added BLISS to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 35
+- [ ] No other changes in version 35
 
 </details>
 
