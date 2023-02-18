@@ -292,7 +292,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><p>Section B4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Bro/"><img src="/Programming/Logos/B/Bro/BroLang_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Bro</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlooP/"><img src="/Programming/Logos/B/BlooP/BlooP_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlooP</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BLISS/"><img src="/Programming/Logos/B/BLISS/BLISS_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BLISS</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1969,6 +1969,14 @@ Isabelle
 * HyPhy
 * ReScript
 
+```bliss
+!+
+! Comment
+!-
+```
+
+* BLISS
+
 `/*! */`
 
 * Objective-J
@@ -2004,6 +2012,7 @@ Isabelle
 `"!`
 
 * ABAP
+* BLISS
 
 `#C`
 
@@ -3447,6 +3456,7 @@ name: "String"
 ```
 
 * CSON
+* BLISS
 
 ```maxima
 string "String";
@@ -4140,9 +4150,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `113 (2023, Thursday, February 16th at 8:30 pm PST)`
+**File version:** `114 (2023, Friday, February 17th at 9:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,834`
+**Line count (including blank lines and compiler line):** `8,888`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7785,11 +7795,37 @@ STRING[1];
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 114 (Coming soon)</b></summary>
+<details><summary><b>Version 114 (2023, Friday, February 17th at 9:05 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V114.md)
+
+**This release uses/represents data from:** `2023, Friday, February 17th at 9:05 pm PST`
+
+> **Note:** _No unique status notes for today._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for BLISS
+- [x] Updated the source code comments section
+- - [x] Updated the `!` comment section to include BLISS
+- - [x] Added the:
+
+```bliss
+!+
+! Comment
+!-
+```
+
+- - [ ] comment section to include BLISS
+- [x] Updated the print statement section
+- - [x] Updated the `name: "String"` string section to include BLISS
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 114
 - [ ] No other changes in version 114
 
 </details> <!-- Section end !-->
@@ -8799,6 +8835,24 @@ STRING[1];
 
 - [ ] Coming soon
 - [ ] No other changes in version 226
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 227 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 227
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 228 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 228
 
 </details> <!-- Section end !-->
 
