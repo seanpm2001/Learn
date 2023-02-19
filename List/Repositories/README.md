@@ -5,7 +5,7 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `485`/`489` (as of 2023, Saturday, February 18th at 8:00 pm PST)
+Current progress `486`/`490` (as of 2023, Sunday, February 19th at 12:56 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
@@ -17,7 +17,7 @@ Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and als
 
 This list covers the creation of the language repositories.
 
-(It might be cheating, but I am including 3 of my computing languages on this list (DroppedText, Matrix, and URLL) if I am to be documenting all languages, I should at least document my own)
+(It might be cheating, but I am including 5 of my computing languages on this list (DroppedText, Matrix, Commenter, MGears, and URLL) if I am to be documenting all languages, I should at least document my own)
 
 </details>
 
@@ -94,7 +94,7 @@ This list covers the creation of the language repositories.
 - [x] C
 - [x] C-Plus-Plus
 - [x] COBOL
-- [ ] Commenter (seanpm2001)
+- [x] Commenter (seanpm2001)
 - [x] CSharp
 - [x] CSharp HTML
 - [x] CSS
@@ -277,6 +277,7 @@ This list covers the creation of the language repositories.
 - [x] Little
 - [x] mIRC Script
 - [x] M
+- [ ] MGears
 - [x] M4
 - [x] M4Sugar
 - [x] MAXScript
@@ -537,9 +538,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `110 (2023, Saturday, February 18th at 8:00 pm PST)`
+**File version:** `111 (2023, Sunday, February 19th at 12:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,896`
+**Line count (including blank lines and compiler line):** `4,938`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3240,15 +3241,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 111</b></summary>
 
-**Version 111 (Coming soon)**
+**Version 111 (2023, Sunday, February 19th at 12:56 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V111.md)
+
+> **Note** This release represents data from 2023, Sunday, February 19th.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 1 new entry (old total: 485 | new total: 486)
+- - [x] Added 1 new entry to the list (old total: 489 | new total: 490)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 111
 - [ ] No other changes in version 111
 
 </details> <!-- Section end !-->
@@ -4885,6 +4897,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 220
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 221</b></summary>
+
+**Version 221 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 221
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 222</b></summary>
+
+**Version 222 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 222
 
 </details> <!-- Section end !-->
 
