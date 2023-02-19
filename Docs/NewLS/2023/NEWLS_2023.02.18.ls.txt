@@ -1,0 +1,7 @@
+SNOBOL
+
+*.sno
+
+* Comment
+          OUTPUT = "String"
+END
