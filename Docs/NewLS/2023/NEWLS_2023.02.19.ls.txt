@@ -1,0 +1,7 @@
+Commenter
+
+*.comm
+
+Too many comment types to list (100+)
+
+Strings unsupported
