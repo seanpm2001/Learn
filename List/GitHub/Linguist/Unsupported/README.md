@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Saturday, February 18th at 7:39 pm PST.
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Sunday, February 19th at 12:44 pm PST
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -20,6 +20,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] CAML
 - [ ] CH
 - [ ] Cobra
+- [ ] Commenter (currently too obscure at the moment)
 - [ ] CSHTML (recognizes as HTML)
 - [ ] Cyclone
 - [ ] ColdFusion CFC (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with ColdFusion CFC source code, it willl be labeled as `ColdFusion` However, attempting to sort by the ColdFusion CFC language will just perform an `all repositories` search)
@@ -95,7 +96,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `89` (as of 2023, Saturday, February 18th)
+**Total:** `90` (as of 2023, Sunday, February 19th at 12:44 pm PST)
 
 New definitions legend (WIP)
 
@@ -122,9 +123,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `36 (2023, Saturday, February 18th at 7:39 pm PST)`
+**File version:** `37 (2023, Sunday, February 19th at 12:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `804`
+**Line count (including blank lines and compiler line):** `823`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -795,6 +796,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 36
 - [ ] No other changes in version 36
+
+</details>
+
+<details><summary><p lang="en"><b>Version 37 (2023, Sunday, February 19th at 12:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Commenter to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
 
 </details>
 
