@@ -370,6 +370,18 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ColdFusion-CFC/"><img src="/Programming/Logos/C/ColdFusion-CFC/ColdFusion.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ColdFusion (CFC)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-CUE/"><img src="/Programming/Logos/C/CUE/CUE_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn CUE</b></sub></a></td>
   </tr>
+  <!-- Row 3G !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C7</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Commenter/"><img src="/Programming/Logos/C/Commenter/Commenter_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Commenter</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 4A !-->
   <!-- Letter D !-->
   <tr>
@@ -1302,15 +1314,18 @@ Isabelle
 * SQLPL
 * SDLang
 * MAXScript
+* Commenter
 
 `---`
 
 * Hope
+* Commenter
 
 `--` & `{- -}`
 
 * Elm
 * Grammatical Framework
+* Commenter
 
 `#`
 
@@ -1416,6 +1431,7 @@ Isabelle
 * Slash
 * Bro
 * jq
+* Commenter
 
 `#` & `"""`
 
@@ -1424,6 +1440,7 @@ Isabelle
 * Matrix (seanpm2001)
 * CPython
 * PowerShell
+* Commenter
 
 `#` & `"""` & `'''`
 
@@ -1432,10 +1449,12 @@ Isabelle
 * Starlark
 * Matrix (seanpm2001)
 * CPython
+* Commenter
 
 `#` & `/*`
 
 * Blade
+* Commenter
 
 `//`
 
@@ -1525,7 +1544,7 @@ Isabelle
 * JSSS
 * JScript.NET
 * SuperCollider
-* Gradle
+-* Gradle
 * AspectJ
 * ABAP-CDS
 * AGS-Script
@@ -1568,18 +1587,22 @@ Isabelle
 * CUE
 * SQF
 * Processing.js
+* Commenter
 
 `///`
 
 * Gleam
+* Commenter
 
 `////`
 
 * URLL (v3)
+* Commenter
 
 `////*` & `\\\\`
 
 * URLL (v3)
+* Commenter
 
 `//` & `/* */`
 
@@ -1662,6 +1685,7 @@ Isabelle
 * SDLang
 * SQF
 * Processing.js
+* Commenter
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1761,6 +1785,7 @@ Isabelle
 * Little
 * SQF
 * Processing.js
+* Commenter
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1808,6 +1833,7 @@ Isabelle
 * Java Server Pages
 * ColdFusion
 * Antlers
+* Commenter
 
 `(* *)`
 
@@ -1831,19 +1857,23 @@ Isabelle
 * Coq
 * ML
 * Component Pascal
+* Commenter
 
 `#-*-`
 
 * YASnippet
+* Commenter
 
 `{# #}`
 
 * Jinja
 * Nunjucks
+* Commenter
 
 `{* *}`
 
 * Smarty
+* Commenter
 
 `;`
 
@@ -1884,10 +1914,12 @@ Isabelle
 * PureBasic
 * UNIX Assembly
 * mIRC Script
+* Commenter
 
 `C`
 
 * Fortran
+* Commenter
 
 `rem` / `REM`
 
@@ -1899,6 +1931,7 @@ Isabelle
 * VHDL
 * BASIC
 * Visual Basic Script/VBScript
+* Commenter
 
 `%`
 
@@ -1912,6 +1945,7 @@ Isabelle
 * TeX
 * LogTalk
 * TXL
+* Commenter
 
 `'`
 
@@ -1927,14 +1961,17 @@ Isabelle
 * VBHTML
 * Classic ASP
 * BrighterScript
+* Commenter
 
 `''`
 
 * PlantUML
+* Commenter
 
 `"`
 
 * SmallTalk
+* Commenter
 
 `;;`
 
@@ -1943,31 +1980,37 @@ Isabelle
 * Emacs Lisp
 * NewLisp
 * WebAssembly
+* Commenter
 
 `::`
 
 * Batchfile
 * Batch
+* Commenter
 
 `/** **/`
 
 * IDL
 * Apex
 * Nemerle
+* Commenter
 
 `/*** ***/`
 
 * Lex
+* Commenter
 
 `/** */`
 
 * HyPhy
 * Closure Templates
+* Commenter
 
 `//` & `/** */`
 
 * HyPhy
 * ReScript
+* Commenter
 
 ```bliss
 !+
@@ -1976,51 +2019,63 @@ Isabelle
 ```
 
 * BLISS
+* Commenter (coming soon)
 
 `/*! */`
 
 * Objective-J
+* Commenter (coming soon)
 
 `/*!` & `!*/`
 
 * SugarSS
+* Commenter (coming soon)
 
 `##`
 
 * LookML
+* Commenter
 
 `# & ##`
 
 * LookML
+* Commenter
 
 `BTW`, `OBTW` &> `TLDR`
 
 * LOLCODE
+* Commenter (coming soon)
 
 `NOTE`
 
 * WebVTT
+* Commenter (coming soon)
 
 `!`
 
 * Factor
+* Commenter
 
 `comment`
 
 * ALGOL 60
+* Commenter
 
 `"!`
 
 * ABAP
 * BLISS
+* Commenter
 
 `#C`
 
 * PureData
+* Commenter (coming soon)
 
 `:co`
 
 * Intel Hex (Binary)
+* Commenter (coming soon)
 
 `(` & `)`
 
@@ -2028,80 +2083,99 @@ Isabelle
 * Forth
 * FP
 * Refal
+* Commenter
 
 `/`
 
 * Forth
+* Commenter
 
 `*/`
 
 * TLA
+* Commenter
 
 `{- Comment -}`
 
 * Dhall
+* Commenter
 
 `/% %/`
 
 * Slim
+* Commenter
 
 `- #`
 
 * Slim
+* Commenter
 
 `++`
 
 * Diff
+* Commenter
 
 `{{!-- Comment !--}}`
 
 * Mustache
+* Commenter (coming soon)
 
 `/*= Comment =*/`
 
 * SAS
+* Commenter
 
 `%*-- Comment`
 
 * SAS
+* Commenter (coming soon)
 
 `*`
 
 * SNOBOL
+* Commenter
 
 `***`
 
 * RobotFramework
+* Commenter
 
 `Documentation comment`
 
 * RobotFramework
+* Commenter (coming soon)
 
 `[Documentation] comment`
 
 * RobotFramework
+* Commenter (coming soon)
 
 `.ds comment`
 
 * RUNOFF
+* Commenter (coming soon)
 
 ` # Comment`
 
 * ORGMODE
+* Commenter
 
 `||`
 
 * KRC (Kent Recursive Calculator)
 * SASL
 * Miranda
+* Commenter
 
 `#,`
 
 * GetText
+* Commenter (coming soon)
 
 `NB.`
 
 * J
+* Commenter (coming soon)
 
 ```monkey
 #REM
@@ -2110,11 +2184,17 @@ Comment
 ```
 
 * Monkey
+* Commenter (coming soon)
 
 `Comment`
 
 * MS-DOS Style
 * BibTeX
+* Commenter
+
+MANY NOT LISTED
+
+* Commenter
 
 `UNSUPPORTED`
 
@@ -3953,6 +4033,7 @@ Unsupported
 ```
 
 * URLL (seanpm2001)
+* Commenter
 
 ### Int
 
@@ -4161,9 +4242,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `115 (2023, Saturday, February 18th at 7:28 pm PST)`
+**File version:** `116 (2023, Sunday, February 19th at 12:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `8,941`
+**Line count (including blank lines and compiler line):** `9,057`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7077,7 +7158,7 @@ module string
 
 **This release uses/represents data from:** `2022, Saturday, November 26th at 8:53 pm PST`
 
-**Note:** _I accidentally used data from 2022 November 27th today, instead of what I had assigned for 2022 November 26th_
+**Note** _I accidentally used data from 2022 November 27th today, instead of what I had assigned for 2022 November 26th_
 
 **Changes:**
 
@@ -7118,7 +7199,7 @@ End Function
 
 **This release uses/represents data from:** `2022, Sunday, November 27th at 9:32 pm PST`
 
-**Note:** _I accidentally used data from 2022 November 27th yesterday, instead of what I had assigned for 2022 November 26th_
+**Note** _I accidentally used data from 2022 November 27th yesterday, instead of what I had assigned for 2022 November 26th_
 
 **Changes:**
 
@@ -7163,7 +7244,7 @@ End Function
 
 **This release uses/represents data from:** `2022, Monday, November 28th at 11:59 pm PST`
 
-**Note:** _No new notes for this entry._
+**Note** _No new notes for this entry._
 
 **Changes:**
 
@@ -7195,7 +7276,7 @@ End Function
 
 **This release uses/represents data from:** `2022, Tuesday, November 29th at 11:59 pm PST`
 
-**Note:** _All caught up again (for now)_
+**Note** _All caught up again (for now)_
 
 **Changes:**
 
@@ -7226,7 +7307,7 @@ End Function
 
 **This release uses/represents data from:** `2022, Friday, December 9th at 11:59 pm PST`
 
-**Note:** _All caught up again (for now) after a 6 day delay_
+**Note** _All caught up again (for now) after a 6 day delay_
 
 **Changes:**
 
@@ -7289,7 +7370,7 @@ String
 
 **This release uses/represents data from:** `2022, Thursday, December 22nd at 11:59 pm PST`
 
-> **Note:** _It may take me a while to get caught back up._
+> **Note** _It may take me a while to get caught back up._
 
 **Changes:**
 
@@ -7320,7 +7401,7 @@ String
 
 **This release uses/represents data from:** `2022, Sunday, December 24th at 11:59 pm PST`
 
-> **Note:** _I plan to start making new language repositories again soon, as I am caught back up._
+> **Note** _I plan to start making new language repositories again soon, as I am caught back up._
 
 **Changes:**
 
@@ -7350,7 +7431,7 @@ String
 
 **This release uses/represents data from:** `2023, Wednesday, January 18th at 5:11 pm PST`
 
-> **Note:** _This was my first day back to creating new learn repos this year_
+> **Note** _This was my first day back to creating new learn repos this year_
 
 **Changes:**
 
@@ -7389,7 +7470,7 @@ fn main() {
 
 **This release uses/represents data from:** `2023, Thursday, January 19th at 7:20 pm PST`
 
-> **Note:** _This was my second day back to creating new learn repos this year_
+> **Note** _This was my second day back to creating new learn repos this year_
 
 **Changes:**
 
@@ -7417,7 +7498,7 @@ fn main() {
 
 **This release uses/represents data from:** `2023, Saturday, January 21st at 8:42 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7465,7 +7546,7 @@ end.
 
 **This release uses/represents data from:** `2023, Monday, January 23rd at 8:47 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7493,7 +7574,7 @@ end.
 
 **This release uses/represents data from:** `2023, Wednesday, January 25th at 8:10 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7521,7 +7602,7 @@ end.
 
 **This release uses/represents data from:** `2023, Thursday, January 26th at 4:06 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7547,7 +7628,7 @@ end.
 
 **This release uses/represents data from:** `2023, Friday, January 27th at 6:20 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7573,7 +7654,7 @@ end.
 
 **This release uses/represents data from:** `2023, Saturday, January 28th at 10:12 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7599,7 +7680,7 @@ end.
 
 **This release uses/represents data from:** `2023, Sunday, January 29th at 10:25 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7625,7 +7706,7 @@ end.
 
 **This release uses/represents data from:** `2023, Monday, January 30th at 5:31 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7658,7 +7739,7 @@ end.
 
 **This release uses/represents data from:** `2023, Tuesday, January 31st at 2:32 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7686,7 +7767,7 @@ end.
 
 **This release uses/represents data from:** `2023, Friday, February 10th at 6:30 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7720,7 +7801,7 @@ string: "String"
 
 **This release uses/represents data from:** `2023, Wednesday, February 15th at 6:19 pm PST`
 
-> **Note:** _No additional notes available._
+> **Note** _No additional notes available._
 
 **Changes:**
 
@@ -7748,7 +7829,7 @@ string: "String"
 
 **This release uses/represents data from:** `2023, Wednesday, February 15th at 6:55 pm PST`
 
-> **Note:** _Came back for the second update today, as processing.js was never included, I somehow completely skipped over it until today._
+> **Note** _Came back for the second update today, as processing.js was never included, I somehow completely skipped over it until today._
 
 **Changes:**
 
@@ -7776,7 +7857,7 @@ string: "String"
 
 **This release uses/represents data from:** `2023, Thursday, February 16th at 8:30 pm PST`
 
-> **Note:** _I only added obscure languages today. That doesn't mean they are bad._
+> **Note** _I only added obscure languages today. That doesn't mean they are bad._
 
 **Changes:**
 
@@ -7812,7 +7893,7 @@ STRING[1];
 
 **This release uses/represents data from:** `2023, Friday, February 17th at 9:05 pm PST`
 
-> **Note:** _No unique status notes for today._
+> **Note** _No unique status notes for today._
 
 **Changes:**
 
@@ -7847,7 +7928,7 @@ STRING[1];
 
 **This release uses/represents data from:** `2023, Saturday, February 18th at 7:28 pm PST`
 
-> **Note:** _No unique status notes for today._
+> **Note** _No unique status notes for today._
 
 **Changes:**
 
@@ -7874,11 +7955,28 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 116 (Coming soon)</b></summary>
+<details><summary><b>Version 116 (2023, Sunday, February 19th at 12:34 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V116.md)
+
+**This release uses/represents data from:** `2023, Sunday, February 19th at 12:34 pm PST`
+
+> **Note** _There are a lot of comment sections that weren't added today (for the commenter language) as I didn't have the time. I also fixed several broken `> **Note**` sections by removing the `:` from them_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Commenter
+- [x] Updated the source code comments section
+- - [x] Updated every section to include Commenter
+- [x] Updated the print statement section
+- - [x] Updated the `Not supported` string section to include Commenter
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 116
 - [ ] No other changes in version 116
 
 </details> <!-- Section end !-->
@@ -8906,6 +9004,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 230
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 231 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 231
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 232 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 232
 
 </details> <!-- Section end !-->
 
