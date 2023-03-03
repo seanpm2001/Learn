@@ -930,7 +930,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Refal/"><img src="/Programming/Logos/R/Refal/RefalLogo_512px_V1.svg" width="100px;" alt=""/><br /><sub><b>Learn Refal</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Roff/"><img src="/Programming/Logos/R/Roff/R-for-ROFF.png" width="100px;" alt=""/><br /><sub><b>Learn Roff</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-RenderScript/"><img src="/Programming/Logos/R/RenderScript/RenderScript_LogoSample1.png" width="100px;" alt=""/><br /><sub><b>Learn RenderScript</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-RAML/"><img src="/Programming/Logos/R/RAML/RAML_1.png" width="100px;" alt=""/><br /><sub><b>Learn RAML</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 19A !-->
@@ -1432,6 +1432,7 @@ Isabelle
 * Bro
 * jq
 * Commenter
+* RAML
 
 `#` & `"""`
 
@@ -1476,7 +1477,7 @@ Isabelle
 * JavaScript++
 * Lex
 * Modelica
-* QML
+* QML-
 * Rust
 * Scala
 * SciLab
@@ -3933,6 +3934,14 @@ String
 
 * XTend
 
+```raml
+"message": {
+    "type": "string"
+}
+```
+
+* RAML
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -4242,9 +4251,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `116 (2023, Sunday, February 19th at 12:34 pm PST)`
+**File version:** `117 (2023, Thursday, March 2nd at 9:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,057`
+**Line count (including blank lines and compiler line):** `9,109`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -7981,11 +7990,36 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 117 (Coming soon)</b></summary>
+<details><summary><b>Version 117 (2023, Thursday, March 2nd at 9:39 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V117.md)
+
+**This release uses/represents data from:** `2023, Thursday, March 2nd at 9:39 pm PST`
+
+> **Note** _Just a normal first release of the month_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Commenter
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include YAML
+- [x] Updated the print statement section
+- - [x] Added the:
+
+```raml
+"message": {
+    "type": "string"
+}
+```
+
+- - [ ] section to include RAML
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 117
 - [ ] No other changes in version 117
 
 </details> <!-- Section end !-->
@@ -9022,6 +9056,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 232
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 233 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 233
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 234 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 234
 
 </details> <!-- Section end !-->
 
