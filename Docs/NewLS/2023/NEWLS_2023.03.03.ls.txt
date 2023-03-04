@@ -1,0 +1,25 @@
+RAML
+*.raml
+#%RAML 1.0
+title: String
+/helloworld: # optional resource
+  get: # HTTP method declaration
+    responses: # declare a response
+      200: # HTTP status code
+        body: # declare content of response
+          application/json: # media type
+            type: | # structural definition of a response (schema or type)
+              {
+                "title": "String Response",
+                "type": "object",
+                "properties": {
+                  "message": {
+                    "type": "string"
+                  }
+                }
+              }
+            example: | # example of how a response looks
+              {
+                "message": "String"
+              }
+# Comment
