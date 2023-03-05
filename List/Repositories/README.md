@@ -5,7 +5,7 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `487`/`492` (as of 2023, Thursday, March 2nd at 10:22 pm PST)
+Current progress `488`/`493` (as of 2023, Sunday, March 5th at 12:17 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
@@ -143,7 +143,7 @@ This list covers the creation of the language repositories.
 - [x] DCPU-16-ASM
 - [x] DogeScript
 - [x] Dylan
-- [ ] Ermine
+- [x] Ermine
 - [x] E
 - [x] EAGLE
 - [x] Earthly
@@ -192,6 +192,7 @@ This list covers the creation of the language repositories.
 - [x] Go2003
 - [x] GoogleGo
 - [ ] Google Apps Script
+- [ ] Gremlin
 - [x] GDScript
 - [x] Gradle
 - [x] Hack
@@ -540,9 +541,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `113 (2023, Thursday, March 2nd at 10:22 pm PST)`
+**File version:** `114 (2023, Sunday, March 5th at 12:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,022`
+**Line count (including blank lines and compiler line):** `5,064`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3321,15 +3322,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 114</b></summary>
 
-**Version 114 (Coming soon)**
+**Version 114 (2023, Sunday, March 5th at 12:17 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V114.md)
+
+> **Note** This release represents data from 2023, Saturday, March 4th.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 1 new entry (old total: 487 | new total: 488)
+- - [x] Added 1 new entry to the list (old total: 492 | new total: 493)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 114
 - [ ] No other changes in version 114
 
 </details> <!-- Section end !-->
@@ -5011,6 +5023,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 226
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 227</b></summary>
+
+**Version 227 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 227
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 228</b></summary>
+
+**Version 228 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 228
 
 </details> <!-- Section end !-->
 
