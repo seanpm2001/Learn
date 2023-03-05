@@ -27,6 +27,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] DCPU16-ASM (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with DCPU-16 ASM source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the DCPU-16 ASM language will just perform an `all repositories` search)
 - [ ] DroppedText (seanpm2001)
 - [ ] Epigram
+- [ ] Ermine (can be recognized as E)
 - [ ] FCL
 - [ ] Fish (recognizes as Shell)
 - [ ] FlooP
@@ -96,7 +97,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `90` (as of 2023, Sunday, February 19th at 12:44 pm PST)
+**Total:** `91` (as of 2023, Sunday, March 5th at 12:02 pm PST)
 
 New definitions legend (WIP)
 
@@ -123,9 +124,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2023, Sunday, February 19th at 12:44 pm PST)`
+**File version:** `38 (2023, Sunday, March 5th at 12:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `823`
+**Line count (including blank lines and compiler line):** `842`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -814,6 +815,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 37
 - [ ] No other changes in version 37
+
+</details>
+
+<details><summary><p lang="en"><b>Version 38 (2023, Sunday, March 5th at 12:02 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Ermine to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 38
+- [ ] No other changes in version 38
 
 </details>
 
