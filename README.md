@@ -1,9 +1,16 @@
 
 ***
 
+<img src="/Letter+L+blue.png" width="148" height="148" align="left" style="margin-right: 30px">
+
 # Learn
 
 This repository is a reference to my learning experience on programming. Other subjects will be added in the future.
+
+| **Redirect:** | [:octocat:/seanpm2001:Learn](https://github.com/seanpm2001/Seanpm2001-Learn/)
+|---|---|
+
+**See also:** [:octocat: `SNU 2D Programming Tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/)
 
 ***
 
@@ -427,7 +434,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-E/"><img src="/Programming/Logos/E/E/E-1.png" width="100px;" alt=""/><br /><sub><b>Learn E</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EJS/"><img src="/Programming/Logos/E/EJS/EJS.png" width="100px;" alt=""/><br /><sub><b>Learn EJS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EBNF/"><img src="/Programming/Logos/E/EBNF/EBNF_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn EBNF</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ermine/"><img src="/Programming/Logos/E/Ermine/Ermine1.png" width="100px;" alt=""/><br /><sub><b>Learn Ermine</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 6A !-->
@@ -1315,6 +1322,7 @@ Isabelle
 * SDLang
 * MAXScript
 * Commenter
+* Ermine
 
 `---`
 
@@ -1545,7 +1553,7 @@ Isabelle
 * JSSS
 * JScript.NET
 * SuperCollider
--* Gradle
+* Gradle
 * AspectJ
 * ABAP-CDS
 * AGS-Script
@@ -4036,6 +4044,7 @@ unknown
 * SugarSS
 * Protocol Buffer
 * While
+* Ermine
 
 ```plain-text
 Unsupported
@@ -4251,9 +4260,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `117 (2023, Thursday, March 2nd at 9:39 pm PST)`
+**File version:** `118 (2023, Sunday, March 5th at 11:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,109`
+**Line count (including blank lines and compiler line):** `9,154`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8024,11 +8033,29 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 118 (Coming soon)</b></summary>
+<details><summary><b>Version 118 (2023, Sunday, March 5th at 11:55 am PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V118.md)
+
+**This release uses/represents data from:** `2023, Saturday, March 4th at 11:59 pm PST`
+
+> **Note** _Coming 1 day late, as I had procrastination issues last night._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the header to contain the new project logo, a redirect link, and a see also link
+- [x] Updated the `Learn` table
+- - [x] Added support for Ermine
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include Ermine
+- [x] Updated the print statement section
+- - [x] Updated the `Unknown` section to include Ermine
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 118
 - [ ] No other changes in version 118
 
 </details> <!-- Section end !-->
@@ -9074,6 +9101,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 234
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 235 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 235
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 236 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 236
 
 </details> <!-- Section end !-->
 
