@@ -876,7 +876,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-PEG.js/"><img src="/Programming/Logos/P/PEG.js/PEG.js_OrgLogo.png" width="100px;" alt=""/><br /><sub><b>Learn PEG.js</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Protocol-Buffer/"><img src="/Programming/Logos/P/ProtoBuf/ProtoBuf_2.png" width="100px;" alt=""/><br /><sub><b>Learn Protocol Buffer</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Processing.js/"><img src="/Programming/Logos/P/Processing.js/ProcessingJS_Logo_Opaque.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Processing.js</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Processing/"><img src="/Programming/Logos/P/Processing/Processing_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Processing</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -1597,6 +1597,7 @@ Isabelle
 * SQF
 * Processing.js
 * Commenter
+* Processing
 
 `///`
 
@@ -3168,6 +3169,7 @@ str1 = "String";
 ```
 
 * Processing.js
+* Processing
 
 ```b
 putchar('String');
@@ -4260,9 +4262,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `118 (2023, Sunday, March 5th at 11:55 pm PST)`
+**File version:** `119 (2023, Tuesday, March 7th at 2:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,154`
+**Line count (including blank lines and compiler line):** `9,191`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8039,7 +8041,7 @@ END
 
 **This release uses/represents data from:** `2023, Saturday, March 4th at 11:59 pm PST`
 
-> **Note** _Coming 1 day late, as I had procrastination issues last night._
+> **Note** _Coming 1 day late, as I had procrastination issues last night. Also, I love the new header :)_
 
 **Changes:**
 
@@ -8060,11 +8062,28 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 119 (Coming soon)</b></summary>
+<details><summary><b>Version 119 (2023, Tuesday, March 7th at 2:42 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V119.md)
+
+**This release uses/represents data from:** `2023, Tuesday, March 7th at 11:59 pm PST`
+
+> **Note** _Processing is not to be confused with Processing.js. They are both made by the same organization, but are 2 different languages._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Processing
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Processing
+- [x] Updated the print statement section
+- - [x] Updated the `str1 = "String";` section to include Processing
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 119
 - [ ] No other changes in version 119
 
 </details> <!-- Section end !-->
@@ -9119,6 +9138,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 236
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 237 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 237
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 238 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 238
 
 </details> <!-- Section end !-->
 
