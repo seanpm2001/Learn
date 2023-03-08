@@ -513,7 +513,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section G4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gleam/"><img src="/Programming/Logos/G/Gleam/Gleam_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Gleam</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Google-Apps-Script/"><img src="/Programming/Logos/G/Google-Apps-Script/Google_Apps_Script.svg" width="100px;" alt=""/><br /><sub><b>Learn Google Apps Script</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -757,7 +757,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Macaulay2/"><img src="/Programming/Logos/M/Macaulay2/Macaulay2_Logo.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Macaulay2</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MAXScript/"><img src="/Programming/Logos/M/MAXScript/AutoDesk_3DS_Max_LogoHQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MAXScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-mIRC-Script/"><img src="/Programming/Logos/M/mIRC-Script/mIRC-Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn mIRC-Script</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MGears/"><img src="/Programming/Logos/M/MGears/MGears_Logo_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn MGears</b></sub></a></td>
   </tr> 
   <!-- Row 14A !-->
   <!-- Letter N !-->
@@ -1441,6 +1441,7 @@ Isabelle
 * jq
 * Commenter
 * RAML
+* MGears
 
 `#` & `"""`
 
@@ -1450,6 +1451,7 @@ Isabelle
 * CPython
 * PowerShell
 * Commenter
+* MGears
 
 `#` & `"""` & `'''`
 
@@ -1459,6 +1461,7 @@ Isabelle
 * Matrix (seanpm2001)
 * CPython
 * Commenter
+* MGears
 
 `#` & `/*`
 
@@ -1598,6 +1601,7 @@ Isabelle
 * Processing.js
 * Commenter
 * Processing
+* Google Apps Script
 
 `///`
 
@@ -2403,6 +2407,7 @@ print("String")
 * Terra
 * Matrix (seanpm2001)
 * CPython
+* MGears
 
 ```perl
 print("String");
@@ -3579,6 +3584,12 @@ HtmlText: |-
 
 * PowerFX
 
+```google-apps-script
+msg = msg || 'String'
+```
+
+* Google Apps Script
+
 ```abnf
 field-content   = <String>
 ```
@@ -4262,9 +4273,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `119 (2023, Tuesday, March 7th at 2:42 pm PST)`
+**File version:** `120 (2023, Wednesday, March 8th at 3:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,191`
+**Line count (including blank lines and compiler line):** `9,241`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8088,11 +8099,32 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 120 (Coming soon)</b></summary>
+<details><summary><b>Version 120 (2023, Wednesday, March 8th at 3:02 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V120.md)
+
+**This release uses/represents data from:** `2023, Wednesday, March 8th at 11:59 pm PST`
+
+> **Note** _1 language created by me was included today (MGears)_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Google Apps Script and MGears
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Google Apps Script
+- - [x] Updated the `#` comment section to include MGears
+- - [x] Updated the `"""` comment section to include MGears
+- - [x] Updated the `'''` comment section to include MGears
+- [x] Updated the print statement section
+- - [x] Updated the `print("String")` section to include MGears
+- - [x] Added the `msg = msg || 'String'` section to include Google Apps Script
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 120
 - [ ] No other changes in version 120
 
 </details> <!-- Section end !-->
@@ -9156,6 +9188,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 238
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 239 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 239
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 240 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 240
 
 </details> <!-- Section end !-->
 
