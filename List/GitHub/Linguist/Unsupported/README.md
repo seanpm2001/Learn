@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Sunday, February 19th at 12:44 pm PST
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Wednesday, March 8th at 3:10 pm PST
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -33,6 +33,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] FlooP
 - [ ] FP
 - [ ] Go! (the one Google blatantly steamrolled over, and mostly everyone kind of forgot)
+- [ ] Google Apps Script
 - [ ] Hope
 - [ ] Intel Hex (Binary)
 - [ ] INTERCAL
@@ -62,6 +63,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Mallard
 - [ ] Matrix (seanpm2001)
 - [ ] Maxima
+- [ ] MGears (seanpm2001)
 - [ ] Miranda
 - [ ] ML
 - [ ] MS-DOS Style
@@ -97,7 +99,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `91` (as of 2023, Sunday, March 5th at 12:02 pm PST)
+**Total:** `93` (as of 2023, Wednesday, March 8th at 3:10 pm PST)
 
 New definitions legend (WIP)
 
@@ -124,9 +126,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `38 (2023, Sunday, March 5th at 12:02 pm PST)`
+**File version:** `39 (2023, Wednesday, March 8th at 3:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `842`
+**Line count (including blank lines and compiler line):** `862`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -833,6 +835,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 38
 - [ ] No other changes in version 38
+
+</details>
+
+<details><summary><p lang="en"><b>Version 39 (2023, Wednesday, March 8th at 3:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Google Apps Script and MGears to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 39
+- [ ] No other changes in version 39
 
 </details>
 
