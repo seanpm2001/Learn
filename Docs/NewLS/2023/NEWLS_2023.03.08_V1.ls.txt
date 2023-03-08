@@ -1,0 +1,15 @@
+Google Apps Script
+
+*.gs
+// Comment
+msg = msg || 'String'
+
+MGears
+
+*.mgear
+# Comment
+""" Comment
+(multi-line)"""
+''' Comment
+(multi-line)'''
+print("String")
