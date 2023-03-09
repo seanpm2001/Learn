@@ -1,0 +1,5 @@
+Mojom
+
+*.mojom
+// Comment
+? String
