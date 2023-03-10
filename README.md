@@ -758,7 +758,19 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MAXScript/"><img src="/Programming/Logos/M/MAXScript/AutoDesk_3DS_Max_LogoHQ.jpeg" width="100px;" alt=""/><br /><sub><b>Learn MAXScript</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-mIRC-Script/"><img src="/Programming/Logos/M/mIRC-Script/mIRC-Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn mIRC-Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MGears/"><img src="/Programming/Logos/M/MGears/MGears_Logo_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn MGears</b></sub></a></td>
-  </tr> 
+  </tr>
+  <!-- Row 13E !-->
+  <!-- Letter M !--> 
+  <tr>
+    <td align="center"><p>Section M6</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Mojom/"><img src="/Programming/Logos/M/Mojom/Mojom_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Mojom</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
   <!-- Row 14A !-->
   <!-- Letter N !-->
   <tr>
@@ -1602,6 +1614,7 @@ Isabelle
 * Commenter
 * Processing
 * Google Apps Script
+* Mojom
 
 `///`
 
@@ -4058,6 +4071,7 @@ unknown
 * Protocol Buffer
 * While
 * Ermine
+* Mojom
 
 ```plain-text
 Unsupported
@@ -4273,9 +4287,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `120 (2023, Wednesday, March 8th at 3:02 pm PST)`
+**File version:** `121 (2023, Thursday, March 9th at 7:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,241`
+**Line count (including blank lines and compiler line):** `9,290`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8129,11 +8143,28 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 121 (Coming soon)</b></summary>
+<details><summary><b>Version 121 (2023, Thursday, March 9th at 7:48 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V121.md)
+
+**This release uses/represents data from:** `2023, Thursday, March 9th at 11:59 pm PST`
+
+> **Note** _Last consecutive day of work before a vacation._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Mojom
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to Mojom
+- [x] Updated the print statement section
+- - [x] Updated the `unknown` section to include Mojom
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 121
 - [ ] No other changes in version 121
 
 </details> <!-- Section end !-->
@@ -9206,6 +9237,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 240
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 241 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 241
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 242 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 242
 
 </details> <!-- Section end !-->
 
