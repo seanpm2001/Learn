@@ -1,0 +1,7 @@
+DataWeave
+
+*.dwl
+
+%dw 2.0
+// Comment
+typeOf ("String")
