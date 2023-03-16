@@ -413,6 +413,19 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DCPU-16-ASM/"><img src="/Programming/Logos/D/DCPU-16-ASM/DCPU16ASM.jpeg" width="100px;" alt=""/><br /><sub><b>Learn DCPU-16 ASM (Assembly)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DroppedText/"><img src="/Programming/Logos/D/DroppedText/DROTEX.png" width="100px;" alt=""/><br /><sub><b>Learn DroppedText (seanpm2001)</b></sub></a></td>
   </tr>
+  <!-- Row 4C !-->
+  <!-- Letter D !-->
+  <tr>
+    <td align="center"><p>Section D3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DataWeave/"><img src="/Programming/Logos/D/DataWeave/DataWeave_Logo_128px.png" width="100px;" alt=""/><br /><sub><b>Learn DataWeave</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
+  
   <!-- Row 5A !-->
   <!-- Letter E !-->
   <tr>
@@ -1615,6 +1628,7 @@ Isabelle
 * Processing
 * Google Apps Script
 * Mojom
+* DataWeave
 
 `///`
 
@@ -3927,6 +3941,12 @@ module string
 
 * Linux Kernel Module
 
+```dataweave
+typeOf ("String")
+```
+
+* DataWeave
+
 ```java-server-pages
 <% <p>String</p> %>
 ```
@@ -4287,9 +4307,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `121 (2023, Thursday, March 9th at 7:48 pm PST)`
+**File version:** `122 (2023, Wednesday, March 15th at 10:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,290`
+**Line count (including blank lines and compiler line):** `9,345`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8169,11 +8189,28 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 122 (Coming soon)</b></summary>
+<details><summary><b>Version 122 (2023, Wednesday, March 15th at 10:37 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V122.md)
+
+**This release uses/represents data from:** `2023, Wednesday, March 15th at 10:37 pm PST`
+
+> **Note** _Last consecutive day of work before a vacation._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for DataWeave
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to DataWeave
+- [x] Updated the print statement section
+- - [x] Added the `typeOf ("String")` section to include DataWeave
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 122
 - [ ] No other changes in version 122
 
 </details> <!-- Section end !-->
@@ -9255,6 +9292,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 242
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 243 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 243
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 244 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 244
 
 </details> <!-- Section end !-->
 
