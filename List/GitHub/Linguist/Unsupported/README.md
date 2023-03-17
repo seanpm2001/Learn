@@ -34,6 +34,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] FP
 - [ ] Go! (the one Google blatantly steamrolled over, and mostly everyone kind of forgot)
 - [ ] Google Apps Script
+- [ ] Gremlin
 - [ ] Hope
 - [ ] Intel Hex (Binary)
 - [ ] INTERCAL
@@ -96,11 +97,12 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] VBHTML (recognizes as Visual Basic .NET)
 - [ ] Verona
 - [ ] VisualLogic
+- [ ] Wasp
 - [ ] Wierd
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `94` (as of 2023, Thursday, March 9th at 8:04 pm PST)
+**Total:** `96` (as of 2023, Thursday, March 16th at 11:09 pm PST)
 
 New definitions legend (WIP)
 
@@ -127,9 +129,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2023, Thursday, March 9th at 8:02 pm PST)`
+**File version:** `41 (2023, Thursday, March 16th at 11:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `881`
+**Line count (including blank lines and compiler line):** `901`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -872,6 +874,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 40
 - [ ] No other changes in version 40
+
+</details>
+
+<details><summary><p lang="en"><b>Version 41 (2023, Thursday, March 16th at 11:09 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Gremlin and Wasp to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 41
+- [ ] No other changes in version 41
 
 </details>
 
