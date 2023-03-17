@@ -527,7 +527,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><p>Section G4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gleam/"><img src="/Programming/Logos/G/Gleam/Gleam_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Gleam</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Google-Apps-Script/"><img src="/Programming/Logos/G/Google-Apps-Script/Google_Apps_Script.svg" width="100px;" alt=""/><br /><sub><b>Learn Google Apps Script</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Gremlin/"><img src="/Programming/Logos/G/Gremlin/gremlin.square.png" width="100px;" alt=""/><br /><sub><b>Learn Gremlin</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1153,7 +1153,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Wren/"><img src="/Programming/Logos/W/Wren/Wren_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Wren</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebIDL/"><img src="/Programming/Logos/W/WebIDL/WebIDL.png" width="100px;" alt=""/><br /><sub><b>Learn WebIDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-While/"><img src="/Programming/Logos/W/While/WhileLanguage_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn While</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Wasp/"><img src="/Programming/Logos/W/Wasp/WaspLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Wasp</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -1629,6 +1629,8 @@ Isabelle
 * Google Apps Script
 * Mojom
 * DataWeave
+* Gremlin
+* Wasp
 
 `///`
 
@@ -3398,6 +3400,12 @@ title "string"
 
 * SDLang
 
+```wasp
+title: "String",
+```
+
+* Wasp
+
 ```toml
 title = "String"
 ```
@@ -4092,6 +4100,7 @@ unknown
 * While
 * Ermine
 * Mojom
+* Gremlin
 
 ```plain-text
 Unsupported
@@ -4307,9 +4316,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `122 (2023, Wednesday, March 15th at 10:37 pm PST)`
+**File version:** `123 (2023, Thursday, March 16th at 10:59 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,345`
+**Line count (including blank lines and compiler line):** `9,390`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8176,7 +8185,7 @@ END
 - [x] Updated the `Learn` table
 - - [x] Added support for Mojom
 - [x] Updated the source code comments section
-- - [x] Updated the `//` comment section to Mojom
+- - [x] Updated the `//` comment section to include Mojom
 - [x] Updated the print statement section
 - - [x] Updated the `unknown` section to include Mojom
 - [x] Updated the file info section
@@ -8195,14 +8204,14 @@ END
 
 **This release uses/represents data from:** `2023, Wednesday, March 15th at 10:37 pm PST`
 
-> **Note** _Last consecutive day of work before a vacation._
+> **Note** _No notes._
 
 **Changes:**
 
 - [x] Updated the `Learn` table
 - - [x] Added support for DataWeave
 - [x] Updated the source code comments section
-- - [x] Updated the `//` comment section to DataWeave
+- - [x] Updated the `//` comment section to include DataWeave
 - [x] Updated the print statement section
 - - [x] Added the `typeOf ("String")` section to include DataWeave
 - [x] Updated the file info section
@@ -8215,11 +8224,29 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 123 (Coming soon)</b></summary>
+<details><summary><b>Version 123 (2023, Thursday, March 16th at 10:59 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V123.md)
+
+**This release uses/represents data from:** `2023, Thursday, March 16th at 10:59 pm PST`
+
+> **Note** _None_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Gremlin and Wasp
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Gremlin and Wasp
+- [x] Updated the print statement section
+- - [x] Added the `title: "String",` section to include Wasp
+- - [x] Updated the `Unknown` section to include Gremlin
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 123
 - [ ] No other changes in version 123
 
 </details> <!-- Section end !-->
@@ -9310,6 +9337,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 244
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 245 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 245
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 246 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 246
 
 </details> <!-- Section end !-->
 
