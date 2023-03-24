@@ -1,0 +1,15 @@
+Sweave
+
+*.Rd
+RECOGNIZE AS R (for now)
+
+# Comment
+print("String")
+
+MTML
+
+*.mtml
+
+<!DOCTYPE html>
+<!-- Comment !-->
+<p>String</p>
