@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `495`/`497` (as of 2023, Thursday, March 16th at 11:25 pm PST)
+Current progress `497`/`504` (as of 2023, Saturday, March 25th at 6:55 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `099.59%` complete, `000.41%` incomplete.
+**Ratio:** `098.61%` complete, `001.39%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -63,6 +63,7 @@ This list covers the creation of the language repositories.
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] Antlers
+- [ ] [REDACTED]
 - [x] Bro
 - [x] B
 - [x] BASIC
@@ -128,6 +129,7 @@ This list covers the creation of the language repositories.
 - [x] Ch
 - [x] Chapel
 - [x] CUE
+- [ ] DSergeant (seanpm2001)
 - [x] DroppedText (seanpm2001)
 - [x] D
 - [x] Dafny
@@ -171,6 +173,7 @@ This list covers the creation of the language repositories.
 - [x] FP
 - [x] FreeBasic
 - [x] FlooP
+- [ ] GRANNY (seanpm2001)
 - [x] Gleam
 - [x] G-CODE
 - [x] GnuPlot
@@ -314,7 +317,8 @@ This list covers the creation of the language repositories.
 - [x] MoonScript
 - [x] Maxima
 - [x] Mojom
-- [ ] MTML
+- [x] MTML
+- [ ] MCPYE CL
 - [x] NASL
 - [x] nesC
 - [x] Nemerle
@@ -331,7 +335,10 @@ This list covers the creation of the language repositories.
 - [x] Oxygene
 - [x] Oberon
 - [x] Objective-J
+- [ ] Objective-J#
+- [ ] Objective-J++
 - [x] Objective-C
+- [ ] Objective-C#
 - [x] Objective-CPP
 - [x] OCaml
 - [x] Octave
@@ -461,7 +468,7 @@ This list covers the creation of the language repositories.
 - [x] Slash
 - [x] SQF
 - [x] SNOBOL
-- [ ] Sweave
+- [x] Sweave
 - [x] TypeScript
 - [x] TCL
 - [x] TeX
@@ -545,9 +552,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `119 (2023, Thursday, March 16th at 11:25 pm PST)`
+**File version:** `120 (2023, Saturday, March 25th at 6:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,271`
+**Line count (including blank lines and compiler line):** `5,317`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3480,15 +3487,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 120</b></summary>
 
-**Version 120 (Coming soon)**
+**Version 120 (2023, Saturday, March 25th at 6:55 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V120.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 495 | new total: 497)
+- - [x] Added 7 new entries to the list (old total: 497 | new total: 504)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 120
 - [ ] No other changes in version 120
 
 </details> <!-- Section end !-->
@@ -5260,6 +5276,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 238
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 239</b></summary>
+
+**Version 239 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 239
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 240</b></summary>
+
+**Version 240 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 240
 
 </details> <!-- Section end !-->
 
