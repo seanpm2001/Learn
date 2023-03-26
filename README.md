@@ -24,7 +24,11 @@ The table consists of hundreds of image files, an image for every programming la
 
 As of version 92 and later, 100+ emojis are included into this count.
 
+As of version ~100 and above, GitHub can't handle all the images at once for long periods of time. Upon scrolling through the page a second, third, etc. time, you will likely see images flash as they are reloaded back into memory.
+
 <details><summary><p><b>Minimum requirements (with intense lag)</b></p></summary>
+
+> **Note** These are guestimates. They are not exact.
 
 * **Bandwidth:** `728 Megabits/download (91 Megabyte download) ?/upload`
 * **Available RAM:** `1 gigabyte/tab (0.931 GiB)`
@@ -34,6 +38,8 @@ As of version 92 and later, 100+ emojis are included into this count.
 </details>
 
 <details open><summary><p><b>Minimum requirements (without intense lag)</b></p></summary>
+
+> **Note** These are guestimates. They are not exact.
 
 * **Bandwidth:** `1.456 Gigabits/download (182 Megabyte download) ?/upload`
 * **Available RAM:** `2 gigabytes/tab (1.86 GiB)`
@@ -777,7 +783,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section M6</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mojom/"><img src="/Programming/Logos/M/Mojom/Mojom_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Mojom</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-MTML/"><img src="/Programming/Logos/M/MTML/MTML_Logo_1024px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1058,7 +1064,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Slash/"><img src="/Programming/Logos/S/Slash/Slash1Fat.png" width="100px;" alt=""/><br /><sub><b>Learn Slash</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SQF/"><img src="/Programming/Logos/S/SQF/SQF_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQF</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SNOBOL/"><img src="/Programming/Logos/S/SNOBOL/SNOBOL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SNOBOL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Sweave/"><img src="/Programming/Logos/S/Sweave/Sweave_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Sweave</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 20A !-->
@@ -1467,6 +1473,7 @@ Isabelle
 * Commenter
 * RAML
 * MGears
+* Sweave
 
 `#` & `"""`
 
@@ -1877,6 +1884,7 @@ Isabelle
 * ColdFusion
 * Antlers
 * Commenter
+* MTML
 
 `(* *)`
 
@@ -2437,6 +2445,7 @@ print("String")
 * Matrix (seanpm2001)
 * CPython
 * MGears
+* Sweave
 
 ```perl
 print("String");
@@ -2817,6 +2826,7 @@ STRING[1];
 * ASP.NET Core
 * HTML
 * Antlers
+* MTML
 
 ```xproc
 <para>String</para>
@@ -4316,9 +4326,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `123 (2023, Thursday, March 16th at 10:59 pm PST)`
+**File version:** `124 (2023, Saturday, March 25th at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,390`
+**Line count (including blank lines and compiler line):** `9,438`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8251,11 +8261,31 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 124 (Coming soon)</b></summary>
+<details><summary><b>Version 124 (2023, Saturday, March 25th at 6:20 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V124.md)
+
+**This release uses/represents data from:** `2023, Friday, March 24th at 11:59 pm PST`
+
+> **Note** _Added support for MTML and Sweave. This release is coming 1 day late, as there were some personal issues last night that made me lose time._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Important observation notes` section
+- [x] Updated the `Learn` table
+- - [x] Added support for MTML and Sweave
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Sweave
+- - [x] Updated the `<!--` & `!-->` comment section to include MTML
+- [x] Updated the print statement section
+- - [x] Updated the `print("String")` section to include Sweave
+- - [x] Updated the `<p>String</p>` section to include MTML
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 124
 - [ ] No other changes in version 124
 
 </details> <!-- Section end !-->
@@ -9355,6 +9385,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 246
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 247 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 247
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 248 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 248
 
 </details> <!-- Section end !-->
 
