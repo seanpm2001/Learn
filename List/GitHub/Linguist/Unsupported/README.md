@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Thursday, March 9th at 8:02 pm PST
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Friday, March 24th at 6:37 pm PST
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -90,6 +90,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] SNOBOL (it is rarely used nowadays, but it could be included due to its significance)
 - [ ] Starlark
 - [ ] Sublime Text (justification for adding to Linguist: it is clearly a JSON language. Many more obscure XML and JSON languages are listed, why can't this one be?)
+- [ ] Sweave (Can't tell if it is related to R, if it is, it is partially recognized; if not, it is unrecognized)
 - [ ] SXML
 - [ ] TSX (recognizes as TypeScript)
 - [ ] Unix Assmembly (recognizes as a language in the inner Linguist, but recognizes as Assembly in the outer Linguist)
@@ -102,7 +103,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `96` (as of 2023, Thursday, March 16th at 11:09 pm PST)
+**Total:** `97` (as of 2023, Saturday, March 25th at 6:37 pm PST)
 
 New definitions legend (WIP)
 
@@ -129,9 +130,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2023, Thursday, March 16th at 11:11 pm PST)`
+**File version:** `42 (2023, Saturday, March 25th at 6:37 pm PST)`
 
-**Line count (including blank lines and compiler line):** `901`
+**Line count (including blank lines and compiler line):** `920`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -892,6 +893,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 41
 - [ ] No other changes in version 41
+
+</details>
+
+<details><summary><p lang="en"><b>Version 42 (2023, Saturday, March 25th at 6:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Sweave to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 42
+- [ ] No other changes in version 42
 
 </details>
 
