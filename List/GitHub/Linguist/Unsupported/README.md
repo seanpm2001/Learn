@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Friday, March 24th at 6:37 pm PST
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Wednesday, March 29th at 5:09 pm PST
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -14,6 +14,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] AssemblyScript
 - [ ] B
 - [ ] Blockly (basically just a JSON zip archive)
+- [ ] BlockQL (the language is obscure, it was added to this list 1 day after its creation, and won't be recognized by GitHub until it gets a noticeable userbase (if it does))
 - [ ] BLISS
 - [ ] BlooP
 - [ ] Bro (originally was partially recognized up until 2023, January 27th, at the same level as `Arduino` but now it is completely unrecognized, and works like `Fish` does and just redirects the inferred language to `Zeek`)
@@ -103,7 +104,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `97` (as of 2023, Saturday, March 25th at 6:37 pm PST)
+**Total:** `98` (as of 2023, Wednesday, March 29th at 5:08 pm PST)
 
 New definitions legend (WIP)
 
@@ -130,9 +131,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2023, Saturday, March 25th at 6:37 pm PST)`
+**File version:** `43 (2023, Wednesday, March 29th at 5:09 pm PST)`
 
-**Line count (including blank lines and compiler line):** `920`
+**Line count (including blank lines and compiler line):** `939`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -911,6 +912,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 42
 - [ ] No other changes in version 42
+
+</details>
+
+<details><summary><p lang="en"><b>Version 43 (2023, Wednesday, March 29th at 5:09 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added BlockQL to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 43
+- [ ] No other changes in version 43
 
 </details>
 
