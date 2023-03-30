@@ -306,7 +306,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Bro/"><img src="/Programming/Logos/B/Bro/BroLang_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Bro</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlooP/"><img src="/Programming/Logos/B/BlooP/BlooP_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlooP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BLISS/"><img src="/Programming/Logos/B/BLISS/BLISS_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BLISS</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BlockQL/"><img src="/Programming/Logos/B/BlockQL/BlockQL_1920pxLogo_V1_Stretched_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlockQL</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1354,6 +1354,7 @@ Isabelle
 * MAXScript
 * Commenter
 * Ermine
+* BlockQL
 
 `---`
 
@@ -2235,6 +2236,15 @@ Comment
 ```
 
 * Monkey
+* Commenter (coming soon)
+
+```blockql
+=-=
+Comment
+=-=
+```
+
+* BlockQL
 * Commenter (coming soon)
 
 `Comment`
@@ -4014,6 +4024,12 @@ String
 
 * RAML
 
+```python
+"String"
+```
+
+* BlockQL
+
 <!-- End of randomized string order !-->
 
 ```powershell
@@ -4326,9 +4342,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `124 (2023, Saturday, March 25th at 6:20 pm PST)`
+**File version:** `125 (2023, Wednesday, March 29th at 5:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,438`
+**Line count (including blank lines and compiler line):** `9,490`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8290,11 +8306,29 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 125 (Coming soon)</b></summary>
+<details><summary><b>Version 125 (2023, Wednesday, March 29th at 5:00 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V125.md)
+
+**This release uses/represents data from:** `2023, Wednesday, March 29th at 5:00 pm PST`
+
+> **Note** _Added support for BlockQL, a language created by me. It is undergoing major semantic changes, and will change significantly, but the comment and string format listed here is planned to remain the same._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for BlockQL
+- [x] Updated the source code comments section
+- - [x] Updated the `--` comment section to include BlockQL
+- - [x] Updated the `-=-` & `-=-` comment section to include bLOCKql
+- [x] Updated the print statement section
+- - [x] Added the `"String"` section to include BlockQL
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 125
 - [ ] No other changes in version 125
 
 </details> <!-- Section end !-->
@@ -9403,6 +9437,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 248
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 249 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 249
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 250 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 250
 
 </details> <!-- Section end !-->
 
