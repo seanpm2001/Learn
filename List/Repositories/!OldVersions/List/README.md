@@ -34,7 +34,7 @@
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] Antlers
-- [ ] [REDACTED]
+- [x] BlockQL
 - [x] Bro
 - [x] B
 - [x] BASIC
