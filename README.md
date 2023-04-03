@@ -424,7 +424,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section D3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-DataWeave/"><img src="/Programming/Logos/D/DataWeave/DataWeave_Logo_128px.png" width="100px;" alt=""/><br /><sub><b>Learn DataWeave</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-DSergeant/"><img src="/Programming/Logos/D/DSergeant/DSergeant_Logo_900px_V1_Variant2_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn DSergeant</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -534,7 +534,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gleam/"><img src="/Programming/Logos/G/Gleam/Gleam_Lang_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Gleam</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Google-Apps-Script/"><img src="/Programming/Logos/G/Google-Apps-Script/Google_Apps_Script.svg" width="100px;" alt=""/><br /><sub><b>Learn Google Apps Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gremlin/"><img src="/Programming/Logos/G/Gremlin/gremlin.square.png" width="100px;" alt=""/><br /><sub><b>Learn Gremlin</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-GRANNY/"><img src="/Programming/Logos/G/GRANNY/AngryGran.png" width="100px;" alt=""/><br /><sub><b>Learn GRANNY</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1973,6 +1973,11 @@ Isabelle
 * Fortran
 * Commenter
 
+`C:`
+
+* GRANNY
+* Commenter (coming soon)
+
 `rem` / `REM`
 
 * Ada
@@ -1998,6 +2003,11 @@ Isabelle
 * LogTalk
 * TXL
 * Commenter
+
+`%%`
+
+* DSergeant
+* Commenter (coming soon)
 
 `'`
 
@@ -2851,6 +2861,18 @@ PARA { "String" },
 
 * Macaulay2
 
+```prolog
+Loud("String")
+```
+
+* DSergeant
+
+```prolog
+Quiet("String")
+```
+
+* DSergeant
+
 ```mako
 <note>String</note>
 ```
@@ -2910,6 +2932,8 @@ document.write("String");
 description = "String"
 ```
 
+* YARA
+
 ```snobol
           OUTPUT = "String"
 END
@@ -2917,7 +2941,11 @@ END
 
 * SNOBOL
 
-* YARA
+```granny
+android.output.printBox("String")
+```
+
+* GRANNY
 
 ```xbase
 Qout("String")
@@ -3703,7 +3731,7 @@ main=["String",nl]
 dbms_output.put_line('String');
 ```
 
-* PLSQL
+* PLSQLandroid.output.printBox("
 
 ```ags-script
 this.Text = "String";
@@ -4342,9 +4370,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `125 (2023, Wednesday, March 29th at 5:00 pm PST)`
+**File version:** `126 (2023, Sunday, April 2nd at 6:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,490`
+**Line count (including blank lines and compiler line):** `9,556`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8320,7 +8348,7 @@ END
 - - [x] Added support for BlockQL
 - [x] Updated the source code comments section
 - - [x] Updated the `--` comment section to include BlockQL
-- - [x] Updated the `-=-` & `-=-` comment section to include bLOCKql
+- - [x] Updated the `-=-` & `-=-` comment section to include BlockQL
 - [x] Updated the print statement section
 - - [x] Added the `"String"` section to include BlockQL
 - [x] Updated the file info section
@@ -8333,11 +8361,31 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 126 (Coming soon)</b></summary>
+<details><summary><b>Version 126 (2023, Sunday, April 2nd at 6:11 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V126.md)
+
+**This release uses/represents data from:** `2023, Sunday, April 2nd at 6:11 pm PST`
+
+> **Note** _Added support for DSergeant and GRANNY, 2 languages created by me._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for DSergeant and GRANNY
+- [x] Updated the source code comments section
+- - [x] Added the `%%` comment section to include DSergeant and Commenter
+- - [x] Added the `C:` comment section to include DSergeant and Commenter
+- [x] Updated the print statement section
+- - [x] Added the `Loud("String")` string section to include DSergeant
+- - [x] Added the `Quiet("String")` string section to include DSergeant
+- - [x] Added the `android.output.printBox("String")` string section to include GRANNY
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 126
 - [ ] No other changes in version 126
 
 </details> <!-- Section end !-->
@@ -9455,6 +9503,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 250
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 251 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 251
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 252 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 252
 
 </details> <!-- Section end !-->
 
