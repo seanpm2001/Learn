@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `498`/`504` (as of 2023, Wednesday, March 29th at 5:28 pm PST)
+Current progress `500`/`505` (as of 2023, Sunday, April 2nd at 6:31 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.80%` complete, `001.20%` incomplete.
+**Ratio:** `099.00%` complete, `001.00%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -63,6 +63,7 @@ This list covers the creation of the language repositories.
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] Antlers
+- [ ] AGRAN
 - [x] BlockQL
 - [x] Bro
 - [x] B
@@ -129,7 +130,7 @@ This list covers the creation of the language repositories.
 - [x] Ch
 - [x] Chapel
 - [x] CUE
-- [ ] DSergeant (seanpm2001)
+- [x] DSergeant (seanpm2001)
 - [x] DroppedText (seanpm2001)
 - [x] D
 - [x] Dafny
@@ -173,7 +174,7 @@ This list covers the creation of the language repositories.
 - [x] FP
 - [x] FreeBasic
 - [x] FlooP
-- [ ] GRANNY (seanpm2001)
+- [x] GRANNY (seanpm2001)
 - [x] Gleam
 - [x] G-CODE
 - [x] GnuPlot
@@ -552,9 +553,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `121 (2023, Wednesday, March 29th at 5:28 pm PST)`
+**File version:** `122 (2023, Sunday, April 2nd at 6:31 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,356`
+**Line count (including blank lines and compiler line):** `5,395`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3520,7 +3521,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 > Changes:
 
 - [x] Updated the list section
-- - [x] Checked 1 new entrY (old total: 497 | new total: 498)
+- - [x] Checked 1 new entry (old total: 497 | new total: 498)
 - - [x] Added 0 new entries to the list (old total: 504 | new total: 504)
 - [x] Updated the ratio in the title section
 - [x] Updated the file info section
@@ -3535,17 +3536,25 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 122</b></summary>
 
-**Version 122 (Coming soon)**
+**Version 122 (2023, Sunday, April 2nd at 6:31 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V122.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 498 | new total: 500)
+- - [x] Added 1 new entry to the list (old total: 504 | new total: 505)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 122
 - [ ] No other changes in version 122
-
 </details> <!-- Section end !-->
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 123</b></summary>
@@ -5345,6 +5354,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 242
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 243</b></summary>
+
+**Version 243 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 243
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 244</b></summary>
+
+**Version 244 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 244
 
 </details> <!-- Section end !-->
 
