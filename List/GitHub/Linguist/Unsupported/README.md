@@ -3,7 +3,7 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Wednesday, March 29th at 5:09 pm PST
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Sunday, April 2nd at 6:20 pm PST
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -27,6 +27,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] ColdFusion CFC (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with ColdFusion CFC source code, it willl be labeled as `ColdFusion` However, attempting to sort by the ColdFusion CFC language will just perform an `all repositories` search)
 - [ ] DCPU16-ASM (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with DCPU-16 ASM source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the DCPU-16 ASM language will just perform an `all repositories` search)
 - [ ] DroppedText (seanpm2001)
+- [ ] DSergeant (seanpm2001)
 - [ ] Epigram
 - [ ] Ermine (can be recognized as E)
 - [ ] FCL
@@ -35,6 +36,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] FP
 - [ ] Go! (the one Google blatantly steamrolled over, and mostly everyone kind of forgot)
 - [ ] Google Apps Script
+- [ ] GRANNY (seanpm2001)
 - [ ] Gremlin
 - [ ] Hope
 - [ ] Intel Hex (Binary)
@@ -104,7 +106,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `98` (as of 2023, Wednesday, March 29th at 5:08 pm PST)
+**Total:** `100` (as of 2023, Sunday, April 2nd at 6:22 pm PST)
 
 New definitions legend (WIP)
 
@@ -131,9 +133,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `43 (2023, Wednesday, March 29th at 5:09 pm PST)`
+**File version:** `44 (2023, Sunday, April 2nd at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `939`
+**Line count (including blank lines and compiler line):** `959`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -930,6 +932,24 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 43
 - [ ] No other changes in version 43
+
+</details>
+
+<details><summary><p lang="en"><b>Version 44 (2023, Sunday, April 2nd at 6:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added DSergeant and GRANNY to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 44
+- [ ] No other changes in version 44
 
 </details>
 
