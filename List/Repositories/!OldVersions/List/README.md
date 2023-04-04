@@ -34,6 +34,7 @@
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] Antlers
+- [ ] AGRAN
 - [x] BlockQL
 - [x] Bro
 - [x] B
@@ -100,7 +101,7 @@
 - [x] Ch
 - [x] Chapel
 - [x] CUE
-- [ ] DSergeant (seanpm2001)
+- [x] DSergeant (seanpm2001)
 - [x] DroppedText (seanpm2001)
 - [x] D
 - [x] Dafny
@@ -144,7 +145,7 @@
 - [x] FP
 - [x] FreeBasic
 - [x] FlooP
-- [ ] GRANNY (seanpm2001)
+- [x] GRANNY (seanpm2001)
 - [x] Gleam
 - [x] G-CODE
 - [x] GnuPlot
@@ -289,7 +290,7 @@
 - [x] Maxima
 - [x] Mojom
 - [x] MTML
-- [ ] MCPYE CL
+- [x] MCPYE CL
 - [x] NASL
 - [x] nesC
 - [x] Nemerle
@@ -309,7 +310,7 @@
 - [ ] Objective-J#
 - [ ] Objective-J++
 - [x] Objective-C
-- [ ] Objective-C#
+- [x] Objective-C#
 - [x] Objective-CPP
 - [x] OCaml
 - [x] Octave
