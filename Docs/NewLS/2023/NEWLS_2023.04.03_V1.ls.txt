@@ -1,0 +1,10 @@
+Objective-C#
+*.mm
+// Comment
+/* Comment */
+NSLog.println("String");
+
+MCPYE-CL
+*.mcfunction
+# Comment
+tellraw @p "String"
