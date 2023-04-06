@@ -3,8 +3,8 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// Start of script
 //// Incomplete projects list
-//// Version 123
-//// As of 2023, Monday, April 3rd at 9:12 pm PST
+//// Version 124
+//// As of 2023, Wednesday, April 5th at 8:37 pm PST
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -277,6 +277,8 @@ https://github.com/seanpm2001/Learn-Nunjucks
 https://github.com/seanpm2001/Learn-Oberon
 https://github.com/seanpm2001/Learn-Objective-CSharp
 https://github.com/seanpm2001/Learn-Objective-J
+https://github.com/seanpm2001/Learn-Objective-JPlusPlus
+https://github.com/seanpm2001/Learn-Objective-JSharp
 https://github.com/seanpm2001/Learn-OCaml
 https://github.com/seanpm2001/Learn-Octave
 https://github.com/seanpm2001/Learn-Ooc
@@ -447,7 +449,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 440/500
+//// Count: 442/502
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -697,15 +699,17 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V121 date: 2023, Wednesday, March 29th at 5:18 pm PST, representing data from 2023, Wednesday, March 29th at 5:18 pm PST
 //// V122: 2 entries added, 438 entries remain (ratio: 438/498 (87.95% incomplete, 12.05% complete))
 //// V122 date: 2023, Sunday, April 2nd at 6:26 pm PST, representing data from 2023, SUnday, April 2nd at 6:26 pm PST
-//// V123: 2 entries added, 440 entries remain (ratio: 440/450 (88.00% incomplete, 12.00% complete))
+//// V123: 2 entries added, 440 entries remain (ratio: 440/500 (88.00% incomplete, 12.00% complete))
 //// V123 date: 2023, Monday, April 3rd at 9:12 pm PST, representing data from 2023, SUnday, April 2nd at 6:26 pm PST
+//// V124: 2 entries added, 442 entries remain (ratio: 442/502 (88.04% incomplete, 11.96% complete))
+//// V124 date: 2023, Wednesday, April 5th at 8:37 pm PST, representing data from 2023, Tuesday, April 4th at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 440/500 (88.00% incomplete, 12.00% complete)
+//// Ratio (incomplete/complete): 442/502 (88.00% incomplete, 12.00% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 123 (2023, Monday, April 3rd at 9:12 pm PST)
-//// Line count (including blank lines and compiler line): 712
+//// File version: 124 (2023, Wednesday, April 5th at 8:37 pm PST)
+//// Line count (including blank lines and compiler line): 716
 
 //// End of script
