@@ -845,8 +845,8 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><p>Section O3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Oxygene/"><img src="/Programming/Logos/O/Oxygene/Oxygene_256px.png" width="100px;" alt=""/><br /><sub><b>Learn Oxygene</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-CSharp/"><img src="/Programming/Logos/O/Objective-CSharp/Objective-CSharp_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-C#</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-JPlusPlus/"><img src="/Programming/Logos/O/Objective-JPlusPlus/Objective-JPlusPlus_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-J++</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Objective-JSharp/"><img src="/Programming/Logos/O/Objective-JSharp/Objective-JSharp_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Objective-J#</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1641,6 +1641,8 @@ Isabelle
 * Gremlin
 * Wasp
 * Objective-C#
+* Objective-J++
+* Objective-J#
 
 `///`
 
@@ -1841,6 +1843,8 @@ Isabelle
 * Processing.js
 * Commenter
 * Objective-C#
+* Objective-J++
+* Objective-J#
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -2937,6 +2941,18 @@ NSLog.println("String");
 ```
 
 * Objective-C#
+
+```cpp
+NS::cout >> "String";
+```
+
+* Objective-J++
+
+```csharp
+NSLog.writeln("String");
+```
+
+* Objective-J#
 
 ```YARA
 description = "String"
@@ -4381,9 +4397,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `127 (2023, Monday, April 3rd at 8:50 pm PST)`
+**File version:** `128 (2023, Wednesday, April 5th at 8:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,604`
+**Line count (including blank lines and compiler line):** `9,656`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8429,11 +8445,29 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 128 (Coming soon)</b></summary>
+<details><summary><b>Version 128 (2023, Wednesday, April 5th at 8:17 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2023, Tuesday, April 4th at 11:59 pm PST`
+
+> **Note** _Added support for Objective-J++ and Objective-J#, yet another 2 languages created by me. This release was delayed by one day, as I lost a family member yesterday, and was in too much pain to continue._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Objective-J++ and Objective-J#
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Objective-J# and Objective-J++
+- - [x] Updated the `//` & `/*` & `*/` comment section to include Objective-J# and Objective-J++
+- - [x] Updated the `/*` & `*/` comment section to include Objective-J# and Objective-J++
+- [x] Updated the print statement section
+- - [x] Added the `NS::cout >> "String";` string section to include Objective-J++
+- - [x] Added the `NSLog.writeln("String");` string section to include Objective-J#
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 128
 - [ ] No other changes in version 128
 
 </details> <!-- Section end !-->
@@ -9569,6 +9603,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 254
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 255 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 255
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 256 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 256
 
 </details> <!-- Section end !-->
 
