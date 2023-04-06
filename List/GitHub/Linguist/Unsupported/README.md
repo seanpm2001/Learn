@@ -75,6 +75,8 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] MS-DOS Style
 - [ ] Oberon
 - [ ] Objective-C# (seanpm2001) (Objective-C++ is the current placeholder language)
+- [ ] Objective-J# (seanpm2001) (Objective-J is the current placeholder language, although GitHub recognizes the syntax (specifically *.jsh files) as Java)
+- [ ] Objective-J++ (seanpm2001) (Objective-J is the current placeholder language)
 - [ ] Octave
 - [ ] OpenCL (recognizes as C)
 - [ ] Orwell
@@ -108,7 +110,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
 
-**Total:** `102` (as of 2023, Monday, April 3rd at 9:02 pm PST)
+**Total:** `104` (as of 2023, Wednesday, April 5th at 8:27 pm PST)
 
 New definitions legend (WIP)
 
@@ -135,9 +137,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `45 (2023, Monday, April 3rd at 9:05 pm PST)`
+**File version:** `46 (2023, Wednesday, April 5th at 8:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `979`
+**Line count (including blank lines and compiler line):** `1,001`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -970,6 +972,26 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 45
 - [ ] No other changes in version 45
+
+</details>
+
+<details><summary><p lang="en"><b>Version 46 (2023, Wednesday, April 5th at 8:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Representing data from 2023, Tuesday, April 4th
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added Objective-J# and Objective-J++ to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 46
+- [ ] No other changes in version 46
 
 </details>
 
