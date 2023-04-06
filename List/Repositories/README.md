@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `502`/`505` (as of 2023, Monday, April 3rd at 9:16 pm PST)
+Current progress `504`/`505` (as of 2023, Wednesday, April 5th at 8:43 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `099.40%` complete, `000.60%` incomplete.
+**Ratio:** `099.80%` complete, `000.20%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -336,8 +336,8 @@ This list covers the creation of the language repositories.
 - [x] Oxygene
 - [x] Oberon
 - [x] Objective-J
-- [ ] Objective-J#
-- [ ] Objective-J++
+- [x] Objective-J#
+- [x] Objective-J++
 - [x] Objective-C
 - [x] Objective-C#
 - [x] Objective-CPP
@@ -553,9 +553,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `123 (2023, Monday, April 3rd at 9:16 pm PST)`
+**File version:** `124 (2023, Wednesday, April 5th at 8:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,435`
+**Line count (including blank lines and compiler line):** `5,474`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3584,15 +3584,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 124</b></summary>
 
-**Version 124 (Coming soon)**
+**Version 124 (2023, Wednesday, April 5th at 8:43 pm PST)**
 
 <!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V124.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 2 new entries (old total: 502 | new total: 504)
+- - [x] Added 0 new entries to the list (old total: 505 | new total: 505)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 124
 - [ ] No other changes in version 124
 
 </details> <!-- Section end !-->
@@ -5424,6 +5433,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 246
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 247</b></summary>
+
+**Version 247 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 247
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 248</b></summary>
+
+**Version 248 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 248
 
 </details> <!-- Section end !-->
 
