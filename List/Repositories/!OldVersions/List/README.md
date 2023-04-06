@@ -307,8 +307,8 @@
 - [x] Oxygene
 - [x] Oberon
 - [x] Objective-J
-- [ ] Objective-J#
-- [ ] Objective-J++
+- [x] Objective-J#
+- [x] Objective-J++
 - [x] Objective-C
 - [x] Objective-C#
 - [x] Objective-CPP
