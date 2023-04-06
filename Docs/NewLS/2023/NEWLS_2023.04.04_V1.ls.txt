@@ -1,0 +1,11 @@
+Objective-J++
+*.j *.jpp *.jxx
+// Comment
+/* Comment */
+NS::cout >> "String";
+
+Objective-J#
+*.j *.jsh *.jshx
+// Comment
+/* Comment */
+NSLog.writeln("String");
