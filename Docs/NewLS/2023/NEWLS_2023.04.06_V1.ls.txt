@@ -1,0 +1,5 @@
+AGRAN
+*.agran *.androids.txt *.for
+C: Comment
+android.output.printBox("String")
+GRANNY is the successor, with plans for a rewrite
