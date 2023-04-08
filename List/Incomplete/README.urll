@@ -3,8 +3,8 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// Start of script
 //// Incomplete projects list
-//// Version 124
-//// As of 2023, Wednesday, April 5th at 8:37 pm PST
+//// Version 125
+//// As of 2023, Friday, April 7th at 8:04 pm PST
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -13,6 +13,7 @@ https://github.com/seanpm2001/Learn-ABC
 https://github.com/seanpm2001/Learn-ABNF
 https://github.com/seanpm2001/Learn-Ada
 https://github.com/seanpm2001/Learn-Agda
+https://github.com/seanpm2001/Learn-AGRAN
 https://github.com/seanpm2001/Learn-ActionServerPages.NET
 https://github.com/seanpm2001/Learn-AGS-Script
 https://github.com/seanpm2001/Learn-AIDL
@@ -449,7 +450,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 442/502
+//// Count: 443/503
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -703,13 +704,15 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V123 date: 2023, Monday, April 3rd at 9:12 pm PST, representing data from 2023, SUnday, April 2nd at 6:26 pm PST
 //// V124: 2 entries added, 442 entries remain (ratio: 442/502 (88.04% incomplete, 11.96% complete))
 //// V124 date: 2023, Wednesday, April 5th at 8:37 pm PST, representing data from 2023, Tuesday, April 4th at 11:59 pm PST
+//// V125: 1 entry added, 443 entries remain (ratio: 443/503 (88.07% incomplete, 11.91% complete))
+//// V125 date: 2023, Friday, April 7th at 8:04 pm PST, representing data from 2023, Thursday, April 6th at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 442/502 (88.00% incomplete, 12.00% complete)
+//// Ratio (incomplete/complete): 443/503 (88.07% incomplete, 11.91% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 124 (2023, Wednesday, April 5th at 8:37 pm PST)
-//// Line count (including blank lines and compiler line): 716
+//// File version: 125 (2023, Friday, April 7th at 8:04 pm PST)
+//// Line count (including blank lines and compiler line): 719
 
 //// End of script
