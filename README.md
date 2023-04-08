@@ -263,6 +263,18 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-ActionServerPages.NET"><img src="/Programming/Logos/A/ActionServerPages.NET/ASP.NET_2.jpeg" width="100px;" alt=""/><br /><sub><b>Learn ASP.NET Core</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Antlers/"><img src="/Programming/Logos/A/Antlers/Antlers_Language_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn Antlers</b></sub></a></td>
   </tr>
+  <!-- Row 1F !-->
+  <!-- Letter A !-->
+  <tr>
+    <td align="center"><p>Section A6</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-AGRAN/"><img src="/Programming/Logos/A/AGRAN/AngryGran.png" width="100px;" alt=""/><br /><sub><b>Learn AGRAN</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 2A !-->
   <!-- Letter B !-->
   <tr>
@@ -1985,6 +1997,7 @@ Isabelle
 
 * GRANNY
 * Commenter (coming soon)
+* AGRAN
 
 `rem` / `REM`
 
@@ -2971,7 +2984,8 @@ END
 android.output.printBox("String")
 ```
 
-* GRANNY
+* GRANNY (pre-reform)
+* AGRAN
 
 ```xbase
 Qout("String")
@@ -4397,9 +4411,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `128 (2023, Wednesday, April 5th at 8:17 pm PST)`
+**File version:** `129 (2023, Friday, April 7th at 7:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,656`
+**Line count (including blank lines and compiler line):** `9,701`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8402,7 +8416,7 @@ END
 - - [x] Added support for DSergeant and GRANNY
 - [x] Updated the source code comments section
 - - [x] Added the `%%` comment section to include DSergeant and Commenter
-- - [x] Added the `C:` comment section to include DSergeant and Commenter
+- - [x] Added the `C:` comment section to include AGRAN and Commenter
 - [x] Updated the print statement section
 - - [x] Added the `Loud("String")` string section to include DSergeant
 - - [x] Added the `Quiet("String")` string section to include DSergeant
@@ -8472,11 +8486,26 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 129 (Coming soon)</b></summary>
+<details><summary><b>Version 129 (2023, Friday, April 7th at 7:54 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2023, Thursday, April 6th at 11:59 pm PST`
+
+> **Note** _Added support for AGRAN, the last language created by me (at the moment) this release was delayed by 1 day, as I had a difficult time yesterday._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for AGRAN
+- [x] Updated the source code comments section
+- - [x] Updated the `C:` comment section to include AGRAN
+- [x] Updated the print statement section
+- - [x] Updated the `android.output.printBox("String")` string section to include AGRAN
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 129
 - [ ] No other changes in version 129
 
 </details> <!-- Section end !-->
@@ -9623,6 +9652,22 @@ END
 - [ ] No other changes in version 256
 
 </details> <!-- Section end !-->
+
+<details><summary><b>Version 257 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 257
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 258 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 258
 
 </details> <!-- Section end !-->
 
