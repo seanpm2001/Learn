@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `504`/`505` (as of 2023, Wednesday, April 5th at 8:43 pm PST)
+Current progress `505`/`505` (as of 2023, Friday, April 7th at 8:10 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `099.80%` complete, `000.20%` incomplete.
+**Ratio:** `100.00%` complete, `000.00%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -63,7 +63,7 @@ This list covers the creation of the language repositories.
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] Antlers
-- [ ] AGRAN
+- [x] AGRAN
 - [x] BlockQL
 - [x] Bro
 - [x] B
@@ -553,9 +553,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `124 (2023, Wednesday, April 5th at 8:43 pm PST)`
+**File version:** `125 (2023, Friday, April 7th at 8:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,474`
+**Line count (including blank lines and compiler line):** `5,513`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3466,7 +3466,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 119 (2023, Thursday, March 16th at 11:25 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 * [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V119.md)
 
@@ -3490,7 +3490,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 120 (2023, Saturday, March 25th at 6:55 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 * [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V120.md)
 
@@ -3514,7 +3514,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 121 (2023, Wednesday, March 29th at 5:28 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 * [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V121.md)
 
@@ -3538,7 +3538,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 122 (2023, Sunday, April 2nd at 6:31 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 * [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V122.md)
 
@@ -3562,7 +3562,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 123 (2023, Monday, April 3rd at 9:16 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 * [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V123.md)
 
@@ -3586,7 +3586,7 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 **Version 124 (2023, Wednesday, April 5th at 8:43 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 * [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V124.md)
 
@@ -3608,15 +3608,24 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 125</b></summary>
 
-**Version 125 (Coming soon)**
+**Version 125 (2023, Friday, April 7th at 8:10 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V125.md)
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 1 new entry (old total: 504 | new total: 505)
+- - [x] Added 0 new entries to the list (old total: 505 | new total: 505)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 125
 - [ ] No other changes in version 125
 
 </details> <!-- Section end !-->
@@ -5463,6 +5472,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 248
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 249</b></summary>
+
+**Version 249 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 249
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 250</b></summary>
+
+**Version 250 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 250
 
 </details> <!-- Section end !-->
 
