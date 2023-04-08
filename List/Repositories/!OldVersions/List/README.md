@@ -34,7 +34,7 @@
 - [x] AutoHotKey
 - [x] API Blueprint
 - [x] Antlers
-- [ ] AGRAN
+- [x] AGRAN
 - [x] BlockQL
 - [x] Bro
 - [x] B
