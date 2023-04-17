@@ -15,3 +15,6 @@ portal-page
 seanpm2001-life-archive
 seanpm2001
 seanpm2001-education
+seanpm2001-learn
+seanpm2001-languages
+documentation
