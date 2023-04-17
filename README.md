@@ -4411,9 +4411,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `129 (2023, Friday, April 7th at 7:54 pm PST)`
+**File version:** `130 (2023, Monday, April 17th at 2:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,701`
+**Line count (including blank lines and compiler line):** `9,745`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8510,11 +8510,22 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 130 (Coming soon)</b></summary>
+<details><summary><b>Version 130 (2023, Monday, April 17th at 2:15 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2023, Thursday, April 6th at 11:59 pm PST`
+
+> **Note** _My first advertiser/sponsor_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Added the supporters section
+- - [x] Added in Geekster, a company that has shown support for [learn-HTML](https://github.com/seanpm2001/Learn-HTML/) and wanted to be attributed as a supporter.
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 130
 - [ ] No other changes in version 130
 
 </details> <!-- Section end !-->
@@ -9671,7 +9682,40 @@ END
 
 </details> <!-- Section end !-->
 
+<details><summary><b>Version 259 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 259
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 260 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 260
+
+</details> <!-- Section end !-->
+
 </details> <!-- Dropdown table end !-->
+
+***
+
+## Supported by
+
+<!-- ![GeeksterLogo.png](/Graphics/Supporters/G/Geekster/GeeksterLogo.png) !-->
+
+<img alt="Geekster logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Supporters/G/Geekster/GeeksterLogo.png" width="1600" height="357" href="https://www.geekster.in">
+
+### [Geekster](https://www.geekster.in/)
+
+**Featured content:**
+
+| [Cheat-sheet-HTML-tags](https://blog.geekster.in/cheat-sheet-html-tags/) | [Difference between HTML and HTML5](https://blog.geekster.in/difference-between-html-and-html5/) |
+|---|---|
 
 ***
 
