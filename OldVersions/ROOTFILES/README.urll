@@ -1,5 +1,6 @@
 /.github/
 /.gitlab/
+/Blog/
 /Branches/
 /Database/
 /Docs/
@@ -9,6 +10,8 @@
 /OldVersions/
 /Programming/
 /RepoData/
+/Supporters/
+/Templates/
 /.editorconfig
 /.gitattributes
 /.gitignore
