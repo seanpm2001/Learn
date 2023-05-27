@@ -466,7 +466,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EJS/"><img src="/Programming/Logos/E/EJS/EJS.png" width="100px;" alt=""/><br /><sub><b>Learn EJS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-EBNF/"><img src="/Programming/Logos/E/EBNF/EBNF_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn EBNF</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Ermine/"><img src="/Programming/Logos/E/Ermine/Ermine1.png" width="100px;" alt=""/><br /><sub><b>Learn Ermine</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Ezhil/"><img src="/Programming/Logos/E/Ezhil/Ezhil_Language_Logo_460px.png" width="100px;" alt=""/><br /><sub><b>Learn Ezhil</b></sub></a></td>
   </tr>
   <!-- Row 6A !-->
   <!-- Letter F !-->
@@ -1488,6 +1488,7 @@ Isabelle
 * MGears
 * Sweave
 * MCPYE CL
+* Ezhil
 
 `#` & `"""`
 
@@ -4085,6 +4086,12 @@ String
 
 * XTend
 
+```ezhil
+பதிப்பி "String"
+```
+
+* Ezhil
+
 ```raml
 "message": {
     "type": "string"
@@ -4411,9 +4418,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `130 (2023, Monday, April 17th at 2:15 pm PST)`
+**File version:** `131 (2023, Friday, May 26th at 9:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,745`
+**Line count (including blank lines and compiler line):** `9,785`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -8530,11 +8537,26 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 131 (Coming soon)</b></summary>
+<details><summary><b>Version 131 (2023, Friday, May 26th at 9:45 pm PST)</b></summary>
+
+**This release uses/represents data from:** `2023, Friday, May 26th at 11:59 pm PST`
+
+> **Note** _Added support for Ezhil, a Tamil-language programming language based on Python and BASIC_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Ezhil
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include Ezhil
+- [x] Updated the print statement section
+- - [x] Added the `பதிப்பி "String"` string section to include Ezhil
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 131
 - [ ] No other changes in version 131
 
 </details> <!-- Section end !-->
@@ -9697,6 +9719,24 @@ END
 
 - [ ] Coming soon
 - [ ] No other changes in version 260
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 261 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 261
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 262 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 262
 
 </details> <!-- Section end !-->
 
