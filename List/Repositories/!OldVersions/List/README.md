@@ -35,6 +35,7 @@
 - [x] API Blueprint
 - [x] Antlers
 - [x] AGRAN
+- [ ] Beef
 - [x] BlockQL
 - [x] Bro
 - [x] B
@@ -130,6 +131,7 @@
 - [x] Eiffel
 - [x] Elm
 - [x] EBNF
+- [x] Ezhil
 - [x] FORTRAN
 - [x] F#
 - [x] F*
@@ -145,6 +147,7 @@
 - [x] FP
 - [x] FreeBasic
 - [x] FlooP
+- [ ] Fuzzy Markup Language (FML)
 - [x] GRANNY (seanpm2001)
 - [x] Gleam
 - [x] G-CODE
@@ -186,6 +189,7 @@
 - [x] Haskell
 - [x] HTML
 - [x] HTTP
+- [ ] Harbour
 - [x] IDL
 - [x] Idris
 - [x] ImageJ
@@ -453,6 +457,7 @@
 - [x] Terra
 - [x] TXL
 - [x] TSX
+- [ ] Tampio
 - [x] UnrealScript
 - [x] Uno
 - [x] URLL (seanpm2001)
