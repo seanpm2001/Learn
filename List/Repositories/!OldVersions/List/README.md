@@ -35,7 +35,7 @@
 - [x] API Blueprint
 - [x] Antlers
 - [x] AGRAN
-- [ ] Beef
+- [x] Beef
 - [x] BlockQL
 - [x] Bro
 - [x] B
@@ -61,6 +61,7 @@
 - [x] BlitzMax
 - [x] BlooP
 - [x] BLISS
+- [ ] BennuGD
 - [x] ColdFusion
 - [x] ColdFusion CFC
 - [x] Component Pascal
@@ -102,6 +103,7 @@
 - [x] Ch
 - [x] Chapel
 - [x] CUE
+- [ ] Cairo
 - [x] DSergeant (seanpm2001)
 - [x] DroppedText (seanpm2001)
 - [x] D
@@ -173,6 +175,7 @@
 - [x] Gremlin
 - [x] GDScript
 - [x] Gradle
+- [ ] GolfScript
 - [x] Hack
 - [x] HAML
 - [x] HandleBars
@@ -189,7 +192,7 @@
 - [x] Haskell
 - [x] HTML
 - [x] HTTP
-- [ ] Harbour
+- [x] Harbour
 - [x] IDL
 - [x] Idris
 - [x] ImageJ
@@ -359,6 +362,7 @@
 - [x] Pony
 - [x] Processing.js
 - [x] Processing
+- [ ] Plankalkül
 - [x] QMake
 - [x] QSharp
 - [x] QTScript
@@ -445,6 +449,7 @@
 - [x] SQF
 - [x] SNOBOL
 - [x] Sweave
+- [ ] SmPL
 - [x] TypeScript
 - [x] TCL
 - [x] TeX
@@ -491,12 +496,15 @@
 - [x] Windows Registry Entries
 - [x] While
 - [x] Wasp
+- [ ] Wisp
+- [ ] Whitespace
 - [x] XProc
 - [x] X-Pixmap
 - [x] XQuery
 - [x] XS
 - [x] XSLT
 - [x] XBase
+- [ ] XBase++
 - [x] XML
 - [x] XTend
 - [x] YASnippet
