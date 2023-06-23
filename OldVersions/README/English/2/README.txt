@@ -3,7 +3,7 @@
 
 <img src="/Letter+L+blue.png" width="148" height="148" align="left" style="margin-right: 30px">
 
-# Learn
+# [Learn](#Learn)
 
 This repository is a reference to my learning experience on programming. Other subjects will be added in the future.
 
@@ -14,7 +14,7 @@ This repository is a reference to my learning experience on programming. Other s
 
 ***
 
-## Important overview notes
+## [Important overview notes](#Important-overview-notes)
 
 ***Viewing the table***
 
@@ -70,17 +70,23 @@ Users in these ranges may experience tab/system crashes. Lag will be guaranteed
 
 ***
 
-## Things to take note of
+## [Things to take note of](#Things-to-take-note-of)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the language switcher list</b></p></H3></summary>
 
 This page is merely a giant hallway. Every link leads to another room.
 
-This page, along with all of its subpages, took over `800` hours of development time
+This page, along with all of its subpages, took over `820` hours of development time (as of 2023, Thursday, June 22nd)
 
 The icons on this page are a work in progress. SVG themes are planned for the future.
 
 The language switcher requires more volunteers. No version is available in a language other than English at the moment.
 
+</details>
+
 ***
+
+## [Change language](#Change-language)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the language switcher list</b></p></H3></summary>
 
@@ -176,7 +182,9 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 ***
 
-## Knowledge of languages
+## [Knowledge of languages](#Knowledge-of-languages)
+
+<details open><summary><b>Click/tap here to expand/collapse the knowledge of langugaes section</b></summary>
 
 > ... also, I highly doubt anyone can learn more than 10 languages per year.
 
@@ -184,9 +192,11 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 I prioritize a few dozen programming languages for learning. The mass majority of languages displayed on this page are languages in which I only know the very, very basics of (Hello World, Comments, file extension, and basic general info) for the languages I prioritize, [read here](/Docs/Priority-languages/)
 
+</details>
+
 ***
 
-## By computing language
+## [By computing language](#By-computing-language)
 
 <details open><summary><b>Click/tap here to expand/collapse the by language section table</b></summary>
 
@@ -319,7 +329,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlooP/"><img src="/Programming/Logos/B/BlooP/BlooP_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlooP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BLISS/"><img src="/Programming/Logos/B/BLISS/BLISS_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BLISS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlockQL/"><img src="/Programming/Logos/B/BlockQL/BlockQL_1920pxLogo_V1_Stretched_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlockQL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Beef/"><img src="/Programming/Logos/B/Beef/BeefLanguageLogo.png" width="100px;" alt="/Programming/Logos/B/Beef/BeefLanguageLogo_373px.png"/><br /><sub><b>Learn Beef</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -581,7 +591,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><p>Section H3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HTTP/"><img src="/Programming/Logos/H/HTTP/HTTP_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn HTTP</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-HTML/"><img src="/Programming/Logos/H/HTML/HTML5_logo_and_wordmark.svg" width="100px;" alt=""/><br /><sub><b>Learn HTML</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Harbour/"><img src="/Programming/Logos/H/Harbour/HarbourLanguageLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Harbour</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1240,13 +1250,15 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 </details>
 
-## Extras
+## [Extras](#Extras)
 
 <details open><summary><b>Click/tap here to expand/collapse the extras section</b></summary>
 
-### Extras/M
+### [Extras/M](#Extras-M)
 
-#### Makefile testing
+#### [Makefile testing](#Makefile-testing)
+
+<details open><summary><b>Click/tap here to expand/collapse this subsection</b></summary>
 
 ![/Programming/Logos/M/Makefile/Makefile.png](/Programming/Logos/M/Makefile/Makefile.png)
 
@@ -1254,9 +1266,13 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 > A repository for experimenting with Make 
 
-### Extras/P
+</details>
 
-#### Python Traceback Examples
+### [Extras/P](#Extras-P)
+
+#### [Python Traceback Examples](#Python-Traceback-Examples)
+
+<details open><summary><b>Click/tap here to expand/collapse this subsection</b></summary>
 
 ![/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png](/Programming/Logos/P/Python-Traceback/PythonTracebackLogo.png)
 
@@ -1264,7 +1280,11 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 > Predates the [`Learn-PythonTraceback`](https://github.com/seanpm2001/Learn-PythonTraceback/) repository (predecessor)
 
-#### PhD in PHP
+</details>
+
+#### [PhD in PHP](#PhD-in-PHP)
+
+<details open><summary><b>Click/tap here to expand/collapse this subsection</b></summary>
 
 ![/Programming/Logos/P/PHP/phd-icon-5.jpeg](/Programming/Logos/P/PHP/phd-icon-5.jpeg)
 
@@ -1274,9 +1294,13 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 > Yes, I know the current image has PNG transparency checkers but isn't transparent. A proper version is coming soon (if someone can link one)
 
-### Extras/R
+</details>
 
-#### ReStructuredText Sandbox
+### [Extras/R](#Extras-R)
+
+#### [ReStructuredText Sandbox](#ReStructuredText-Sandbox)
+
+<details open><summary><b>Click/tap here to expand/collapse this subsection</b></summary>
 
 ![/Programming/Logos/R/ReStructuredText/RST.png](/Programming/Logos/R/ReStructuredText/RST.png)
 
@@ -1286,7 +1310,9 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 </details>
 
-## Methods
+## [Methods](#Methods)
+
+<details open><summary><b>Click/tap here to expand/collapse the methods section</b></summary>
 
 [IGNORE.md file](https://github.com/IGNORE-file) - Used to create folders in Git, since no other way to do this is obvious/existant to me
 
@@ -1296,19 +1322,27 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 Other methods not yet listed
 
-## Goals
+</details>
+
+## [Goals](#Goals)
+
+<details open><summary><b>Click/tap here to expand/collapse the goals section</b></summary>
 
 In regards to programming languages, my goal is to learn the basics of EVERY programming and markup language, or at the minimum, know its name. This is a lifelong goal.
 
-## See also
+</details>
+
+## [See also](#See-also)
 
 [Lists](/List/)
 
 ***
 
-## Programming language similarities
+## [Programming language similarities](#Programming-language-similarities)
 
-### Comments
+### [Comments](#Comments)
+
+<details open><summary><b>Click/tap here to expand/collapse the comments section</b></summary>
 
 <!-- 2022 April 21st notes
 /** **/
@@ -1656,6 +1690,8 @@ Isabelle
 * Objective-C#
 * Objective-J++
 * Objective-J#
+* Beef
+* Harbour
 
 `///`
 
@@ -1755,6 +1791,8 @@ Isabelle
 * Processing.js
 * Commenter
 * Objective-C#
+* Beef (unconfirmed)
+* Harbour
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1858,6 +1896,8 @@ Isabelle
 * Objective-C#
 * Objective-J++
 * Objective-J#
+* Beef (unconfirmed)
+* Harbour
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -2377,7 +2417,13 @@ Note how the `/*` is now a closed comment, instead of spanning through the rest 
 
 </details>
 
-### Break keyword
+</details> <!-- End of comments !-->
+
+---
+
+### [Break keyword](#Break-keyword)
+
+<details open><summary><b>Click/tap here to expand/collapse the break keyword section</b></summary>
 
 | Language | Supports `break` keyword | End of line |
 |---|---|---|
@@ -2466,7 +2512,13 @@ End of line:
 
 :question: = Unknown/not tested
 
-### Print statement
+</details>
+
+---
+
+### [Print statement](#Print-statement)
+
+<details open><summary><b>Click/tap here to expand/collapse the print statement section</b></summary>
 
 ```genie
 init
@@ -2577,6 +2629,44 @@ alert "String"
 ```
 
 * CoffeeScript
+
+```harbour
+Alert( "String" )
+```
+
+* Harbour
+
+```harbour
+QOut( "String" )
+```
+
+* Harbour
+
+```harbour
+PROCEDURE Main()
+
+   ? "String"
+
+   RETURN
+```
+
+* Harbour
+
+```beef
+using System;
+namespace StringTest
+{
+    class Program
+    {
+        static void Main()
+        {
+		Console.WriteLine("String");
+        }
+    }
+}
+```
+
+* Beef
 
 ```openedge-abl
 disp("String");
@@ -3353,6 +3443,7 @@ MessageBox StrMB "String" /SD IDOK
 ```
 
 * KiXTart
+* Harbour
 
 ```smalltalk
 Transcript show: 'String'.
@@ -3544,6 +3635,7 @@ Console.WriteLine("String");
 ```
 
 * JScript.NET
+* Beef
 
 ```visual-basic.net
 Console.WriteLine("String")
@@ -4211,159 +4303,317 @@ Unsupported
 * URLL (seanpm2001)
 * Commenter
 
-### Int
+</details>
+
+---
+
+### [Int](#Int)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Integer
+</details>
+
+### [Integer](#Integer)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Double
+</details>
+
+### [Double](#Double)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Goto
+</details>
+
+### [Goto](#Goto)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Return
+</details>
+
+### [Return](#Return)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Str
+</details>
+
+### [Str](#Str)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### String
+</details>
+
+### [String](#String)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Char
+</details>
+
+### [Char](#Char)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Bool
+</details>
+
+### [Bool](#Bool)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Boolean
+</details>
+
+### [Boolean](#Boolean)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Fact
+</details>
+
+### [Fact](#Fact)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Factorial
+</details>
+
+### [Factorial](#Factorial)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Mov
+</details>
+
+### [Mov](#Mov)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### If
+</details>
+
+### [If](#If)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Else
+</details>
+
+### [Else](#Else)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Fi
+</details>
+
+### [Fi](#Fi)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Esle
+</details>
+
+### [Esle](#Esle)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Tuple
+</details>
+
+### [Tuple](#Tuple)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Elif
+</details>
+
+### [Elif](#Elif)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Interface
+</details>
+
+### [Interface](#Interface)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Class
+</details>
+
+### [Class](#Class)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Public
+</details>
+
+### [Public](#Public)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Repeat
+</details>
+
+### [Repeat](#Repeat)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Include
+</details>
+
+### [Include](#Include)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Switch
+</details>
+
+### [Switch](#Switch)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Do
+</details>
+
+### [Do](#Do)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Or
+</details>
+
+### [Or](#Or)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### And
+</details>
+
+### [And](#And)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Foreach
+</details>
+
+### [Foreach](#Foreach)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### In
+</details>
+
+### [In](#In)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Range
+</details>
+
+### [Range](#Range)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Random
+</details>
+
+### [Random](#Random)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Randint
+</details>
+
+### [Randint](#Randint)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Contract
+</details>
+
+### [Contract](#Contract)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Scanf
+</details>
+
+### [Scanf](#Scanf)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Scan
+</details>
+
+### [Scan](#Scan)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
 
-### Input
+</details>
+
+### [Input](#Input)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Coming soon
+
+</details>
 
 ***
 
-## Additional docs
+## [Additional docs](#Additional-docs)
 
-### Acceleration project
+<details open><summary><p lang="en">Click/tap here to expand/collapse the additional docs section</p></summary>
+
+---
+
+### [Acceleration project](#Acceleration-project)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this subsection</p></summary>
 
 I started accelerating the rate of creating Learn repositories on 2022, Friday, August 26th. At the start of acceleration, I began creating 2 learn repositories per day, and 2 associated SNU 2D Programming Tools IDE projects. The acceleration was increased multiple times.
 
@@ -4377,29 +4627,57 @@ On 2022 September 17th, there was a severe issue with my laptop workflow today, 
 
 On 2022, September 18th, I began to consider do a new system where I start the projects on day A, make as much progress as I can, then finish the projects on day B (until my laptop can be repaired)
 
-### Issues
+</details>
+
+---
+
+### [Issues](#Issues)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this subsection</p></summary>
 
 I cannot document the languages in full at the rate I am creating them. It may never be possible to get caught up (at least for the next 3 years)
 
-#### 2022 September 17th issues
+#### [2022 September 17th issues](#2022-September-17th-issues)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this sub-subsection</p></summary>
 
 There was a severe issue with my laptop workflow today, as my main laptop had a malfunctioning fan, and had to be backed up and alternated from, which used up the rest of the days development time.
 
-#### 2022 September 18th issues
+</details>
+
+#### [2022 September 18th issues](#2022-September-18th-issues)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this sub-subsection</p></summary>
 
 I might do a new system where I start the projects on day A, make as much progress as I can, then finish the projects on day B (until my laptop can be repaired)
 
 Edit: I have postponed this until needed. My workflow resumed normally.
 
-#### 2022 October 19th/20th issues
+</details>
+
+#### [2022 October 19th/20th issues](#2022-October-19th-20th-issues)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this sub-subsection</p></summary>
 
 I fell too far behind with the core `learn` project, and had to take some time off creating new repositories to finish getting caught back up here. This is the second time this project has been delayed. It took me nearly 6 hours to get caught up with 6 days worth of entries.
 
-#### 2022 October 25th/26th issues
+</details>
+
+#### [2022 October 25th/26th issues](#2022-October-25th-26th-issues)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this sub-subsection</p></summary>
 
 Despite only being back from repairs for less than 8 full days, my laptops fan has come off the barring again. This was really upsetting tonight, and it prevented me from finishing my work properly. I was so far ahead of schedule, then this threw me off by about 4 hours. I held off some work for tomorrow (2022, Octber 26th) and made the following day another catchup day, as the `learn` repository fell several days behind. I feel like this is going to happen frequently until I get fully caught up on the entire project (which has an expected dead of 2022, November 6th, which unfortunately is still going up due to off days)
 
-#### Integration with SNU Programming Tools
+</details>
+
+</details>
+
+---
+
+### [Integration with SNU Programming Tools](#Integration-with-SNU-Programming-Tools)
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse this subsection</p></summary>
 
 **2022 October 6th scope expansion for SNU Programming Tools**
 
@@ -4410,17 +4688,29 @@ The Learn project is being expanded to include all knowledge of languages, inste
 
 I hope for all of my projects to be interconnected in the future, so that all roads lead to Rome.
 
+</details>
+
+</details> <!-- End of additional docs !-->
+
 ***
 
-## File info
+## [File info](#File-info)
 
 <details open><summary><b>Click/tap here to expand/collapse the file info section</b></summary>
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `131 (2023, Friday, May 26th at 9:45 pm PST)`
+**File version:** `132 (2023, Thursday, June 22nd at 05:18 pm PST)`
 
-**Line count (including blank lines and compiler line):** `9,785`
+**Line count (including blank lines and compiler line):** `10,294`
+
+**Word count:** `55,601`
+
+**Character count (including spaces):** `381,628`
+
+**Character count (excluding spaces):** `330,674`
+
+**Size (in bytes):** `384,275`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -4434,15 +4724,15 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 ***
 
-## File history
+## [File history](#File-history)
 
 <details><summary><b>Click/tap here to expand/collapse the file history section</b></summary>
 
 <details><summary><b>Version 1 (2022, Monday, April 11th at 4:11 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V1.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4459,9 +4749,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 2 (2022, Tuesday, April 12th at 4:55 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V2.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4475,9 +4765,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 3 (2022, Wednesday, April 13th at 4:32 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V3.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4494,9 +4784,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 4 (2022, Thursday, April 14th at 5:08 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V4.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4509,9 +4799,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 5 (2022, Friday, April 15th at 8:00 pm pST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V5.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4524,9 +4814,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 6 (2022, Sunday, April 17th at 5:58 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V6.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4539,9 +4829,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 7 (2022, Tuesday, April 19th at 5:40 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V7.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4554,9 +4844,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 8 (2022, Wednesday, April 20th at 5:09 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V8.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4573,9 +4863,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 9 (2022, Thursday, April 21st at 8:28 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V9.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4590,9 +4880,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 10 (2022, Monday, July 4th at 4:29 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V10.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4605,9 +4895,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 11 (2022, Thursday, July 7th at 7:00 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V11.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4620,9 +4910,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 12 (2022, Friday, July 8th at 7:43 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V12.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4636,9 +4926,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 13 (2022, Tuesday, July 26th at 6:30 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V13.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4651,9 +4941,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 14 (2022, Wednesday, July 27th at 7:40 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V14.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4671,9 +4961,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 15 (2022, Saturday, July 30th at 9:00 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V15.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4687,9 +4977,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 16 (2022, Monday, August 29th at 3:13 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V16.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4704,9 +4994,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 17 (2022, Tuesday, August 30th at 10:24 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V17.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4722,9 +5012,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 18 (2022, Wednesday, August 31st at 6:17 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V18.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4744,9 +5034,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 19 (2022, Thursday, September 1st at 6:28 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V19.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4763,9 +5053,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 20 (2022, Friday, September 2nd at 7:05 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V20.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4784,9 +5074,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 21 (2022, Saturday, September 3rd at 2:20 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V21.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4802,9 +5092,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 22 (2022, Sunday, September 4th at 8:38 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V22.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4822,9 +5112,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 23 (2022, Monday, September 5th at 8:52 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V23.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4846,9 +5136,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 24 (2022, Tuesday, September 6th at 10:22 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V24.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4867,9 +5157,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 25 (2022, Wednesday, September 7th at 10:06 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V25.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4890,9 +5180,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 26 (2022, Thursday, September 8th at 8:12 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V26.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4913,9 +5203,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 27 (2022, Friday, September 9th at 4:09 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V27.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4933,9 +5223,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 28 (2022, Saturday, September 10th at 3:58 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V28.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4954,9 +5244,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 29 (2022, Sunday, September 11th at 8:09 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V29.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -4980,9 +5270,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 30 (2022, Monday, September 12th at 3:33 pm PST</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V30.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -5011,9 +5301,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 31 (2022, Tuesday, September 13th at 6:00 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V31.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -5036,9 +5326,9 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 32 (2022, Wednesday, September 14th at 7:12 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V32.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -5061,13 +5351,11 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 <details><summary><b>Version 33 (2022, Thursday, September 15th at 5:15 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V33.md)
 
-**Changes:**
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-<!-- Notes
+```Notes
 SVG
 <!--
 Boogie
@@ -5086,7 +5374,9 @@ function String () {
 HAProxy
 #
 vtest "String"
-!-->
+```
+
+**Changes:**
 
 - [x] Updated the `Learn` table
 - - [x] Added support for Blade, Boogie, HaProxy, HyPHy, and SVG
@@ -5106,7 +5396,7 @@ vtest "String"
 - - [x] Added the
 - - - [ ] function String () {
 - - - [ ] return "String";
-- - - [ ] 
+- - - [ ] }
 - - [ ] section to include HyPhy
 - - [x] Added the `vtest "String"` section to include HaProxy
 - [x] Updated the file info section
@@ -5118,9 +5408,9 @@ vtest "String"
 
 <details><summary><b>Version 34 (2022, Friday, September 16th at 10:15 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V34.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -5135,14 +5425,14 @@ vtest "String"
 
 <details><summary><b>Version 35 (2022, Sunday, September 18th at 7:09 pm PST)</b></summary>
 
+[View this version](/OldVersions/README/English/1/README_V35.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 ```
 TODO
 Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, and REXX
 ```
-
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
-[View this version](/OldVersions/README/English/1/README_V35.md)
 
 **Changes:**
 
@@ -5165,9 +5455,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 36 (2022, Monday, September 19th at 11:15 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V36.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **Changes:**
 
@@ -5185,9 +5475,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 37 (2022, Tuesday, September 20th at 10:59 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V37.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 ```
 TODO
@@ -5210,18 +5500,18 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 38 (2022, Thursday, September 22nd at 6:45 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V38.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 ```
 TODO
 Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, and VimScript
 ```
 
-**Changes:**
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
-**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
+**Changes:**
 
 - [x] Updated the `Learn` table
 - - [x] Added support for ASCIIDoc, AutoIt, Twig, Uno, and Vim Script
@@ -5237,9 +5527,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 39 (2022, Thursday, September 22nd at 6:57 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V39.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 ```
 TODO
@@ -5262,9 +5552,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 40 (2022, Saturday, September 24th at 10:42 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V40.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 ```
 TODO
@@ -5272,8 +5564,6 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 ```
 
 **Changes:**
-
-**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 - [x] Updated the `Learn` table
 - - [x] Added support for Creole, HCL, Modula-3, Seed7, and SystemVerilog
@@ -5289,9 +5579,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 41 (2022, Saturday, September 24th at 10:52 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V41.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 ```
 TODO
@@ -5314,16 +5604,16 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 42 (2022, Monday, September 26th at 10:37 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V42.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 ```
 TODO
 Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, NewLisp, NetREXX, REXX, Handlebars, Nu, PicoLisp, Stylus, UnrealScript, CartoCSS, G-CODE, GnuPlot, Mako, Pug, ASCIIDoc, AutoIt, Twig, Uno, VimScript, Creole, HCL, Modula-3, Seed7, SystemVerilog, DTrace, HAML, HLSL, GLSL, LispFlavoredErlang, Euphoria, Gosu, OpenPolicyAgent, SaltStack, and XProc
 ```
-
-**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -5341,9 +5631,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 43 (2022, Monday, September 26th at 10:45 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V43.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 ```
 TODO
@@ -5366,11 +5656,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 44 (2022, Tuesday, September 27th at 7:27 pm PST)</b></summary>
 
-**Changes:**
-
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V43.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 ```
 TODO
@@ -5393,12 +5681,12 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 </details> <!-- Section end !-->
 
 <details><summary><b>Version 45 (2022, Thursday, September 29th at 5:35 pm PST)</b></summary>
- 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 [View this version](/OldVersions/README/English/1/README_V45.md)
 
-**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. The part that took the most time was getting comment and string data for 55 languages. I hope to not fall so far behind on this next time.
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. The part that took the most time was getting comment and string data for 55 languages. I hope to not fall so far behind on this next time.
 
 **Changes:**
 
@@ -5472,11 +5760,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 46 (2022, Friday, September 30th at 11:19 pm PST)</b></summary>
  
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V46.md)
 
-**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -5506,11 +5794,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 47 (2022, Saturday, October 1st at 12:41 am PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V47.md)
 
-**Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -5538,11 +5826,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 48 (2022, Saturday, October 1st at 7:57 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V48.md)
 
-<!-- **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. !-->
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. (this note may be obsolete)
 
 **Changes:**
 
@@ -5574,11 +5862,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 49 (2022, Sunday, October 2nd at 11:30 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V49.md)
 
-<!-- **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. !-->
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays data, as I didn't have the time yesterday, and didn't want to create a gap in the timeline of this table. (this note may be obsolete)
 
 **Changes:**
 
@@ -5610,11 +5898,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 50 (2022, Wednesday, October 5th at 9:45 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V50.md)
 
-**Note:** I am making this separate release with the day before yesterdays (2022, Sunday, October 3rd) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table.
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with the day before yesterdays (2022, Sunday, October 3rd) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -5642,11 +5930,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 51 (2022, Wednesday, October 5th at 10:23 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V51.md)
 
-**Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table.
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table.
 
 **Changes:**
 
@@ -5674,11 +5962,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 52 (2022, Wednesday, October 5th at 11:00 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V52.md)
 
-<!-- **Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays (2022, Monday, October 4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. (this note may be obsolete)
 
 **Changes:**
 
@@ -5707,11 +5995,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 53 (2022, Thursday, October 6th at 9:54 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V53.md)
 
-<!-- **Note:** I am making this separate release with yesterdays (2022, Monday, October4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. !-->
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** I am making this separate release with yesterdays (2022, Monday, October 4th) data, as I didn't have the time for a couple of days, and didn't want to create a gap in the timeline of this table. (this note may be obsolete)
 
 **Changes:**
 
@@ -5740,9 +6028,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 54 (2022, Monday, October 10th at 10:40 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V54.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, October 7th`
 
@@ -5772,9 +6060,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 55 (2022, Monday, October 10th at 11:25 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V55.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Saturday, October 8th`
 
@@ -5808,9 +6096,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 56 (2022, Tuesday, October 11th at 12:54 am PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V56.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, October 9th`
 
@@ -5842,9 +6130,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 57 (2022, Tuesday, October 11th at 1:33 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V57.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Monday, October 10th`
 
@@ -5872,11 +6160,11 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 58 (2022, Tuesday, Octoebr 11th at 11:38 pm PST)</b></summary>
-
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
+<details><summary><b>Version 58 (2022, Tuesday, October 11th at 11:38 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/1/README_V58.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, October 11th`
 
@@ -5908,9 +6196,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 59 (2022, Thursday, October 13th at 1:07 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V59.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Wednesday, October 12th`
 
@@ -5948,9 +6236,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 60 (2022, Thursday, October 13th at 9:01 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V60.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Thursday, October 13th`
 
@@ -5982,9 +6270,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 61 (2022, Wednesday, October 19th at 10:24 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V61.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, October 14th`
 
@@ -6021,9 +6309,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 62 (2022, Wedesday, October 19th at 11:19 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V62.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Saturday, October 15th`
 
@@ -6054,9 +6342,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 63 (2022, Thursday, October 20th at 12:25 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V63.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, October 16th`
 
@@ -6086,9 +6374,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 64 (2022, Thursday, October 20th at 1:15 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V64.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Monday, October 17th`
 
@@ -6118,9 +6406,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 65 (2022, Thursday, October 20th at 2:10 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V65.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, October 18th`
 
@@ -6153,9 +6441,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 66 (2022, Thursday, October 20th at 3:02 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V66.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Wednesday, October 19th` & `2022, Thursday, October 20th`
 
@@ -6187,9 +6475,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 67 (2022, Friday, October 21st at 12:43 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V67.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, October 21st`
 
@@ -6220,9 +6508,9 @@ Code comments and strings for Factor, Fluent, Fish, Fantom, FCL, Forth, Lean, Ne
 
 <details><summary><b>Version 68 (2022, Wednesday, October 26th at 6:31 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V68.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Saturday, October 22nd`
 
@@ -6272,9 +6560,9 @@ console.log(message);
 
 <details><summary><b>Version 69 (2022, Wednesday, October 26th at 7:15 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V69.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, October 23rd`
 
@@ -6308,9 +6596,9 @@ console.log(message);
 
 <details><summary><b>Version 70 (2022, Wednesday, October 26th at 8:26 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V70.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Monday, October 24th`
 
@@ -6357,9 +6645,9 @@ mytext = 'String';
 
 <details><summary><b>Version 71 (2022, Wednesday, October 26th at 9:13 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V71.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, October 25th` & `2022, Wednesday, October 26th`
 
@@ -6390,9 +6678,9 @@ mytext = 'String';
 
 <details><summary><b>Version 72 (2022, Saturday, November 12th at 8:52 pm PAST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V72.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Thursday, October 27th at 11:59 pm PST`
 
@@ -6434,9 +6722,9 @@ snippet string
 
 <details><summary><b>Version 73 (2022, Saturday, November 12th at 10:06 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V73.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, October 28th at 11:59 pm PST`
 
@@ -6478,9 +6766,9 @@ snippet string
 
 <details><summary><b>Version 74 (2022, Saturday, November 12th at 101:00 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V74.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Saturday, October 29th at 11:59 pm PST`
 
@@ -6525,9 +6813,9 @@ class PRTSTR
 
 <details><summary><b>Version 75 (2022, Monday, November 14th at 7:28 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V75.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, October 30th at 11:59 pm PST`
 
@@ -6559,9 +6847,9 @@ class PRTSTR
 
 <details><summary><b>Version 76 (2022, Monday, November 14th at 8:08 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V76.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Monday, October 31st at 11:59 pm PST`
 
@@ -6608,9 +6896,9 @@ Response.write "String"
 
 <details><summary><b>Version 77 (2022, Monday, November 14th at 8:46 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V77.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, November 1st at 11:59 pm PST`
 
@@ -6649,9 +6937,9 @@ init
 
 <details><summary><b>Version 78 (2022, Monday, November 14th at 9:43 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V78.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Wednesday, November 2nd at 11:59 pm PST`
 
@@ -6690,9 +6978,9 @@ printf(_("String"), str1);
 
 <details><summary><b>Version 79 (2022, Wednesday, November 16th at 8:24 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V79.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Thursday, November 3rd at 11:59 pm PST`
 
@@ -6753,9 +7041,9 @@ init(nil: ref Draw->Context, nil: list of string)
 
 <details><summary><b>Version 80 (2022, Wednesday, November 16th at 9:20 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V80.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, November 4th at 11:59 pm PST`
 
@@ -6794,9 +7082,9 @@ quit
 
 <details><summary><b>Version 81 (2022, Wednesday, November 16th at 10:35 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V81.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Saturday, November 5th at 11:59 pm PST`
 
@@ -6866,9 +7154,9 @@ q
 
 <details><summary><b>Version 82 (2022, Wednesday, November 16th at 11:15 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V82.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, November 6th at 11:59 pm PST`
 
@@ -6947,9 +7235,9 @@ string1()
 
 <details><summary><b>Version 83 (2022, Thursday, November 17th at 1:28 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V83.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Monday, November 7th at 11:59 pm PST`
 
@@ -6979,9 +7267,9 @@ string1()
 
 <details><summary><b>Version 84 (2022, Thursday, November 17th at 2:04 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V84.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, November 8th at 11:59 pm PST`
 
@@ -7009,9 +7297,9 @@ string1()
 
 <details><summary><b>Version 85 (2022, Thursday, November 17th at 2:45 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V85.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Wednesday, November 9th at 11:59 pm PST`
 
@@ -7049,9 +7337,9 @@ echo String
 
 <details><summary><b>Version 86 (2022, Thursday, November 17th at 3:27 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V86.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Thursday, November 10th at 11:59 pm PST`
 
@@ -7111,9 +7399,9 @@ main = trace "String"
 
 <details><summary><b>Version 87 (2022, Thursday, November 17th at 4:00 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V87.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, November 11th at 11:59 pm PST`
 
@@ -7148,9 +7436,9 @@ Comment
 
 <details><summary><b>Version 88 (2022, Tuesday, November 22nd at 7:32 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V88.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, November 22nd at 7:32 pm PST`
 
@@ -7207,9 +7495,9 @@ END
 
 <details><summary><b>Version 89 (2022, Wednesday, November 23rd at 4:40 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V89.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Wednesday, November 23rd at 4:40 pm PST`
 
@@ -7256,9 +7544,9 @@ END
 
 <details><summary><b>Version 90 (2022, Thursday, November 24th at 10:16 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V90.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Thursday, November 24th at 10:16 pm PST`
 
@@ -7286,9 +7574,9 @@ END
 
 <details><summary><b>Version 91 (2022, Friday, November 25th at 11:36 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V91.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, November 25th at 11:36 pm PST`
 
@@ -7328,13 +7616,13 @@ module string
 
 <details><summary><b>Version 92 (2022, Saturday, November 26th at 8:53 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V92.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Saturday, November 26th at 8:53 pm PST`
 
-**Note** _I accidentally used data from 2022 November 27th today, instead of what I had assigned for 2022 November 26th_
+> **Note** _I accidentally used data from 2022 November 27th today, instead of what I had assigned for 2022 November 26th_
 
 **Changes:**
 
@@ -7369,13 +7657,13 @@ End Function
 
 <details><summary><b>Version 93 (2022, Wednesday, November 30th at 9:35 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V93.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, November 27th at 9:32 pm PST`
 
-**Note** _I accidentally used data from 2022 November 27th yesterday, instead of what I had assigned for 2022 November 26th_
+> **Note** _I accidentally used data from 2022 November 27th yesterday, instead of what I had assigned for 2022 November 26th_
 
 **Changes:**
 
@@ -7414,13 +7702,13 @@ End Function
 
 <details><summary><b>Version 94 (2022, Wednesday, November 30th at 10:50 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V94.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Monday, November 28th at 11:59 pm PST`
 
-**Note** _No new notes for this entry._
+> **Note** _No new notes for this entry._
 
 **Changes:**
 
@@ -7446,13 +7734,13 @@ End Function
 
 <details><summary><b>Version 95 (2022, Wednesday, November 30th at 11:20 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V95.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Tuesday, November 29th at 11:59 pm PST`
 
-**Note** _All caught up again (for now)_
+> **Note** _All caught up again (for now)_
 
 **Changes:**
 
@@ -7477,13 +7765,13 @@ End Function
 
 <details><summary><b>Version 96 (2022, Thursday, December 15th at 10:22 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V96.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Friday, December 9th at 11:59 pm PST`
 
-**Note** _All caught up again (for now) after a 6 day delay_
+> **Note** _All caught up again (for now) after a 6 day delay_
 
 **Changes:**
 
@@ -7540,9 +7828,9 @@ String
 
 <details><summary><b>Version 97 (2023, Thursday, January 12th at 10:23 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V97.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Thursday, December 22nd at 11:59 pm PST`
 
@@ -7571,9 +7859,9 @@ String
 
 <details><summary><b>Version 98 (2023, Friday, January 13th at 9:16 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V98.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2022, Sunday, December 24th at 11:59 pm PST`
 
@@ -7601,9 +7889,9 @@ String
 
 <details><summary><b>Version 99 (2023, Wednesday, January 18th at 5:11 pm PST)</b></summary>
 
-***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
-
 [View this version](/OldVersions/README/English/1/README_V99.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Wednesday, January 18th at 5:11 pm PST`
 
@@ -7644,6 +7932,8 @@ fn main() {
 
 [View this version](/OldVersions/README/English/1/README_V100.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Thursday, January 19th at 7:20 pm PST`
 
 > **Note** _This was my second day back to creating new learn repos this year_
@@ -7671,6 +7961,8 @@ fn main() {
 <details><summary><b>Version 101 (2023, Saturday, January 21st at 8:42 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V101.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Saturday, January 21st at 8:42 pm PST`
 
@@ -7720,6 +8012,8 @@ end.
 
 [View this version](/OldVersions/README/English/2/README_V102.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Monday, January 23rd at 8:47 pm PST`
 
 > **Note** _No additional notes available._
@@ -7747,6 +8041,8 @@ end.
 <details><summary><b>Version 103 (2023, Wednesday, January 25th at 8:10 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V103.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Wednesday, January 25th at 8:10 pm PST`
 
@@ -7776,6 +8072,8 @@ end.
 
 [View this version](/OldVersions/README/English/2/README_V104.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Thursday, January 26th at 4:06 pm PST`
 
 > **Note** _No additional notes available._
@@ -7801,6 +8099,8 @@ end.
 <details><summary><b>Version 105 (2023, Friday, January 27th at 6:20 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V105.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Friday, January 27th at 6:20 pm PST`
 
@@ -7828,6 +8128,8 @@ end.
 
 [View this version](/OldVersions/README/English/2/README_V106.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Saturday, January 28th at 10:12 pm PST`
 
 > **Note** _No additional notes available._
@@ -7854,6 +8156,8 @@ end.
 
 [View this version](/OldVersions/README/English/2/README_V107.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Sunday, January 29th at 10:25 pm PST`
 
 > **Note** _No additional notes available._
@@ -7879,6 +8183,8 @@ end.
 <details><summary><b>Version 108 (2023, Monday, January 30th at 5:31 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V108.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Monday, January 30th at 5:31 pm PST`
 
@@ -7913,6 +8219,8 @@ end.
 
 [View this version](/OldVersions/README/English/2/README_V109.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Tuesday, January 31st at 2:32 pm PST`
 
 > **Note** _No additional notes available._
@@ -7940,6 +8248,8 @@ end.
 <details><summary><b>Version 110 (2023, Friday, February 10th at 6:30 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V110.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Friday, February 10th at 6:30 pm PST`
 
@@ -7975,6 +8285,8 @@ string: "String"
 
 [View this version](/OldVersions/README/English/2/README_V111.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Wednesday, February 15th at 6:19 pm PST`
 
 > **Note** _No additional notes available._
@@ -8003,6 +8315,8 @@ string: "String"
 
 [View this version](/OldVersions/README/English/2/README_V112.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Wednesday, February 15th at 6:55 pm PST`
 
 > **Note** _Came back for the second update today, as processing.js was never included, I somehow completely skipped over it until today._
@@ -8030,6 +8344,8 @@ string: "String"
 <details><summary><b>Version 113 (2023, Thursday, Februayr 16th at 8:30 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V113.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Thursday, February 16th at 8:30 pm PST`
 
@@ -8067,6 +8383,8 @@ STRING[1];
 
 [View this version](/OldVersions/README/English/2/README_V114.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Friday, February 17th at 9:05 pm PST`
 
 > **Note** _No unique status notes for today._
@@ -8102,6 +8420,8 @@ STRING[1];
 
 [View this version](/OldVersions/README/English/2/README_V115.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Saturday, February 18th at 7:28 pm PST`
 
 > **Note** _No unique status notes for today._
@@ -8135,6 +8455,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V116.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Sunday, February 19th at 12:34 pm PST`
 
 > **Note** _There are a lot of comment sections that weren't added today (for the commenter language) as I didn't have the time. I also fixed several broken `> **Note**` sections by removing the `:` from them_
@@ -8160,6 +8482,8 @@ END
 <details><summary><b>Version 117 (2023, Thursday, March 2nd at 9:39 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V117.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Thursday, March 2nd at 9:39 pm PST`
 
@@ -8195,6 +8519,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V118.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Saturday, March 4th at 11:59 pm PST`
 
 > **Note** _Coming 1 day late, as I had procrastination issues last night. Also, I love the new header :)_
@@ -8222,6 +8548,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V119.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Tuesday, March 7th at 11:59 pm PST`
 
 > **Note** _Processing is not to be confused with Processing.js. They are both made by the same organization, but are 2 different languages._
@@ -8247,6 +8575,8 @@ END
 <details><summary><b>Version 120 (2023, Wednesday, March 8th at 3:02 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V120.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Wednesday, March 8th at 11:59 pm PST`
 
@@ -8278,6 +8608,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V121.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Thursday, March 9th at 11:59 pm PST`
 
 > **Note** _Last consecutive day of work before a vacation._
@@ -8303,6 +8635,8 @@ END
 <details><summary><b>Version 122 (2023, Wednesday, March 15th at 10:37 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V122.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Wednesday, March 15th at 10:37 pm PST`
 
@@ -8330,6 +8664,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V123.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Thursday, March 16th at 10:59 pm PST`
 
 > **Note** _None_
@@ -8356,6 +8692,8 @@ END
 <details><summary><b>Version 124 (2023, Saturday, March 25th at 6:20 pm PST)</b></summary>
 
 [View this version](/OldVersions/README/English/2/README_V124.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Friday, March 24th at 11:59 pm PST`
 
@@ -8386,6 +8724,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V125.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Wednesday, March 29th at 5:00 pm PST`
 
 > **Note** _Added support for BlockQL, a language created by me. It is undergoing major semantic changes, and will change significantly, but the comment and string format listed here is planned to remain the same._
@@ -8413,6 +8753,8 @@ END
 
 [View this version](/OldVersions/README/English/2/README_V126.md)
 
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Sunday, April 2nd at 6:11 pm PST`
 
 > **Note** _Added support for DSergeant and GRANNY, 2 languages created by me._
@@ -8439,6 +8781,10 @@ END
 </details> <!-- Section end !-->
 
 <details><summary><b>Version 127 (2923, Monday, April 3rd at 8:50 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V127.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Monday, April 3rd at 8:50 pm PST`
 
@@ -8468,6 +8814,10 @@ END
 
 <details><summary><b>Version 128 (2023, Wednesday, April 5th at 8:17 pm PST)</b></summary>
 
+[View this version](/OldVersions/README/English/2/README_V128.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Tuesday, April 4th at 11:59 pm PST`
 
 > **Note** _Added support for Objective-J++ and Objective-J#, yet another 2 languages created by me. This release was delayed by one day, as I lost a family member yesterday, and was in too much pain to continue._
@@ -8495,6 +8845,10 @@ END
 
 <details><summary><b>Version 129 (2023, Friday, April 7th at 7:54 pm PST)</b></summary>
 
+[View this version](/OldVersions/README/English/2/README_V129.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Thursday, April 6th at 11:59 pm PST`
 
 > **Note** _Added support for AGRAN, the last language created by me (at the moment) this release was delayed by 1 day, as I had a difficult time yesterday._
@@ -8519,6 +8873,10 @@ END
 
 <details><summary><b>Version 130 (2023, Monday, April 17th at 2:15 pm PST)</b></summary>
 
+[View this version](/OldVersions/README/English/2/README_V130.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
 **This release uses/represents data from:** `2023, Thursday, April 6th at 11:59 pm PST`
 
 > **Note** _My first advertiser/sponsor_
@@ -8538,6 +8896,10 @@ END
 </details> <!-- Section end !-->
 
 <details><summary><b>Version 131 (2023, Friday, May 26th at 9:45 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V131.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 **This release uses/represents data from:** `2023, Friday, May 26th at 11:59 pm PST`
 
@@ -8561,11 +8923,138 @@ END
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 132 (Coming soon)</b></summary>
+<details><summary><b>Version 132 (2023, Thursday, June 22nd at 05:18 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V132.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**This release uses/represents data from:** `2023, Thursday, June 22nd at xx:xx pm PST`
+
+> **Note** _I didn't have the time to work with the beef update here on the 21st, so I held it off to today. This update adds support for the `Beef` and `Harbour` programming languages. This was a massive update, and also the first version where the file exceeded 10,000 lines_
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Beef and Harbour
+- [x] Updated the source code comments section
+- - [x] Updated the `//` comment section to include Beef and Harbour
+- - [x] Updated the `//` & `/* */` comment section to include Beef and Harbour
+- - [x] Updated the `/* */` comment section to include Beef and Harbour
+- [x] Updated the print statement section
+- - [x] Added the `QOut( "String" )` string section to include Harbour
+- - [x] Added the `Alert( "String" )` ring section to include Harbour
+- - [x] Added the:
+
+```harbour
+PROCEDURE Main()
+
+   ? "String"
+
+   RETURN
+```
+
+- - [ ] String section to include Harbour
+- - [x] Added the:
+
+```beef
+using System;
+namespace StringTest
+{
+    class Program
+    {
+        static void Main()
+        {
+		Console.WriteLine("String");
+        }
+    }
+}
+```
+
+- - [ ] String section to include Beef
+- - [x] Updated the `Console.WriteLine("String");` string section to include Beef
+- - [x] Updated the `? "String"` string section to include Beef
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Added the word count
+- - [x] Added the Character count (including spaces)
+- - [x] Added the Character count (excluding spaces)
+- - [x] Added the Size (in bytes)
+- [x] Updated the file history section
+- - [x] Updated entries 1 to 131 to fix the attribution notice, fix typos, and fix formatting
+- - [x] Added a log entry for version 132
+- - [x] Added blank entries for versions 263 to 264
+- [x] Updated the `supported by` section
+- [x] Updated the footer
+- [x] Updated the following sections to include anchor links in headings, and dropdowns:
+- - [x] Title
+- - [x] Important overview notes
+- - [x] Things to take note of
+- - [x] Change language
+- - [x] Knowledge of languages
+- - [x] By computing language
+- - [x] Extras
+- - [x] Extras/M
+- - [x] Makefile testing
+- - [x] Extras/P
+- - [x] Python Traceback Examples
+- - [x] PhD in PHP
+- - [x] Extras/R
+- - [x] ReStructuredText Sandbox
+- - [x] Methods
+- - [x] Goals
+- - [x] See also
+- - [x] Programming language similarities
+- - [x] Comments
+- - [x] Break keyword
+- - [x] Print statement
+- - [x] Int
+- - [x] Integer
+- - [x] Double
+- - [x] Goto
+- - [x] Return
+- - [x] Str
+- - [x] String
+- - [x] Char
+- - [x] Bool
+- - [x] Boolean
+- - [x] Fact
+- - [x] Factorial
+- - [x] Mov
+- - [x] If
+- - [x] Else
+- - [x] Fi
+- - [x] Esle
+- - [x] Tuple
+- - [x] Elif
+- - [x] Interface
+- - [x] Class
+- - [x] Public
+- - [x] Repeat
+- - [x] Include
+- - [x] Switch
+- - [x] Do
+- - [x] Or
+- - [x] And
+- - [x] Foreach
+- - [x] In
+- - [x] Range
+- - [x] Random
+- - [x] Randint
+- - [x] Contract
+- - [x] Scanf
+- - [x] Scan
+- - [x] Input
+- - [x] Additional docs
+- - [x] Acceleration project
+- - [x] Issues
+- - [x] 2022 September 17th issues
+- - [x] 2022 September 18th issues
+- - [x] 2022 October 19th/20th issues
+- - [x] 2022 October 25th/26th issues
+- - [x] Integration with SNU Programming Tools
 - [ ] No other changes in version 132
 
 </details> <!-- Section end !-->
@@ -9740,11 +10229,29 @@ END
 
 </details> <!-- Section end !-->
 
+<details><summary><b>Version 263 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 263
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 264 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 264
+
+</details> <!-- Section end !-->
+
 </details> <!-- Dropdown table end !-->
 
 ***
 
-## Supported by
+## [Supported by](#Supported-by)
 
 <!-- ![GeeksterLogo.png](/Graphics/Supporters/G/Geekster/GeeksterLogo.png) !-->
 
@@ -9759,11 +10266,13 @@ END
 
 ***
 
-### You have reached the end of the README file
+# [Footer](#Footer)
+
+You have reached the end of the README file
 
 ( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
-### EOF
+###### [EOF](#EOF)
 
 ***
 
