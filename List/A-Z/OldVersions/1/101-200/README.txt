@@ -2,8 +2,8 @@
 //// LIST_ALPHABETICAL.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// An alphabet list of the repository links for the seanpm2001 learn project
-//// V123: 2023, Friday, May 26th at 9:49 pm PST
-//// Representing data from 2023, Friday, May 26th at 11:59 pm PST
+//// V124: 2023, Thursday, June 22nd at 05:26 pm PST
+//// Representing data from 2023, Thursday, June 22nd at 05:26 pm PST
 
 //// Programming
 //// 1
@@ -51,6 +51,7 @@ https://github.com/seanpm2001/Learn-Ballerina
 https://github.com/seanpm2001/Learn-BASIC
 https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Batchfile
+https://github.com/seanpm2001/Learn-Beef
 https://github.com/seanpm2001/Learn-Befunge
 https://github.com/seanpm2001/Learn-Berry
 https://github.com/seanpm2001/Learn-BibTeX
@@ -194,6 +195,7 @@ https://github.com/seanpm2001/Learn-Hack
 https://github.com/seanpm2001/Learn-Handlebars
 https://github.com/seanpm2001/Learn-HAML
 https://github.com/seanpm2001/Learn-HaProxy
+https://github.com/seanpm2001/Learn-Harbour
 https://github.com/seanpm2001/Learn-Haskell
 https://github.com/seanpm2001/Learn-Haxe
 https://github.com/seanpm2001/Learn-HCL
@@ -266,7 +268,7 @@ https://github.com/seanpm2001/Learn-LispFlavoredErlang
 https://github.com/seanpm2001/Learn-Little
 https://github.com/seanpm2001/Learn-LiveCode
 https://github.com/seanpm2001/Learn-LiveScript
-https://github.com/seanpm2001/LFearn-LLVM
+https://github.com/seanpm2001/Learn-LLVM
 https://github.com/seanpm2001/Learn-Lobster
 https://github.com/seanpm2001/Learn-Logcat
 https://github.com/seanpm2001/Learn-LogTalk
@@ -540,11 +542,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// 506 or 509 languages listed (as of 2023, Friday, May 26th at 9:49 pm PST)
+//// 508 languages listed (as of 2023, Thursday, June 22nd at 05:26 pm PST)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 123 (2023, Friday, May 26th at 9:49 pm PST)
-//// Line count (including blank lines and compiler line): 551
+//// File version: 124 (2023, Thursday, June 22nd at 05:26 pm PST)
+//// Line count (including blank lines and compiler line): 553
 
 //// End of file
