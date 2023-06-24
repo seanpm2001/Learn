@@ -1,0 +1,9 @@
+Fuzzy Markup Language (FML)
+*.fml *.xml
+<!-- String !-->
+<?xml version="1.0" encoding="UTF-8"?>
+<fuzzySystem name="FML" ip="127.0.0.1">
+	<knowledgeBase>
+		<fuzzyTerm name="String" complement="false"></fuzzyTerm>
+	</knowledgeBase>
+</fuzzySystem>
