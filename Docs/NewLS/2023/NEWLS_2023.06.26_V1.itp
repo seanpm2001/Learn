@@ -1,0 +1,12 @@
+Tampio (Finnish programming language)
+*.itp
+# Comment
+# Kommentti
+Kun nykyinen sivu avautuu,
+# When the current page opens,
+
+nykyinen sivu näyttää tekstin "Vektori: ",
+# current page show text "Vector: ",
+
+nykyinen sivu näyttää tekstin "Merkkijono: ",
+# current page show text "String: ",
