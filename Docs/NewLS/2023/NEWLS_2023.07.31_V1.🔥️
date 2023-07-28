@@ -1,0 +1,13 @@
+# Mojo programming language
+# .mojo .🔥️ (this is the first programming language I have come across that uses an Emoji as a file extension. I thought that an Esoteric language would come first on this)
+# Comment
+""" Multi-line
+comment """
+''' Also a
+multi-line
+comment
+'''
+print('String')
+# Or
+print("String")
+# This language has a syntax very, very similar to Python.
