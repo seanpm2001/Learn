@@ -61,7 +61,7 @@
 - [x] BlitzMax
 - [x] BlooP
 - [x] BLISS
-- [ ] BennuGD
+- [x] BennuGD
 - [x] ColdFusion
 - [x] ColdFusion CFC
 - [x] Component Pascal
@@ -103,7 +103,8 @@
 - [x] Ch
 - [x] Chapel
 - [x] CUE
-- [ ] Cairo
+- [x] CWeb
+- [x] Cairo
 - [x] DSergeant (seanpm2001)
 - [x] DroppedText (seanpm2001)
 - [x] D
@@ -149,7 +150,7 @@
 - [x] FP
 - [x] FreeBasic
 - [x] FlooP
-- [ ] Fuzzy Markup Language (FML)
+- [x] Fuzzy Markup Language (FML)
 - [x] GRANNY (seanpm2001)
 - [x] Gleam
 - [x] G-CODE
@@ -175,7 +176,7 @@
 - [x] Gremlin
 - [x] GDScript
 - [x] Gradle
-- [ ] GolfScript
+- [x] GolfScript
 - [x] Hack
 - [x] HAML
 - [x] HandleBars
@@ -289,6 +290,8 @@
 - [x] Modula-2
 - [x] Modula-3
 - [x] Motorola S-RECORD
+- [x] MQL4
+- [x] MQL5
 - [x] MS-DOS Style
 - [x] Max
 - [x] MLIR
@@ -296,6 +299,7 @@
 - [x] MoonScript
 - [x] Maxima
 - [x] Mojom
+- [x] Mojo
 - [x] MTML
 - [x] MCPYE CL
 - [x] NASL
@@ -311,6 +315,7 @@
 - [x] NVIDIA Cuda
 - [x] Nu
 - [x] Nim
+- [ ] Noop
 - [x] Oxygene
 - [x] Oberon
 - [x] Objective-J
@@ -362,7 +367,7 @@
 - [x] Pony
 - [x] Processing.js
 - [x] Processing
-- [ ] Plankalkül
+- [x] Plankalkül
 - [x] QMake
 - [x] QSharp
 - [x] QTScript
@@ -449,7 +454,9 @@
 - [x] SQF
 - [x] SNOBOL
 - [x] Sweave
-- [ ] SmPL
+- [x] SmPL
+- [ ] Turing
+- [x] Triton-OpenAI
 - [x] TypeScript
 - [x] TCL
 - [x] TeX
@@ -462,7 +469,7 @@
 - [x] Terra
 - [x] TXL
 - [x] TSX
-- [ ] Tampio
+- [x] Tampio
 - [x] UnrealScript
 - [x] Uno
 - [x] URLL (seanpm2001)
@@ -484,6 +491,7 @@
 - [x] VBScript
 - [x] Visual Basic Script (duplicate of VBScript)
 - [x] VHDL
+- [x] WEB
 - [x] WebIDL
 - [x] Wren
 - [x] WaveFront Object
@@ -496,15 +504,15 @@
 - [x] Windows Registry Entries
 - [x] While
 - [x] Wasp
-- [ ] Wisp
-- [ ] Whitespace
+- [x] Wisp
+- [x] Whitespace
 - [x] XProc
 - [x] X-Pixmap
 - [x] XQuery
 - [x] XS
 - [x] XSLT
 - [x] XBase
-- [ ] XBase++
+- [x] XBase++
 - [x] XML
 - [x] XTend
 - [x] YASnippet
