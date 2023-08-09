@@ -1,0 +1,16 @@
+BennuGD
+Cairo
+CWeb
+Fuzzy-Markup-Language-FML
+GolfScript
+Mojo
+MQL4
+MQL5
+Plankalk-u-l
+SmPL
+Tampio
+Triton-OpenAI
+WEB
+Whitespace
+Wisp
+XBasePlusPlus
