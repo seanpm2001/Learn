@@ -469,7 +469,7 @@ https://github.com/seanpm2001/Learn-Twig
 https://github.com/seanpm2001/Learn-Thrift
 https://github.com/seanpm2001/Learn-TLA
 https://github.com/seanpm2001/Learn-TOML
-https://github.com/seanpm2001/Learn-Triton
+https://github.com/seanpm2001/Learn-Triton_OpenAI
 https://github.com/seanpm2001/Learn-TSQL
 https://github.com/seanpm2001/Learn-TSX
 https://github.com/seanpm2001/Learn-TXL
@@ -501,6 +501,7 @@ https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WDL
 https://github.com/seanpm2001/Learn-WebAssembly
 https://github.com/seanpm2001/Learn-WebIDL
+https://github.com/seanpm2001/Learn-WEB
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-While
 https://github.com/seanpm2001/Learn-Whitespace
@@ -528,16 +529,19 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Repo count: 524
+//// Repo count: 525
 
 //// See also:
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
 https://github.com/seanpm2001/Education
 https://github.com/seanpm2001/Seanpm2001-Education
+https://github.com/seanpm2001/Seanpm2001-Learn
+
+//// Total repo count: 529 (not including SNU 2D ProgrammingTools IDE repositories, which would raise the count above 1,000)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2023, Tuesday, August 8th at 07:39 pm PST)
-//// Line count (including blank lines and compiler line): 544
+//// File version: 2 (2023, Wednesday, August 9th at 04:13 pm PST)
+//// Line count (including blank lines and compiler line): 548
 
 //// End of file
