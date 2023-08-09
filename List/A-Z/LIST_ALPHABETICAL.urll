@@ -2,8 +2,8 @@
 //// LIST_ALPHABETICAL.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// An alphabet list of the repository links for the seanpm2001 learn project
-//// V124: 2023, Thursday, June 22nd at 05:26 pm PST
-//// Representing data from 2023, Thursday, June 22nd at 05:26 pm PST
+//// V125: 2023, Tuesday, August 8th at 07:36 pm PST
+//// Representing data from 2023, Tuesday, August 8th at 07:36 pm PST
 
 //// Programming
 //// 1
@@ -53,6 +53,7 @@ https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Batchfile
 https://github.com/seanpm2001/Learn-Beef
 https://github.com/seanpm2001/Learn-Befunge
+https://github.com/seanpm2001/Learn-BennuGD
 https://github.com/seanpm2001/Learn-Berry
 https://github.com/seanpm2001/Learn-BibTeX
 https://github.com/seanpm2001/Learn-Bicep
@@ -75,6 +76,7 @@ https://github.com/seanpm2001/Learn-BSDL
 //// C
 https://github.com/seanpm2001/Learn-C
 https://github.com/seanpm2001/Learn-Cadence
+https://github.com/seanpm2001/Learn-Cairo
 https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-Cap-CDS
 https://github.com/seanpm2001/Learn-Cap-n-Proto
@@ -114,6 +116,7 @@ https://github.com/seanpm2001/Learn-CSS
 https://github.com/seanpm2001/Learn-CSV
 https://github.com/seanpm2001/Learn-CUDA
 https://github.com/seanpm2001/Learn-CUE
+https://github.com/seanpm2001/Learn-CWeb
 https://github.com/seanpm2001/Learn-Cyclone
 https://github.com/seanpm2001/Learn-Cython
 //// D
@@ -164,6 +167,7 @@ https://github.com/seanpm2001/Learn-FreeBasic
 https://github.com/seanpm2001/Learn-FreeMarker
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
+https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML
 //// G
 https://github.com/seanpm2001/Learn-GAP
 https://github.com/seanpm2001/Learn-GCC-Machine-Description
@@ -179,6 +183,7 @@ https://github.com/seanpm2001/Learn-GLSL
 https://github.com/seanpm2001/Learn-GN
 https://github.com/seanpm2001/Learn-GnuPlot
 https://github.com/seanpm2001/Learn-Go2003
+https://github.com/seanpm2001/Learn-GolfScript
 https://github.com/seanpm2001/Learn-Google-Apps-Script
 https://github.com/seanpm2001/Learn-GoogleGo
 https://github.com/seanpm2001/Learn-Gosu
@@ -308,11 +313,14 @@ https://github.com/seanpm2001/Learn-Modelica
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Mojo
 https://github.com/seanpm2001/Learn-Mojom
 https://github.com/seanpm2001/Learn-Monkey
 https://github.com/seanpm2001/Learn-Monkey-C
 https://github.com/seanpm2001/Learn-MoonScript
 https://github.com/seanpm2001/Learn-Motoko
+https://github.com/seanpm2001/Learn-MQL4
+https://github.com/seanpm2001/Learn-MQL5
 https://github.com/seanpm2001/Learn-MS-DOS-Style
 https://github.com/seanpm2001/Learn-MTML
 https://github.com/seanpm2001/Learn-Mustache
@@ -357,6 +365,7 @@ https://github.com/seanpm2001/Learn-Perl6
 https://github.com/seanpm2001/Learn-PHP
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-PigLatin
+https://github.com/seanpm2001/Learn-Plankalk-u-l
 https://github.com/seanpm2001/Learn-PlantUML
 https://github.com/seanpm2001/Learn-PLpgSQL
 https://github.com/seanpm2001/Learn-PLSQL
@@ -443,6 +452,7 @@ https://github.com/seanpm2001/Learn-Slim
 https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-Smali
 https://github.com/seanpm2001/Learn-Smarty
+https://github.com/seanpm2001/Learn-SmPL
 https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-SNOBOL
 https://github.com/seanpm2001/Learn-Solidity
@@ -473,6 +483,7 @@ https://github.com/seanpm2001/Learn-SWIG
 https://github.com/seanpm2001/Learn-SXML
 https://github.com/seanpm2001/Learn-SystemVerilog
 //// T
+https://github.com/seanpm2001/Learn-Tampio
 https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn-Terra
 https://github.com/seanpm2001/Learn-TeX
@@ -481,6 +492,7 @@ https://github.com/seanpm2001/Learn-Twig
 https://github.com/seanpm2001/Learn-Thrift
 https://github.com/seanpm2001/Learn-TLA
 https://github.com/seanpm2001/Learn-TOML
+https://github.com/seanpm2001/Learn-Triton
 https://github.com/seanpm2001/Learn-TSQL
 https://github.com/seanpm2001/Learn-TSX
 https://github.com/seanpm2001/Learn-TXL
@@ -517,12 +529,15 @@ https://github.com/seanpm2001/Learn-WebAssembly
 https://github.com/seanpm2001/Learn-WebIDL
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-While
+https://github.com/seanpm2001/Learn-Whitespace
 https://github.com/seanpm2001/Learn-Wierd
 https://github.com/seanpm2001/Learn-WikiText
 https://github.com/seanpm2001/Learn-WindowsRegistry
+https://github.com/seanpm2001/Learn-Wisp
 https://github.com/seanpm2001/Learn-Wren
 //// X
 https://github.com/seanpm2001/Learn-XBase
+https://github.com/seanpm2001/Learn-XBasePlusPlus
 https://github.com/seanpm2001/Learn-XML
 https://github.com/seanpm2001/Learn-X-Pixmap
 https://github.com/seanpm2001/Learn-XProc
@@ -542,11 +557,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// 508 languages listed (as of 2023, Thursday, June 22nd at 05:26 pm PST)
+//// 523 languages listed (as of 2023, Tuesday, August 8th at 07:36 pm PST)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 124 (2023, Thursday, June 22nd at 05:26 pm PST)
-//// Line count (including blank lines and compiler line): 553
+//// File version: 125 (2023, Thursday, June 22nd at 07:36 pm PST)
+//// Line count (including blank lines and compiler line): 568
 
 //// End of file
