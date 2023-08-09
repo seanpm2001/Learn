@@ -1,0 +1,16 @@
+BennuGD: https//github.com/seanpm2001/Learn-BennuGD/
+Cairo: https://github.com/seanpm2001/Learn-Cairo/
+CWEB: https//github.com/seanpm2001/Learn-CWeb/
+Fuzzy Markup Language: https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML/
+GolfScript: https//github.com/seanpm2001/Learn-GolfScript/
+Mojo: https//github.com/seanpm2001/Learn-Mojo/
+MQL4: https//github.com/seanpm2001/Learn-MQL4/
+MQL5: https//github.com/seanpm2001/Learn-MQL5/
+Plankalkül: https://github.com/seanpm2001/Learn-Plankalk-u-l/
+SmPL: https//github.com/seanpm2001/Learn-SmPL/
+Tampio: https://github.com/seanpm2001/Learn-Tampio/
+Triton: https://github.com/seanpm2001/Learn-Triton_OpenAI/
+Whitespace: https://github.com/seanpm2001/Learn-Whitespace/
+Wisp: https//github.com/seanpm2001/Learn-Wisp/
+WEB: https//github.com/seanpm2001/Learn-WEB/
+XBase++: https://github.com/seanpm2001/Learn-XBasePlusPlus/
