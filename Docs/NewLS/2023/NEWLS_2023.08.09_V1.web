@@ -1,0 +1,7 @@
+% WEB
+% *.web
+% Comment
+@*Multi-
+line comment
+(I think?) *@
+print_nl('String')
