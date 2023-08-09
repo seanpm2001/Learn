@@ -1,0 +1,115 @@
+- [ ] ABC
+- [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
+- [ ] AGRAN (seanpm2001, obsolete language)
+- [ ] ALGOL
+- [ ] ALS
+- [ ] Amulet
+- [ ] Antlers (recognized as a language, but returns 404 during source code search, commonly attributed as an HTML variant/template language)
+- [ ] AssemblyScript
+- [ ] B
+- [ ] BennuGD
+- [ ] Blockly (basically just a JSON zip archive)
+- [ ] BlockQL (the language is obscure, it was added to this list 1 day after its creation, and won't be recognized by GitHub until it gets a noticeable userbase (if it does))
+- [ ] BLISS
+- [ ] BlooP
+- [ ] Bro (originally was partially recognized up until 2023, January 27th, at the same level as `Arduino` but now it is completely unrecognized, and works like `Fish` does and just redirects the inferred language to `Zeek`)
+- [ ] CAML
+- [ ] CH
+- [ ] Cobra
+- [ ] Commenter (currently too obscure at the moment)
+- [ ] CSHTML (recognizes as HTML)
+- [ ] Cyclone
+- [ ] ColdFusion CFC (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with ColdFusion CFC source code, it willl be labeled as `ColdFusion` However, attempting to sort by the ColdFusion CFC language will just perform an `all repositories` search)
+- [ ] DCPU16-ASM (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with DCPU-16 ASM source code, it willl be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the DCPU-16 ASM language will just perform an `all repositories` search)
+- [ ] DroppedText (seanpm2001)
+- [ ] DSergeant (seanpm2001)
+- [ ] Epigram
+- [ ] Ermine (can be recognized as E)
+- [ ] Ezhil
+- [ ] FCL
+- [ ] Fish (recognizes as Shell)
+- [ ] FlooP
+- [ ] FP
+- [ ] Fuzzy Markup Language (FML)
+- [ ] Go! (the one Google blatantly steamrolled over, and mostly everyone kind of forgot)
+- [ ] GolfScript
+- [ ] Google Apps Script
+- [ ] GRANNY (seanpm2001)
+- [ ] Gremlin
+- [ ] Hope
+- [ ] Intel Hex (Binary)
+- [ ] INTERCAL
+- [ ] ISWIM
+- [ ] jq (Recognizes as a language, but can't be detected as one in source code search)
+- [ ] Jade
+- [ ] JavaScript++
+- [ ] Java Server Pages (recognizes as a separate language in the inner linguist, but doesn't recognize in the outer linguist)
+- [ ] Jakarta Server Pages (The modern implementation of the former (Java Server Pages) but not recognized at all by the GitHub linguist)
+- [ ] JFlex (recognizes as its own separate language, but shows up as Lex)
+- [ ] Joy
+- [ ] JScript (too similar to JavaScript)
+- [ ] JScript.NET (also too similar to JavaScript)
+- [ ] JSSS
+- [ ] JSON5
+- [ ] Jython
+- [ ] KiXTart
+- [ ] KRC (Kent Recursive Calculator)
+- [ ] LiveCode (recently switched to being proprietary, older versions are still open source)
+- [ ] Lobster
+- [ ] Logcat
+- [ ] Lingo
+- [ ] Little
+- [ ] Lucid
+- [ ] NetREXX
+- [ ] M4Sugar (commonly seen in the inner-linguist, but cannot get it to show as anything other than M4 on the outer Linguist)
+- [ ] Mallard
+- [ ] Matrix (seanpm2001)
+- [ ] Maxima
+- [ ] MCPYE CL (seanpm2001) (mcfunction is the current placeholder language)
+- [ ] MGears (seanpm2001)
+- [ ] Miranda
+- [ ] ML
+- [ ] Mojo
+- [ ] Mojom
+- [ ] MS-DOS Style
+- [ ] Oberon
+- [ ] Objective-C# (seanpm2001) (Objective-C++ is the current placeholder language)
+- [ ] Objective-J# (seanpm2001) (Objective-J is the current placeholder language, although GitHub recognizes the syntax (specifically *.jsh files) as Java)
+- [ ] Objective-J++ (seanpm2001) (Objective-J is the current placeholder language)
+- [ ] Octave
+- [ ] OpenCL (recognizes as C)
+- [ ] Orwell
+- [ ] Perl6 (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Perl6 source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Perl6 language will just perform an `all repositories` search) (side note: Perl6 was renamed to Raku, but Perl6 still is recognized as a separate language by the GitHub linguist), additionally, when in use on newer repositories, it recognizes as Raku, and does not have the old Perl 6 label. I don't know why this happens. Also, I added pod6 on the same day, I thought it wouldn't recognize, but it is fine
+- [ ] Plankalkül
+- [ ] PostCSS (recognizes as CSS)
+- [ ] PowerFX (basically just a YAML format)
+- [ ] QueryByExample
+- [ ] Refal
+- [ ] SASL
+- [ ] SASS
+- [ ] Squeak! (basically just a JSON zip archive)
+- [ ] Scratch 1.x (basically just a JSON zip archive)
+- [ ] Scratch 2 (basically just a JSON zip archive)
+- [ ] Scratch 3 (basically just a JSON zip archive)
+- [ ] SDLang
+- [ ] StrictYAML
+- [ ] Seed7
+- [ ] SNOBOL (it is rarely used nowadays, but it could be included due to its significance)
+- [ ] Starlark
+- [ ] Sublime Text (justification for adding to Linguist: it is clearly a JSON language. Many more obscure XML and JSON languages are listed, why can't this one be?)
+- [ ] Sweave (Can't tell if it is related to R, if it is, it is partially recognized; if not, it is unrecognized)
+- [ ] SXML
+- [ ] Tampio
+- [ ] Triton (OpenAI)
+- [ ] TSX (recognizes as TypeScript)
+- [ ] Unix Assmembly (recognizes as a language in the inner Linguist, but recognizes as Assembly in the outer Linguist)
+- [ ] URLL (seanpm2001)
+- [ ] VBHTML (recognizes as Visual Basic .NET)
+- [ ] Verona
+- [ ] VisualLogic
+- [ ] Wasp
+- [ ] WEB
+- [ ] Wierd
+- [ ] While
+- [ ] X-PixMap (recognizes as C)
+- [ ] XBase++
