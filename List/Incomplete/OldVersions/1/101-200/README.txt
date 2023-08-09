@@ -3,8 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// Start of script
 //// Incomplete projects list
-//// Version 127
-//// As of 2023, Thursday, June 22nd at 05:45 pm PST
+//// Version 128
+//// As of 2023, Wednesday, August 9th at 03:55 pm PST
+
+//// TypeScript may be missing from this list
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -45,6 +47,7 @@ https://github.com/seanpm2001/Learn-Batch
 https://github.com/seanpm2001/Learn-Batchfile
 https://github.com/seanpm2001/Learn-Beef
 https://github.com/seanpm2001/Learn-Befunge
+https://github.com/seanpm2001/Learn-BennuGD
 https://github.com/seanpm2001/Learn-Berry
 https://github.com/seanpm2001/Learn-BibTeX
 https://github.com/seanpm2001/Learn-Bicep
@@ -63,6 +66,7 @@ https://github.com/seanpm2001/Learn-BrighterScript
 https://github.com/seanpm2001/Learn-Bro
 https://github.com/seanpm2001/Learn-BSDL
 https://github.com/seanpm2001/Learn-Cadence
+https://github.com/seanpm2001/Learn-Cairo
 https://github.com/seanpm2001/Learn-CartoCSS
 https://github.com/seanpm2001/Learn-CAML
 https://github.com/seanpm2001/Learn-CAP-CDS
@@ -96,6 +100,7 @@ https://github.com/seanpm2001/Learn-CSound-Document
 https://github.com/seanpm2001/Learn-CSound-Score
 https://github.com/seanpm2001/Learn-CUDA
 https://github.com/seanpm2001/Learn-CUE
+https://github.com/seanpm2001/Learn-CWeb
 https://github.com/seanpm2001/Learn-Cyclone
 https://github.com/seanpm2001/Learn-Cython
 https://github.com/seanpm2001/Learn-Dafny
@@ -135,6 +140,7 @@ https://github.com/seanpm2001/Learn-FreeBasic
 https://github.com/seanpm2001/Learn-FreeMarker
 https://github.com/seanpm2001/Learn-FSharp
 https://github.com/seanpm2001/Learn-FStar
+https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML
 https://github.com/seanpm2001/Learn-GAP
 https://github.com/seanpm2001/Learn-GCC-Machine-Description
 https://github.com/seanpm2001/Learn-G-CODE
@@ -148,6 +154,7 @@ https://github.com/seanpm2001/Learn-Gleam
 https://github.com/seanpm2001/Learn-GLSL
 https://github.com/seanpm2001/Learn-GN
 https://github.com/seanpm2001/Learn-GnuPlot
+https://github.com/seanpm2001/Learn-GolfScript
 https://github.com/seanpm2001/Learn-Google-Apps-Script
 https://github.com/seanpm2001/Learn-Gosu
 https://github.com/seanpm2001/Learn-Gradle
@@ -260,10 +267,13 @@ https://github.com/seanpm2001/Learn-MLIR
 https://github.com/seanpm2001/Learn-Modula-2
 https://github.com/seanpm2001/Learn-Modula-3
 https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Mojo
 https://github.com/seanpm2001/Learn-Mojom
 https://github.com/seanpm2001/Learn-Monkey
 https://github.com/seanpm2001/Learn-Monkey-C
 https://github.com/seanpm2001/Learn-Motoko
+https://github.com/seanpm2001/Learn-MQL4
+https://github.com/seanpm2001/Learn-MQL5
 https://github.com/seanpm2001/Learn-MS-DOS-Style
 https://github.com/seanpm2001/Learn-MTML
 https://github.com/seanpm2001/Learn-Mustache
@@ -299,6 +309,7 @@ https://github.com/seanpm2001/Learn-PEG.js
 https://github.com/seanpm2001/Learn-Perl6
 https://github.com/seanpm2001/Learn-PicoLisp
 https://github.com/seanpm2001/Learn-PigLatin
+https://github.com/seanpm2001/Learn-Plankalk-u-l
 https://github.com/seanpm2001/Learn-PlantUML
 https://github.com/seanpm2001/Learn-PLpgSQL
 https://github.com/seanpm2001/Learn-PLSQL
@@ -372,6 +383,7 @@ https://github.com/seanpm2001/Learn-Slash
 https://github.com/seanpm2001/Learn-Smarty
 https://github.com/seanpm2001/Learn-SmallTalk
 https://github.com/seanpm2001/Learn-Smali
+https://github.com/seanpm2001/Learn-SmPL
 https://github.com/seanpm2001/Learn-SMT
 https://github.com/seanpm2001/Learn-SNOBOL
 https://github.com/seanpm2001/Learn-SourcePawn
@@ -398,6 +410,7 @@ https://github.com/seanpm2001/Learn-Sweave
 https://github.com/seanpm2001/Learn-SWIG
 https://github.com/seanpm2001/Learn-SXML
 https://github.com/seanpm2001/Learn-SystemVerilog
+https://github.com/seanpm2001/Learn-Tampio
 https://github.com/seanpm2001/Learn-Tcl
 https://github.com/seanpm2001/Learn-Terra
 https://github.com/seanpm2001/Learn-TeX
@@ -405,6 +418,7 @@ https://github.com/seanpm2001/Learn-Textile
 https://github.com/seanpm2001/Learn-Thrift
 https://github.com/seanpm2001/Learn-TLA
 https://github.com/seanpm2001/Learn-TOML
+https://github.com/seanpm2001/Learn-Triton-OpenAI
 https://github.com/seanpm2001/Learn-TSQL
 https://github.com/seanpm2001/Learn-TSX
 https://github.com/seanpm2001/Learn-Twig
@@ -431,14 +445,18 @@ https://github.com/seanpm2001/Learn-Wasp
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WebAssembly
+https://github.com/seanpm2001/Learn-WEB
 https://github.com/seanpm2001/Learn-WebIDL
 https://github.com/seanpm2001/Learn-WebVTT
 https://github.com/seanpm2001/Learn-While
+https://github.com/seanpm2001/Learn-Whitespace
 https://github.com/seanpm2001/Learn-Wierd
+https://github.com/seanpm2001/Learn-Wisp
 https://github.com/seanpm2001/Learn-WikiText
 https://github.com/seanpm2001/Learn-WindowsRegistry
 https://github.com/seanpm2001/Learn-Wren
 https://github.com/seanpm2001/Learn-XBase
+https://github.com/seanpm2001/Learn-XBasePlusPlus
 https://github.com/seanpm2001/Learn-X-Pixmap
 https://github.com/seanpm2001/Learn-XQuery
 https://github.com/seanpm2001/Learn-XS
@@ -453,7 +471,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 446/506
+//// Count: 461/526
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -713,13 +731,15 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V126 date: 2023, Friday, May 26th at 10:00 pm PST, representing data from 2023, Friday, May 26th at 11:59 pm PST
 //// V127: 2 entries added, 446 entries remain (ratio: 446/506 (88.14% incomplete, 11.86% complete))
 //// V127 date: 2023, Thursday, June 22nd at 05:45 pm PST, representing data from 2023, Thursday, June 22nd at 11:59 pm PST
+//// V128: 16 entries added, 461/462 entries remain (ratio: 461/526 (87.64% incomplete, 16.35% complete. 0.01% margin of error))
+//// V128 date: 2023, Wednesday, August 9th at 03:55 pm PST, representing data from 2023, Wednesday, Augutst 9th at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 446/506 (88.14% incomplete, 11.86% complete)
+//// Ratio (incomplete/complete): 461/526 (88.14% incomplete, 11.86% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 127 (2023, Thursday, June 22nd at 05:45 pm PST)
-//// Line count (including blank lines and compiler line): 726
+//// File version: 128 (2023, Wednesday, August 9th at 03:55 pm PST)
+//// Line count (including blank lines and compiler line): 746
 
 //// End of script
