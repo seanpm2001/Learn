@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `508`/`518` (as of 2023, Thursday, June 22nd at 05:56 pm PST)
+Current progress `524`/`526` (as of 2023, Wednesday, August 9th at 04:05 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `098.07%` complete, `001.93%` incomplete.
+**Ratio:** `099.61%` complete, `000.39%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -90,7 +90,7 @@ This list covers the creation of the language repositories.
 - [x] BlitzMax
 - [x] BlooP
 - [x] BLISS
-- [ ] BennuGD
+- [x] BennuGD
 - [x] ColdFusion
 - [x] ColdFusion CFC
 - [x] Component Pascal
@@ -132,7 +132,8 @@ This list covers the creation of the language repositories.
 - [x] Ch
 - [x] Chapel
 - [x] CUE
-- [ ] Cairo
+- [x] CWeb
+- [x] Cairo
 - [x] DSergeant (seanpm2001)
 - [x] DroppedText (seanpm2001)
 - [x] D
@@ -178,7 +179,7 @@ This list covers the creation of the language repositories.
 - [x] FP
 - [x] FreeBasic
 - [x] FlooP
-- [ ] Fuzzy Markup Language (FML)
+- [x] Fuzzy Markup Language (FML)
 - [x] GRANNY (seanpm2001)
 - [x] Gleam
 - [x] G-CODE
@@ -204,7 +205,7 @@ This list covers the creation of the language repositories.
 - [x] Gremlin
 - [x] GDScript
 - [x] Gradle
-- [ ] GolfScript
+- [x] GolfScript
 - [x] Hack
 - [x] HAML
 - [x] HandleBars
@@ -318,6 +319,8 @@ This list covers the creation of the language repositories.
 - [x] Modula-2
 - [x] Modula-3
 - [x] Motorola S-RECORD
+- [x] MQL4
+- [x] MQL5
 - [x] MS-DOS Style
 - [x] Max
 - [x] MLIR
@@ -325,6 +328,7 @@ This list covers the creation of the language repositories.
 - [x] MoonScript
 - [x] Maxima
 - [x] Mojom
+- [x] Mojo
 - [x] MTML
 - [x] MCPYE CL
 - [x] NASL
@@ -340,6 +344,7 @@ This list covers the creation of the language repositories.
 - [x] NVIDIA Cuda
 - [x] Nu
 - [x] Nim
+- [ ] Noop
 - [x] Oxygene
 - [x] Oberon
 - [x] Objective-J
@@ -391,7 +396,7 @@ This list covers the creation of the language repositories.
 - [x] Pony
 - [x] Processing.js
 - [x] Processing
-- [ ] Plankalkül
+- [x] Plankalkül
 - [x] QMake
 - [x] QSharp
 - [x] QTScript
@@ -478,7 +483,9 @@ This list covers the creation of the language repositories.
 - [x] SQF
 - [x] SNOBOL
 - [x] Sweave
-- [ ] SmPL
+- [x] SmPL
+- [ ] Turing
+- [x] Triton-OpenAI
 - [x] TypeScript
 - [x] TCL
 - [x] TeX
@@ -491,7 +498,7 @@ This list covers the creation of the language repositories.
 - [x] Terra
 - [x] TXL
 - [x] TSX
-- [ ] Tampio
+- [x] Tampio
 - [x] UnrealScript
 - [x] Uno
 - [x] URLL (seanpm2001)
@@ -513,6 +520,7 @@ This list covers the creation of the language repositories.
 - [x] VBScript
 - [x] Visual Basic Script (duplicate of VBScript)
 - [x] VHDL
+- [x] WEB
 - [x] WebIDL
 - [x] Wren
 - [x] WaveFront Object
@@ -525,15 +533,15 @@ This list covers the creation of the language repositories.
 - [x] Windows Registry Entries
 - [x] While
 - [x] Wasp
-- [ ] Wisp
-- [ ] Whitespace
+- [x] Wisp
+- [x] Whitespace
 - [x] XProc
 - [x] X-Pixmap
 - [x] XQuery
 - [x] XS
 - [x] XSLT
 - [x] XBase
-- [ ] XBase++
+- [x] XBase++
 - [x] XML
 - [x] XTend
 - [x] YASnippet
@@ -566,9 +574,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `127 (2023, Thursday, June 22nd at 05:56 pm PST)`
+**File version:** `128 (2023, Wednesday, August 9th at 04:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,602`
+**Line count (including blank lines and compiler line):** `5,651`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3693,15 +3701,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 128</b></summary>
 
-**Version 128 (Coming soon)**
+**Version 128 (2023, Wednesday, August 9th at 4:05 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V128.md)
+
+> **Note** _This release comes almost 2 whole months late._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 16 new entries (old total: 508 | new total: 524)
+- - [x] Added 8 new entries to the list (old total: 518 | new total: 526)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 128
 - [ ] No other changes in version 128
 
 </details> <!-- Section end !-->
@@ -5591,6 +5610,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 254
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 255</b></summary>
+
+**Version 255 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 255
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 256</b></summary>
+
+**Version 256 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 256
 
 </details> <!-- Section end !-->
 
