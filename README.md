@@ -1,9 +1,43 @@
 
 ***
 
-<img src="/Letter+L+blue.png" width="148" height="148" align="left" style="margin-right: 30px">
+<img src="/LetterL_10Colors.gif" width="128" height="128" align="left" style="margin-right: 30px">
+
+<!-- Alternative logos
+
+== 148x148 (extended size) ==
+
+<img src="/Letter-L-black-icon.png" width="148" height="148" align="left" style="margin-right: 30px">  Never used
+<img src="/Letter-L-blue-icon.png" width="148" height="148" align="left" style="margin-right: 30px">  Never used, similar file was used instead 
+<img src="/Letter+L+blue.png" width="148" height="148" align="left" style="margin-right: 30px">  The original logo, replaced on 2023, Wednesday, August 9th 
+<img src="/Letter-L-dg-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-gold-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-grey-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-lg-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-orange-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-pink-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-red-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-violet-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
+
+== 128x128 (proper size) ==
+
+<img src="/Letter-L-black-icon.png" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-blue-icon.png" width="128" height="128" align="left" style="margin-right: 30px">  Never used, similar file was used instead 
+<img src="/Letter+L+blue.png" width="128" height="128" align="left" style="margin-right: 30px">  The original logo, but lower quality, replaced on 2023, Wednesday, August 9th 
+<img src="/Letter-L-dg-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-gold-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-grey-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-lg-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-orange-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-pink-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-red-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/Letter-L-violet-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+
+!-->
 
 # [Learn](#Learn)
+
+<!-- <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary> DO NOT ADD A DROPDOWN HERE !-->
 
 This repository is a reference to my learning experience on programming. Other subjects will be added in the future.
 
@@ -12,9 +46,19 @@ This repository is a reference to my learning experience on programming. Other s
 
 **See also:** [:octocat: `SNU 2D Programming Tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/)
 
+## Not to be confused with [Microsoft Learn](https://learn.microsoft.com)
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+A lot of projects have `Learn` in their name. Microsoft Learn is a completely different project, which only documents Microsoft related technologies. This project documents my knowledge of hundreds of programming languages. They are 2 completely different projects.
+
+</details>
+
 ***
 
 ## [Important overview notes](#Important-overview-notes)
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 ***Viewing the table***
 
@@ -67,6 +111,8 @@ Users in these ranges may experience tab/system crashes. Lag will be guaranteed
 </details>
 
 **As of Version 92 (2022, Saturday, November 26th)**
+
+</details>
 
 ***
 
@@ -200,6 +246,27 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 
 <details open><summary><b>Click/tap here to expand/collapse the by language section table</b></summary>
 
+## This table documents `523` computing languages (as of 2023, Wednesday, August 9th)
+
+### Language categories (14)
+
+- 1. programming (count not available)
+- 2. configuration (count not available)
+- 3. scripting (count not available)
+- 4. markup (count not available)
+- 5. markdown (count not available)
+- 6. stylesheet languages (count not available)
+- 7. shader languages (count not available)
+- 8. machine code languages (count not available)
+- 9. esoteric languages (count not available)
+- 10. typesetting languages (count not available)
+- 11. image languages (count not available)
+- 12. audio languages (count not available)
+- 13. block-based languages (count not available)
+- 14. database languages (count not available)
+
+See: [`LEARN_REPOLIST.urll`](/LEARN_REPOLIST.urll) for a full, plain text listing
+
 <table>
   <!-- Row A1 !-->
   <!-- Number 1 !-->
@@ -330,7 +397,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BLISS/"><img src="/Programming/Logos/B/BLISS/BLISS_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BLISS</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-BlockQL/"><img src="/Programming/Logos/B/BlockQL/BlockQL_1920pxLogo_V1_Stretched_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn BlockQL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Beef/"><img src="/Programming/Logos/B/Beef/BeefLanguageLogo.png" width="100px;" alt="/Programming/Logos/B/Beef/BeefLanguageLogo_373px.png"/><br /><sub><b>Learn Beef</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-BennuGD/"><img src="/Programming/Logos/B/BennuGD/BennuGD_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn BennuGD</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 3A !-->
@@ -410,8 +477,8 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section C7</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Commenter/"><img src="/Programming/Logos/C/Commenter/Commenter_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Commenter</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Cairo/"><img src="/Programming/Logos/C/Cairo/Cairo_Language_Logo_Plain_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Cairo</b></sub></a></td>
+    <td align="center"><a href="https://https://github.com/seanpm2001/Learn-CWeb"><img src="/Programming/Logos/C/CWeb/CWebLogo1.jpeg" width="100px;" alt=""/><br /><sub><b>Learn CWeb</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -507,7 +574,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section F3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-FlooP/"><img src="/Programming/Logos/F/FlooP/FlooP_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn FlooP</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML/"><img src="/Programming/Logos/F/FuzzyMarkupLanguageFML_1024pxLogo_V1_HighCompresssion.png" width="100px;" alt=""/><br /><sub><b>Learn Fuzzy Markup Language (FML)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -557,7 +624,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Google-Apps-Script/"><img src="/Programming/Logos/G/Google-Apps-Script/Google_Apps_Script.svg" width="100px;" alt=""/><br /><sub><b>Learn Google Apps Script</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Gremlin/"><img src="/Programming/Logos/G/Gremlin/gremlin.square.png" width="100px;" alt=""/><br /><sub><b>Learn Gremlin</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-GRANNY/"><img src="/Programming/Logos/G/GRANNY/AngryGran.png" width="100px;" alt=""/><br /><sub><b>Learn GRANNY</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https//github.com/seanpm2001/Learn-GolfScript/"><img src="/Programming/Logos/G/GolfScript/GolfScript_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn GolfScript</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -807,9 +874,9 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Mojom/"><img src="/Programming/Logos/M/Mojom/Mojom_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Mojom</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MTML/"><img src="/Programming/Logos/M/MTML/MTML_Logo_1024px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn MTML</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-MCPYE-Command-Language"><img src="/Programming/Logos/M/MCPYE-CL/MCPYE_CL_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn MCPYE CL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https//github.com/seanpm2001/Learn-Mojo/"><img src="/Programming/Logos/M/Mojo/MojoLogo_Cropped.png" width="100px;" alt=""/><br /><sub><b>Learn Mojo</b></sub></a></td>
+    <td align="center"><a href="https//github.com/seanpm2001/Learn-MQL4/"><img src="/Programming/Logos/M/MQL4/MQL4-Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn MQL4</b></sub></a></td>
+    <td align="center"><a href="https//github.com/seanpm2001/Learn-MQL5/"><img src="/Programming/Logos/M/MQL5/MQL5_Logo_512px.png" width="100px;" alt=""/><br /><sub><b>Learn MQL5</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
   <!-- Row 14A !-->
@@ -930,7 +997,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Protocol-Buffer/"><img src="/Programming/Logos/P/ProtoBuf/ProtoBuf_2.png" width="100px;" alt=""/><br /><sub><b>Learn Protocol Buffer</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Processing.js/"><img src="/Programming/Logos/P/Processing.js/ProcessingJS_Logo_Opaque.jpeg" width="100px;" alt=""/><br /><sub><b>Learn Processing.js</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Processing/"><img src="/Programming/Logos/P/Processing/Processing_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn Processing</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Plankalk-u-l/"><img src="/Programming/Logos/P/Plankalkül/Plankalkül_Language_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Plankalkül</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
   <!-- Row 17A !-->
@@ -1087,7 +1154,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SQF/"><img src="/Programming/Logos/S/SQF/SQF_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn SQF</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-SNOBOL/"><img src="/Programming/Logos/S/SNOBOL/SNOBOL_Logo.png" width="100px;" alt=""/><br /><sub><b>Learn SNOBOL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Sweave/"><img src="/Programming/Logos/S/Sweave/Sweave_Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Sweave</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-SmPL"><img src="/Programming/Logos/S/SmPL/CoccinelleInside_s.jpg" width="100px;" alt=""/><br /><sub><b>Learn SmPL</b></sub></a></td>
   </tr> 
   <!-- Row 20A !-->
   <!-- Letter T !-->
@@ -1110,8 +1177,8 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Terra/"><img src="/Programming/Logos/T/Terra/TerraLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Terra</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TeX/"><img src="/Programming/Logos/T/TeX/LaTeX_2400x2400.jpeg" width="100px;" alt=""/><br /><sub><b>Learn TeX</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-TSQL/"><img src="/Programming/Logos/T/TSQL/TSQL_LOGO1.png" width="100px;" alt=""/><br /><sub><b>Learn TSQL</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Tampio/"><img src="/Programming/Logos/T/Tampio/TampioLanguage_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Tampio</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Triton_OpenAI/"><img src="/Programming/Logos/T/Triton-OpenAI/Triton-OpenAI-Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Triton (OpenAI)</b></sub></a></td>
   </tr>
   <!-- Row 21A !-->
   <!-- Letter U !-->
@@ -1173,8 +1240,8 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Material/"><img src="/Programming/Logos/W/WaveFront-Material/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Material</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WaveFront-Object/"><img src="/Programming/Logos/W/Wavefront-Object/WaveFront_Logo1.png" width="100px;" alt=""/><br /><sub><b>Learn WaveFront Object</b></sub></a></td>
   </tr>
-  <!-- Row 25B !-->
-  <!-- Letter X !-->
+  <!-- Row 23B !-->
+  <!-- Letter W !-->
   <tr>
     <td align="center"><p>Section W2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebAssembly/"><img src="/Programming/Logos/W/WebAssembly/WebAssembly_Logo.svg" width="100px;" alt=""/><br /><sub><b>Learn WebAssembly</b></sub></a></td>
@@ -1182,6 +1249,18 @@ I prioritize a few dozen programming languages for learning. The mass majority o
     <td align="center"><a href="https://github.com/seanpm2001/Learn-WebIDL/"><img src="/Programming/Logos/W/WebIDL/WebIDL.png" width="100px;" alt=""/><br /><sub><b>Learn WebIDL</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-While/"><img src="/Programming/Logos/W/While/WhileLanguage_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn While</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Wasp/"><img src="/Programming/Logos/W/Wasp/WaspLogo.png" width="100px;" alt=""/><br /><sub><b>Learn Wasp</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Whitespace/"><img src="/Programming/Logos/W/Whitespace/Whitespace-Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Whitespace</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Wisp/"><img src="/Programming/Logos/W/Wisp/wisp_swirly_pp_logo_500x.png" width="100px;" alt=""/><br /><sub><b>Learn Wisp</b></sub></a></td>
+  </tr>
+  <!-- Row 23C !-->
+  <!-- Letter W !-->
+  <tr>
+    <td align="center"><p>Section W3(C)</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-WEB/"><img src="/Programming/Logos/W/WEB/WEB-Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn WEB</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr> 
@@ -1202,7 +1281,7 @@ I prioritize a few dozen programming languages for learning. The mass majority o
   <tr>
     <td align="center"><p>Section X2</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-XTend/"><img src="/Programming/Logos/X/XTend/XTend_Logo_400px.png" width="100px;" alt=""/><br /><sub><b>Learn XTend</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-XBasePlusPlus/"><img src="/Programming/Logos/X/XBase++/XBase++_Logo_100px.png" width="100px;" alt=""/><br /><sub><b>Learn XBase++</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -1249,6 +1328,14 @@ I prioritize a few dozen programming languages for learning. The mass majority o
 </table>
 
 </details>
+
+***
+
+## Language family trees
+
+This feature is still a work in progress, and is not ready yet, see [:octocat: `AI2001 Docs§language families`](https://github.com/seanpm2001/AI2001_Docs/tree/AI2001_Docs_Main-dev/Docs/Datasets/Types/Source_Code#language-families) for more info.
+
+***
 
 ## [Extras](#Extras)
 
@@ -1523,6 +1610,10 @@ Isabelle
 * Sweave
 * MCPYE CL
 * Ezhil
+* GolfScript
+* Mojo
+* Tampio
+* Triton (OpenAI)
 
 `#` & `"""`
 
@@ -1533,6 +1624,8 @@ Isabelle
 * PowerShell
 * Commenter
 * MGears
+* Mojo
+* Triton (OpenAI)
 
 `#` & `"""` & `'''`
 
@@ -1543,6 +1636,8 @@ Isabelle
 * CPython
 * Commenter
 * MGears
+* Mojo
+* Triton (OpenAI)
 
 `#` & `/*`
 
@@ -1692,6 +1787,12 @@ Isabelle
 * Objective-J#
 * Beef
 * Harbour
+* BennuGD
+* Cairo
+* MQL4
+* MQL5
+* SmPL
+* XBase++
 
 `///`
 
@@ -1793,6 +1894,7 @@ Isabelle
 * Objective-C#
 * Beef (unconfirmed)
 * Harbour
+* BennuGD
 
 <!-- * Lingo (unsure) !-->
 <!-- * Astro (unsure) !-->
@@ -1898,6 +2000,7 @@ Isabelle
 * Objective-J#
 * Beef (unconfirmed)
 * Harbour
+* BennuGD
 
 <!-- * Astro (unsure) !-->
 <!-- * Lingo (unsure) !-->
@@ -1947,6 +2050,7 @@ Isabelle
 * Antlers
 * Commenter
 * MTML
+* Fuzzy Markup Language (FML)
 
 `(* *)`
 
@@ -2028,6 +2132,7 @@ Isabelle
 * UNIX Assembly
 * mIRC Script
 * Commenter
+* Wisp
 
 `C`
 
@@ -2065,10 +2170,21 @@ Isabelle
 * LogTalk
 * TXL
 * Commenter
+* CWeb
+* WEB
 
 `%%`
 
 * DSergeant
+* Commenter (coming soon)
+
+```
+@*Multi-
+line comment
+(I think?) *@
+```
+
+* WEB
 * Commenter (coming soon)
 
 `'`
@@ -2374,6 +2490,8 @@ MANY NOT LISTED
 * While
 * BlooP
 * FlooP
+* Plankalkül
+* Whitespace
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the error log</b></p></summary>
 
@@ -2540,6 +2658,13 @@ print("String")
 * CPython
 * MGears
 * Sweave
+* Mojo
+
+```cairo
+'string'.print()
+```
+
+* Cairo
 
 ```perl
 print("String");
@@ -2722,6 +2847,12 @@ printf("String\n");
 * Cyclone
 * CH
 
+```c
+printf("String");
+```
+
+* CWeb
+
 ```cpp
 std::cout >> "String\n";
 ```
@@ -2782,11 +2913,23 @@ printfn "String"
 
 * Lean
 
+```mql5
+#property s1 "String"
+```
+
+* MQL5
+
 ```slash
 print("String\n");
 ```
 
 * Slash
+
+```tampio
+nykyinen sivu näyttää tekstin "String",
+```
+
+* Tampio
 
 ```ocaml
 print_endline "String"
@@ -2861,6 +3004,13 @@ rollout string "String"
 ```
 
 * Scheme
+
+```wisp
+(def str
+    str "String"))
+```
+
+* WIsp
 
 ```postscript
 (String\n) print quit
@@ -3240,6 +3390,12 @@ print_string "String"
 * Reason
 * ReasonML
 
+```web
+print_nl('String')
+```
+
+* WEB
+
 ```graphql
 { "string": "String" }
 ```
@@ -3319,7 +3475,20 @@ service "String" { }
 string S1 = "String"
 ```
 
-* SystenVerilog
+* SystemVerilog
+
+```bennugd
+s1 = "String"
+```
+
+* BennuGD
+
+
+```bennugd
+s1 = "String";
+```
+
+* MQL4
 
 ```cap'n-proto
 string @1 () -> (str "String");
@@ -3618,6 +3787,12 @@ String
 
 * Diff
 
+```smpl
++ "String"
+```
+
+* SmPL
+
 ```arduino
 const char check[] PROGMEM = "String\n";
 ```
@@ -3629,6 +3804,19 @@ const char check[] PROGMEM = "String\n";
 ```
 
 * SXML
+
+```xml
+<fuzzyTerm name="String" complement="false"></fuzzyTerm>
+```
+
+* Fuzzy Markup Language (FML)
+
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<st>String</st>
+```
+
+* XML
 
 ```jscript.NET
 Console.WriteLine("String");
@@ -4103,6 +4291,19 @@ END
 
 * ABC
 
+```triton
+let s1 = "String";
+return(s1);
+```
+
+* Triton
+
+```xbase
+RETURN "String"
+```
+
+* XBase++
+
 ```cshtml
 <%@ Page Language="C#" debug="true" trace="false"%>
 <p>String</p>
@@ -4175,6 +4376,31 @@ String
   }
 }
 ```
+
+```whitespace
+T	L
+S S :Output_'S';_S S S T	T	S T	T	S S L:+1101100=108='S'
+T	L
+T	L
+S S :Output_'T';_S S S T	T	S T	T	S S L:+1101100=108='T'
+T	L
+T	L
+S S :Output_'R';_S S S T	T	S T	T	S S L:+1101100=108='R'
+T	L
+T	L
+S S :Output_'I';_S S S T	T	S T	T	S S L:+1101100=108='I'
+T	L
+T	L
+T	L
+S S :Output_'N';_S S S T	T	S T	T	S S L:+1101100=108='N'
+T	L
+T	L
+S S :Output_'G';_S S S T	T	S T	T	S S L:+1101100=108='N'
+T	L
+T	L
+```
+
+* Whitespace
 
 * XTend
 
@@ -4700,17 +4926,17 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `132 (2023, Thursday, June 22nd at 05:18 pm PST)`
+**File version:** `133 (2023, Wednesday, August 9th at 03:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `10,294`
+**Line count (including blank lines and compiler line):** `10,643`
 
-**Word count:** `55,601`
+**Word count:** `57,634`
 
-**Character count (including spaces):** `381,628`
+**Character count (including spaces):** `394,258`
 
-**Character count (excluding spaces):** `330,674`
+**Character count (excluding spaces):** `341,456`
 
-**Size (in bytes):** `384,275`
+**Size (in bytes):** `396,918`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -9059,11 +9285,116 @@ namespace StringTest
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 133 (Coming soon)</b></summary>
+<details><summary><b>Version 133 (2023, Wednesday, August 9th at 3:25 pm PST)</b></summary>
+
+> **Note** _This update is long overdue. Since the last update, I have added 16 languages to the database. During my downtime, there was a bug on GitHub for a few weeks that prevented this projects `README.md` to load as rendered markdown, which made me not want to update it. It has been fixed for a while now, and I finally did a full update to this repository. Additionally, the `> **Note**` markdown tag has been deprecated in this time, but I am going to keep writing it the old way, as I won't update to the slightly changed new way, since it would break consistency on all projects of mine that use it._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Changed the logo to an animated version
+- [x] Converted some headings to dropdowns
+- [x] Added the `Microsoft Learn` section
+- [x] Added the `Language family tree` section
+- [x] Updated the `Learn` table
+- - [x] Added a counter and related information
+- - [x] Added support for BennuGD
+- - [x] Added support for Cairo
+- - [x] Added support for CWEB
+- - [x] Added support for Fuzzy Markup Language
+- - [x] Added support for GolfScript
+- - [x] Added support for Mojo
+- - [x] Added support for MQL4
+- - [x] Added support for MQL5
+- - [x] Added support for Plankalkül
+- - [x] Added support for SmPL
+- - [x] Added support for Tampio
+- - [x] Added support for Triton
+- - [x] Added support for Whitespace
+- - [x] Added support for Wisp
+- - [x] Added support for WEB
+- - [x] Added support for XBase++
+- [x] Updated the source code comments section
+- - [x] Updated the `#` comment section to include GolfScript, Mojo, Tampio, and Triton
+- - [x] Updated the `;` comment section to include Wisp
+- - [x] Updated the `#` & `"""` comment section to include Mojo and Triton
+- - [x] Updated the `#` & `'''` comment section to include Mojo and Triton
+- - [x] Updated the `%` comment section to include CWeb and WEB
+- - [x] Updated the `//` comment section to include BennuGD, Cairo, MQL4, MQL5, SmPL, and XBase++
+- - [x] Updated the `//` & `/*` comment section to include BennuGD
+- - [x] Updated the `Unknown` comment section to include Plankalkül and Whitespace
+- - [x] Added the `@*` & `*@` comment section to include CWeb and WEB (also commenter)
+- - [x] Updated the `<!--` & `!-->` comment section to include Fuzzy Markup Language (FML)
+- [x] Updated the print statement section
+- - [x] Added the `s1 = "String"` string section to include BennuGD
+- - [x] Added the `s1 = "String";` string section to include MQL4
+- - [x] Added the `'string'.print()` string section to include Cairo
+- - [x] Updated the `printf("String");` string section to include CWeb
+- - [x] Added the `<fuzzyTerm name="String" complement="false"></fuzzyTerm>` string section to include Fuzzy Markup Laguage
+- - [x] Added the:
+
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<st>String</st>
+```
+
+- - [ ] string section to include XML (I overlooked it until now)
+- - [x] Updated the `"String"` string section to include GolfScript
+- - [x] Added the `+ "String"` string section to include SmPL
+- - [x] Added the `#property s1 "String"` string section to include MQL5
+- - [x] Updated the `printf("String")` string section to include Mojo
+- - [x] Added the `nykyinen sivu näyttää tekstin "String",` string section to include Tampio
+- - [x] Added the:
+
+```cuda
+let s1 = "String";
+return(s1);
+```
+
+- - [ ] string section to include Tampio
+- - [x] Added the:
+
+```wisp
+(def str
+    str "String"))
+```
+
+- - [ ] String section to include Wisp
+- - [x] Added the `RETURN "String"` string section to include XBase++
+- - [x] Added the `print_nl('String')` string section to include WEB
+- - [ ] Added the:
+
+```whitespace
+T	L
+S S :Output_'S';_S S S T	T	S T	T	S S L:+1101100=108='S'
+T	L
+T	L
+S S :Output_'T';_S S S T	T	S T	T	S S L:+1101100=108='T'
+T	L
+T	L
+S S :Output_'R';_S S S T	T	S T	T	S S L:+1101100=108='R'
+T	L
+T	L
+S S :Output_'I';_S S S T	T	S T	T	S S L:+1101100=108='I'
+T	L
+T	L
+T	L
+S S :Output_'N';_S S S T	T	S T	T	S S L:+1101100=108='N'
+T	L
+T	L
+S S :Output_'G';_S S S T	T	S T	T	S S L:+1101100=108='N'
+T	L
+T	L
+```
+
+- - [ ] string section to include Whitespace
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 133
+- - [x] Added a blank log entry for versions 265 and 266
+- [x] Updated the footer
 - [ ] No other changes in version 133
 
 </details> <!-- Section end !-->
@@ -10247,6 +10578,24 @@ namespace StringTest
 
 </details> <!-- Section end !-->
 
+<details><summary><b>Version 265 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 265
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 266 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 266
+
+</details> <!-- Section end !-->
+
 </details> <!-- Dropdown table end !-->
 
 ***
@@ -10270,7 +10619,7 @@ namespace StringTest
 
 You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
+( [Back to top](#Learn) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ###### [EOF](#EOF)
 
