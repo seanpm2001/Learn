@@ -1,0 +1,94 @@
+
+BennuGD:
+// Comment
+/* Multi-line
+comment */
+s1 = "String"
+
+Cairo:
+// Comment
+'string'.print()
+
+CWEB:
+% Comment
+printf("String");
+
+Fuzzy Markup Language:
+<!-- Comment !-->
+<fuzzyTerm name="String" complement="false"></fuzzyTerm>
+
+GolfScript:
+# Comment
+"String"
+
+Mojo:
+# Comment
+''' Multi-line comment '''
+""" Also multi-line comment """
+print("String")
+
+MQL4:
+// Comment
+s1 = "String";
+
+MQL5:
+// Comment
+#property s1 "String"
+
+Plankalkül:
+Unknown
+
+SmPL:
+// Comment
++ "String"
+
+Tampio:
+# Comment
+nykyinen sivu näyttää tekstin "String",
+
+Triton:
+# Comment
+""" Multi-line comment """
+''' Also multi-line comment '''
+let s1 = "String";
+return(s1);
+
+Whitespace:
+Unknown comment format
+T	L
+S S :Output_'S';_S S S T	T	S T	T	S S L:+1101100=108='S'
+T	L
+T	L
+S S :Output_'T';_S S S T	T	S T	T	S S L:+1101100=108='T'
+T	L
+T	L
+S S :Output_'R';_S S S T	T	S T	T	S S L:+1101100=108='R'
+T	L
+T	L
+S S :Output_'I';_S S S T	T	S T	T	S S L:+1101100=108='I'
+T	L
+T	L
+T	L
+S S :Output_'N';_S S S T	T	S T	T	S S L:+1101100=108='N'
+T	L
+T	L
+S S :Output_'G';_S S S T	T	S T	T	S S L:+1101100=108='N'
+T	L
+T	L
+
+Wisp:
+; Comment
+(def str
+    str "String"))
+
+WEB:
+% Comment
+@*Multi-
+line comment
+(I think?) *@
+print_nl('String')
+
+XBase++:
+
+// Comment
+RETURN "String"
