@@ -2,8 +2,8 @@
 //// LIST_ALPHABETICAL.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// An alphabet list of the repository links for the seanpm2001 learn project
-//// V125: 2023, Tuesday, August 8th at 07:36 pm PST
-//// Representing data from 2023, Tuesday, August 8th at 07:36 pm PST
+//// V126: 2023, Wednesday, August 9th at 03:29 pm PST
+//// Representing data from 2023, Wednesday, August 9th at 03:29 pm PST
 
 //// Programming
 //// 1
@@ -525,6 +525,7 @@ https://github.com/seanpm2001/Learn-Wasp
 https://github.com/seanpm2001/Learn-WaveFront-Material
 https://github.com/seanpm2001/Learn-WaveFront-Object
 https://github.com/seanpm2001/Learn-WDL
+https://github.com/seanpm2001/Learn-WEB
 https://github.com/seanpm2001/Learn-WebAssembly
 https://github.com/seanpm2001/Learn-WebIDL
 https://github.com/seanpm2001/Learn-WebVTT
@@ -557,11 +558,11 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// 523 languages listed (as of 2023, Tuesday, August 8th at 07:36 pm PST)
+//// 524 languages listed (as of 2023, Wednesday, August 9th at 03:29 pm PST)
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 125 (2023, Thursday, June 22nd at 07:36 pm PST)
-//// Line count (including blank lines and compiler line): 568
+//// File version: 126 (2023, Wednesday, August 9th at 03:29 pm PST)
+//// Line count (including blank lines and compiler line): 569
 
 //// End of file
