@@ -3,7 +3,19 @@
 
 # Unrecognized languages in use
 
-The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Friday, May 26th at 9:53 pm PST
+<!-- New from 2023, Wednesday, August 9th
+BennuGD
+Fuzzy Markup Language
+GolfScript
+Mojo
+Plankalkül
+Tampio
+Triton
+WEB
+XBase++
+!-->
+
+The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn projects, but are not officially recognized by GitHubs linguist, as of 2023, Wednesday, August 9th at 3:39 pm PST
 
 - [ ] ABC
 - [ ] Arduino (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Arduino source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Arduino language will just perform an `all repositories` search)
@@ -14,6 +26,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Antlers (recognized as a language, but returns 404 during source code search, commonly attributed as an HTML variant/template language)
 - [ ] AssemblyScript
 - [ ] B
+- [ ] BennuGD
 - [ ] Blockly (basically just a JSON zip archive)
 - [ ] BlockQL (the language is obscure, it was added to this list 1 day after its creation, and won't be recognized by GitHub until it gets a noticeable userbase (if it does))
 - [ ] BLISS
@@ -36,7 +49,9 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Fish (recognizes as Shell)
 - [ ] FlooP
 - [ ] FP
+- [ ] Fuzzy Markup Language (FML)
 - [ ] Go! (the one Google blatantly steamrolled over, and mostly everyone kind of forgot)
+- [ ] GolfScript
 - [ ] Google Apps Script
 - [ ] GRANNY (seanpm2001)
 - [ ] Gremlin
@@ -73,6 +88,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] MGears (seanpm2001)
 - [ ] Miranda
 - [ ] ML
+- [ ] Mojo
 - [ ] Mojom
 - [ ] MS-DOS Style
 - [ ] Oberon
@@ -83,6 +99,7 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] OpenCL (recognizes as C)
 - [ ] Orwell
 - [ ] Perl6 (partially recognized, can be detected by Linguist, but cannot be searched, inside a repository with Perl6 source code, it will be labeled as `other` but outside of a repository, it can be found in the language dropdown, and repository titlecard. However, attempting to sort by the Perl6 language will just perform an `all repositories` search) (side note: Perl6 was renamed to Raku, but Perl6 still is recognized as a separate language by the GitHub linguist), additionally, when in use on newer repositories, it recognizes as Raku, and does not have the old Perl 6 label. I don't know why this happens. Also, I added pod6 on the same day, I thought it wouldn't recognize, but it is fine
+- [ ] Plankalkül
 - [ ] PostCSS (recognizes as CSS)
 - [ ] PowerFX (basically just a YAML format)
 - [ ] QueryByExample
@@ -101,6 +118,8 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Sublime Text (justification for adding to Linguist: it is clearly a JSON language. Many more obscure XML and JSON languages are listed, why can't this one be?)
 - [ ] Sweave (Can't tell if it is related to R, if it is, it is partially recognized; if not, it is unrecognized)
 - [ ] SXML
+- [ ] Tampio
+- [ ] Triton (OpenAI)
 - [ ] TSX (recognizes as TypeScript)
 - [ ] Unix Assmembly (recognizes as a language in the inner Linguist, but recognizes as Assembly in the outer Linguist)
 - [ ] URLL (seanpm2001)
@@ -108,11 +127,15 @@ The following languages have SNU Programming Tools Web-IDE and seanpm2001/Learn 
 - [ ] Verona
 - [ ] VisualLogic
 - [ ] Wasp
+- [ ] WEB
 - [ ] Wierd
 - [ ] While
 - [ ] X-PixMap (recognizes as C)
+- [ ] XBase++
 
-**Total:** `106` (as of 2023, Friday, May 26th at 9:53 pm PST)
+**Total:** `115` (as of 2023, Wednesday, August 9th at 3:39 pm PST)
+
+- [See this list in a separate file](/List/GitHub/Linguistic/Unsupported/List/)
 
 New definitions legend (WIP)
 
@@ -139,9 +162,9 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `48 (2023, Friday, May 26th at 9:53 pm PST)`
+**File version:** `49 (2023, Wednesday, August 9th at 3:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,043`
+**Line count (including blank lines and compiler line):** `1,095`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1032,8 +1055,37 @@ For repositories based on unrecognized languages, I try to make HTML the dominan
 - - [x] Updated the version date
 - - [x] Updated the line count
 - [x] Updated the `file history` section
-- - [x] Added an entry for version 478
+- - [x] Added an entry for version 48
 - [ ] No other changes in version 48
+
+</details>
+
+<details><summary><p lang="en"><b>Version 49 (2023, Wednesday, August 9th at 3:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Representing data from 2023, Wednesday, August 9th
+
+> Changes:
+
+- [x] Updated the list section
+- - [x] Added BennuGD to the list
+- - [x] Added Fuzzy Markup Language (FML) to the list
+- - [x] Added GolfScript to the list
+- - [x] Added Mojo to the list
+- - [x] Added Plankalkül to the list
+- - [x] Added Tampio to the list
+- - [x] Added Triton (OpenAI) to the list
+- - [x] Added Wisp to the list
+- - [x] Added WEB to the list
+- - [x] Added XBase++ to the list to the list
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 49
+- [ ] No other changes in version 49
 
 </details>
 
