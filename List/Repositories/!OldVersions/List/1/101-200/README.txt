@@ -455,7 +455,7 @@
 - [x] SNOBOL
 - [x] Sweave
 - [x] SmPL
-- [ ] Turing
+- [x] Turing
 - [x] Triton-OpenAI
 - [x] TypeScript
 - [x] TCL
