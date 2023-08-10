@@ -5,13 +5,13 @@
 
 <details open><summary><b lang="en">Click/tap here to expand/collapse the title/lead section</b></summary>
 
-Current progress `524`/`526` (as of 2023, Wednesday, August 9th at 04:05 pm PST)
+Current progress `525`/`526` (as of 2023, Thursday, August 10th at 03:57 pm PST)
 
 <!-- Note: KiCad Layout and KiCad Schematic are listed as 2 separate entries on this list, but not on the learn repositories themselves
 Update 2022.09.13: KiCad Layout and KiCad schematic have been separated, and also a 3rd KiCad entry was added. 1 entry was removed from the current progress due to this
 !-->
 
-**Ratio:** `099.61%` complete, `000.39%` incomplete.
+**Ratio:** `099.80%` complete, `000.20%` incomplete.
 
 > **Note** _I occassionally learn of new languages, so this number will keep going up._
 
@@ -484,7 +484,7 @@ This list covers the creation of the language repositories.
 - [x] SNOBOL
 - [x] Sweave
 - [x] SmPL
-- [ ] Turing
+- [x] Turing
 - [x] Triton-OpenAI
 - [x] TypeScript
 - [x] TCL
@@ -574,9 +574,9 @@ I do use the GitHub language list sometimes, but I try not to use it as an offic
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `128 (2023, Wednesday, August 9th at 04:05 pm PST)`
+**File version:** `129 (2023, Thursday, August 10th at 03:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,651`
+**Line count (including blank lines and compiler line):** `5,692`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -3727,15 +3727,26 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 <details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 129</b></summary>
 
-**Version 129 (Coming soon)**
+**Version 129 (2023, Thursday, August 10th at 03:57 pm PST)**
 
-<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
-<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+* [View this version](/List/Repositories/!OldVersions/README/English/US/1/101-200/README_V129.md)
+
+> **Note** _This release comes on time, but is the last one for several days._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the list section
+- - [x] Checked 1 new entry (old total: 524 | new total: 525)
+- - [x] Added 0 new entries to the list (old total: 526 | new total: 526)
+- [x] Updated the ratio in the title section
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added an entry for version 129
 - [ ] No other changes in version 129
 
 </details> <!-- Section end !-->
@@ -5640,6 +5651,36 @@ Version 5 (2022, Wednesday, April 20th at 5:53 pm PST)
 
 - [ ] Coming soon
 - [ ] No other changes in version 256
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 257</b></summary>
+
+**Version 257 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 257
+
+</details> <!-- Section end !-->
+
+<details><summary><b lang="en">Click/tap here to expand/collapse the update log entry for version 258</b></summary>
+
+**Version 258 (Coming soon)**
+
+<!-- ***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)*** !-->
+
+<!-- [View this version](/List/Repositories/!OldVersions/README/English/US/1/???/README_V??.md) !-->
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 258
 
 </details> <!-- Section end !-->
 
