@@ -1,11 +1,13 @@
 
 ***
 
-<img src="/LetterL_10Colors.gif" width="128" height="128" align="left" style="margin-right: 30px">
+<img src="/LetterL_10Colors.gif" width="148" height="148" align="left" style="margin-right: 30px">
+
+<!-- It may be stretched by 20 pixels, but I like this size better !-->
 
 <!-- Alternative logos
 
-== 148x148 (extended size) ==
+<== 148x148 (extended size) ==>
 
 <img src="/Letter-L-black-icon.png" width="148" height="148" align="left" style="margin-right: 30px">  Never used
 <img src="/Letter-L-blue-icon.png" width="148" height="148" align="left" style="margin-right: 30px">  Never used, similar file was used instead 
@@ -19,7 +21,7 @@
 <img src="/Letter-L-red-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
 <img src="/Letter-L-violet-icon" width="148" height="148" align="left" style="margin-right: 30px">  Never used 
 
-== 128x128 (proper size) ==
+<== 128x128 (proper size) ==>
 
 <img src="/Letter-L-black-icon.png" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
 <img src="/Letter-L-blue-icon.png" width="128" height="128" align="left" style="margin-right: 30px">  Never used, similar file was used instead 
@@ -32,6 +34,7 @@
 <img src="/Letter-L-pink-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
 <img src="/Letter-L-red-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
 <img src="/Letter-L-violet-icon" width="128" height="128" align="left" style="margin-right: 30px">  Never used 
+<img src="/LetterL_10Colors.gif" width="128" height="128" align="left" style="margin-right: 30px">
 
 !-->
 
@@ -1180,6 +1183,23 @@ See: [`LEARN_REPOLIST.urll`](/LEARN_REPOLIST.urll) for a full, plain text listin
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Tampio/"><img src="/Programming/Logos/T/Tampio/TampioLanguage_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Tampio</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Learn-Triton_OpenAI/"><img src="/Programming/Logos/T/Triton-OpenAI/Triton-OpenAI-Language_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>Learn Triton (OpenAI)</b></sub></a></td>
   </tr>
+  <!-- Row 20C !-->
+  <!-- Letter T !-->
+  
+  <!--
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Turing/"><img src="/Programming/Logos/T/Turing/Turing_logo.gif" width="100px;" alt=""/><br /><sub><b>Learn Turing</b></sub></a></td>
+  !-->
+
+  <tr>
+    <td align="center"><p>Section T3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Learn-Turing/"><img src="/Programming/Logos/T/Turing/Turing_Logo_Raster2.png" width="100px;" alt=""/><br /><sub><b>Learn Turing</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com"><img src="/Programming/Logos/Placeholder/PlaceholderX.png" width="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr> 
   <!-- Row 21A !-->
   <!-- Letter U !-->
   <tr>
@@ -2172,6 +2192,7 @@ Isabelle
 * Commenter
 * CWeb
 * WEB
+* Turing
 
 `%%`
 
@@ -3177,6 +3198,7 @@ put "String"
 ```
 
 * LiveCode
+* Turing
 
 ```thrift
 string message(1:string message "String")
@@ -4926,17 +4948,17 @@ I hope for all of my projects to be interconnected in the future, so that all ro
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `133 (2023, Wednesday, August 9th at 03:25 pm PST)`
+**File version:** `134 (2023, Thursday, August 10th at 03:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `10,643`
+**Line count (including blank lines and compiler line):** `10,708`
 
-**Word count:** `57,634`
+**Word count:** `58,118`
 
-**Character count (including spaces):** `394,258`
+**Character count (including spaces):** `397,504`
 
-**Character count (excluding spaces):** `341,456`
+**Character count (excluding spaces):** `344,324`
 
-**Size (in bytes):** `396,918`
+**Size (in bytes):** `400,164`
 
 **File languages:** `Markdown (CommonMark)` + `HTML (HTML 5.3)` + `English (USA)`
 
@@ -9155,7 +9177,7 @@ END
 
 **This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-**This release uses/represents data from:** `2023, Thursday, June 22nd at xx:xx pm PST`
+**This release uses/represents data from:** `2023, Thursday, June 22nd at 11:59 pm PST`
 
 > **Note** _I didn't have the time to work with the beef update here on the 21st, so I held it off to today. This update adds support for the `Beef` and `Harbour` programming languages. This was a massive update, and also the first version where the file exceeded 10,000 lines_
 
@@ -9287,6 +9309,12 @@ namespace StringTest
 
 <details><summary><b>Version 133 (2023, Wednesday, August 9th at 3:25 pm PST)</b></summary>
 
+[View this version](/OldVersions/README/English/2/README_V133.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**This release uses/represents data from:** `2023, Wednesday, August 9th at 11:59 pm PST`
+
 > **Note** _This update is long overdue. Since the last update, I have added 16 languages to the database. During my downtime, there was a bug on GitHub for a few weeks that prevented this projects `README.md` to load as rendered markdown, which made me not want to update it. It has been fixed for a while now, and I finally did a full update to this repository. Additionally, the `> **Note**` markdown tag has been deprecated in this time, but I am going to keep writing it the old way, as I won't update to the slightly changed new way, since it would break consistency on all projects of mine that use it._
 
 **Changes:**
@@ -9399,11 +9427,30 @@ T	L
 
 </details> <!-- Section end !-->
 
-<details><summary><b>Version 134 (Coming soon)</b></summary>
+<details><summary><b>Version 134 (2023, Thursday, August 10th at 03:47 pm PST)</b></summary>
+
+[View this version](/OldVersions/README/English/2/README_V134.md)
+
+**This release was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**This release uses/represents data from:** `2023, Thursday, August 10th at 11:59 pm PST`
+
+> **Note** _A simple, consistent release, and the last one for several days._
 
 **Changes:**
 
-- [ ] Coming soon
+- [x] Updated the `Learn` table
+- - [x] Added support for Turing
+- [x] Updated the source code comments section
+- - [x] Updated the `%` comment section to include Turing
+- [x] Updated the print statement section
+- - [x] Updated the `put "String"` string section to include Turing
+- [x] Updated the file info section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the file history section
+- - [x] Added a log entry for version 134
 - [ ] No other changes in version 134
 
 </details> <!-- Section end !-->
@@ -10593,6 +10640,24 @@ T	L
 
 - [ ] Coming soon
 - [ ] No other changes in version 266
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 267 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 267
+
+</details> <!-- Section end !-->
+
+<details><summary><b>Version 268 (Coming soon)</b></summary>
+
+**Changes:**
+
+- [ ] Coming soon
+- [ ] No other changes in version 268
 
 </details> <!-- Section end !-->
 
