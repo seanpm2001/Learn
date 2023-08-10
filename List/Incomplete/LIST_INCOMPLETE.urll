@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// Start of script
 //// Incomplete projects list
-//// Version 128
-//// As of 2023, Wednesday, August 9th at 03:55 pm PST
+//// Version 129
+//// As of 2023, Thursday, August 10th at 03:53 pm PST
 
-//// TypeScript may be missing from this list
+//// Some languages may be missing from this list
 
 //// These projects need to be started
 https://github.com/seanpm2001/Learn-ABAP
@@ -421,8 +421,10 @@ https://github.com/seanpm2001/Learn-TOML
 https://github.com/seanpm2001/Learn-Triton-OpenAI
 https://github.com/seanpm2001/Learn-TSQL
 https://github.com/seanpm2001/Learn-TSX
+https://github.com/seanpm2001/Learn-Turing
 https://github.com/seanpm2001/Learn-Twig
 https://github.com/seanpm2001/Learn-TXL
+https://github.com/seanpm2001/Learn-TypeScript
 https://github.com/seanpm2001/Learn-Uno
 https://github.com/seanpm2001/Learn-Unity3DAsset
 https://github.com/seanpm2001/Learn-UnrealScript
@@ -471,7 +473,7 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Count: 461/526
+//// Count: 462/525
 //// These repositories have already been created, but proper documentation and examples have yet to be provided
 
 //// File history
@@ -732,14 +734,16 @@ https://github.com/seanpm2001/Learn-ZIL
 //// V127: 2 entries added, 446 entries remain (ratio: 446/506 (88.14% incomplete, 11.86% complete))
 //// V127 date: 2023, Thursday, June 22nd at 05:45 pm PST, representing data from 2023, Thursday, June 22nd at 11:59 pm PST
 //// V128: 16 entries added, 461/462 entries remain (ratio: 461/526 (87.64% incomplete, 16.35% complete. 0.01% margin of error))
-//// V128 date: 2023, Wednesday, August 9th at 03:55 pm PST, representing data from 2023, Wednesday, Augutst 9th at 11:59 pm PST
+//// V128 date: 2023, Wednesday, August 9th at 03:55 pm PST, representing data from 2023, Wednesday, August 9th at 11:59 pm PST
+//// V129: 1 entry added, 1 missing entry (TypeScript) added, 462/463 entries remain (ratio: 462/525 (88.00% incomplete, 12.00% complete. 0.00% margin of error))
+//// V129 date: 2023, Thursday, August 10th at 03:53 pm PST, representing data from 2023, Thursday, August 10th at 11:59 pm PST
 
-//// Ratio (incomplete/complete): 461/526 (88.14% incomplete, 11.86% complete)
+//// Ratio (incomplete/complete): 462/525 (88.14% incomplete, 11.86% complete)
 //// Calculation source: Mental math, GNOME Calculator
 
 //// File info
 //// File type: URLL shortcut file (*.urll)
-//// File version: 128 (2023, Wednesday, August 9th at 03:55 pm PST)
-//// Line count (including blank lines and compiler line): 746
+//// File version: 129 (2023, Thursday, August 10th at 03:53 pm PST)
+//// Line count (including blank lines and compiler line): 750
 
 //// End of script
