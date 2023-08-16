@@ -1,0 +1,19 @@
+// Noop language
+// *.noop
+
+import noop.Application;
+import noop.Console;
+
+class stringTest(Console console) implements Application {
+
+  Int main(List args) {
+    String s = "String";
+
+    console.println(s);
+    return 0;
+  }
+}
+
+// Comment
+/* Multi-line
+Comment */
