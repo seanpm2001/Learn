@@ -3,7 +3,16 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
 
+//// ----------------------------------------------------- \\\\
+
+//// Home repository (1)
+
 https://github.com/seanpm2001/Learn
+
+//// ----------------------------------------------------- \\\\
+
+//// Learn KnowledgeBase repositories (525)
+
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
 https://github.com/seanpm2001/Learn-ABAP-CDS
@@ -317,6 +326,7 @@ https://github.com/seanpm2001/Learn-NextFlow
 https://github.com/seanpm2001/Learn-NGINX
 https://github.com/seanpm2001/Learn-Nim
 https://github.com/seanpm2001/Learn-Nix
+https://github.com/seanpm2001/Learn-Noop
 https://github.com/seanpm2001/Learn-NSIS
 https://github.com/seanpm2001/Learn-Nu
 https://github.com/seanpm2001/Learn-Nunjucks
@@ -529,19 +539,34 @@ https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
 
-//// Repo count: 525
+//// ----------------------------------------------------- \\\\
 
-//// See also:
+//// Repo count: 526
+
+//// 1+525=526
+
+//// ----------------------------------------------------- \\\\
+
+//// See also (4):
+
 https://github.com/seanpm2001/SNU_2D_ProgrammingTools
 https://github.com/seanpm2001/Education
 https://github.com/seanpm2001/Seanpm2001-Education
 https://github.com/seanpm2001/Seanpm2001-Learn
 
-//// Total repo count: 529 (not including SNU 2D ProgrammingTools IDE repositories, which would raise the count above 1,000)
+//// ----------------------------------------------------- \\\\
+
+//// Total repo count: 530 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+
+//// 526+4=530
+
+//// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2023, Wednesday, August 9th at 04:13 pm PST)
-//// Line count (including blank lines and compiler line): 548
+//// File version: 3 (2023, Wednesday, August 16th at 04:33 pm PST)
+//// Line count (including blank lines and compiler line): 573
+
+//// ----------------------------------------------------- \\\\
 
 //// End of file
