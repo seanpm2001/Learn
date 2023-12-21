@@ -1,0 +1,15 @@
+Arithmetic 	AAO(A)(B)(C) 	A+B=C 	The A in the middle of 'AA0' stands for addition
+Arithmetic 	ASO(A)(B)(C) 	A-B=C 	The S in the middle of 'AS0' stands for subtraction
+Arithmetic 	AMO(A)(B)(C) 	A*B=C 	The M in the middle of 'AM0' stands for multiplication
+Arithmetic 	ADO(A)(B)(C) 	A/B=C 	The D in the middle of 'AD0' stands for division
+Trigonometric 	TSO(A)OOO(B) 	Sin(A)=B 	The S in the middle of 'TS0' stands for Sin
+Trigonometric 	TCO(A)OOO(B) 	Cos(A)=B 	The C in the middle of 'TC0' stands for Cos
+Trigonometric 	TTO(A)OOO(B) 	Tan(A)=B 	The T in the middle of 'TT0' stands for Tan
+Trigonometric 	TAT(A)OOO(B) 	Arctan(A)=B 	The AT stands for Arctan
+Hyperbolic 	HSO(A)OOO(B) 	Sinh(A)=B 	The S in the middle of 'HS0' stands for Sin h
+Hyperbolic 	HCO(A)OOO(B) 	Cosh(A)=B 	The C in the middle of 'HC0' stands for Cos h
+Hyperbolic 	HTO(A)OOO(B) 	Tanh(A)=B 	The T in the middle of 'HT0' stands for Tan h
+General Mathematical 	SQR(A)OOO(B) 	Sqrt(A)=B 	
+General Mathematical 	APN(A)(N)(B) 	A**N=B 	**: Exponentiation
+"Sampled from Wikipedia:ARITH-MATIC"
+"I don't know if strings are even supported in any way with this language."
