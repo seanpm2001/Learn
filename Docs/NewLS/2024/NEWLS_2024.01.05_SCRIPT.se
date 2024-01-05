@@ -1,0 +1,19 @@
+.sp 1
+.sp 2
+.df examp type('Century Schoolbook' 10 light)
+.ez P This is a paragraph
+.ez P The first line inserts a blank line.
+.ez P The second line centers the following 2 lines on the current page and/or column
+.ez P The third line defines the font for this document.
+.im DEMO
+.ez P I just inserted the file DEMO.SCRIPT
+.ez P This is EasyScript by the way. SCRIPT makes heavy use of EasyScript
+.se year = 2024
+.se month = January
+.se day = Friday
+.ez P Defining the month, day, and year.
+.ez P This demo was sampled from Wikipedia, https://en.wikipedia.org/w/index.php?title=SCRIPT_(markup)&oldid=1192017318&useskin=monobook
+.ez P File version: year month day at 1:40 pm PST
+.ez P File type: SCRIPT source file (*.se)
+.ez P Line count (including blank lines and compiler line): 20
+.sp 1
