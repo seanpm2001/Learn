@@ -1,0 +1,11 @@
+:h1 id="top".Chapter 1: Demo
+:p Paragraph
+:ol
+:li.Ordered list entry 1
+:li.Ordered list entry 2
+:eol.
+:h2 id="to2".Chapter 2: File info
+:p File type: IBM Generalized Markup Language source file (*.GML)
+:p File version: 1 (2024, Tuesday, January 9th at 5:54 pm PST)
+:p Line count (including blank lines and compiler line): 12
+:eol.
