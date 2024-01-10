@@ -1,0 +1,11 @@
+.ez on
+&P Paragraph
+&N1.Item 1
+&N2.Subitem 1
+&N2.Subitem 2
+&N1.Item 2
+&P There is not much to it, and that is all I know about it.
+&P File info
+&P File type: EasyScript source file (*.ez)
+&P File version: 1 (2024, Tuesday, January 9th at 5:58 pm PST)
+&P Line count (including blank lines and compiler line): 12
