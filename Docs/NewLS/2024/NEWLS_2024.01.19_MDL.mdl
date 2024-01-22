@@ -1,0 +1,16 @@
+; MDL sample source code corpus 2024.01.21
+<DEFINE EXIT-TO (EXITS RMS)
+        #DECL ((EXITS) EXIT (RMS) <UVECTOR [REST ROOM]>)
+        <MAPF <>
+              <FUNCTION (E)
+                 #DECL ((E) <OR DIRECTION ROOM CEXIT NEXIT DOOR>)
+                 <COND (<TYPE? .E DIRECTION>)
+                       (<AND <TYPE? .E ROOM> <MEMQ .E .RMS>>
+                        <MAPLEAVE T>)
+                       (<AND <TYPE? .E CEXIT> <MEMQ <2 .E> .RMS>>
+                        <MAPLEAVE T>)
+                       (<AND <TYPE? .E DOOR>
+                             <OR <MEMQ <DROOM1 .E> .RMS>
+                                 <MEMQ <DROOM2 .E> .RMS>>>
+                        <MAPLEAVE T>)>>
+              .EXITS>>
