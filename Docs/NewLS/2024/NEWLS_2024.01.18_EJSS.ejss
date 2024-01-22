@@ -1,0 +1,6 @@
+<!-- EJSS language corpus (2024.01.21) !-->
+<!-- EJSS is a mixture of JavaScript and HTML !-->
+<!-- Comment !-->
+<p>This is a paragraph, it can be a string</p>
+<h1>Other HTML elements are supported</h1>
+<p>File extension: *.ejss </p>
