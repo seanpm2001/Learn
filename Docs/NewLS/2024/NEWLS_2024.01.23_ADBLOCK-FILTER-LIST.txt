@@ -1,0 +1,4 @@
+! Adblock Filter List language corpus from 2024.01.28 (for 2024.01.23)
+! File format: *.txt
+! This is a comment
+! No data on strings/print statements, this is a filter language, so this shouldn't be surprising.
