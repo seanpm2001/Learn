@@ -1,0 +1,6 @@
+%% VisionScript language corpus from 2024.01.28 (for 2024.01.25)
+%% File format: *.vic
+%% This is a comment (I think)
+Load["./MyFile.png"]
+Classify["Blueberry", "Banana"]
+Say["Hello World"]
