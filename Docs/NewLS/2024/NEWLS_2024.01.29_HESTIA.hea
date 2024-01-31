@@ -1,0 +1,6 @@
+"Hestia language corpus for 2024.01.29 (written 2024.01.30"
+"File format: *.hea"
+"This is a string"
+(add 2 2)
+(add 1 2 1)
+"Hestia doesn't support source code comments as far as I can tell"
