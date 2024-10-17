@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Wednesday, October 16th
+//// As of 2024, Thursday, October 17th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (733)
+//// Learn KnowledgeBase repositories (734)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -754,12 +754,13 @@ https://github.com/seanpm2001/Learn-Turtle
 https://github.com/seanpm2001/Learn-vCard
 https://github.com/seanpm2001/Learn-AutoLISP
 https://github.com/seanpm2001/Learn-OpenLISP
+https://github.com/seanpm2001/Learn-BASIC-Plus
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 735
+//// Repo count: 736
 
-//// 1+1+733=735
+//// 1+1+734=736
 
 //// ----------------------------------------------------- \\\\
 
@@ -772,16 +773,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 739 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 740 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 735+4=739
+//// 736+4=740
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2024, Wednesday, October 16th at 12:22 pm PST)
-//// Line count (including blank lines and compiler line): 1,001
+//// File version: 8 (2024, Thursday, October 17th at 12:49 pm PST)
+//// Line count (including blank lines and compiler line): 1,003
 
 //// ----------------------------------------------------- \\\\
 
@@ -995,6 +996,7 @@ https://github.com/seanpm2001/Learn-Turtle
 https://github.com/seanpm2001/Learn-vCard
 https://github.com/seanpm2001/Learn-AutoLISP
 https://github.com/seanpm2001/Learn-OpenLISP
+https://github.com/seanpm2001/Learn-BASIC-Plus
 *\\\\
 
 //// End of file
