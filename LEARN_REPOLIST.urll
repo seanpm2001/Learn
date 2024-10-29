@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Sunday, October 27th
+//// As of 2024, Monday, October 28th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (739)
+//// Learn KnowledgeBase repositories (740)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -760,12 +760,13 @@ https://github.com/seanpm2001/Learn-BlueSpec
 https://github.com/seanpm2001/Learn-BlueSpec-BH
 https://github.com/seanpm2001/Learn-BrowsersList
 https://github.com/seanpm2001/Learn-Valve-Data-Format
+https://github.com/seanpm2001/Learn-Typst
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 741
+//// Repo count: 742
 
-//// 1+1+739=741
+//// 1+1+740=742
 
 //// ----------------------------------------------------- \\\\
 
@@ -778,16 +779,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 745 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 746 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 741+4=745
+//// 742+4=746
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 13 (2024, Sunday, October 27th at 01:59 pm PST)
-//// Line count (including blank lines and compiler line): 1,013
+//// File version: 14 (2024, Monday, October 28th at 11:03 pm PST)
+//// Line count (including blank lines and compiler line): 1,015
 
 //// ----------------------------------------------------- \\\\
 
@@ -1007,6 +1008,7 @@ https://github.com/seanpm2001/Learn-BlueSpec
 https://github.com/seanpm2001/Learn-BlueSpec-BH
 https://github.com/seanpm2001/Learn-BrowsersList
 https://github.com/seanpm2001/Learn-Valve-Data-Format
+https://github.com/seanpm2001/Learn-Typst
 *\\\\
 
 //// End of file
