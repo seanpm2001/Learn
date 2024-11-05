@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Monday, November 4th
+//// As of 2024, Tuesday, November 5th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (746)
+//// Learn KnowledgeBase repositories (747)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 220 new entries (sorting needed)
+//// 221 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -766,13 +766,14 @@ https://github.com/seanpm2001/Learn-Tea
 https://github.com/seanpm2001/Learn-Templ
 https://github.com/seanpm2001/Learn-Darcs-Patch
 https://github.com/seanpm2001/Learn-Velocity-Template-Language
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FIRRTL
+https://github.com/seanpm2001/Learn-FIRRTL
+https://github.com/seanpm2001/Learn-CIL
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 748
+//// Repo count: 749
 
-//// 1+1+746+748
+//// 1+1+747+749
 
 //// ----------------------------------------------------- \\\\
 
@@ -785,16 +786,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 752 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 753 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 748+4=752
+//// 749+4=753
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 20 (2024, Monday, November 4th at 08:09 pm PST)
-//// Line count (including blank lines and compiler line): 1,027
+//// File version: 21 (2024, Tuesday, November 5th at 01:51 pm PST)
+//// Line count (including blank lines and compiler line): 1,029
 
 //// ----------------------------------------------------- \\\\
 
@@ -1020,7 +1021,8 @@ https://github.com/seanpm2001/Learn-Tea
 https://github.com/seanpm2001/Learn-Templ
 https://github.com/seanpm2001/Learn-Darcs-Patch
 https://github.com/seanpm2001/Learn-Velocity-Template-Language
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FIRRTL
+https://github.com/seanpm2001/Learn-FIRRTL
+https://github.com/seanpm2001/Learn-CIL
 *\\\\
 
 //// End of file
