@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Monday, November 11th
+//// As of 2024, Tuesday, November 12th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (751)
+//// Learn KnowledgeBase repositories (752)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -772,12 +772,13 @@ https://github.com/seanpm2001/Learn-Circom
 https://github.com/seanpm2001/Learn-Cirru
 https://github.com/seanpm2001/Learn-Clarion
 https://github.com/seanpm2001/Learn-Charity
+https://github.com/seanpm2001/Learn-Clarity
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 753
+//// Repo count: 754
 
-//// 1+1+751+753
+//// 1+1+752+754
 
 //// ----------------------------------------------------- \\\\
 
@@ -790,16 +791,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 757 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 758 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 753+4=757
+//// 754+4=758
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 25 (2024, Monday, November 11th at 02:46 pm PST)
-//// Line count (including blank lines and compiler line): 1,037
+//// File version: 26 (2024, Tuesday, November 12th at 05:39 pm PST)
+//// Line count (including blank lines and compiler line): 1,039
 
 //// ----------------------------------------------------- \\\\
 
@@ -1031,6 +1032,7 @@ https://github.com/seanpm2001/Learn-Circom
 https://github.com/seanpm2001/Learn-Cirru
 https://github.com/seanpm2001/Learn-Clarion
 https://github.com/seanpm2001/Learn-Charity
+https://github.com/seanpm2001/Learn-Clarity
 *\\\\
 
 //// End of file
