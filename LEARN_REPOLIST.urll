@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Thursday, November 14th
+//// As of 2024, Friday, November 15th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (754)
+//// Learn KnowledgeBase repositories (755)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 227 new entries (sorting needed)
+//// 228 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -775,12 +775,13 @@ https://github.com/seanpm2001/Learn-Charity
 https://github.com/seanpm2001/Learn-Clarity
 https://github.com/seanpm2001/Learn-EQ
 https://github.com/seanpm2001/Learn-eC
+https://github.com/seanpm2001/Learn-EcMarkup
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 756
+//// Repo count: 757
 
-//// 1+1+754+756
+//// 1+1+755+757
 
 //// ----------------------------------------------------- \\\\
 
@@ -801,8 +802,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 28 (2024, Thursday, November 14th at 07:02 pm PST)
-//// Line count (including blank lines and compiler line): 1,043
+//// File version: 29 (2024, Friday, November 15th at 04:39 pm PST)
+//// Line count (including blank lines and compiler line): 1,045
 
 //// ----------------------------------------------------- \\\\
 
@@ -1037,6 +1038,7 @@ https://github.com/seanpm2001/Learn-Charity
 https://github.com/seanpm2001/Learn-Clarity
 https://github.com/seanpm2001/Learn-EQ
 https://github.com/seanpm2001/Learn-eC
+https://github.com/seanpm2001/Learn-EcMarkup
 *\\\\
 
 //// End of file
