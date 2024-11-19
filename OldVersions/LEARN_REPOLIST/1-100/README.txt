@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Friday, November 15th
+//// As of 2024, Monday, November 18th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (755)
+//// Learn KnowledgeBase repositories (756)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 228 new entries (sorting needed)
+//// 229 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -776,12 +776,13 @@ https://github.com/seanpm2001/Learn-Clarity
 https://github.com/seanpm2001/Learn-EQ
 https://github.com/seanpm2001/Learn-eC
 https://github.com/seanpm2001/Learn-EcMarkup
+https://github.com/seanpm2001/Learn-Dune
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 757
+//// Repo count: 758
 
-//// 1+1+755+757
+//// 1+1+756+758
 
 //// ----------------------------------------------------- \\\\
 
@@ -794,16 +795,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 760 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 762 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 756+4=760
+//// 758+4=762
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 29 (2024, Friday, November 15th at 04:39 pm PST)
-//// Line count (including blank lines and compiler line): 1,045
+//// File version: 30 (2024, Monday, November 18th at 06:23 pm PST)
+//// Line count (including blank lines and compiler line): 1,047
 
 //// ----------------------------------------------------- \\\\
 
@@ -1039,6 +1040,7 @@ https://github.com/seanpm2001/Learn-Clarity
 https://github.com/seanpm2001/Learn-EQ
 https://github.com/seanpm2001/Learn-eC
 https://github.com/seanpm2001/Learn-EcMarkup
+https://github.com/seanpm2001/Learn-Dune
 *\\\\
 
 //// End of file
