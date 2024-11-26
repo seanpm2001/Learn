@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Friday, November 22nd
+//// As of 2024, Monday, November 25th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (760)
+//// Learn KnowledgeBase repositories (761)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -781,12 +781,13 @@ https://github.com/seanpm2001/Learn-dircolors
 https://github.com/seanpm2001/Learn-Cycript
 https://github.com/seanpm2001/Learn-Cylc
 https://github.com/seanpm2001/Learn-Crontab
+https://github.com/seanpm2001/Learn-COLLADA
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 762
+//// Repo count: 763
 
-//// 1+1+760+762
+//// 1+1+761+763
 
 //// ----------------------------------------------------- \\\\
 
@@ -799,16 +800,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 766 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 767 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 762+4=766
+//// 763+4=767
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 34 (2024, Friday, November 22nd at 07:35 pm PST)
-//// Line count (including blank lines and compiler line): 1,055
+//// File version: 35 (2024, Monday, November 25th at 08:46 pm PST)
+//// Line count (including blank lines and compiler line): 1,057
 
 //// ----------------------------------------------------- \\\\
 
@@ -1049,6 +1050,7 @@ https://github.com/seanpm2001/Learn-dircolors
 https://github.com/seanpm2001/Learn-Cycript
 https://github.com/seanpm2001/Learn-Cylc
 https://github.com/seanpm2001/Learn-Crontab
+https://github.com/seanpm2001/Learn-COLLADA
 *\\\\
 
 //// End of file
