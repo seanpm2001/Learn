@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Tuesday, November 26th
+//// As of 2024, Wednesday, November 27th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (762)
+//// Learn KnowledgeBase repositories (763)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 237 new entries (sorting needed)
+//// 238 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -783,12 +783,13 @@ https://github.com/seanpm2001/Learn-Cylc
 https://github.com/seanpm2001/Learn-Crontab
 https://github.com/seanpm2001/Learn-COLLADA
 https://github.com/seanpm2001/Learn-Scaml
+https://github.com/seanpm2001/Learn-Noir
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 764
+//// Repo count: 765
 
-//// 1+1+762+764
+//// 1+1+763+765
 
 //// ----------------------------------------------------- \\\\
 
@@ -809,8 +810,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 36 (2024, Tuesday, November 26th at 08:57 pm PST)
-//// Line count (including blank lines and compiler line): 1,059
+//// File version: 37 (2024, Wednesday, November 27th at 08:13 pm PST)
+//// Line count (including blank lines and compiler line): 1,061
 
 //// ----------------------------------------------------- \\\\
 
@@ -1053,6 +1054,7 @@ https://github.com/seanpm2001/Learn-Cylc
 https://github.com/seanpm2001/Learn-Crontab
 https://github.com/seanpm2001/Learn-COLLADA
 https://github.com/seanpm2001/Learn-Scaml
+https://github.com/seanpm2001/Learn-Noir
 *\\\\
 
 //// End of file
