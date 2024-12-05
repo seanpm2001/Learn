@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Tuesday, December 3rd
+//// As of 2024, Wednesday, December 4th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (767)
+//// Learn KnowledgeBase repositories (768)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -788,6 +788,7 @@ https://github.com/seanpm2001/Learn-Caddyfile
 https://github.com/seanpm2001/Learn-FIGlet-Font
 https://github.com/seanpm2001/Learn-iCalendar
 https://github.com/seanpm2001/Learn-MooCode
+https://github.com/seanpm2001/Learn-Riot
 
 //// ----------------------------------------------------- \\\\
 
@@ -806,16 +807,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 773 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 774 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 769+4=773
+//// 770+4=774
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 41 (2024, Tuesday, December 3rd at 08:41 pm PST)
-//// Line count (including blank lines and compiler line): 1,069
+//// File version: 42 (2024, Wednesday, December 4th at 06:45 pm PST)
+//// Line count (including blank lines and compiler line): 1,071
 
 //// ----------------------------------------------------- \\\\
 
@@ -1063,6 +1064,7 @@ https://github.com/seanpm2001/Learn-Caddyfile
 https://github.com/seanpm2001/Learn-FIGlet-Font
 https://github.com/seanpm2001/Learn-iCalendar
 https://github.com/seanpm2001/Learn-MooCode
+https://github.com/seanpm2001/Learn-Riot
 *\\\\
 
 //// End of file
