@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Monday, December 9th
+//// As of 2024, Tuesday, December 10th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (771)
+//// Learn KnowledgeBase repositories (772)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -792,12 +792,13 @@ https://github.com/seanpm2001/Learn-Riot
 https://github.com/seanpm2001/Learn-GAML
 https://github.com/seanpm2001/Learn-Futhark
 https://github.com/seanpm2001/Learn-GAMS
+https://github.com/seanpm2001/Learn-Gemini
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 773
+//// Repo count: 774
 
-//// 1+1+771=773
+//// 1+1+772=774
 
 //// ----------------------------------------------------- \\\\
 
@@ -818,8 +819,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 44 (2024, Monday, December 9th at 09:02 pm PST)
-//// Line count (including blank lines and compiler line): 1,077
+//// File version: 45 (2024, Tuesday, December 10th at 07:37 pm PST)
+//// Line count (including blank lines and compiler line): 1,079
 
 //// ----------------------------------------------------- \\\\
 
@@ -1071,6 +1072,7 @@ https://github.com/seanpm2001/Learn-Riot
 https://github.com/seanpm2001/Learn-GAML
 https://github.com/seanpm2001/Learn-Futhark
 https://github.com/seanpm2001/Learn-GAMS
+https://github.com/seanpm2001/Learn-Gemini
 *\\\\
 
 //// End of file
