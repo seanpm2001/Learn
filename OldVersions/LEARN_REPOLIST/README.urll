@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Tuesday, December 10th
+//// As of 2024, Wednesday, December 11th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (772)
+//// Learn KnowledgeBase repositories (773)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -793,12 +793,13 @@ https://github.com/seanpm2001/Learn-GAML
 https://github.com/seanpm2001/Learn-Futhark
 https://github.com/seanpm2001/Learn-GAMS
 https://github.com/seanpm2001/Learn-Gemini
+https://github.com/seanpm2001/Learn-Genshi
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 774
+//// Repo count: 775
 
-//// 1+1+772=774
+//// 1+1+773=775
 
 //// ----------------------------------------------------- \\\\
 
@@ -811,16 +812,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 777 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 779 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 773+4=777
+//// 775+4=779
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 45 (2024, Tuesday, December 10th at 07:37 pm PST)
-//// Line count (including blank lines and compiler line): 1,079
+//// File version: 46 (2024, Wednesday, December 11th at 08:11 pm PST)
+//// Line count (including blank lines and compiler line): 1,081
 
 //// ----------------------------------------------------- \\\\
 
@@ -1073,6 +1074,7 @@ https://github.com/seanpm2001/Learn-GAML
 https://github.com/seanpm2001/Learn-Futhark
 https://github.com/seanpm2001/Learn-GAMS
 https://github.com/seanpm2001/Learn-Gemini
+https://github.com/seanpm2001/Learn-Genshi
 *\\\\
 
 //// End of file
