@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Monday, December 16th
+//// As of 2024, Tuesday, December 17th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (776)
+//// Learn KnowledgeBase repositories (777)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 251 new entries (sorting needed)
+//// 252 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -797,12 +797,13 @@ https://github.com/seanpm2001/Learn-Genshi
 https://github.com/seanpm2001/Learn-edn
 https://github.com/seanpm2001/Learn-MiniD
 https://github.com/seanpm2001/Learn-NEON
+https://github.com/seanpm2001/Learn-Nasal
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 778
+//// Repo count: 779
 
-//// 1+1+776=778
+//// 1+1+777=779
 
 //// ----------------------------------------------------- \\\\
 
@@ -823,8 +824,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 49 (2024, Monday, December 16th at 03:29 pm PST)
-//// Line count (including blank lines and compiler line): 1,087
+//// File version: 50 (2024, Tuesday, December 17th at 07:38 pm PST)
+//// Line count (including blank lines and compiler line): 1,089
 
 //// ----------------------------------------------------- \\\\
 
@@ -1081,6 +1082,7 @@ https://github.com/seanpm2001/Learn-Genshi
 https://github.com/seanpm2001/Learn-edn
 https://github.com/seanpm2001/Learn-MiniD
 https://github.com/seanpm2001/Learn-NEON
+https://github.com/seanpm2001/Learn-Nasal
 *\\\\
 
 //// End of file
