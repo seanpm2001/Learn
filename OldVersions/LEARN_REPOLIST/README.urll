@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Monday, December 23rd
+//// As of 2024, Tuesday, December 24th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (781)
+//// Learn KnowledgeBase repositories (782)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -802,12 +802,13 @@ https://github.com/seanpm2001/Learn-Myghty
 https://github.com/seanpm2001/Learn-MUF
 https://github.com/seanpm2001/Learn-mupad
 https://github.com/seanpm2001/Learn-NanoRC
+https://github.com/seanpm2001/Learn-NetLinx
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 783
+//// Repo count: 784
 
-//// 1+1+781=783
+//// 1+1+782=784
 
 //// ----------------------------------------------------- \\\\
 
@@ -828,8 +829,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 54 (2024, Monday, December 23rd at 05:40 pm PST)
-//// Line count (including blank lines and compiler line): 1,097
+//// File version: 55 (2024, Tuesday, December 24th at 02:45 pm PST)
+//// Line count (including blank lines and compiler line): 1,099
 
 //// ----------------------------------------------------- \\\\
 
@@ -1091,6 +1092,7 @@ https://github.com/seanpm2001/Learn-Myghty
 https://github.com/seanpm2001/Learn-MUF
 https://github.com/seanpm2001/Learn-mupad
 https://github.com/seanpm2001/Learn-NanoRC
+https://github.com/seanpm2001/Learn-NetLinx
 *\\\\
 
 //// End of file
