@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2024, Friday, December 20th
+//// As of 2024, Monday, December 23rd
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (780)
+//// Learn KnowledgeBase repositories (781)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -801,12 +801,13 @@ https://github.com/seanpm2001/Learn-Nasal
 https://github.com/seanpm2001/Learn-Myghty
 https://github.com/seanpm2001/Learn-MUF
 https://github.com/seanpm2001/Learn-mupad
+https://github.com/seanpm2001/Learn-NanoRC
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 782
+//// Repo count: 783
 
-//// 1+1+780=782
+//// 1+1+781=783
 
 //// ----------------------------------------------------- \\\\
 
@@ -819,16 +820,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 786 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 787 (not including SNU 2D ProgrammingTools IDE repositories, out of the 4 scope, as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 782+4=786
+//// 783+4=787
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 53 (2024, Friday, December 20th at 04:54 pm PST)
-//// Line count (including blank lines and compiler line): 1,095
+//// File version: 54 (2024, Monday, December 23rd at 05:40 pm PST)
+//// Line count (including blank lines and compiler line): 1,097
 
 //// ----------------------------------------------------- \\\\
 
@@ -1089,6 +1090,7 @@ https://github.com/seanpm2001/Learn-Nasal
 https://github.com/seanpm2001/Learn-Myghty
 https://github.com/seanpm2001/Learn-MUF
 https://github.com/seanpm2001/Learn-mupad
+https://github.com/seanpm2001/Learn-NanoRC
 *\\\\
 
 //// End of file
