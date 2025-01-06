@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, January 3rd
+//// As of 2025, Monday, January 6th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (790)
+//// Learn KnowledgeBase repositories (791)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -811,12 +811,13 @@ https://github.com/seanpm2001/Learn-Hollywood
 https://github.com/seanpm2001/Learn-RPM-Spec
 https://github.com/seanpm2001/Learn-Filebench-WML
 https://github.com/seanpm2001/Learn-MoonBit
+https://github.com/seanpm2001/Learn-JSONLD
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 792
+//// Repo count: 793
 
-//// 1+1+790=792
+//// 1+1+791=793
 
 //// ----------------------------------------------------- \\\\
 
@@ -829,16 +830,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 796 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 797 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 792+4=796
+//// 793+4=797
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 63 (2025, Friday, January 3rd at 03:02 pm PST)
-//// Line count (including blank lines and compiler line): 1,115
+//// File version: 64 (2025, Monday, January 6th at 03:29 pm PST)
+//// Line count (including blank lines and compiler line): 1,117
 
 //// ----------------------------------------------------- \\\\
 
@@ -1109,6 +1110,7 @@ https://github.com/seanpm2001/Learn-Hollywood
 https://github.com/seanpm2001/Learn-RPM-Spec
 https://github.com/seanpm2001/Learn-Filebench-WML
 https://github.com/seanpm2001/Learn-MoonBit
+https://github.com/seanpm2001/Learn-JSONLD
 *\\\\
 
 //// End of file
