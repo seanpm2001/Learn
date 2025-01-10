@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, January 9th
+//// As of 2025, Friday, January 10th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (794)
+//// Learn KnowledgeBase repositories (795)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 269 new entries (sorting needed)
+//// 270 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -815,12 +815,13 @@ https://github.com/seanpm2001/Learn-JSONLD
 https://github.com/seanpm2001/Learn-Muse
 https://github.com/seanpm2001/Learn-MiniYAML
 https://github.com/seanpm2001/Learn-NMODL
+https://github.com/seanpm2001/Learn-NWScript
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 796
+//// Repo count: 797
 
-//// 1+1+794=796
+//// 1+1+795=797
 
 //// ----------------------------------------------------- \\\\
 
@@ -833,16 +834,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 800 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 801 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 796+4=800
+//// 797+4=801
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 67 (2025, Thursday, January 9th at 04:41 pm PST)
-//// Line count (including blank lines and compiler line): 1,123
+//// File version: 68 (2025, Friday, January 10th at 03:59 pm PST)
+//// Line count (including blank lines and compiler line): 1,125
 
 //// ----------------------------------------------------- \\\\
 
@@ -1117,6 +1118,7 @@ https://github.com/seanpm2001/Learn-JSONLD
 https://github.com/seanpm2001/Learn-Muse
 https://github.com/seanpm2001/Learn-MiniYAML
 https://github.com/seanpm2001/Learn-NMODL
+https://github.com/seanpm2001/Learn-NWScript
 *\\\\
 
 //// End of file
