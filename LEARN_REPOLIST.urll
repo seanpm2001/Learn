@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, January 13th
+//// As of 2025, Tuesday, January 14th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (796)
+//// Learn KnowledgeBase repositories (797)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 271 new entries (sorting needed)
+//// 272 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -817,12 +817,13 @@ https://github.com/seanpm2001/Learn-MiniYAML
 https://github.com/seanpm2001/Learn-NMODL
 https://github.com/seanpm2001/Learn-NWScript
 https://github.com/seanpm2001/Learn-Praat
+https://github.com/seanpm2001/Learn-Prisma
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 798
+//// Repo count: 799
 
-//// 1+1+796=798
+//// 1+1+797=799
 
 //// ----------------------------------------------------- \\\\
 
@@ -843,8 +844,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 69 (2025, Monday, January 13th at 03:59 pm PST)
-//// Line count (including blank lines and compiler line): 1,127
+//// File version: 70 (2025, Tuesday, January 14th at 05:14 pm PST)
+//// Line count (including blank lines and compiler line): 1,129
 
 //// ----------------------------------------------------- \\\\
 
@@ -1121,6 +1122,7 @@ https://github.com/seanpm2001/Learn-MiniYAML
 https://github.com/seanpm2001/Learn-NMODL
 https://github.com/seanpm2001/Learn-NWScript
 https://github.com/seanpm2001/Learn-Praat
+https://github.com/seanpm2001/Learn-Prisma
 *\\\\
 
 //// End of file
