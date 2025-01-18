@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, January 16th
+//// As of 2025, Friday, January 17th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (799)
+//// Learn KnowledgeBase repositories (800)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 274 new entries (sorting needed)
+//// 275 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -820,12 +820,13 @@ https://github.com/seanpm2001/Learn-Praat
 https://github.com/seanpm2001/Learn-Prisma
 https://github.com/seanpm2001/Learn-Promela
 https://github.com/seanpm2001/Learn-Pyret
+https://github.com/seanpm2001/Learn-Shen
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 801
+//// Repo count: 802
 
-//// 1+1+799=801
+//// 1+1+800=802
 
 //// ----------------------------------------------------- \\\\
 
@@ -846,8 +847,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 72 (2025, Thursday, January 16th at 06:08 pm PST)
-//// Line count (including blank lines and compiler line): 1,133
+//// File version: 73 (2025, Friday, January 17th at 06:44 pm PST)
+//// Line count (including blank lines and compiler line): 1,135
 
 //// ----------------------------------------------------- \\\\
 
@@ -1127,6 +1128,7 @@ https://github.com/seanpm2001/Learn-Praat
 https://github.com/seanpm2001/Learn-Prisma
 https://github.com/seanpm2001/Learn-Promela
 https://github.com/seanpm2001/Learn-Pyret
+https://github.com/seanpm2001/Learn-Shen
 *\\\\
 
 //// End of file
