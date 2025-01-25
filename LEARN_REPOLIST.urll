@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, January 23rd
+//// As of 2025, Friday, January 24th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (804)
+//// Learn KnowledgeBase repositories (805)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -825,12 +825,13 @@ https://github.com/seanpm2001/Learn-ATS
 https://github.com/seanpm2001/Learn-CameLIGO
 https://github.com/seanpm2001/Learn-Jule
 https://github.com/seanpm2001/Learn-Glimmer-JS
+https://github.com/seanpm2001/Learn-Glimmer-TS
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 806
+//// Repo count: 807
 
-//// 1+1+804=806
+//// 1+1+805=807
 
 //// ----------------------------------------------------- \\\\
 
@@ -843,16 +844,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 810 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 811 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 806+4=810
+//// 807+4=811
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 77 (2025, Thursday, January 23rd at 05:39 pm PST)
-//// Line count (including blank lines and compiler line): 1,143
+//// File version: 78 (2025, Friday, January 24th at 05:47 pm PST)
+//// Line count (including blank lines and compiler line): 1,145
 
 //// ----------------------------------------------------- \\\\
 
@@ -1137,6 +1138,7 @@ https://github.com/seanpm2001/Learn-ATS
 https://github.com/seanpm2001/Learn-CameLIGO
 https://github.com/seanpm2001/Learn-Jule
 https://github.com/seanpm2001/Learn-Glimmer-JS
+https://github.com/seanpm2001/Learn-Glimmer-TS
 *\\\\
 
 //// End of file
