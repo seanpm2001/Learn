@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, February 4th
+//// As of 2025, Wednesday, February 5th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (812)
+//// Learn KnowledgeBase repositories (813)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 287 new entries (sorting needed)
+//// 288 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -833,12 +833,13 @@ https://github.com/seanpm2001/Learn-Adobe-Font-Metrics
 https://github.com/seanpm2001/Learn-Alpine-ABuild
 https://github.com/seanpm2001/Learn-Altium-Designer
 https://github.com/seanpm2001/Learn-Ant-Build-System
+https://github.com/seanpm2001/Learn-Apollo-Guidance-Computer
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 814
+//// Repo count: 815
 
-//// 1+1+812=814
+//// 1+1+813=815
 
 //// ----------------------------------------------------- \\\\
 
@@ -851,16 +852,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 818 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 819 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 814+4=818
+//// 815+4=819
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 85 (2025, Tuesday, February 4th at 06:11 pm PST)
-//// Line count (including blank lines and compiler line): 1,159
+//// File version: 86 (2025, Wednesday, February 5th at 04:10 pm PST)
+//// Line count (including blank lines and compiler line): 1,161
 
 //// ----------------------------------------------------- \\\\
 
@@ -1153,6 +1154,7 @@ https://github.com/seanpm2001/Learn-Adobe-Font-Metrics
 https://github.com/seanpm2001/Learn-Alpine-ABuild
 https://github.com/seanpm2001/Learn-Altium-Designer
 https://github.com/seanpm2001/Learn-Ant-Build-System
+https://github.com/seanpm2001/Learn-Apollo-Guidance-Computer
 *\\\\
 
 //// End of file
