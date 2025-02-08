@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, February 6th
+//// As of 2025, Friday, February 7th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (814)
+//// Learn KnowledgeBase repositories (815)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -834,13 +834,14 @@ https://github.com/seanpm2001/Learn-Alpine-ABuild
 https://github.com/seanpm2001/Learn-Altium-Designer
 https://github.com/seanpm2001/Learn-Ant-Build-System
 https://github.com/seanpm2001/Learn-Apollo-Guidance-Computer
-https://github.com/seanpm2001/Learn-Asymptiote
+https://github.com/seanpm2001/Learn-Asymptote
+https://github.com/seanpm2001/Learn-Cabal-Config
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 816
+//// Repo count: 817
 
-//// 1+1+814=816
+//// 1+1+815=817
 
 //// ----------------------------------------------------- \\\\
 
@@ -861,8 +862,8 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 87 (2025, Thursday, February 6th at 03:44 pm PST)
-//// Line count (including blank lines and compiler line): 1,163
+//// File version: 88 (2025, Friday, February 7th at 06:07 pm PST)
+//// Line count (including blank lines and compiler line): 1,165
 
 //// ----------------------------------------------------- \\\\
 
@@ -1156,7 +1157,8 @@ https://github.com/seanpm2001/Learn-Alpine-ABuild
 https://github.com/seanpm2001/Learn-Altium-Designer
 https://github.com/seanpm2001/Learn-Ant-Build-System
 https://github.com/seanpm2001/Learn-Apollo-Guidance-Computer
-https://github.com/seanpm2001/Learn-Asymptiote
+https://github.com/seanpm2001/Learn-Asymptote
+https://github.com/seanpm2001/Learn-Cabal-Config
 *\\\\
 
 //// End of file
