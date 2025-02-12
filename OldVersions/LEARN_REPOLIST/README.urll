@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, February 10th
+//// As of 2025, Tuesday, February 11th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (816)
+//// Learn KnowledgeBase repositories (817)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 291 new entries (sorting needed)
+//// 292 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -837,12 +837,13 @@ https://github.com/seanpm2001/Learn-Apollo-Guidance-Computer
 https://github.com/seanpm2001/Learn-Asymptote
 https://github.com/seanpm2001/Learn-Cabal-Config
 https://github.com/seanpm2001/Learn-C-ObjDump
+https://github.com/seanpm2001/Learn-C2Hs-Haskell
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 818
+//// Repo count: 819
 
-//// 1+1+816=818
+//// 1+1+817=819
 
 //// ----------------------------------------------------- \\\\
 
@@ -855,16 +856,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 822 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 823 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 818+4=822
+//// 819+4=823
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 89 (2025, Monday, February 10th at 05;04 pm PST)
-//// Line count (including blank lines and compiler line): 1,167
+//// File version: 90 (2025, Tuesday, February 11th at 04:31 pm PST)
+//// Line count (including blank lines and compiler line): 1,169
 
 //// ----------------------------------------------------- \\\\
 
@@ -1161,6 +1162,7 @@ https://github.com/seanpm2001/Learn-Apollo-Guidance-Computer
 https://github.com/seanpm2001/Learn-Asymptote
 https://github.com/seanpm2001/Learn-Cabal-Config
 https://github.com/seanpm2001/Learn-C-ObjDump
+https://github.com/seanpm2001/Learn-C2Hs-Haskell
 *\\\\
 
 //// End of file
