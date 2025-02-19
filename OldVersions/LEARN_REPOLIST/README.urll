@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, February 17th
+//// As of 2025, Tuesday, February 18th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (821)
+//// Learn KnowledgeBase repositories (822)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 296 new entries (sorting needed)
+//// 297 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -842,12 +842,13 @@ https://github.com/seanpm2001/Learn-Cloud-Firestore-Security-Rules
 https://github.com/seanpm2001/Learn-CoNLL-U
 https://github.com/seanpm2001/Learn-cURL-Config
 https://github.com/seanpm2001/Learn-Ecere-Projects
+https://github.com/seanpm2001/Learn-Debian-Package-Control-File
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 823
+//// Repo count: 824
 
-//// 1+1+821=823
+//// 1+1+822=824
 
 //// ----------------------------------------------------- \\\\
 
@@ -860,16 +861,16 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 827 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 828 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 822+4=826
+//// 824+4=828
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 94 (2025, Monday, February 17th at 04:58 pm PST)
-//// Line count (including blank lines and compiler line): 1,177
+//// File version: 95 (2025, Tuesday, February 18th at 05:35 pm PST)
+//// Line count (including blank lines and compiler line): 1,179
 
 //// ----------------------------------------------------- \\\\
 
@@ -1171,6 +1172,7 @@ https://github.com/seanpm2001/Learn-Cloud-Firestore-Security-Rules
 https://github.com/seanpm2001/Learn-CoNLL-U
 https://github.com/seanpm2001/Learn-cURL-Config
 https://github.com/seanpm2001/Learn-Ecere-Projects
+https://github.com/seanpm2001/Learn-Debian-Package-Control-File
 *\\\\
 
 //// End of file
