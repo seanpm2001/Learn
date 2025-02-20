@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, February 18th
+//// As of 2025, Wednesday, February 19th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (822)
+//// Learn KnowledgeBase repositories (823)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -843,12 +843,13 @@ https://github.com/seanpm2001/Learn-CoNLL-U
 https://github.com/seanpm2001/Learn-cURL-Config
 https://github.com/seanpm2001/Learn-Ecere-Projects
 https://github.com/seanpm2001/Learn-Debian-Package-Control-File
+https://github.com/seanpm2001/Learn-DirectX-3D-File
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 824
+//// Repo count: 825
 
-//// 1+1+822=824
+//// 1+1+823=825
 
 //// ----------------------------------------------------- \\\\
 
@@ -861,16 +862,35 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 828 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 829 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 824+4=828
+//// 825+4=829
+
+//// Repositories with language recognition issues
+//// These repositories recognize with the wrong language (incomplete listing)
+//// As of 2025, Wednesday, February 19th
+
+https://github.com/seanpm2001/Learn-Rockstar //// HTML
+https://github.com/seanpm2001/Learn-BlueSpec-BH //// BlueSpec
+https://github.com/seanpm2001/Learn-EcMarkup //// HTML
+https://github.com/seanpm2001/Learn-Quantum-Computation-Language //// HTML
+https://github.com/seanpm2001/Learn-Hollywood //// HTML
+https://github.com/seanpm2001/Learn-CameLIGO //// LigoLANG
+https://github.com/seanpm2001/Learn-Jule //// HTML
+https://github.com/seanpm2001/Learn-Alpine-ABuild //// Shell
+https://github.com/seanpm2001/Learn-C2Hs-Haskell //// Haskell
+https://github.com/seanpm2001/Learn-Glimmer-JS //// JavaScript
+https://github.com/seanpm2001/Learn-Glimmer-TS //// TypeScript
+https://github.com/seanpm2001/Learn-cURL-Config //// INI
+https://github.com/seanpm2001/Learn-Ecere-Projects //// JavaScript
+https://github.com/seanpm2001/Learn-NanoRC //// INI
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 95 (2025, Tuesday, February 18th at 05:35 pm PST)
-//// Line count (including blank lines and compiler line): 1,179
+//// File version: 96 (2025, Wednesday, February 19th at 05:32 pm PST)
+//// Line count (including blank lines and compiler line): 1,200
 
 //// ----------------------------------------------------- \\\\
 
@@ -1173,6 +1193,7 @@ https://github.com/seanpm2001/Learn-CoNLL-U
 https://github.com/seanpm2001/Learn-cURL-Config
 https://github.com/seanpm2001/Learn-Ecere-Projects
 https://github.com/seanpm2001/Learn-Debian-Package-Control-File
+https://github.com/seanpm2001/Learn-DirectX-3D-File
 *\\\\
 
 //// End of file
