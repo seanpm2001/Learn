@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Wednesday, February 19th
+//// As of 2025, Thursday, February 20th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (823)
+//// Learn KnowledgeBase repositories (824)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 297 new entries (sorting needed)
+//// 299 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -844,12 +844,13 @@ https://github.com/seanpm2001/Learn-cURL-Config
 https://github.com/seanpm2001/Learn-Ecere-Projects
 https://github.com/seanpm2001/Learn-Debian-Package-Control-File
 https://github.com/seanpm2001/Learn-DirectX-3D-File
+https://github.com/seanpm2001/Learn-D-ObjDump
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 825
+//// Repo count: 826
 
-//// 1+1+823=825
+//// 1+1+824=826
 
 //// ----------------------------------------------------- \\\\
 
@@ -862,21 +863,23 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 829 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 830 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 825+4=829
+//// 826+4=830
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
-//// As of 2025, Wednesday, February 19th
+//// As of 2025, Thursday, February 20th
+//// Comment at the end of each link is the language GitHub recognized them as. The needed language comes after Learn-
+//// HTML always means that GitHub doesn't recognize the language at all, as HTML is the default language all of my newer repositories are written in
 
-https://github.com/seanpm2001/Learn-Rockstar //// HTML
+https://github.com/seanpm2001/Learn-Rockstar //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-BlueSpec-BH //// BlueSpec
-https://github.com/seanpm2001/Learn-EcMarkup //// HTML
-https://github.com/seanpm2001/Learn-Quantum-Computation-Language //// HTML
-https://github.com/seanpm2001/Learn-Hollywood //// HTML
+https://github.com/seanpm2001/Learn-EcMarkup //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Quantum-Computation-Language //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Hollywood //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-CameLIGO //// LigoLANG
-https://github.com/seanpm2001/Learn-Jule //// HTML
+https://github.com/seanpm2001/Learn-Jule //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Alpine-ABuild //// Shell
 https://github.com/seanpm2001/Learn-C2Hs-Haskell //// Haskell
 https://github.com/seanpm2001/Learn-Glimmer-JS //// JavaScript
@@ -884,13 +887,316 @@ https://github.com/seanpm2001/Learn-Glimmer-TS //// TypeScript
 https://github.com/seanpm2001/Learn-cURL-Config //// INI
 https://github.com/seanpm2001/Learn-Ecere-Projects //// JavaScript
 https://github.com/seanpm2001/Learn-NanoRC //// INI
+https://github.com/seanpm2001/Learn-Jison //// TBD
+https://github.com/seanpm2001/Learn-Jison-Lex //// TBD
+https://github.com/seanpm2001/Learn-ABAP-CDS //// TBD
+https://github.com/seanpm2001/Learn-ABC //// TBD
+https://github.com/seanpm2001/Learn-ActionScript-3 //// TBD
+https://github.com/seanpm2001/Learn-AGRAN //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-ALGOL //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Amulet //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Arduino //// TBD
+https://github.com/seanpm2001/Learn-AssemblyScript //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-B //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Batch //// TBD
+https://github.com/seanpm2001/Learn-BibTeX //// TeX
+https://github.com/seanpm2001/Learn-BLISS //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Blockly //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-BlockQL //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-BlooP //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Bro //// TBD
+https://github.com/seanpm2001/Learn-BSDL //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Cap-CDS //// TBD
+https://github.com/seanpm2001/Learn-CH //// TBD
+https://github.com/seanpm2001/Learn-Cobra //// TBD
+https://github.com/seanpm2001/Learn-Commenter //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-ColdFusion-CFC //// TBD
+https://github.com/seanpm2001/Learn-CPython
+https://github.com/seanpm2001/Learn-CSHTML
+https://github.com/seanpm2001/Learn-CSound
+https://github.com/seanpm2001/Learn-Cyclone
+https://github.com/seanpm2001/Learn-DCPU-16-ASM
+https://github.com/seanpm2001/Learn-DroppedText //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-DSergeant //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Epigram
+https://github.com/seanpm2001/Learn-Ermine
+https://github.com/seanpm2001/Learn-Ezhil //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-FP
+https://github.com/seanpm2001/Learn-FCL
+https://github.com/seanpm2001/Learn-Fish
+https://github.com/seanpm2001/Learn-FlooP //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Fuzzy-Markup-Language-FML
+https://github.com/seanpm2001/Learn-Go2003 //// Google Go
+https://github.com/seanpm2001/Learn-GolfScript
+https://github.com/seanpm2001/Learn-Google-Apps-Script
+https://github.com/seanpm2001/Learn-GRANNY //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Hope
+https://github.com/seanpm2001/Learn-IntelHexBinary //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-INTERCAL
+https://github.com/seanpm2001/Learn-IronPython
+https://github.com/seanpm2001/Learn-ISWIM
+https://github.com/seanpm2001/Learn-Jakarta-Server-Pages
+https://github.com/seanpm2001/Learn-JavaScriptPlusPlus
+https://github.com/seanpm2001/Learn-Java-Server-Pages
+https://github.com/seanpm2001/Learn-JScript
+https://github.com/seanpm2001/Learn-JScript.NET
+https://github.com/seanpm2001/Learn-JSSS
+https://github.com/seanpm2001/Learn-Jython
+https://github.com/seanpm2001/Learn-KiXTart
+https://github.com/seanpm2001/Learn-KRC
+https://github.com/seanpm2001/Learn-Lingo
+https://github.com/seanpm2001/Learn-Little
+https://github.com/seanpm2001/Learn-Lobster
+https://github.com/seanpm2001/Learn-Logcat
+https://github.com/seanpm2001/Learn-M4Sugar
+https://github.com/seanpm2001/Learn-Malbolge
+https://github.com/seanpm2001/Learn-Mallard
+https://github.com/seanpm2001/Learn-Seanpm2001-Matrix //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-MCPYE-CL //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-MGears //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Miranda
+https://github.com/seanpm2001/Learn-Mojom
+https://github.com/seanpm2001/Learn-MS-DOS-Style
+https://github.com/seanpm2001/Learn-Noop
+https://github.com/seanpm2001/Learn-Objective-CSharp //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Objective-JPlusPlus //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Objective-JSharp //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Octave //// MATLAB
+https://github.com/seanpm2001/Learn-Orwell
+https://github.com/seanpm2001/Learn-Perl6 //// Used to recognize, now has issues
+https://github.com/seanpm2001/Learn-Plankalk-u-l //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Pod6
+https://github.com/seanpm2001/Learn-PythonTraceback
+https://github.com/seanpm2001/Learn-QueryByExample
+https://github.com/seanpm2001/Learn-SASL
+https://github.com/seanpm2001/Learn-Scratch
+https://github.com/seanpm2001/Learn-Scratch-1
+https://github.com/seanpm2001/Learn-Scratch-2
+https://github.com/seanpm2001/Learn-Scratch-3
+https://github.com/seanpm2001/Learn-SDLang
+https://github.com/seanpm2001/Learn-Seed7
+https://github.com/seanpm2001/Learn-SGML
+https://github.com/seanpm2001/Learn-SMT
+https://github.com/seanpm2001/Learn-SNOBOL
+https://github.com/seanpm2001/Learn-Squeak
+https://github.com/seanpm2001/Learn-S-RECORD
+https://github.com/seanpm2001/Learn-SublimeText
+https://github.com/seanpm2001/Learn-SWIG
+https://github.com/seanpm2001/Learn-SXML
+https://github.com/seanpm2001/Learn-Verilog-AMS
+https://github.com/seanpm2001/Learn-Tampio
+https://github.com/seanpm2001/Learn-Triton_OpenAI
+https://github.com/seanpm2001/Learn-Unix-Assembly
+https://github.com/seanpm2001/Learn-URLL
+https://github.com/seanpm2001/Learn-VBHTML
+https://github.com/seanpm2001/Learn-Verona
+https://github.com/seanpm2001/Learn-VisualBasicScript
+https://github.com/seanpm2001/Learn-VisualBasicDOTNet
+https://github.com/seanpm2001/Learn-VisualLogic
+https://github.com/seanpm2001/Learn-While
+https://github.com/seanpm2001/Learn-Whitespace
+https://github.com/seanpm2001/Learn-Wierd
+https://github.com/seanpm2001/Learn-XBasePlusPlus
+https://github.com/seanpm2001/Learn-CPL
+https://github.com/seanpm2001/Learn-FLOW-MATIC
+https://github.com/seanpm2001/Learn-Information-Processing-Language
+https://github.com/seanpm2001/Learn-ARITH-MATIC
+https://github.com/seanpm2001/Learn-asm.js
+https://github.com/seanpm2001/Learn-Planner
+https://github.com/seanpm2001/Learn-POP-1
+https://github.com/seanpm2001/Learn-POP-2
+https://github.com/seanpm2001/Learn-MDX
+https://github.com/seanpm2001/Learn-SCRIPT
+https://github.com/seanpm2001/Learn-Generalized-Markup-Language-GML
+https://github.com/seanpm2001/Learn-EasyScript
+https://github.com/seanpm2001/Learn-CDS
+https://github.com/seanpm2001/Learn-CAP
+https://github.com/seanpm2001/Learn-Speedcode
+https://github.com/seanpm2001/Learn-P-DoublePrime
+https://github.com/seanpm2001/Learn-SKILL
+https://github.com/seanpm2001/Learn-EJSS
+https://github.com/seanpm2001/Learn-MDL
+https://github.com/seanpm2001/Learn-VisionScript
+https://github.com/seanpm2001/Learn-Hestia
+https://github.com/seanpm2001/Learn-ActionMessageFormat-AMF
+https://github.com/seanpm2001/Learn-ApacheAvro
+https://github.com/seanpm2001/Learn-ErlangDoc-EDOC
+https://github.com/seanpm2001/Learn-MATH-MATIC
+https://github.com/seanpm2001/Learn-Datalog
+https://github.com/seanpm2001/Learn-Flix
+https://github.com/seanpm2001/Learn-SWRL
+https://github.com/seanpm2001/Learn-SQWRL
+https://github.com/seanpm2001/Learn-RuleML
+https://github.com/seanpm2001/Learn-DAML
+https://github.com/seanpm2001/Learn-R2ML
+https://github.com/seanpm2001/Learn-RIF
+https://github.com/seanpm2001/Learn-LegalXML
+https://github.com/seanpm2001/Learn-CassandraQueryLanguage-CQL
+https://github.com/seanpm2001/Learn-NewGRF-Meta-Language
+https://github.com/seanpm2001/Learn-VRML
+https://github.com/seanpm2001/Learn-Simula
+https://github.com/seanpm2001/Learn-V8-Torque
+https://github.com/seanpm2001/Learn-Iota
+https://github.com/seanpm2001/Learn-Jot
+https://github.com/seanpm2001/Learn-Zot
+https://github.com/seanpm2001/Learn-JSound
+https://github.com/seanpm2001/Learn-OpenFormulaSpreadsheetLanguage
+https://github.com/seanpm2001/Learn-Tom
+https://github.com/seanpm2001/Learn-Pico
+https://github.com/seanpm2001/Learn-AlexaPresentationLanguage
+https://github.com/seanpm2001/Learn-AlexaConversationsDescriptionLanguage
+https://github.com/seanpm2001/Learn-DDoc
+https://github.com/seanpm2001/Learn-GPS-Exchange-Format
+https://github.com/seanpm2001/Learn-Bison
+https://github.com/seanpm2001/Learn-PEARL
+https://github.com/seanpm2001/Learn-3DMLW
+https://github.com/seanpm2001/Learn-X3D
+https://github.com/seanpm2001/Learn-Tao-Presentations
+https://github.com/seanpm2001/Learn-Web-Application-Description-Language-WADL
+https://github.com/seanpm2001/Learn-sXBL
+https://github.com/seanpm2001/Learn-Keyhole-Markup-Language-KML
+https://github.com/seanpm2001/Learn-QBASIC
+https://github.com/seanpm2001/Learn-SmallBASIC
+https://github.com/seanpm2001/Learn-Sawzall
+https://github.com/seanpm2001/Learn-CFScript
+https://github.com/seanpm2001/Learn-PL-I
+https://github.com/seanpm2001/Learn-Jelly
+https://github.com/seanpm2001/Learn-Charcoal
+https://github.com/seanpm2001/Learn-Uiua
+https://github.com/seanpm2001/Learn-Vector-Markup-Language
+https://github.com/seanpm2001/Learn-Precision-Graphics-Markup-Language-PGML
+https://github.com/seanpm2001/Learn-RecipeML
+https://github.com/seanpm2001/Learn-Lezer
+https://github.com/seanpm2001/Learn-DocBook
+https://github.com/seanpm2001/Learn-BBCode
+https://github.com/seanpm2001/Learn-Unified-Parallel-C
+https://github.com/seanpm2001/Learn-Cue-Sheet
+https://github.com/seanpm2001/Learn-Easybuild
+https://github.com/seanpm2001/Learn-Rapira
+https://github.com/seanpm2001/Learn-SETL
+https://github.com/seanpm2001/Learn-Binary-Lambda-Calculus
+https://github.com/seanpm2001/Learn-Chicken
+https://github.com/seanpm2001/Learn-Chef
+https://github.com/seanpm2001/Learn-FRACTRAN
+https://github.com/seanpm2001/Learn-JSFuck
+https://github.com/seanpm2001/Learn-Piet
+https://github.com/seanpm2001/Learn-NetLogo
+https://github.com/seanpm2001/Learn-Rockstar
+https://github.com/seanpm2001/Learn-Shakespeare
+https://github.com/seanpm2001/Learn-Unlambda
+https://github.com/seanpm2001/Learn-Catrobat
+https://github.com/seanpm2001/Learn-Rush
+https://github.com/seanpm2001/Learn-C3
+https://github.com/seanpm2001/Learn-RBS
+https://github.com/seanpm2001/Learn-Templ
+https://github.com/seanpm2001/Learn-CIL
+
+//// To test
+https://github.com/seanpm2001/Learn-ABNF
+https://github.com/seanpm2001/Learn-AL
+https://github.com/seanpm2001/Learn-ALS
+https://github.com/seanpm2001/Learn-AspectJ
+https://github.com/seanpm2001/Learn-ASP
+https://github.com/seanpm2001/Learn-ASP.NET
+https://github.com/seanpm2001/Learn-Assembly
+https://github.com/seanpm2001/Learn-Befunge
+https://github.com/seanpm2001/Learn-BennuGD
+https://github.com/seanpm2001/Learn-CAML
+https://github.com/seanpm2001/Learn-CLIPS
+https://github.com/seanpm2001/Learn-CSON
+https://github.com/seanpm2001/Learn-CWeb
+https://github.com/seanpm2001/Learn-EBNF
+https://github.com/seanpm2001/Learn-Fancy
+https://github.com/seanpm2001/Learn-Fantom
+https://github.com/seanpm2001/Learn-GDB
+https://github.com/seanpm2001/Learn-GetText
+https://github.com/seanpm2001/Learn-GN
+https://github.com/seanpm2001/Learn-Gradle
+https://github.com/seanpm2001/Learn-Jade
+https://github.com/seanpm2001/Learn-JFlex
+https://github.com/seanpm2001/Learn-Joy
+https://github.com/seanpm2001/Learn-LiveCode
+https://github.com/seanpm2001/Learn-LiveScript
+https://github.com/seanpm2001/Learn-LogTalk
+https://github.com/seanpm2001/Learn-Lucid
+https://github.com/seanpm2001/Learn-Logos
+https://github.com/seanpm2001/Learn-Maxima
+https://github.com/seanpm2001/Learn-MAXScript
+https://github.com/seanpm2001/Learn-ML
+https://github.com/seanpm2001/Learn-Module-Management-System
+https://github.com/seanpm2001/Learn-Monkey-C
+https://github.com/seanpm2001/Learn-MTML
+https://github.com/seanpm2001/Learn-NetREXX
+https://github.com/seanpm2001/Learn-NewLisp
+https://github.com/seanpm2001/Learn-NextFlow
+https://github.com/seanpm2001/Learn-OpenCL
+https://github.com/seanpm2001/Learn-OpenPolicyAgent
+https://github.com/seanpm2001/Learn-PicoLisp
+https://github.com/seanpm2001/Learn-PLSQL
+https://github.com/seanpm2001/Learn-PostCSS
+https://github.com/seanpm2001/Learn-PowerFX
+https://github.com/seanpm2001/Learn-Processing.js
+https://github.com/seanpm2001/Learn-Proguard
+https://github.com/seanpm2001/Learn-Reason
+https://github.com/seanpm2001/Learn-ReasonML
+https://github.com/seanpm2001/Learn-Refal
+https://github.com/seanpm2001/Learn-RobotFramework
+https://github.com/seanpm2001/Learn-RouterOS-Script
+https://github.com/seanpm2001/Learn-RPC
+https://github.com/seanpm2001/Learn-SAS
+https://github.com/seanpm2001/Learn-SQLPL
+https://github.com/seanpm2001/Learn-StrictYAML
+https://github.com/seanpm2001/Learn-TLA
+https://github.com/seanpm2001/Learn-VCL
+https://github.com/seanpm2001/Learn-Wasp
+https://github.com/seanpm2001/Learn-WEB
+https://github.com/seanpm2001/Learn-X-Pixmap
+https://github.com/seanpm2001/Learn-MultiDimensional-eXpressions
+https://github.com/seanpm2001/Learn-BNF
+https://github.com/seanpm2001/Learn-Visual-Basic
+https://github.com/seanpm2001/Learn-WGSL
+https://github.com/seanpm2001/Learn-REALBasic
+https://github.com/seanpm2001/Learn-Pyrex
+https://github.com/seanpm2001/Learn-WAST
+https://github.com/seanpm2001/Learn-KerboScript
+https://github.com/seanpm2001/Learn-KiCad-Legacy-Layout
+https://github.com/seanpm2001/Learn-KRL
+https://github.com/seanpm2001/Learn-Kusto
+https://github.com/seanpm2001/Learn-KaiTai-Struct
+https://github.com/seanpm2001/Learn-FilterScript
+https://github.com/seanpm2001/Learn-JCL
+https://github.com/seanpm2001/Learn-Janet
+https://github.com/seanpm2001/Learn-Redcode
+https://github.com/seanpm2001/Learn-AutoLISP
+https://github.com/seanpm2001/Learn-OpenLISP
+https://github.com/seanpm2001/Learn-BASIC-Plus
+https://github.com/seanpm2001/Learn-BrowsersList
+https://github.com/seanpm2001/Learn-EcMarkup
+https://github.com/seanpm2001/Learn-dircolors
+https://github.com/seanpm2001/Learn-Cycript
+https://github.com/seanpm2001/Learn-Cylc
+https://github.com/seanpm2001/Learn-Crontab
+https://github.com/seanpm2001/Learn-COLLADA
+https://github.com/seanpm2001/Learn-Scaml
+https://github.com/seanpm2001/Learn-Caddyfile
+https://github.com/seanpm2001/Learn-GAMS
+https://github.com/seanpm2001/Learn-MiniD
+https://github.com/seanpm2001/Learn-NEON
+https://github.com/seanpm2001/Learn-MUF
+https://github.com/seanpm2001/Learn-mupad
+https://github.com/seanpm2001/Learn-NL
+https://github.com/seanpm2001/Learn-Muse
+https://github.com/seanpm2001/Learn-D-ObjDump
+
+//// Name errors
+https://github.com/seanpm2001/Learn-CommonWorkflowLangage
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 96 (2025, Wednesday, February 19th at 05:32 pm PST)
-//// Line count (including blank lines and compiler line): 1,200
+//// File version: 97 (2025, Thursday, February 20th at 04:55 pm PST)
+//// Line count (including blank lines and compiler line): 1,507
 
 //// ----------------------------------------------------- \\\\
 
@@ -1194,6 +1500,7 @@ https://github.com/seanpm2001/Learn-cURL-Config
 https://github.com/seanpm2001/Learn-Ecere-Projects
 https://github.com/seanpm2001/Learn-Debian-Package-Control-File
 https://github.com/seanpm2001/Learn-DirectX-3D-File
+https://github.com/seanpm2001/Learn-D-ObjDump
 *\\\\
 
 //// End of file
