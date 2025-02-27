@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, February 25th
+//// As of 2025, Wednesday, February 26th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (827)
+//// Learn KnowledgeBase repositories (828)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 302 new entries (sorting needed)
+//// 303 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -848,12 +848,13 @@ https://github.com/seanpm2001/Learn-D-ObjDump
 https://github.com/seanpm2001/Learn-LDAP-Data-Interchange-Format
 https://github.com/seanpm2001/Learn-Avro-IDL
 https://github.com/seanpm2001/Learn-Cairo-Zero
+https://github.com/seanpm2001/Learn-Amiga-E
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 829
+//// Repo count: 830
 
-//// 1+1+827=829
+//// 1+1+828=830
 
 //// ----------------------------------------------------- \\\\
 
@@ -1117,9 +1118,10 @@ https://github.com/seanpm2001/Learn-BASIC-Plus //// BASIC/Unrecognized
 https://github.com/seanpm2001/Learn-EcMarkup //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Cylc //// INI
 https://github.com/seanpm2001/Learn-MUF //// Forth
+https://github.com/seanpm2001/Learn-Cairo-Zero //// Cairo
 
 //// Need to check
-https://github.com/seanpm2001/Learn-Cairo-Zero
+https://github.com/seanpm2001/Learn-Amiga-E
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1133,8 +1135,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 101 (2025, Tuesday, February 25th at 01:29 pm PST)
-//// Line count (including blank lines and compiler line): 1,448
+//// File version: 102 (2025, Wednesday, February 26th at 05:47 pm PST)
+//// Line count (including blank lines and compiler line): 1,451
 
 //// ----------------------------------------------------- \\\\
 
@@ -1442,6 +1444,7 @@ https://github.com/seanpm2001/Learn-D-ObjDump
 https://github.com/seanpm2001/Learn-LDAP-Data-Interchange-Format
 https://github.com/seanpm2001/Learn-Avro-IDL
 https://github.com/seanpm2001/Learn-Cairo-Zero
+https://github.com/seanpm2001/Learn-Amiga-E
 *\\\\
 
 //// End of file
