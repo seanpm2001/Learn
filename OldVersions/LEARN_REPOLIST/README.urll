@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Wednesday, February 26th
+//// As of 2025, Thursday, February 27th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (828)
+//// Learn KnowledgeBase repositories (829)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 303 new entries (sorting needed)
+//// 304 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -849,12 +849,13 @@ https://github.com/seanpm2001/Learn-LDAP-Data-Interchange-Format
 https://github.com/seanpm2001/Learn-Avro-IDL
 https://github.com/seanpm2001/Learn-Cairo-Zero
 https://github.com/seanpm2001/Learn-Amiga-E
+https://github.com/seanpm2001/Learn-XCompose
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 830
+//// Repo count: 831
 
-//// 1+1+828=830
+//// 1+1+829=831
 
 //// ----------------------------------------------------- \\\\
 
@@ -867,9 +868,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 833 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 835 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 829+4=833
+//// 831+4=835
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1119,9 +1120,10 @@ https://github.com/seanpm2001/Learn-EcMarkup //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Cylc //// INI
 https://github.com/seanpm2001/Learn-MUF //// Forth
 https://github.com/seanpm2001/Learn-Cairo-Zero //// Cairo
+https://github.com/seanpm2001/Learn-Amiga-E //// HTML/Unrecognized
 
 //// Need to check
-https://github.com/seanpm2001/Learn-Amiga-E
+https://github.com/seanpm2001/Learn-XCompose
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1135,8 +1137,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 102 (2025, Wednesday, February 26th at 05:47 pm PST)
-//// Line count (including blank lines and compiler line): 1,451
+//// File version: 103 (2025, Thursday, February 27th at 05:05 pm PST)
+//// Line count (including blank lines and compiler line): 1,454
 
 //// ----------------------------------------------------- \\\\
 
@@ -1445,6 +1447,7 @@ https://github.com/seanpm2001/Learn-LDAP-Data-Interchange-Format
 https://github.com/seanpm2001/Learn-Avro-IDL
 https://github.com/seanpm2001/Learn-Cairo-Zero
 https://github.com/seanpm2001/Learn-Amiga-E
+https://github.com/seanpm2001/Learn-XCompose
 *\\\\
 
 //// End of file
