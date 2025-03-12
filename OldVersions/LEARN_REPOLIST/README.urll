@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, March 10th
+//// As of 2025, Tuesday, March 11th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (836)
+//// Learn KnowledgeBase repositories (837)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 311 new entries (sorting needed)
+//// 312 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -857,6 +857,7 @@ https://github.com/seanpm2001/Learn-STON
 https://github.com/seanpm2001/Learn-Snakemake
 https://github.com/seanpm2001/Learn-Soong
 https://github.com/seanpm2001/Learn-SELinux-Policy
+https://github.com/seanpm2001/Learn-Spline-Font-Database
 
 //// ----------------------------------------------------- \\\\
 
@@ -1135,7 +1136,7 @@ https://github.com/seanpm2001/Learn-Snakemake //// Python
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-SELinux-Policy
+https://github.com/seanpm2001/Learn-Spline-Font-Database
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1149,8 +1150,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 112 (2025, Monday, March 10th at 05:23 pm PST)
-//// Line count (including blank lines and compiler line): 1,473
+//// File version: 113 (2025, Tuesday, March 11th at 05:23 pm PST)
+//// Line count (including blank lines and compiler line): 1,475
 
 //// ----------------------------------------------------- \\\\
 
@@ -1467,6 +1468,7 @@ https://github.com/seanpm2001/Learn-STON
 https://github.com/seanpm2001/Learn-Snakemake
 https://github.com/seanpm2001/Learn-Soong
 https://github.com/seanpm2001/Learn-SELinux-Policy
+https://github.com/seanpm2001/Learn-Spline-Font-Database
 *\\\\
 
 //// End of file
