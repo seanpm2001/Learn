@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Wednesday, March 19th
+//// As of 2025, Thursday, March 20th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1142,10 +1142,11 @@ https://github.com/seanpm2001/Learn-Snakemake //// Python
 https://github.com/seanpm2001/Learn-Nial //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Ivy //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-SaC //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Dex //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Dex
+//// Link coming soon
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1159,8 +1160,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 120 (2025, Wednesday, March 19th at 03:51 pm PST)
-//// Line count (including blank lines and compiler line): 1,490
+//// File version: 121 (2025, Thursday, March 20th at 07:08 pm PST)
+//// Line count (including blank lines and compiler line): 1,491
 
 //// ----------------------------------------------------- \\\\
 
