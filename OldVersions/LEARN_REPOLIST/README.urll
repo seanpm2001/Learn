@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, March 24th
+//// As of 2025, Tuesday, March 25th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (846)
+//// Learn KnowledgeBase repositories (847)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 321 new entries (sorting needed)
+//// 322 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -867,12 +867,13 @@ https://github.com/seanpm2001/Learn-Dex
 https://github.com/seanpm2001/Learn-DotEnv
 https://github.com/seanpm2001/Learn-Mask
 https://github.com/seanpm2001/Learn-NumPy
+https://github.com/seanpm2001/Learn-Options-list
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 848
+//// Repo count: 849
 
-//// 1+1+846=848
+//// 1+1+847=849
 
 //// ----------------------------------------------------- \\\\
 
@@ -885,9 +886,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 852 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 853 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 848+4=852
+//// 849+4=853
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1146,10 +1147,11 @@ https://github.com/seanpm2001/Learn-Nial //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Ivy //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-SaC //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Dex //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-NumPy //// Python
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-NumPy
+https://github.com/seanpm2001/Learn-Options-list
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1163,8 +1165,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 124 (2025, Monday, March 24th at 03:59 pm PST)
-//// Line count (including blank lines and compiler line): 1,497
+//// File version: 125 (2025, Tuesday, March 25th at 03:33 pm PST)
+//// Line count (including blank lines and compiler line): 1,500
 
 //// ----------------------------------------------------- \\\\
 
@@ -1491,6 +1493,7 @@ https://github.com/seanpm2001/Learn-Dex
 https://github.com/seanpm2001/Learn-DotEnv
 https://github.com/seanpm2001/Learn-Mask
 https://github.com/seanpm2001/Learn-NumPy
+https://github.com/seanpm2001/Learn-Options-list
 *\\\\
 
 //// End of file
