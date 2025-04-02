@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, March 31st
+//// As of 2025, Tuesday, April 1st
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (851)
+//// Learn KnowledgeBase repositories (852)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 326 new entries (sorting needed)
+//// 327 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -872,12 +872,13 @@ https://github.com/seanpm2001/Learn-Parrot-Assembly
 https://github.com/seanpm2001/Learn-Parrot-Internal-Representation
 https://github.com/seanpm2001/Learn-X10
 https://github.com/seanpm2001/Learn-TSPLIB-data
+https://github.com/seanpm2001/Learn-MiniZinc
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 853
+//// Repo count: 854
 
-//// 1+1+851=853
+//// 1+1+852=854
 
 //// ----------------------------------------------------- \\\\
 
@@ -890,9 +891,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 856 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 858 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 852+4=856
+//// 854+4=858
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1158,7 +1159,7 @@ https://github.com/seanpm2001/Learn-Parrot-Internal-Representation //// Parrot
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-TSPLIB-data
+https://github.com/seanpm2001/Learn-MiniZinc
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1172,8 +1173,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 130 (2025, Monday, March 31st at 05:19 pm PST)
-//// Line count (including blank lines and compiler line): 1,511
+//// File version: 131 (2025, Tuesday, April 1st at 05:20 pm PST)
+//// Line count (including blank lines and compiler line): 1,513
 
 //// ----------------------------------------------------- \\\\
 
@@ -1505,6 +1506,7 @@ https://github.com/seanpm2001/Learn-Parrot-Assembly
 https://github.com/seanpm2001/Learn-Parrot-Internal-Representation
 https://github.com/seanpm2001/Learn-X10
 https://github.com/seanpm2001/Learn-TSPLIB-data
+https://github.com/seanpm2001/Learn-MiniZinc
 *\\\\
 
 //// End of file
