@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, April 3rd
+//// As of 2025, Friday, April 4th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (854)
+//// Learn KnowledgeBase repositories (855)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -875,12 +875,13 @@ https://github.com/seanpm2001/Learn-TSPLIB-data
 https://github.com/seanpm2001/Learn-MiniZinc
 https://github.com/seanpm2001/Learn-OverpassQL
 https://github.com/seanpm2001/Learn-Ring
+https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 856
+//// Repo count: 857
 
-//// 1+1+854=856
+//// 1+1+855=857
 
 //// ----------------------------------------------------- \\\\
 
@@ -893,9 +894,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 860 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 861 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 856+4=860
+//// 857+4=861
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1161,7 +1162,7 @@ https://github.com/seanpm2001/Learn-Parrot-Internal-Representation //// Parrot
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Ring
+https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1175,8 +1176,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 133 (2025, Thursday, April 3rd at 05:15 pm PST)
-//// Line count (including blank lines and compiler line): 1,517
+//// File version: 134 (2025, Friday, April 4th at 04:06 pm PST)
+//// Line count (including blank lines and compiler line): 1,519
 
 //// ----------------------------------------------------- \\\\
 
@@ -1511,6 +1512,7 @@ https://github.com/seanpm2001/Learn-TSPLIB-data
 https://github.com/seanpm2001/Learn-MiniZinc
 https://github.com/seanpm2001/Learn-OverpassQL
 https://github.com/seanpm2001/Learn-Ring
+https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 *\\\\
 
 //// End of file
