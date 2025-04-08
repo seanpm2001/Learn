@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, April 7th
+//// As of 2025, Tuesday, April 8th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (856)
+//// Learn KnowledgeBase repositories (857)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 331 new entries (sorting needed)
+//// 332 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -877,12 +877,13 @@ https://github.com/seanpm2001/Learn-OverpassQL
 https://github.com/seanpm2001/Learn-Ring
 https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 https://github.com/seanpm2001/Learn-mdsvex
+https://github.com/seanpm2001/Learn-Tcsh
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 858
+//// Repo count: 859
 
-//// 1+1+856=858
+//// 1+1+857=859
 
 //// ----------------------------------------------------- \\\\
 
@@ -895,9 +896,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 862 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 863 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 858+4=862
+//// 859+4=863
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1163,7 +1164,7 @@ https://github.com/seanpm2001/Learn-Parrot-Internal-Representation //// Parrot
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-mdsvex
+https://github.com/seanpm2001/Learn-Tcsh
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1177,8 +1178,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 136 (2025, Monday, April 7th at 04:55 pm PST)
-//// Line count (including blank lines and compiler line): 1,521
+//// File version: 137 (2025, Tuesday, April 8th at 04:36 pm PST)
+//// Line count (including blank lines and compiler line): 1,523
 
 //// ----------------------------------------------------- \\\\
 
@@ -1515,6 +1516,7 @@ https://github.com/seanpm2001/Learn-OverpassQL
 https://github.com/seanpm2001/Learn-Ring
 https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 https://github.com/seanpm2001/Learn-mdsvex
+https://github.com/seanpm2001/Learn-Tcsh
 *\\\\
 
 //// End of file
