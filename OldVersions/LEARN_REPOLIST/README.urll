@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, April 8th
+//// As of 2025, Wednesday, April 9th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (857)
+//// Learn KnowledgeBase repositories (858)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 332 new entries (sorting needed)
+//// 333 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -878,12 +878,13 @@ https://github.com/seanpm2001/Learn-Ring
 https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 https://github.com/seanpm2001/Learn-mdsvex
 https://github.com/seanpm2001/Learn-Tcsh
+https://github.com/seanpm2001/Learn-Pickle
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 859
+//// Repo count: 860
 
-//// 1+1+857=859
+//// 1+1+858=860
 
 //// ----------------------------------------------------- \\\\
 
@@ -1161,10 +1162,11 @@ https://github.com/seanpm2001/Learn-NumPy //// Python
 https://github.com/seanpm2001/Learn-Options-list //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Parrot-Assembly //// Parrot
 https://github.com/seanpm2001/Learn-Parrot-Internal-Representation //// Parrot
+https://github.com/seanpm2001/Learn-Tcsh //// Shell
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Tcsh
+https://github.com/seanpm2001/Learn-Pickle
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1178,8 +1180,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 137 (2025, Tuesday, April 8th at 04:36 pm PST)
-//// Line count (including blank lines and compiler line): 1,523
+//// File version: 138 (2025, Wednesday, April 9th at 05:52 pm PST)
+//// Line count (including blank lines and compiler line): 1,526
 
 //// ----------------------------------------------------- \\\\
 
@@ -1517,6 +1519,7 @@ https://github.com/seanpm2001/Learn-Ring
 https://github.com/seanpm2001/Learn-Tree-Sitter-Query
 https://github.com/seanpm2001/Learn-mdsvex
 https://github.com/seanpm2001/Learn-Tcsh
+https://github.com/seanpm2001/Learn-Pickle
 *\\\\
 
 //// End of file
