@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, April 15th
+//// As of 2025, Wednesday, April 16th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (862)
+//// Learn KnowledgeBase repositories (863)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 337 new entries (sorting needed)
+//// 338 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -883,12 +883,13 @@ https://github.com/seanpm2001/Learn-Pic
 https://github.com/seanpm2001/Learn-MiniZinc-Data
 https://github.com/seanpm2001/Learn-XMake
 https://github.com/seanpm2001/Learn-Hare
+https://github.com/seanpm2001/Learn-ISPC
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 864
+//// Repo count: 865
 
-//// 1+1+862=864
+//// 1+1+863=865
 
 //// ----------------------------------------------------- \\\\
 
@@ -901,9 +902,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 868 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 869 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 864+4=868
+//// 865+4=869
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1171,7 +1172,7 @@ https://github.com/seanpm2001/Learn-Pic //// Roff
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Hare
+https://github.com/seanpm2001/Learn-ISPC
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1185,8 +1186,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 143 (2025, Tuesday, April 15th at 05:36 pm PST)
-//// Line count (including blank lines and compiler line): 1,535
+//// File version: 144 (2025, Wednesday, April 16th at 06:15 pm PST)
+//// Line count (including blank lines and compiler line): 1,537
 
 //// ----------------------------------------------------- \\\\
 
@@ -1529,6 +1530,7 @@ https://github.com/seanpm2001/Learn-Pic
 https://github.com/seanpm2001/Learn-MiniZinc-Data
 https://github.com/seanpm2001/Learn-XMake
 https://github.com/seanpm2001/Learn-Hare
+https://github.com/seanpm2001/Learn-ISPC
 *\\\\
 
 //// End of file
