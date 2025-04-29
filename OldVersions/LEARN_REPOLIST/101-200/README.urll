@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, April 26th
+//// As of 2025, Monday, April 28th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (870)
+//// Learn KnowledgeBase repositories (871)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 345 new entries (sorting needed)
+//// 346 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -891,12 +891,13 @@ https://github.com/seanpm2001/Learn-Ignore-List
 https://github.com/seanpm2001/Learn-Gemfile.lock
 https://github.com/seanpm2001/Learn-Cpp-ObjDump
 https://github.com/seanpm2001/Learn-World-of-Warcraft-Addon-Data
+https://github.com/seanpm2001/Learn-Move
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 872
+//// Repo count: 873
 
-//// 1+1+870=872
+//// 1+1+871=873
 
 //// ----------------------------------------------------- \\\\
 
@@ -909,9 +910,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 876 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 877 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 872+4=876
+//// 873+4=877
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1179,7 +1180,7 @@ https://github.com/seanpm2001/Learn-Pic //// Roff
 
 //// Need to check
 
-//// No new repositories to list (check back on 2025, April 28th)
+https://github.com/seanpm2001/Learn-Move
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1193,8 +1194,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 153 (2025, Saturday, April 26th at 08:47 pm PST)
-//// Line count (including blank lines and compiler line): 1,551
+//// File version: 154 (2025, Monday, April 28th at 06:10 pm PST)
+//// Line count (including blank lines and compiler line): 1,553
 
 //// ----------------------------------------------------- \\\\
 
@@ -1545,6 +1546,7 @@ https://github.com/seanpm2001/Learn-Ignore-List
 https://github.com/seanpm2001/Learn-Gemfile.lock
 https://github.com/seanpm2001/Learn-Cpp-ObjDump
 https://github.com/seanpm2001/Learn-World-of-Warcraft-Addon-Data
+https://github.com/seanpm2001/Learn-Move
 *\\\\
 
 //// End of file
