@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, May 1st
+//// As of 2025, Friday, May 2nd
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (874)
+//// Learn KnowledgeBase repositories (875)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 349 new entries (sorting needed)
+//// 350 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -895,12 +895,13 @@ https://github.com/seanpm2001/Learn-Move
 https://github.com/seanpm2001/Learn-Quake
 https://github.com/seanpm2001/Learn-Slang
 https://github.com/seanpm2001/Learn-Rouge
+https://github.com/seanpm2001/Learn-Vim-Help-File
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 876
+//// Repo count: 877
 
-//// 1+1+874=876
+//// 1+1+875=877
 
 //// ----------------------------------------------------- \\\\
 
@@ -913,7 +914,7 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 880 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 881 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
 //// 876+4=880
 
@@ -1183,7 +1184,7 @@ https://github.com/seanpm2001/Learn-Pic //// Roff
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Rouge
+https://github.com/seanpm2001/Learn-Vim-Help-File
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1197,8 +1198,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 157 (2025, Thursday, May 1st at 06:25 pm PST)
-//// Line count (including blank lines and compiler line): 1,559
+//// File version: 158 (2025, Friday, May 2nd at 06:13 pm PST)
+//// Line count (including blank lines and compiler line): 1,561
 
 //// ----------------------------------------------------- \\\\
 
@@ -1553,6 +1554,7 @@ https://github.com/seanpm2001/Learn-Move
 https://github.com/seanpm2001/Learn-Quake
 https://github.com/seanpm2001/Learn-Slang
 https://github.com/seanpm2001/Learn-Rouge
+https://github.com/seanpm2001/Learn-Vim-Help-File
 *\\\\
 
 //// End of file
