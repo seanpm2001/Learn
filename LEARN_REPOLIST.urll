@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, May 5th
+//// As of 2025, Tuesday, May 6th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (876)
+//// Learn KnowledgeBase repositories (877)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 351 new entries (sorting needed)
+//// 352 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -897,12 +897,13 @@ https://github.com/seanpm2001/Learn-Slang
 https://github.com/seanpm2001/Learn-Rouge
 https://github.com/seanpm2001/Learn-Vim-Help-File
 https://github.com/seanpm2001/Learn-Win32-Message-File
+https://github.com/seanpm2001/Learn-WGet-Config
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 878
+//// Repo count: 879
 
-//// 1+1+876=878
+//// 1+1+877=879
 
 //// ----------------------------------------------------- \\\\
 
@@ -915,9 +916,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 882 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 883 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 878+4=882
+//// 879+4=883
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1185,7 +1186,7 @@ https://github.com/seanpm2001/Learn-Pic //// Roff
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Win32-Message-File
+https://github.com/seanpm2001/Learn-WGet-Config
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1199,8 +1200,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 160 (2025, Monday, May 5th at 06:32 pm PST)
-//// Line count (including blank lines and compiler line): 1,563
+//// File version: 161 (2025, Tuesday, May 6th at 05:23 pm PST)
+//// Line count (including blank lines and compiler line): 1,565
 
 //// ----------------------------------------------------- \\\\
 
@@ -1557,6 +1558,7 @@ https://github.com/seanpm2001/Learn-Slang
 https://github.com/seanpm2001/Learn-Rouge
 https://github.com/seanpm2001/Learn-Vim-Help-File
 https://github.com/seanpm2001/Learn-Win32-Message-File
+https://github.com/seanpm2001/Learn-WGet-Config
 *\\\\
 
 //// End of file
