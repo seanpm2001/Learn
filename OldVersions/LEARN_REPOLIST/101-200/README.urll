@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, May 6th
+//// As of 2025, Wednesday, May 7th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (877)
+//// Learn KnowledgeBase repositories (878)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 352 new entries (sorting needed)
+//// 353 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -898,12 +898,13 @@ https://github.com/seanpm2001/Learn-Rouge
 https://github.com/seanpm2001/Learn-Vim-Help-File
 https://github.com/seanpm2001/Learn-Win32-Message-File
 https://github.com/seanpm2001/Learn-WGet-Config
+https://github.com/seanpm2001/Learn-Survex-Data
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 879
+//// Repo count: 880
 
-//// 1+1+877=879
+//// 1+1+878=880
 
 //// ----------------------------------------------------- \\\\
 
@@ -916,7 +917,7 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 883 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 884 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
 //// 879+4=883
 
@@ -1183,10 +1184,11 @@ https://github.com/seanpm2001/Learn-Parrot-Assembly //// Parrot
 https://github.com/seanpm2001/Learn-Parrot-Internal-Representation //// Parrot
 https://github.com/seanpm2001/Learn-Tcsh //// Shell
 https://github.com/seanpm2001/Learn-Pic //// Roff
+https://github.com/seanpm2001/Learn-WGet-Config //// INI
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-WGet-Config
+https://github.com/seanpm2001/Learn-Survex-Data
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1200,8 +1202,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 161 (2025, Tuesday, May 6th at 05:23 pm PST)
-//// Line count (including blank lines and compiler line): 1,565
+//// File version: 162 (2025, Wednesday, May 7th at 06:43 pm PST)
+//// Line count (including blank lines and compiler line): 1,568
 
 //// ----------------------------------------------------- \\\\
 
@@ -1559,6 +1561,7 @@ https://github.com/seanpm2001/Learn-Rouge
 https://github.com/seanpm2001/Learn-Vim-Help-File
 https://github.com/seanpm2001/Learn-Win32-Message-File
 https://github.com/seanpm2001/Learn-WGet-Config
+https://github.com/seanpm2001/Learn-Survex-Data
 *\\\\
 
 //// End of file
