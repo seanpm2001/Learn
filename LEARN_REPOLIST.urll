@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, May 15th
+//// As of 2025, Friday, May 16th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (884)
+//// Learn KnowledgeBase repositories (885)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 359 new entries (sorting needed)
+//// 360 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -905,12 +905,13 @@ https://github.com/seanpm2001/Learn-Witcher-Script
 https://github.com/seanpm2001/Learn-MFM-MissKey
 https://github.com/seanpm2001/Learn-KDL
 https://github.com/seanpm2001/Learn-NPM-Config
+https://github.com/seanpm2001/Learn-X-BitMap
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 886
+//// Repo count: 887
 
-//// 1+1+884=886
+//// 1+1+885=887
 
 //// ----------------------------------------------------- \\\\
 
@@ -923,9 +924,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 890 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 891 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 886+4=890
+//// 887+4=8901
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1192,10 +1193,11 @@ https://github.com/seanpm2001/Learn-Tcsh //// Shell
 https://github.com/seanpm2001/Learn-Pic //// Roff
 https://github.com/seanpm2001/Learn-WGet-Config //// INI
 https://github.com/seanpm2001/Learn-MFM-MissKey //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-NPM-Config //// INI
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-NPM-Config
+https://github.com/seanpm2001/Learn-X-BitMap
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1209,8 +1211,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 169 (2025, Thursday, May 15th at 07:11 pm PST)
-//// Line count (including blank lines and compiler line): 1,581
+//// File version: 170 (2025, Friday, May 16th at 05:35 pm PST)
+//// Line count (including blank lines and compiler line): 1,584
 
 //// ----------------------------------------------------- \\\\
 
@@ -1575,6 +1577,7 @@ https://github.com/seanpm2001/Learn-Witcher-Script
 https://github.com/seanpm2001/Learn-MFM-MissKey
 https://github.com/seanpm2001/Learn-KDL
 https://github.com/seanpm2001/Learn-NPM-Config
+https://github.com/seanpm2001/Learn-X-BitMap
 *\\\\
 
 //// End of file
