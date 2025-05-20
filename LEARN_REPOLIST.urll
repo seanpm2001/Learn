@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, May 17th
+//// As of 2025, Monday, May 19th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (885)
+//// Learn KnowledgeBase repositories (886)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 360 new entries (sorting needed)
+//// 361 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -906,12 +906,13 @@ https://github.com/seanpm2001/Learn-MFM-MissKey
 https://github.com/seanpm2001/Learn-KDL
 https://github.com/seanpm2001/Learn-NPM-Config
 https://github.com/seanpm2001/Learn-X-BitMap
+https://github.com/seanpm2001/Learn-QuickBasic
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 887
+//// Repo count: 888
 
-//// 1+1+885=887
+//// 1+1+886=888
 
 //// ----------------------------------------------------- \\\\
 
@@ -924,7 +925,7 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 891 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 892 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
 //// 887+4=8901
 
@@ -1198,7 +1199,7 @@ https://github.com/seanpm2001/Learn-X-BitMap //// C
 
 //// Need to check
 
-//// No new links to check. Check back on 2025, Monday, May 19th
+https://github.com/seanpm2001/Learn-QuickBasic
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage
@@ -1212,8 +1213,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 171 (2025, Saturday, May 17th at 05:48 pm PST)
-//// Line count (including blank lines and compiler line): 1,585
+//// File version: 172 (2025, Monday, May 18th at 05:49 pm PST)
+//// Line count (including blank lines and compiler line): 1,587
 
 //// ----------------------------------------------------- \\\\
 
@@ -1579,6 +1580,7 @@ https://github.com/seanpm2001/Learn-MFM-MissKey
 https://github.com/seanpm2001/Learn-KDL
 https://github.com/seanpm2001/Learn-NPM-Config
 https://github.com/seanpm2001/Learn-X-BitMap
+https://github.com/seanpm2001/Learn-QuickBasic
 *\\\\
 
 //// End of file
