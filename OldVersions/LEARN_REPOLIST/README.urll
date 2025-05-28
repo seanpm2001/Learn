@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, May 26th
+//// As of 2025, Tuesday, May 27th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (891)
+//// Learn KnowledgeBase repositories (892)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 366 new entries (sorting needed)
+//// 367 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -912,12 +912,13 @@ https://github.com/seanpm2001/Learn-LTspice-Symbol
 https://github.com/seanpm2001/Learn-Formatted
 https://github.com/seanpm2001/Learn-TextMate-Properties
 https://github.com/seanpm2001/Learn-Terraform-Template
+https://github.com/seanpm2001/Learn-SSH-Config
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 893
+//// Repo count: 894
 
-//// 1+1+891=893
+//// 1+1+892=894
 
 //// ----------------------------------------------------- \\\\
 
@@ -930,13 +931,13 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 897 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 898 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 893+4=897
+//// 894+4=898
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
-//// As of 2025, Tuesday, February 25th
+//// As of 2025, Tuesday, May 27th
 //// Comment at the end of each link is the language GitHub recognized them as. The needed language comes after Learn-
 //// HTML always means that GitHub doesn't recognize the language at all, as HTML is the default language all of my newer repositories are written in
 //// There is only 1 exception for this, *which is when the language contains files that contain the extensions *.htm *.html *.mhtm *.mhtml *.xhtm and/or *.xhtml
@@ -1201,10 +1202,11 @@ https://github.com/seanpm2001/Learn-WGet-Config //// INI
 https://github.com/seanpm2001/Learn-MFM-MissKey //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-NPM-Config //// INI
 https://github.com/seanpm2001/Learn-X-BitMap //// C
+https://github.com/seanpm2001/Learn-Terraform-Template //// HCL
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Terraform-Template
+https://github.com/seanpm2001/Learn-SSH-Config
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1218,8 +1220,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 178 (2025, Monday, May 26th at 06:07 pm PST)
-//// Line count (including blank lines and compiler line): 1,597
+//// File version: 179 (2025, Tuesday, May 27th at 06:14 pm PST)
+//// Line count (including blank lines and compiler line): 1,600
 
 //// ----------------------------------------------------- \\\\
 
@@ -1591,6 +1593,7 @@ https://github.com/seanpm2001/Learn-LTspice-Symbol
 https://github.com/seanpm2001/Learn-Formatted
 https://github.com/seanpm2001/Learn-TextMate-Properties
 https://github.com/seanpm2001/Learn-Terraform-Template
+https://github.com/seanpm2001/Learn-SSH-Config
 *\\\\
 
 //// End of file
