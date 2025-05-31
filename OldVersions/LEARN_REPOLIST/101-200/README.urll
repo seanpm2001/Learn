@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, May 29th
+//// As of 2025, Friday, May 30th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (894)
+//// Learn KnowledgeBase repositories (895)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 369 new entries (sorting needed)
+//// 370 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -915,12 +915,13 @@ https://github.com/seanpm2001/Learn-Terraform-Template
 https://github.com/seanpm2001/Learn-SSH-Config
 https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
+https://github.com/seanpm2001/Learn-Propeller-Spin
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 896
+//// Repo count: 897
 
-//// 1+1+894=896
+//// 1+1+895=897
 
 //// ----------------------------------------------------- \\\\
 
@@ -933,9 +934,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 899 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 901 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 895+4=899
+//// 897+4=901
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1207,10 +1208,11 @@ https://github.com/seanpm2001/Learn-X-BitMap //// C
 https://github.com/seanpm2001/Learn-Terraform-Template //// HCL
 https://github.com/seanpm2001/Learn-SSH-Config //// INI
 https://github.com/seanpm2001/Learn-Roff-Manpage //// Roff
+https://github.com/seanpm2001/Learn-Readline-Config //// INI
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Readline-Config
+https://github.com/seanpm2001/Learn-Propeller-Spin
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1224,8 +1226,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 181 (2025, Thursday, May 29th at 06:11 pm PST)
-//// Line count (including blank lines and compiler line): 1,606
+//// File version: 182 (2025, Friday, May 30th at 06:01 pm PST)
+//// Line count (including blank lines and compiler line): 1,609
 
 //// ----------------------------------------------------- \\\\
 
@@ -1600,6 +1602,7 @@ https://github.com/seanpm2001/Learn-Terraform-Template
 https://github.com/seanpm2001/Learn-SSH-Config
 https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
+https://github.com/seanpm2001/Learn-Propeller-Spin
 *\\\\
 
 //// End of file
