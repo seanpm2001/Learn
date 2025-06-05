@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, June 3rd
+//// As of 2025, Wednesday, June 4th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (897)
+//// Learn KnowledgeBase repositories (898)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 372 new entries (sorting needed)
+//// 373 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -917,13 +917,14 @@ https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
 https://github.com/seanpm2001/Learn-Propeller-Spin
 https://github.com/seanpm2001/Learn-OpenType-Feature-File
-https://github.com/seanpm2001/Learn-OpenType-Property-File
+https://github.com/seanpm2001/Learn-OpenStep-Property-List
+https://github.com/seanpm2001/Learn-OpenRC-RunScript
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 899
+//// Repo count: 900
 
-//// 1+1+897=899
+//// 1+1+898=900
 
 //// ----------------------------------------------------- \\\\
 
@@ -936,9 +937,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 903 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 904 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 899+4=903
+//// 900+4=904
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1214,7 +1215,7 @@ https://github.com/seanpm2001/Learn-Readline-Config //// INI
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-OpenType-Property-File
+https://github.com/seanpm2001/Learn-OpenRC-RunScript
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1228,8 +1229,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 185 (2025, Tuesday, June 3rd at 07:53 pm PST)
-//// Line count (including blank lines and compiler line): 1,613
+//// File version: 186 (2025, Wednesday, June 4th at 07:09 pm PST)
+//// Line count (including blank lines and compiler line): 1,615
 
 //// ----------------------------------------------------- \\\\
 
@@ -1606,7 +1607,8 @@ https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
 https://github.com/seanpm2001/Learn-Propeller-Spin
 https://github.com/seanpm2001/Learn-OpenType-Feature-File
-https://github.com/seanpm2001/Learn-OpenType-Property-File
+https://github.com/seanpm2001/Learn-OpenStep-Property-List
+https://github.com/seanpm2001/Learn-OpenRC-RunScript
 *\\\\
 
 //// End of file
