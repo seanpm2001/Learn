@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, June 9th
+//// As of 2025, Tuesday, June 10th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (901)
+//// Learn KnowledgeBase repositories (902)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 376 new entries (sorting needed)
+//// 377 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -922,12 +922,13 @@ https://github.com/seanpm2001/Learn-OpenRC-RunScript
 https://github.com/seanpm2001/Learn-OpenAPI-Specification-V2
 https://github.com/seanpm2001/Learn-OpenAPI-Specification-V3
 https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-NED
+https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-MSG
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 903
+//// Repo count: 904
 
-//// 1+1+901=903
+//// 1+1+902=904
 
 //// ----------------------------------------------------- \\\\
 
@@ -940,9 +941,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 907 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 908 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 903+4=907
+//// 904+4=908
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1219,7 +1220,7 @@ https://github.com/seanpm2001/Learn-OpenRC-RunScript //// Shell
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-NED
+https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-MSG
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1233,8 +1234,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 189 (2025, Monday, June 9th at xx:xx pm PST)
-//// Line count (including blank lines and compiler line): 1,622
+//// File version: 190 (2025, Tuesday, June 10th at 07:22 pm PST)
+//// Line count (including blank lines and compiler line): 1,624
 
 //// ----------------------------------------------------- \\\\
 
@@ -1616,6 +1617,7 @@ https://github.com/seanpm2001/Learn-OpenRC-RunScript
 https://github.com/seanpm2001/Learn-OpenAPI-Specification-V2
 https://github.com/seanpm2001/Learn-OpenAPI-Specification-V3
 https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-NED
+https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-MSG
 *\\\\
 
 //// End of file
