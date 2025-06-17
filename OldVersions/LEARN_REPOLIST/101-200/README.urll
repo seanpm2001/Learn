@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, June 14th
+//// As of 2025, Sunday, June 15th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (905)
+//// Learn KnowledgeBase repositories (906)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 380 new entries (sorting needed)
+//// 381 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -926,12 +926,13 @@ https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-MSG
 https://github.com/seanpm2001/Learn-GMIC
 https://github.com/seanpm2001/Learn-ZModel
 https://github.com/seanpm2001/Learn-WebAssembly-Interface-Type
+https://github.com/seanpm2001/Learn-Untyped-Plutus-Core
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 907
+//// Repo count: 908
 
-//// 1+1+905=907
+//// 1+1+906=908
 
 //// ----------------------------------------------------- \\\\
 
@@ -944,9 +945,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 911 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 912 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 907+4=911
+//// 908+4=912
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1224,7 +1225,7 @@ https://github.com/seanpm2001/Learn-GMIC //// HTML/Unrecognized
 
 //// Need to check
 
-//// No new languages to check. More will be listed on 2025, Monday, June 16th
+https://github.com/seanpm2001/Learn-Untyped-Plutus-Core
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1238,8 +1239,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 194 (2025, Saturday, June 14th at 08:28 pm PST)
-//// Line count (including blank lines and compiler line): 1,631
+//// File version: 195 (2025, Monday, June 16th at 06:41 pm PST)
+//// Line count (including blank lines and compiler line): 1,633
 
 //// ----------------------------------------------------- \\\\
 
@@ -1625,6 +1626,7 @@ https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-MSG
 https://github.com/seanpm2001/Learn-GMIC
 https://github.com/seanpm2001/Learn-ZModel
 https://github.com/seanpm2001/Learn-WebAssembly-Interface-Type
+https://github.com/seanpm2001/Learn-Untyped-Plutus-Core
 *\\\\
 
 //// End of file
