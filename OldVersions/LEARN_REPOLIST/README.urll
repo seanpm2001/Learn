@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, June 28th
+//// As of 2025, Monday, June 30th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (915)
+//// Learn KnowledgeBase repositories (916)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 390 new entries (sorting needed)
+//// 391 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -936,12 +936,13 @@ https://github.com/seanpm2001/Learn-Rocq-Prover
 https://github.com/seanpm2001/Learn-Record-Jar
 https://github.com/seanpm2001/Learn-ReasonLIGO
 https://github.com/seanpm2001/Learn-Raw-Token-Data
+https://github.com/seanpm2001/Learn-Python-Console
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 917
+//// Repo count: 918
 
-//// 1+1+915=917
+//// 1+1+916=918
 
 //// ----------------------------------------------------- \\\\
 
@@ -954,9 +955,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 921 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 922 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 917+4=921
+//// 918+4=922
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1235,7 +1236,7 @@ https://github.com/seanpm2001/Learn-ReasonLIGO //// LigoLANG
 
 //// Need to check
 
-//// No new entires to check. Check back on 2025, Monday, June 30th
+https://github.com/seanpm2001/Learn-Python-Console
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1249,8 +1250,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 206 (2025, Saturday, June 28th at 08:47 pm PST)
-//// Line count (including blank lines and compiler line): 1,652
+//// File version: 207 (2025, Monday, June 30th at 07:38 pm PST)
+//// Line count (including blank lines and compiler line): 1,654
 
 //// ----------------------------------------------------- \\\\
 
@@ -1646,6 +1647,7 @@ https://github.com/seanpm2001/Learn-Rocq-Prover
 https://github.com/seanpm2001/Learn-Record-Jar
 https://github.com/seanpm2001/Learn-ReasonLIGO
 https://github.com/seanpm2001/Learn-Raw-Token-Data
+https://github.com/seanpm2001/Learn-Python-Console
 *\\\\
 
 //// End of file
