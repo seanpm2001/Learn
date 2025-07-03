@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, July 1st
+//// As of 2025, Wednesday, July 2nd
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (917)
+//// Learn KnowledgeBase repositories (918)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -938,12 +938,13 @@ https://github.com/seanpm2001/Learn-ReasonLIGO
 https://github.com/seanpm2001/Learn-Raw-Token-Data
 https://github.com/seanpm2001/Learn-Python-Console
 https://github.com/seanpm2001/Learn-Protocol-Buffer-Text-Format
+https://github.com/seanpm2001/Learn-PIP-Requirements
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 919
+//// Repo count: 920
 
-//// 1+1+917=919
+//// 1+1+918=920
 
 //// ----------------------------------------------------- \\\\
 
@@ -956,9 +957,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 923 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 924 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 919+4=923
+//// 920+4=924
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1238,7 +1239,7 @@ https://github.com/seanpm2001/Learn-Python-Console //// Python
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Protocol-Buffer-Text-Format
+https://github.com/seanpm2001/Learn-PIP-Requirements
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1252,8 +1253,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 208 (2025, Tuesday, July 1st at 06:38 pm PST)
-//// Line count (including blank lines and compiler line): 1,657
+//// File version: 209 (2025, Wednesday, July 2nd at 07:34 pm PST)
+//// Line count (including blank lines and compiler line): 1,659
 
 //// ----------------------------------------------------- \\\\
 
@@ -1651,6 +1652,7 @@ https://github.com/seanpm2001/Learn-ReasonLIGO
 https://github.com/seanpm2001/Learn-Raw-Token-Data
 https://github.com/seanpm2001/Learn-Python-Console
 https://github.com/seanpm2001/Learn-Protocol-Buffer-Text-Format
+https://github.com/seanpm2001/Learn-PIP-Requirements
 *\\\\
 
 //// End of file
