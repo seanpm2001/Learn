@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, July 3rd
+//// As of 2025, Friday, July 4th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (919)
+//// Learn KnowledgeBase repositories (920)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 391 new entries (sorting needed)
+//// 395 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -940,6 +940,7 @@ https://github.com/seanpm2001/Learn-Python-Console
 https://github.com/seanpm2001/Learn-Protocol-Buffer-Text-Format
 https://github.com/seanpm2001/Learn-PIP-Requirements
 https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
+https://github.com/seanpm2001/Learn-BiBTeX-Style
 
 //// ----------------------------------------------------- \\\\
 
@@ -1240,7 +1241,7 @@ https://github.com/seanpm2001/Learn-Python-Console //// Python
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
+https://github.com/seanpm2001/Learn-BiBTeX-Style
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1254,8 +1255,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 210 (2025, Thursday, July 3rd at 07:10 pm PST)
-//// Line count (including blank lines and compiler line): 1,661
+//// File version: 211 (2025, Friday, July 4th at 07:27 pm PST)
+//// Line count (including blank lines and compiler line): 1,663
 
 //// ----------------------------------------------------- \\\\
 
@@ -1655,6 +1656,7 @@ https://github.com/seanpm2001/Learn-Python-Console
 https://github.com/seanpm2001/Learn-Protocol-Buffer-Text-Format
 https://github.com/seanpm2001/Learn-PIP-Requirements
 https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
+https://github.com/seanpm2001/Learn-BiBTeX-Style
 *\\\\
 
 //// End of file
