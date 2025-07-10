@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, July 8th
+//// As of 2025, Wednesday, July 9th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (922)
+//// Learn KnowledgeBase repositories (923)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 396 new entries (sorting needed)
+//// 398 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -943,12 +943,13 @@ https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
 https://github.com/seanpm2001/Learn-BiBTeX-Style
 https://github.com/seanpm2001/Learn-OASv2-yaml
 https://github.com/seanpm2001/Learn-OASv2-json
+https://github.com/seanpm2001/Learn-OASv3-yaml
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 924
+//// Repo count: 925
 
-//// 1+1+922=924
+//// 1+1+923=925
 
 //// ----------------------------------------------------- \\\\
 
@@ -961,9 +962,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 928 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 929 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 924+4=928
+//// 925+4=929
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1241,10 +1242,11 @@ https://github.com/seanpm2001/Learn-GMIC //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-ReasonLIGO //// LigoLANG
 https://github.com/seanpm2001/Learn-Python-Console //// Python
 https://github.com/seanpm2001/Learn-OASv2-yaml //// OpenAPI Specification V2
+https://github.com/seanpm2001/Learn-OASv2-json //// OpenAPI Specification V2
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-OASv2-json
+https://github.com/seanpm2001/Learn-OASv3-yaml
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1258,8 +1260,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 214 (2025, Tuesday, July 8th at 07:26 pm PST)
-//// Line count (including blank lines and compiler line): 1,668
+//// File version: 215 (2025, Wednesday, July 9th at 06:51 pm PST)
+//// Line count (including blank lines and compiler line): 1,671
 
 //// ----------------------------------------------------- \\\\
 
@@ -1662,6 +1664,7 @@ https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
 https://github.com/seanpm2001/Learn-BiBTeX-Style
 https://github.com/seanpm2001/Learn-OASv2-yaml
 https://github.com/seanpm2001/Learn-OASv2-json
+https://github.com/seanpm2001/Learn-OASv3-yaml
 *\\\\
 
 //// End of file
