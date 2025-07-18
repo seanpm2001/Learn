@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Wednesday, July 16th
+//// As of 2025, Thursday, July 17th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (928)
+//// Learn KnowledgeBase repositories (929)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 403 new entries (sorting needed)
+//// 404 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -949,12 +949,13 @@ https://github.com/seanpm2001/Learn-Aiken
 https://github.com/seanpm2001/Learn-NetLinx-ERB
 https://github.com/seanpm2001/Learn-X-Font-Directory-Index
 https://github.com/seanpm2001/Learn-Type-Language
+https://github.com/seanpm2001/Learn-Motorola-68K-Assembly
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 930
+//// Repo count: 931
 
-//// 1+1+928=930
+//// 1+1+929=931
 
 //// ----------------------------------------------------- \\\\
 
@@ -967,9 +968,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 934 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 935 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 930+4=934
+//// 931+4=935
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1253,7 +1254,7 @@ https://github.com/seanpm2001/Learn-OASv3-json //// OpenAPI Specification V3
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Type-Language
+https://github.com/seanpm2001/Learn-Motorola-68K-Assembly
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1267,15 +1268,15 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 221 (2025, Wednesday, July 16th at 07:02 pm PST)
-//// Line count (including blank lines and compiler line): 1,683
+//// File version: 222 (2025, Thursday, July 17th at 07:14 pm PST)
+//// Line count (including blank lines and compiler line): 1,685
 
 //// ----------------------------------------------------- \\\\
 
 ////* Keep this until the project is updated properly
 Everything after Noop (circa 2023, August 16th)
 https://github.com/seanpm2001/Learn-CPL
-https://github.com/seanpm2001/Learn-FLOW-MATIC
+    https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
 https://github.com/seanpm2001/Learn-ARITH-MATIC
 https://github.com/seanpm2001/Learn-asm.js
@@ -1677,6 +1678,7 @@ https://github.com/seanpm2001/Learn-Aiken
 https://github.com/seanpm2001/Learn-NetLinx-ERB
 https://github.com/seanpm2001/Learn-X-Font-Directory-Index
 https://github.com/seanpm2001/Learn-Type-Language
+https://github.com/seanpm2001/Learn-Motorola-68K-Assembly
 *\\\\
 
 //// End of file
