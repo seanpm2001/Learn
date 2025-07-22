@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Sunday, July 20th
+//// As of 2025, Monday, July 21st
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (930)
+//// Learn KnowledgeBase repositories (931)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 405 new entries (sorting needed)
+//// 406 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -951,12 +951,13 @@ https://github.com/seanpm2001/Learn-X-Font-Directory-Index
 https://github.com/seanpm2001/Learn-Type-Language
 https://github.com/seanpm2001/Learn-Motorola-68K-Assembly
 https://github.com/seanpm2001/Learn-Microsoft-Developer-Studio-Project
+https://github.com/seanpm2001/Learn-Maven-POM
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 932
+//// Repo count: 933
 
-//// 1+1+930=932
+//// 1+1+931=933
 
 //// ----------------------------------------------------- \\\\
 
@@ -1256,7 +1257,7 @@ https://github.com/seanpm2001/Learn-Motorola-68K-Assembly //// Assembly
 
 //// Need to check
 
-//// No new entries to check. Check back on 2025, Monday, July 21st
+https://github.com/seanpm2001/Learn-Maven-POM
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1270,8 +1271,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 224 (2025, Sunday, July 20th at 07:56 pm PST)
-//// Line count (including blank lines and compiler line): 1,688
+//// File version: 225 (2025, Monday, July 21st at 06:54 pm PST)
+//// Line count (including blank lines and compiler line): 1,690
 
 //// ----------------------------------------------------- \\\\
 
@@ -1682,6 +1683,7 @@ https://github.com/seanpm2001/Learn-X-Font-Directory-Index
 https://github.com/seanpm2001/Learn-Type-Language
 https://github.com/seanpm2001/Learn-Motorola-68K-Assembly
 https://github.com/seanpm2001/Learn-Microsoft-Developer-Studio-Project
+https://github.com/seanpm2001/Learn-Maven-POM
 *\\\\
 
 //// End of file
