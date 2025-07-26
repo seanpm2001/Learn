@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, July 24th
+//// As of 2025, Friday, July 25th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (933)
+//// Learn KnowledgeBase repositories (935)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 408 new entries (sorting needed)
+//// 410 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -954,12 +954,14 @@ https://github.com/seanpm2001/Learn-Microsoft-Developer-Studio-Project
 https://github.com/seanpm2001/Learn-Maven-POM
 https://github.com/seanpm2001/Learn-M3U
 https://github.com/seanpm2001/Learn-Literate-Haskell
+https://github.com/seanpm2001/Learn-Literate-Agda
+https://github.com/seanpm2001/Learn-Literate-CoffeeScript
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 935
+//// Repo count: 937
 
-//// 1+1+933=935
+//// 1+1+935=937
 
 //// ----------------------------------------------------- \\\\
 
@@ -972,9 +974,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 938 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 941 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 934+4=938
+//// 937+4=941
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1257,10 +1259,12 @@ https://github.com/seanpm2001/Learn-OASv3-yaml //// OpenAPI Specification V3
 https://github.com/seanpm2001/Learn-OASv3-json //// OpenAPI Specification V3
 https://github.com/seanpm2001/Learn-Motorola-68K-Assembly //// Assembly
 https://github.com/seanpm2001/Learn-Maven-POM //// XML
+https://github.com/seanpm2001/Learn-Literate-Haskell //// Haskell
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Literate-Haskell
+https://github.com/seanpm2001/Learn-Literate-Agda
+https://github.com/seanpm2001/Learn-Literate-CoffeeScript
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1274,8 +1278,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 227 (2025, Thursday, July 24th at 08:10 pm PST)
-//// Line count (including blank lines and compiler line): 1,695
+//// File version: 228 (2025, Friday, July 25th at 07:40 pm PST)
+//// Line count (including blank lines and compiler line): 1,701
 
 //// ----------------------------------------------------- \\\\
 
@@ -1689,6 +1693,8 @@ https://github.com/seanpm2001/Learn-Microsoft-Developer-Studio-Project
 https://github.com/seanpm2001/Learn-Maven-POM
 https://github.com/seanpm2001/Learn-M3U
 https://github.com/seanpm2001/Learn-Literate-Haskell
+https://github.com/seanpm2001/Learn-Literate-Agda
+https://github.com/seanpm2001/Learn-Literate-CoffeeScript
 *\\\\
 
 //// End of file
