@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, July 25th
+//// As of 2025, Saturday, July 26th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1260,11 +1260,12 @@ https://github.com/seanpm2001/Learn-OASv3-json //// OpenAPI Specification V3
 https://github.com/seanpm2001/Learn-Motorola-68K-Assembly //// Assembly
 https://github.com/seanpm2001/Learn-Maven-POM //// XML
 https://github.com/seanpm2001/Learn-Literate-Haskell //// Haskell
+https://github.com/seanpm2001/Learn-Literate-Agda //// Agda
+https://github.com/seanpm2001/Learn-Literate-CoffeeScript //// CoffeeScript
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Literate-Agda
-https://github.com/seanpm2001/Learn-Literate-CoffeeScript
+//// No new entries to check. Check back on 2025, Monday, July 28th
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1278,8 +1279,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 228 (2025, Friday, July 25th at 07:40 pm PST)
-//// Line count (including blank lines and compiler line): 1,701
+//// File version: 229 (2025, Saturday, July 26th at 07:28 pm PST)
+//// Line count (including blank lines and compiler line): 1,702
 
 //// ----------------------------------------------------- \\\\
 
