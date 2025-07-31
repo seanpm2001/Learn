@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, July 29th
+//// As of 2025, Wednesday, July 30th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (937)
+//// Learn KnowledgeBase repositories (938)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 412 new entries (sorting needed)
+//// 413 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -958,12 +958,13 @@ https://github.com/seanpm2001/Learn-Literate-Agda
 https://github.com/seanpm2001/Learn-Literate-CoffeeScript
 https://github.com/seanpm2001/Learn-JavaScript-ERB
 https://github.com/seanpm2001/Learn-Jar-Manifest
+https://github.com/seanpm2001/Learn-Isabelle-ROOT
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 939
+//// Repo count: 940
 
-//// 1+1+937=939
+//// 1+1+938=940
 
 //// ----------------------------------------------------- \\\\
 
@@ -976,9 +977,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 943 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 944 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 939+4=943
+//// 940+4=944
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1268,7 +1269,7 @@ https://github.com/seanpm2001/Learn-JavaScript-ERB //// JavaScript
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Jar-Manifest
+https://github.com/seanpm2001/Learn-Isabelle-ROOT
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1282,8 +1283,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 231 (2025, Tuesday, July 29th at 08:46 pm PST)
-//// Line count (including blank lines and compiler line): 1,707
+//// File version: 232 (2025, Wednesday, July 30th at 06:41 pm PST)
+//// Line count (including blank lines and compiler line): 1,709
 
 //// ----------------------------------------------------- \\\\
 
@@ -1701,6 +1702,7 @@ https://github.com/seanpm2001/Learn-Literate-Agda
 https://github.com/seanpm2001/Learn-Literate-CoffeeScript
 https://github.com/seanpm2001/Learn-JavaScript-ERB
 https://github.com/seanpm2001/Learn-Jar-Manifest
+https://github.com/seanpm2001/Learn-Isabelle-ROOT
 *\\\\
 
 //// End of file
