@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Monday, August 24th
+//// As of 2025, Tuesday, August 5th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (941)
+//// Learn KnowledgeBase repositories (942)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 416 new entries (sorting needed)
+//// 417 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -962,12 +962,13 @@ https://github.com/seanpm2001/Learn-Isabelle-ROOT
 https://github.com/seanpm2001/Learn-IRC-Log
 https://github.com/seanpm2001/Learn-HTML-Razor
 https://github.com/seanpm2001/Learn-HTML-PHP
+https://github.com/seanpm2001/Learn-HTML-ERB
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 943
+//// Repo count: 944
 
-//// 1+1+941=943
+//// 1+1+942=944
 
 //// ----------------------------------------------------- \\\\
 
@@ -1271,10 +1272,11 @@ https://github.com/seanpm2001/Learn-Literate-CoffeeScript //// CoffeeScript
 https://github.com/seanpm2001/Learn-JavaScript-ERB //// JavaScript
 https://github.com/seanpm2001/Learn-Isabelle-ROOT //// Isabelle
 https://github.com/seanpm2001/Learn-HTML-Razor //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-HTML-PHP //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-HTML-PHP
+https://github.com/seanpm2001/Learn-HTML-ERB
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1288,8 +1290,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 236 (2025, Monday, August 4th at 08:11 pm PST)
-//// Line count (including blank lines and compiler line): 1,717
+//// File version: 237 (2025, Tuesday, August 5th at 08:42 pm PST)
+//// Line count (including blank lines and compiler line): 1,720
 
 //// ----------------------------------------------------- \\\\
 
@@ -1711,6 +1713,7 @@ https://github.com/seanpm2001/Learn-Isabelle-ROOT
 https://github.com/seanpm2001/Learn-IRC-Log
 https://github.com/seanpm2001/Learn-HTML-Razor
 https://github.com/seanpm2001/Learn-HTML-PHP
+https://github.com/seanpm2001/Learn-HTML-ERB
 *\\\\
 
 //// End of file
