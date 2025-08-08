@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Wednesday, August 6th
+//// As of 2025, Thursday, August 7th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (943)
+//// Learn KnowledgeBase repositories (944)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 418 new entries (sorting needed)
+//// 419 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -964,12 +964,13 @@ https://github.com/seanpm2001/Learn-HTML-Razor
 https://github.com/seanpm2001/Learn-HTML-PHP
 https://github.com/seanpm2001/Learn-HTML-ERB
 https://github.com/seanpm2001/Learn-HTML-EEX
+https://github.com/seanpm2001/Learn-HTML-ECR
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 945
+//// Repo count: 946
 
-//// 1+1+943=945
+//// 1+1+944=946
 
 //// ----------------------------------------------------- \\\\
 
@@ -982,9 +983,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 948 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 950 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 945+4=948
+//// 946+4=950
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1275,10 +1276,11 @@ https://github.com/seanpm2001/Learn-Isabelle-ROOT //// Isabelle
 https://github.com/seanpm2001/Learn-HTML-Razor //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-HTML-PHP //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-HTML-ERB //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-HTML-EEX //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-HTML-EEX
+https://github.com/seanpm2001/Learn-HTML-ECR
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1292,8 +1294,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 238 (2025, Wednesday, August 6th at 08:56 pm PST)
-//// Line count (including blank lines and compiler line): 1,723
+//// File version: 239 (2025, Thursday, August 7th at 09:16 pm PST)
+//// Line count (including blank lines and compiler line): 1,726
 
 //// ----------------------------------------------------- \\\\
 
@@ -1717,6 +1719,7 @@ https://github.com/seanpm2001/Learn-HTML-Razor
 https://github.com/seanpm2001/Learn-HTML-PHP
 https://github.com/seanpm2001/Learn-HTML-ERB
 https://github.com/seanpm2001/Learn-HTML-EEX
+https://github.com/seanpm2001/Learn-HTML-ECR
 *\\\\
 
 //// End of file
