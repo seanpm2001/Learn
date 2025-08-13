@@ -1,0 +1,1 @@
+The current table is very out of date, as it hasn't been updated in over 2 years. There are a lot of programming languages and graphics that need to be added, and some that need to be replaced with newer ones (such as with the newly uploaded unofficial HolyC logo) it will take a lot of time to implement these changes, as hundreds of entries are missing.
