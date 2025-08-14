@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, August 12th
+//// As of 2025, Wednesday, August 13th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (947)
+//// Learn KnowledgeBase repositories (948)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 422 new entries (sorting needed)
+//// 423 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -968,12 +968,13 @@ https://github.com/seanpm2001/Learn-HTML-ECR
 https://github.com/seanpm2001/Learn-Graph-Modeling-Language
 https://github.com/seanpm2001/Learn-Go-Workspace
 https://github.com/seanpm2001/Learn-Git-Revision-List
+https://github.com/seanpm2001/Learn-Gentoo-Eclass
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 949
+//// Repo count: 950
 
-//// 1+1+947=949
+//// 1+1+948=950
 
 //// ----------------------------------------------------- \\\\
 
@@ -986,9 +987,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 953 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 954 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 949+4=953
+//// 950+4=954
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1284,7 +1285,7 @@ https://github.com/seanpm2001/Learn-HTML-ECR //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Git-Revision-List
+https://github.com/seanpm2001/Learn-Gentoo-Eclass
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1298,8 +1299,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 243 (2025, Tuesday, August 12th at 08:12 pm PST)
-//// Line count (including blank lines and compiler line): 1,733
+//// File version: 244 (2025, Wednesday, August 13th at 08:49 pm PST)
+//// Line count (including blank lines and compiler line): 1,735
 
 //// ----------------------------------------------------- \\\\
 
@@ -1727,6 +1728,7 @@ https://github.com/seanpm2001/Learn-HTML-ECR
 https://github.com/seanpm2001/Learn-Graph-Modeling-Language
 https://github.com/seanpm2001/Learn-Go-Workspace
 https://github.com/seanpm2001/Learn-Git-Revision-List
+https://github.com/seanpm2001/Learn-Gentoo-Eclass
 *\\\\
 
 //// End of file
