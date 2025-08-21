@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, August 19th
+//// As of 2025, Wednesday, August 20th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (952)
+//// Learn KnowledgeBase repositories (953)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 427 new entries (sorting needed)
+//// 428 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -973,12 +973,13 @@ https://github.com/seanpm2001/Learn-Gentoo-Ebuild
 https://github.com/seanpm2001/Learn-Fortran-Free-Form
 https://github.com/seanpm2001/Learn-ECLiPSe
 https://github.com/seanpm2001/Learn-Java-Template-Engine
+https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 954
+//// Repo count: 955
 
-//// 1+1+952=954
+//// 1+1+953=955
 
 //// ----------------------------------------------------- \\\\
 
@@ -991,9 +992,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 958 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 959 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 954+4=958
+//// 955+4=959
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1290,10 +1291,11 @@ https://github.com/seanpm2001/Learn-Gentoo-Eclass //// Shell
 https://github.com/seanpm2001/Learn-Gentoo-Ebuild //// Shell
 https://github.com/seanpm2001/Learn-Fortran-Free-Form //// Fortran
 https://github.com/seanpm2001/Learn-ECLiPSe //// Prolog
+https://github.com/seanpm2001/Learn-Java-Template-Engine //// Java
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Java-Template-Engine
+https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1307,8 +1309,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 249 (2025, Tuesday, August 19th at 07:01 pm PST)
-//// Line count (including blank lines and compiler line): 1,747
+//// File version: 250 (2025, Wednesday, August 20th at 08:20 pm PST)
+//// Line count (including blank lines and compiler line): 1,750
 
 //// ----------------------------------------------------- \\\\
 
@@ -1741,6 +1743,7 @@ https://github.com/seanpm2001/Learn-Gentoo-Ebuild
 https://github.com/seanpm2001/Learn-Fortran-Free-Form
 https://github.com/seanpm2001/Learn-ECLiPSe
 https://github.com/seanpm2001/Learn-Java-Template-Engine
+https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL
 *\\\\
 
 //// End of file
