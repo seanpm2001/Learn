@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Thursday, August 28th
+//// As of 2025, Friday, August 29th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1304,9 +1304,7 @@ https://github.com/seanpm2001/Learn-Elvish-Transcript //// Elvish
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Daslang //// Not yet tested, initialization and setup not finished for yesterday
-https://github.com/seanpm2001/Learn-Edje-Data-Collection
-https://github.com/seanpm2001/Learn-Go-Module
+//// No new languages to check. Check back on 2025, Tuesday, September 2nd
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1320,8 +1318,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 257 (2025, Thursday, August 28th at 07:45 pm PST)
-//// Line count (including blank lines and compiler line): 1,768
+//// File version: 258 (2025, Friday, August 29th at 10:17 pm PST)
+//// Line count (including blank lines and compiler line): 1,766
 
 //// ----------------------------------------------------- \\\\
 
