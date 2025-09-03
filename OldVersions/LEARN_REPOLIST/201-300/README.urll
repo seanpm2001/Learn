@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, August 29th
+//// As of 2025, Tuesday, September 2nd
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (960)
+//// Learn KnowledgeBase repositories (962)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 435 new entries (sorting needed)
+//// 437 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -981,12 +981,14 @@ https://github.com/seanpm2001/Learn-GoDot-Resource
 https://github.com/seanpm2001/Learn-Daslang
 https://github.com/seanpm2001/Learn-Edje-Data-Collection
 https://github.com/seanpm2001/Learn-Go-Module
+https://github.com/seanpm2001/Learn-Java-Properties
+https://github.com/seanpm2001/Learn-Go-Checksums
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 962
+//// Repo count: 964
 
-//// 1+1+960=962
+//// 1+1+962=964
 
 //// ----------------------------------------------------- \\\\
 
@@ -999,9 +1001,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 966 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 968 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 9562+4=966
+//// 964+4=968
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1304,7 +1306,8 @@ https://github.com/seanpm2001/Learn-Elvish-Transcript //// Elvish
 
 //// Need to check
 
-//// No new languages to check. Check back on 2025, Tuesday, September 2nd
+https://github.com/seanpm2001/Learn-Java-Properties
+https://github.com/seanpm2001/Learn-Go-Checksums
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1318,8 +1321,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 258 (2025, Friday, August 29th at 10:17 pm PST)
-//// Line count (including blank lines and compiler line): 1,766
+//// File version: 259 (2025, Tuesday, September 2nd at 08:16 pm PST)
+//// Line count (including blank lines and compiler line): 1,771
 
 //// ----------------------------------------------------- \\\\
 
@@ -1760,6 +1763,8 @@ https://github.com/seanpm2001/Learn-GoDot-Resource
 https://github.com/seanpm2001/Learn-Daslang
 https://github.com/seanpm2001/Learn-Edje-Data-Collection
 https://github.com/seanpm2001/Learn-Go-Module
+https://github.com/seanpm2001/Learn-Java-Properties
+https://github.com/seanpm2001/Learn-Go-Checksums
 *\\\\
 
 //// End of file
