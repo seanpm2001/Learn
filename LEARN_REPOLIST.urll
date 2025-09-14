@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, September 12th
+//// As of 2025, Saturday, September 13th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1311,10 +1311,11 @@ https://github.com/seanpm2001/Learn-ECLiPSe //// Prolog
 https://github.com/seanpm2001/Learn-Java-Template-Engine //// Java
 https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL //// Gradle
 https://github.com/seanpm2001/Learn-Elvish-Transcript //// Elvish
+https://github.com/seanpm2001/Learn-Genero-Forms //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Genero-Forms
+//// No new languages to check. Check back on 2025, Monday, September 15th
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1328,8 +1329,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 268 (2025, Friday, September 12th at 06:47 pm PST)
-//// Line count (including blank lines and compiler line): 1,786
+//// File version: 269 (2025, Saturday, September 13th at 08:09 pm PST)
+//// Line count (including blank lines and compiler line): 1,787
 
 //// ----------------------------------------------------- \\\\
 
