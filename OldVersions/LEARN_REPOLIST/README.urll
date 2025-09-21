@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, September 19th
+//// As of 2025, Saturday, September 20th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1167,7 +1167,6 @@ https://github.com/seanpm2001/Learn-ApacheAvro //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-ErlangDoc-EDOC //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-MATH-MATIC //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Datalog //// HTML/Unrecognized
-https://github.com/seanpm2001/Learn-Flix //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-SWRL //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-SQWRL //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-RuleML //// HTML/Unrecognized
@@ -1319,10 +1318,15 @@ https://github.com/seanpm2001/Learn-Elvish-Transcript //// Elvish
 https://github.com/seanpm2001/Learn-Genero-Forms //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-MIT-TiML //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Sling //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-CMinusMinus //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-CMinusMinus
+//// No new entries to check. Check back on 2025, Monday, September 22nd
+
+//// Now recognized by GitHub
+
+https://github.com/seanpm2001/Learn-Flix //// New recognition discovered on 2025, September 20th
 
 //// Name errors
 https://github.com/seanpm2001/Learn-CommonWorkflowLangage //// should be Learn-CommonWorkflowLanguage
@@ -1336,8 +1340,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 274 (2025, Friday, September 19th at 08:22 pm PST)
-//// Line count (including blank lines and compiler line): 1,799
+//// File version: 275 (2025, Saturday, September 20th at 06:08 pm PST)
+//// Line count (including blank lines and compiler line): 1,803
 
 //// ----------------------------------------------------- \\\\
 
