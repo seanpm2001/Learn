@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, September 20th
+//// As of 2025, Monday, September 22nd
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (975)
+//// Learn KnowledgeBase repositories (976)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 450 new entries (sorting needed)
+//// 451 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -996,12 +996,13 @@ https://github.com/seanpm2001/Learn-MIT-TiML
 https://github.com/seanpm2001/Learn-ASL
 https://github.com/seanpm2001/Learn-Sling
 https://github.com/seanpm2001/Learn-CMinusMinus
+https://github.com/seanpm2001/Learn-Chemical-Markup-Language
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 977
+//// Repo count: 978
 
-//// 1+1+975=977
+//// 1+1+976=978
 
 //// ----------------------------------------------------- \\\\
 
@@ -1014,9 +1015,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 981 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 982 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 977+4=981
+//// 978+4=982
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1322,7 +1323,7 @@ https://github.com/seanpm2001/Learn-CMinusMinus //// HTML/Unrecognized
 
 //// Need to check
 
-//// No new entries to check. Check back on 2025, Monday, September 22nd
+https://github.com/seanpm2001/Learn-Chemical-Markup-Language
 
 //// Now recognized by GitHub
 
@@ -1340,8 +1341,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 275 (2025, Saturday, September 20th at 06:08 pm PST)
-//// Line count (including blank lines and compiler line): 1,803
+//// File version: 276 (2025, Monday, September 22nd at 07:02 pm PST)
+//// Line count (including blank lines and compiler line): 1,805
 
 //// ----------------------------------------------------- \\\\
 
@@ -1797,6 +1798,7 @@ https://github.com/seanpm2001/Learn-MIT-TiML
 https://github.com/seanpm2001/Learn-ASL
 https://github.com/seanpm2001/Learn-Sling
 https://github.com/seanpm2001/Learn-CMinusMinus
+https://github.com/seanpm2001/Learn-Chemical-Markup-Language
 *\\\\
 
 //// End of file
