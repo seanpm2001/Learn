@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Tuesday, September 30th
+//// As of 2025, Wednesday, October 1st
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (982)
+//// Learn KnowledgeBase repositories (983)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 457 new entries (sorting needed)
+//// 458 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -1003,12 +1003,13 @@ https://github.com/seanpm2001/Learn-CHARMM
 https://github.com/seanpm2001/Learn-General-Simulation-Data
 https://github.com/seanpm2001/Learn-Ghemical
 https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
+https://github.com/seanpm2001/Learn-SMILES
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 984
+//// Repo count: 985
 
-//// 1+1+982=984
+//// 1+1+983=985
 
 //// ----------------------------------------------------- \\\\
 
@@ -1021,9 +1022,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 988 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 989 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 984+4=988
+//// 985+4=989
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1332,10 +1333,11 @@ https://github.com/seanpm2001/Learn-GROMACS //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-CHARMM //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-General-Simulation-Data //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Ghemical //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-SYBYL-Line-Notation //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
+https://github.com/seanpm2001/Learn-SMILES
 
 //// Now recognized by GitHub
 
@@ -1353,8 +1355,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 283 (2025, Tuesday, September 30th at 06:12 pm PST)
-//// Line count (including blank lines and compiler line): 1,823
+//// File version: 284 (2025, Wednesday, October 1st at 09:05 pm PST)
+//// Line count (including blank lines and compiler line): 1,826
 
 //// ----------------------------------------------------- \\\\
 
@@ -1817,6 +1819,7 @@ https://github.com/seanpm2001/Learn-CHARMM
 https://github.com/seanpm2001/Learn-General-Simulation-Data
 https://github.com/seanpm2001/Learn-Ghemical
 https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
+https://github.com/seanpm2001/Learn-SMILES
 *\\\\
 
 //// End of file
