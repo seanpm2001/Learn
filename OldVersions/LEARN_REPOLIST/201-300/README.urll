@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, October 4th
+//// As of 2025, Monday, October 6th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (985)
+//// Learn KnowledgeBase repositories (986)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 460 new entries (sorting needed)
+//// 461 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -1006,12 +1006,13 @@ https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
 https://github.com/seanpm2001/Learn-SMILES
 https://github.com/seanpm2001/Learn-OpenSMILES
 https://github.com/seanpm2001/Learn-XYZ-Chemical-Language
+https://github.com/seanpm2001/Learn-Linux-PSF-console-font
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 987
+//// Repo count: 988
 
-//// 1+1+985=987
+//// 1+1+986=988
 
 //// ----------------------------------------------------- \\\\
 
@@ -1024,9 +1025,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 991 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 992 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 987+4=991
+//// 988+4=992
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1342,7 +1343,7 @@ https://github.com/seanpm2001/Learn-XYZ-Chemical-Language //// HTML/Unrecognized
 
 //// Need to check
 
-//// No new languages to check. Check back on 2025, Monday, October 6th
+https://github.com/seanpm2001/Learn-Linux-PSF-console-font
 
 //// Now recognized by GitHub
 
@@ -1360,8 +1361,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 287 (2025, Saturday, October 4th at 07:30 pm PST)
-//// Line count (including blank lines and compiler line): 1,833
+//// File version: 288 (2025, Monday, October 6th at 09:28 pm PST)
+//// Line count (including blank lines and compiler line): 1,835
 
 //// ----------------------------------------------------- \\\\
 
@@ -1827,6 +1828,7 @@ https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
 https://github.com/seanpm2001/Learn-SMILES
 https://github.com/seanpm2001/Learn-OpenSMILES
 https://github.com/seanpm2001/Learn-XYZ-Chemical-Language
+https://github.com/seanpm2001/Learn-Linux-PSF-console-font
 *\\\\
 
 //// End of file
