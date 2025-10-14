@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, October 11th
+//// As of 2025, Monday, October 13th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (990)
+//// Learn KnowledgeBase repositories (991)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 465 new entries (sorting needed)
+//// 466 new entries (sorting needed)
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
 https://github.com/seanpm2001/Learn-Information-Processing-Language
@@ -1011,12 +1011,13 @@ https://github.com/seanpm2001/Learn-Bru
 https://github.com/seanpm2001/Learn-CookLang
 https://github.com/seanpm2001/Learn-Genero-4GL
 https://github.com/seanpm2001/Learn-Koka
+https://github.com/seanpm2001/Learn-KoLMafia-ASH
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 992
+//// Repo count: 993
 
-//// 1+1+990=992
+//// 1+1+991=993
 
 //// ----------------------------------------------------- \\\\
 
@@ -1029,9 +1030,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 996 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 997 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 992+4=996
+//// 993+4=997
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1348,7 +1349,7 @@ https://github.com/seanpm2001/Learn-Linux-PSF-console-font //// HTML/Unrecognize
 
 //// Need to check
 
-//// No new entries to check. Check back on 2025, Monday, October 13th
+https://github.com/seanpm2001/Learn-KoLMafia-ASH
 
 //// Now recognized by GitHub
 
@@ -1366,8 +1367,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 293 (2025, Saturday, October 11th at 08:43 pm PST)
-//// Line count (including blank lines and compiler line): 1,844
+//// File version: 294 (2025, Monday, October 13th at 08:04 pm PST)
+//// Line count (including blank lines and compiler line): 1,846
 
 //// ----------------------------------------------------- \\\\
 
@@ -1838,6 +1839,7 @@ https://github.com/seanpm2001/Learn-Bru
 https://github.com/seanpm2001/Learn-CookLang
 https://github.com/seanpm2001/Learn-Genero-4GL
 https://github.com/seanpm2001/Learn-Koka
+https://github.com/seanpm2001/Learn-KoLMafia-ASH
 *\\\\
 
 //// End of file
