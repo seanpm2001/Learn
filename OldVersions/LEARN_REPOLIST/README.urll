@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, November 8th
+//// As of 2025, Monday, November 10th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (1010)
+//// Learn KnowledgeBase repositories (1011)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 485 new entries (sorting needed)
+//// 486 new entries (sorting needed)
 //// Need a new logo and table entry (in the main profile README) for these:
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
@@ -1032,12 +1032,13 @@ https://github.com/seanpm2001/Learn-Magma
 https://github.com/seanpm2001/Learn-Zonnon
 https://github.com/seanpm2001/Learn-Wyvern
 https://github.com/seanpm2001/Learn-Ubercode
+https://github.com/seanpm2001/Learn-SAKO
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,012
+//// Repo count: 1,013
 
-//// 1+1+1010=1012
+//// 1+1+1011=1013
 
 //// ----------------------------------------------------- \\\\
 
@@ -1050,9 +1051,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,016 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,017 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1012+4=1016
+//// 1013+4=1017
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1385,7 +1386,7 @@ https://github.com/seanpm2001/Learn-Ubercode //// HTML/Unrecognized
 
 //// Need to check
 
-//// No new entries to check. Check back on 2025, Monday, November 10th
+https://github.com/seanpm2001/Learn-SAKO
 
 //// Now recognized by GitHub
 
@@ -1403,8 +1404,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 317 (2025, Saturday, November 8th at 07:10 pm PST)
-//// Line count (including blank lines and compiler line): 1,901
+//// File version: 318 (2025, Monday, November 10th at 08:30 pm PST)
+//// Line count (including blank lines and compiler line): 1,903
 
 //// ----------------------------------------------------- \\\\
 
@@ -1895,6 +1896,7 @@ https://github.com/seanpm2001/Learn-Magma
 https://github.com/seanpm2001/Learn-Zonnon
 https://github.com/seanpm2001/Learn-Wyvern
 https://github.com/seanpm2001/Learn-Ubercode
+https://github.com/seanpm2001/Learn-SAKO
 *\\\\
 
 //// End of file
