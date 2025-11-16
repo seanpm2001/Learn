@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, November 14th
+//// As of 2025, Saturday, November 15th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1391,10 +1391,11 @@ https://github.com/seanpm2001/Learn-SAKO //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Strand //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Toi //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-RPlusPlus //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Pharo //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Pharo
+//// No new entries to check. Check back on 2025, Monday, November 17th
 
 //// Now recognized by GitHub
 
@@ -1412,8 +1413,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 322 (2025, Friday, November 14th at 09:42 pm PST)
-//// Line count (including blank lines and compiler line): 1,915
+//// File version: 323 (2025, Saturday, November 15th at 08:11 pm PST)
+//// Line count (including blank lines and compiler line): 1,916
 
 //// ----------------------------------------------------- \\\\
 
