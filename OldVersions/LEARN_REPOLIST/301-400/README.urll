@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, November 21st
+//// As of 2025, Saturday, November 22nd
 
 //// ----------------------------------------------------- \\\\
 
@@ -1399,11 +1399,11 @@ https://github.com/seanpm2001/Learn-RPlusPlus //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Pharo //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Mortran //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Hermes //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Euclid //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Delphi //// Pascal
 
 //// Need to check (I am really backed up on other projects right now, that is why I am falling behind here)
 
-https://github.com/seanpm2001/Learn-Euclid
-https://github.com/seanpm2001/Learn-Delphi
 https://github.com/seanpm2001/Learn-Cecil
 
 //// Now recognized by GitHub
@@ -1422,7 +1422,7 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 328 (2025, Friday, November 21st at 10:18 pm PST)
+//// File version: 329 (2025, Saturday, November 22nd at 11:55 pm PST)
 //// Line count (including blank lines and compiler line): 1,930
 
 //// ----------------------------------------------------- \\\\
