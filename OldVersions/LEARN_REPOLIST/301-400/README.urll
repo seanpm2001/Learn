@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, November 28th
+//// As of 2025, Saturday, November 29th
 
 //// ----------------------------------------------------- \\\\
 
@@ -1410,11 +1410,12 @@ https://github.com/seanpm2001/Learn-Cecil //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Boomerang //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Bosque //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-CorVision //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Cilk //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-CobolScript //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Cilk
-https://github.com/seanpm2001/Learn-CobolScript
+//// No new languages to check. Check back on 2025, December 1st
 
 //// Now recognized by GitHub
 
@@ -1432,8 +1433,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 333 (2025, Friday, November 28th at 10:21 pm PST)
-//// Line count (including blank lines and compiler line): 1,945
+//// File version: 334 (2025, Saturday, November 29th at 10:41 pm PST)
+//// Line count (including blank lines and compiler line): 1,946
 
 //// ----------------------------------------------------- \\\\
 
