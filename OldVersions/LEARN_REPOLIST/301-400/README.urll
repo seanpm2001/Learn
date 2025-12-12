@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Saturday, December 6th
+//// As of 2025, Thursday, December 11th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (1,030)
+//// Learn KnowledgeBase repositories (1,034)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 505 new entries (sorting needed)
+//// 509 new entries (sorting needed)
 //// Need a new logo and table entry (in the main profile README) for these:
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
@@ -1052,12 +1052,16 @@ https://github.com/seanpm2001/Learn-Cuneiform
 https://github.com/seanpm2001/Learn-Cybil
 https://github.com/seanpm2001/Learn-DIBOL
 https://github.com/seanpm2001/Learn-CEEMAC
+https://github.com/seanpm2001/Learn-Z-level-programming-language
+https://github.com/seanpm2001/Learn-Euler
+https://github.com/seanpm2001/Learn-EToys
+https://github.com/seanpm2001/Learn-Esterol
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,032
+//// Repo count: 1,036
 
-//// 1+1+1030=1032
+//// 1+1+1034=1036
 
 //// ----------------------------------------------------- \\\\
 
@@ -1070,9 +1074,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,034 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,040 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1030+4=1034
+//// 1036+4=1040
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1443,8 +1447,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 338 (2025, Saturday, December 6th at 09:03 pm PST)
-//// Line count (including blank lines and compiler line): 1,962
+//// File version: 340 (2025, Thursday, December 11th at 09:57 pm PST)
+//// Line count (including blank lines and compiler line): 1,970
 
 //// ----------------------------------------------------- \\\\
 
@@ -1955,6 +1959,10 @@ https://github.com/seanpm2001/Learn-Cuneiform
 https://github.com/seanpm2001/Learn-Cybil
 https://github.com/seanpm2001/Learn-DIBOL
 https://github.com/seanpm2001/Learn-CEEMAC
+https://github.com/seanpm2001/Learn-Z-level-programming-language
+https://github.com/seanpm2001/Learn-Euler
+https://github.com/seanpm2001/Learn-EToys
+https://github.com/seanpm2001/Learn-Esterol
 
 *\\\\
 
