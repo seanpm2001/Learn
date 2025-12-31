@@ -2,7 +2,7 @@
 //// LEARN_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Learn repositories by @seanpm2001
-//// As of 2025, Friday, December 19th
+//// As of 2025, Tuesday, December 30th
 
 //// ----------------------------------------------------- \\\\
 
@@ -18,7 +18,7 @@ https://github.com/seanpm2001/Learn_Docs
 
 //// ----------------------------------------------------- \\\\
 
-//// Learn KnowledgeBase repositories (1,040)
+//// Learn KnowledgeBase repositories (1,042)
 
 https://github.com/seanpm2001/Learn-1C-Enterprise
 https://github.com/seanpm2001/Learn-ABAP
@@ -545,7 +545,7 @@ https://github.com/seanpm2001/Learn-Zeek
 https://github.com/seanpm2001/Learn-ZenScript
 https://github.com/seanpm2001/Learn-Zig
 https://github.com/seanpm2001/Learn-ZIL
-//// 515 new entries (sorting needed)
+//// 517 new entries (sorting needed)
 //// Need a new logo and table entry (in the main profile README) for these:
 https://github.com/seanpm2001/Learn-CPL
 https://github.com/seanpm2001/Learn-FLOW-MATIC
@@ -1065,12 +1065,14 @@ https://github.com/seanpm2001/Learn-MAD
 https://github.com/seanpm2001/Learn-Haggis
 https://github.com/seanpm2001/Learn-JavaFX-Script
 https://github.com/seanpm2001/Learn-Jess
+https://github.com/seanpm2001/Learn-Little-Implementation-Language-_LIL_
+https://github.com/seanpm2001/Learn-LINC-4GL
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 1,044
+//// Repo count: 1,046
 
-//// 1+1+1042=1044
+//// 1+1+1044=1046
 
 //// ----------------------------------------------------- \\\\
 
@@ -1083,9 +1085,9 @@ https://github.com/seanpm2001/Seanpm2001-Learn
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 1,048 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
+//// Total repo count: 1,050 (not including SNU 2D ProgrammingTools IDE repositories, out of the scope (4) as this would raise the count above 1,000, and wouldn't be necessary)
 
-//// 1044+4=1048
+//// 1046+4=1050
 
 //// Repositories with language recognition issues
 //// These repositories recognize with the wrong language (incomplete listing)
@@ -1440,14 +1442,16 @@ https://github.com/seanpm2001/Learn-Euler //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-EToys //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-Esterol //// HTML/Unrecognized
 https://github.com/seanpm2001/Learn-GEORGE //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Geometric-Description-Language //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-MAD //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Haggis //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-JavaFX-Script //// HTML/Unrecognized
+https://github.com/seanpm2001/Learn-Jess //// HTML/Unrecognized
 
 //// Need to check
 
-https://github.com/seanpm2001/Learn-Geometric-Description-Language
-https://github.com/seanpm2001/Learn-MAD
-https://github.com/seanpm2001/Learn-Haggis
-https://github.com/seanpm2001/Learn-JavaFX-Script
-https://github.com/seanpm2001/Learn-Jess
+https://github.com/seanpm2001/Learn-Little-Implementation-Language-_LIL_
+https://github.com/seanpm2001/Learn-LINC-4GL
 
 //// Now recognized by GitHub
 
@@ -1465,8 +1469,8 @@ https://github.com/seanpm2001/Learn-Scratch-3
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 343 (2025, Friday, December 19th at 07:36 pm PST)
-//// Line count (including blank lines and compiler line): 1,993
+//// File version: 344 (2025, Tuesday, December 30th at 11:27 pm PST)
+//// Line count (including blank lines and compiler line): 1,999
 //// ----------------------------------------------------- \\\\
 
 ////* Keep this until the project is updated properly
@@ -1986,6 +1990,8 @@ https://github.com/seanpm2001/Learn-MAD
 https://github.com/seanpm2001/Learn-Haggis
 https://github.com/seanpm2001/Learn-JavaFX-Script
 https://github.com/seanpm2001/Learn-Jess
+https://github.com/seanpm2001/Learn-Little-Implementation-Language-_LIL_
+https://github.com/seanpm2001/Learn-LINC-4GL
 
 *\\\\
 
